@@ -13,7 +13,7 @@ Install dependencies and activate the environment:
 $ mamba env create -f environment.yml
 $ mamba activate curiam-segmenter
 ```
-asdf
+
 Download spaCy's [en_core_web_lg](https://spacy.io/models/en#en_core_web_lg) model:
 
 ```
