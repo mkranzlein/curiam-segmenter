@@ -58,7 +58,7 @@ import spacy
 
 paragraph = "This is a sentence. This is another sentence."
 
-custom_nlp = spacy.load("saved_model/model-last")
+custom_nlp = spacy.load("saved_model/model-last")git
 doc = custom_nlp(paragraph)
 for sent in list(doc.sents):
     print(sent)
