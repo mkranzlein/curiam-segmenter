@@ -1,0 +1,14 @@
+name: curiam-segmenter
+channels:
+  - conda-forge
+  - nvidia
+dependencies:
+  - cupy
+  - huggingface::transformers
+  - pip
+  - pytorch::pytorch
+  - pytorch::pytorch-cuda=12.1
+  - spacy
+  - spacy-transformers
+  - pip:
+    - spacy-lookups-data

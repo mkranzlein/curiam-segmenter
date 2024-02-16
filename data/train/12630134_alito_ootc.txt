@@ -1,0 +1,172 @@
+Justice ALITO delivered the opinion of the Court .
+The Employee Retirement Income Security Act of 1974 ( ERISA ) requires plaintiffs with " actual knowledge " of an alleged fiduciary breach to file suit within three years of gaining that knowledge rather than within the 6 - year period that would otherwise apply .
+§ 413(a)(2)(A ) , 88 Stat . 889 , as amended , 29 U.S.C. § 1113 .
+The question here is whether a plaintiff necessarily has " actual knowledge " of the information contained in disclosures that he receives but does not read or can not recall reading .
+We hold that he does not and therefore affirm .
+I
+A
+Retirement plans governed by ERISA must have at least one named fiduciary , § 1102(a)(1 ) , who must manage the plan prudently and solely in the interests of participants and their beneficiaries , § 1104(a ) .
+Fiduciaries who breach these duties are personally liable to the plan for any resulting losses .
+§ 1109(a ) .
+ERISA authorizes participants and their beneficiaries , as well as co - fiduciaries and the Secretary of Labor , to sue for that relief .
+§ 1132(a)(2 ) .
+Such suits must be filed within one of three time periods , each with different triggering events .
+The first begins when the breach occurs .
+Specifically , under § 1113(1 ) , suit must be filed within six years of " the date of the last action which constituted a part of the breach or violation " or , in cases of breach by omission , " the latest date on which the fiduciary could have cured the breach or violation . "
+We have referred to § 1113(1 ) as a statute of repose , which " effect[s ] a legislative judgment that a defendant should be free from liability after the legislatively determined period of time . "
+California Public Employees ' Retirement System v. ANZ Securities , Inc. , 582 U.S. ---- , ---- , 137 S.Ct . 2042 , 2049 , 198 L.Ed.2d 584 ( 2017 ) ( internal quotation marks omitted ) .
+The second period , which accelerates the filing deadline , begins when the plaintiff gains " actual knowledge " of the breach .
+Under § 1113(2 ) , suit must be filed within three years of " the earliest date on which the plaintiff had actual knowledge of the breach or violation . "
+Section 1113(2 ) is a statute of limitations , which " encourage[s ] plaintiffs to pursue diligent prosecution of known claims . "
+Id. , at ---- , 137 S.Ct . , at 2049 ( internal quotation marks omitted ) .
+The third period , which applies " in the case of fraud or concealment , " begins when the plaintiff discovers the alleged breach .
+§ 1113 .
+In such cases , suit must be filed within six years of " the date of discovery . "
+Ibid .
+B
+Respondent Sulyma worked at Intel Corporation from 2010 to 2012 .
+He participated in two Intel retirement plans , the Intel Retirement Contribution Plan and the Intel 401(k ) Savings Plan .
+Payments into these plans were in turn invested in two funds managed by the Intel Investment Policy Committee .
+These funds mostly comprised stocks and bonds .
+After the stock market decline in 2008 , however , the committee increased the funds ' shares of alternative assets , such as hedge funds , private equity , and commodities .
+These assets carried relatively high fees .
+And as the stock market rebounded , Sulyma 's funds lagged behind others such as index funds .
+Sulyma filed this suit on behalf of a putative class in October 2015 , alleging primarily that the committee and other plan administrators ( petitioners here ) had breached their fiduciary duties by overinvesting in alternative assets .
+Petitioners countered that the suit was untimely under § 1113(2 ) .
+Although Sulyma filed it within six years of the alleged breaches , he filed it more than three years after petitioners had disclosed their investment decisions to him .
+ERISA and its implementing regulations mandate various disclosures to plan participants .
+See generally 29 U.S.C. § § 1021 - 1031 ; see also Gobeille v. Liberty Mut . Ins . Co. , 577 U.S. ---- , ---- - ---- , 136 S.Ct . 936 , 944 , 194 L.Ed.2d 20 ( 2016 ) .
+Sulyma received numerous disclosures while working at Intel , some explaining the extent to which his retirement plans were invested in alternative assets .
+In November 2011 , for example , he received an e - mail informing him that a Qualified Default Investment Alternative ( QDIA ) notice was available on a website called NetBenefits , where many of his disclosures were hosted .
+See App . 149 - 151 ; see also 29 CFR § § 2550 .404c-5(b ) - ( d ) ( 2019 ) ( QDIA
+notices ) ; § 2520.104b-1(c ) ( regulating electronic disclosure ) .
+This notice broke down the percentages at which his 401(k ) fund was invested in stocks , bonds , hedge funds , and commodities .
+See App . 236 .
+In 2012 , he received a summary plan description explaining that the funds were invested in stocks and alternative assets , i d . , at 227 , and referring him to other documents - called fund fact sheets - with the percentages in graphical form .
+See 29 U.S.C. § § 1022 , 1024(b ) ( summary plan descriptions ) ; see also App . 307 ( June 2012 fact sheet for his 401(k ) plan fund ) ; i d . , at 338 ( June 2012 fact sheet for his retirement contribution plan fund ) ; i d . , at 277 - 340 ( other fact sheets provided during his tenure at Intel ) .
+Also in 2012 , he received e - mails directing him to annual disclosures that petitioners provided for both his plans , which showed the underlying funds ' return rates and again directed him to the NetBenefits site for further information .
+See 29 CFR § 2550 .404a-5 ; see also App . 242 - 243 ( retirement contribution plan annual disclosure ) ; i d . , at 250 - 251 ( 401(k ) plan annual disclosure ) .
+Petitioners submitted records showing that Sulyma visited the NetBenefits site repeatedly during his employment .
+I d . , at 258 - 276 .
+But he testified in his deposition that he did not " remember reviewing " the above disclosures during his tenure .
+I d . , at 175 ; see also i d . , at 183 , 193 , 196 - 197 .
+He also stated in a declaration that he was " unaware " while working at Intel " that the monies that [ he ] had invested through the Intel retirement plans had been invested in hedge funds or private equity . "
+I d . , at 212 .
+He recalled reviewing only account statements sent to him by mail , which directed him to the NetBenefits site and noted that his plans were invested in " short - term / other " assets but did not specify which .
+See , e.g. , i d . , at 375 .
+The District Court granted summary judgment to petitioners under § 1113(2 ) , reasoning that " [ i]t would be improper to allow Sulyma 's claims to survive merely because he did not look further into the disclosures made to him . "
+2017 WL 1217185 , * 9 ( N.D. Cal . , Mar. 31 , 2017 ) .
+The Ninth Circuit reversed .
+As relevant here , the court construed " actual knowledge " to mean " what it says : knowledge that is actual , not merely a possible inference from ambiguous circumstances . "
+909 F.3d 1069 , 1076 ( 2018 ) ( internal quotation marks omitted ) .
+Although Sulyma " had sufficient information available to him to know about the allegedly imprudent investments " more than three years before filing suit , the court held that his testimony created a dispute as to when he actually gained that knowledge .
+Id. , at 1077 .
+Several Circuits have likewise construed § 1113(2 ) to require " knowledge that is actual , " i d. , at 1076 , but one has construed it to require only proof of sufficient disclosure .
+We granted certiorari , 587 U.S. ---- , 139 S.Ct . 2692 , 204 L.Ed.2d 1089 ( 2019 ) , to resolve whether the phrase " actual knowledge " does in fact mean " what it says , " 909 F.3d at 1076 , and hold that it does .
+II
+A
+" We must enforce plain and unambiguous statutory language " in ERISA , as in any statute , " according to its terms . "
+Hardt v. Reliance Standard Life Ins . Co. , 560 U.S. 242 , 251 , 130 S.Ct . 2149 , 176 L.Ed.2d 998 ( 2010 ) .
+Although ERISA does not define the phrase " actual knowledge , " its meaning is plain .
+Dictionaries are hardly necessary to confirm the point , but they do .
+When Congress passed ERISA , the word " actual " meant what it means today : " existing in fact or reality . "
+Webster 's Seventh New Collegiate Dictionary 10 ( 1967 ) ; accord , Merriam - Webster 's Collegiate Dictionary 13 ( 11th ed . 2005 ) ( same ) ; see also American Heritage Dictionary 14 ( 1973 ) ( " In existence ; real ; factual " ) ; i d . , at 18 ( 5th ed . 2011 ) ( " Existing in reality and not potential , possible , simulated , or false " ) .
+So did the word " knowledge , " which meant and still means " the fact or condition of being aware of something . "
+Webster 's Seventh New Collegiate Dictionary 469 ( 1967 ) ; accord , Merriam - Webster 's Collegiate Dictionary 691 ( 2005 ) ( same ) ; see also American Heritage Dictionary 725 ( 1973 ) ( " Familiarity , awareness , or understanding gained through experience or study " ) ; i d . , at 973 ( 2011 ) ( same ) .
+Thus , to have " actual knowledge " of a piece of information , one must in fact be aware of it .
+Legal dictionaries give " actual knowledge " the same meaning : " [ r]eal knowledge as distinguished from presumed knowledge or knowledge imputed to one . "
+Ballentine 's Law Dictionary 24 ( 3d ed . 1969 ) ; accord , Black 's Law Dictionary 1043 ( 11th ed . 2019 ) ( defining " actual knowledge " as " [ d]irect and clear knowledge , as distinguished from constructive knowledge " ) .
+The qualifier " actual " creates that distinction .
+In everyday speech , " actual knowledge " might seem redundant ; one who claims " knowledge " of a topic likely means to suggest that he actually knows a thing or two about it .
+But the law will sometimes impute knowledge - often called " constructive " knowledge - to a person who fails to learn something that a reasonably diligent person would have learned .
+See i d . , at 1043 .
+Similarly , we held in Merck & Co. v. Reynolds , 559 U.S. 633 , 130 S.Ct . 1784 , 176 L.Ed.2d 582 ( 2010 ) , that the word " discovery , " when used in a statute of limitations without qualification , " encompasses not only those facts the plaintiff actually knew , but also those facts a reasonably diligent plaintiff would have known . "
+I d . , at 648 , 130 S.Ct . 1784 .
+The addition of " actual " in § 1113(2 ) signals that the plaintiff 's knowledge must be more than " potential , possible , virtual , conceivable , theoretical , hypothetical , or nominal . "
+Black 's Law Dictionary 53 ( 4th ed . 1951 ) .
+Indeed , in Merck , we cited § 1113(2 ) as evidence of the " linguistic distinction " between " ' actual knowledge ' " and the " hypothetical " knowledge that a reasonably diligent plaintiff would have .
+559 U.S. at 646 - 647 , 130 S.Ct . 1784 ( quoting § 1113(2 ) ; emphasis in original ) .
+Congress has drawn the same distinction elsewhere in ERISA .
+Multiple provisions contain alternate 6 - year and 3 - year limitations periods , with the 6 - year period beginning at " the date on which the cause of action arose " and the 3 - year period starting at " the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of such cause of action . "
+§ § 1303(e)(6 ) , ( f)(5 ) ( emphasis added ) ; accord , § § 1370(f)(1)-(2 ) , 1451(f)(1)-(2 ) .
+ERISA also requires plaintiffs challenging the suspension of benefits under § 1085 to do so within " one year after the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of such cause of action . "
+§ 1085(e)(9)(I)(iv ) .
+Thus , Congress has repeatedly drawn a " linguistic distinction " between what an ERISA plaintiff actually knows and what he should actually know .
+Merck , 559 U.S. at 647 , 130 S.Ct . 1784 .
+And when Congress has included both forms of knowledge in a provision limiting ERISA actions , it has done so explicitly .
+We can not assume that it meant to do so by implication in § 1113(2 ) .
+Instead we " generally presum[e ] that Congress acts intentionally and purposely when it includes particular language in one section of a statute but omits it in another . "
+BFP v. Resolution Trust Corporation , 511 U.S. 531 , 537 , 114 S.Ct . 1757 , 128 L.Ed.2d 556 ( 1994 ) ( internal quotation marks omitted ) .
+Petitioners dispute the characterization of anything less than actual knowledge as constructive knowledge , arguing that the latter term usually refers to information that a plaintiff must seek out rather than information that is sent to him .
+But if a plaintiff is not aware of a fact , he does not have " actual knowledge " of that fact however close at hand the fact might be .
+§ 1113(2 ) .
+And Congress has never added to § 1113(2 ) the language it has used in other ERISA limitations provisions to encompass both what a plaintiff actually knows and what he reasonably could know .
+As presently written , therefore , § 1113(2 ) requires more than evidence of disclosure alone .
+That all relevant information was disclosed to the plaintiff is no doubt relevant in judging whether he gained knowledge of that information .
+See Part III , infra .
+To meet § 1113(2 ) 's " actual knowledge " requirement , however , the plaintiff must in fact have become aware of that information .
+B
+Petitioners offer arguments for a broader reading of § 1113(2 ) based on text , context , purpose , and statutory history .
+All founder on Congress 's choice of the word " actual . "
+As for text , petitioners do not dispute the normal definitions of " actual , " " knowledge , " or " actual knowledge . "
+They focus instead on the least conspicuous part of the phrase " had actual knowledge " : the word " had . "
+§ 1113(2 ) .
+Once a plaintiff receives a disclosure , they argue , he " ha[s ] " the knowledge that § 1113(2 ) requires because he effectively holds it in his hand .
+Ibid .
+In other words , he has the requisite knowledge because he could acquire it with reasonable effort .
+That turns § 1113(2 ) into what it is plainly not : a constructive - knowledge requirement .
+Petitioners ' contextual argument fails for the same reason .
+As they point out , ERISA 's disclosure regime is meant to " ensur[e ] that ' the individual participant knows exactly where he stands with respect to the plan . ' "
+Firestone Tire & Rubber Co. v. Bruch , 489 U.S. 101 , 118 , 109 S.Ct . 948 , 103 L.Ed.2d 80 ( 1989 ) ( quoting H.R. Rep. No . 93 - 533 , p. 11 ( 1973 ) ) .
+This is the reason for ERISA 's requirements that disclosures be written for a lay audience .
+See , e.g. , 29 U.S.C. § 1022 ( a ) .
+Once plan administrators satisfy their obligations to impart knowledge , petitioners say , § 1113(2 ) 's knowledge requirement is satisfied too .
+But that is simply not what § 1113(2 ) says .
+Unlike other ERISA limitations periods - which also form § 1113(2 ) 's context- § 1113(2 ) begins only when a plaintiff actually is aware of the relevant facts , not when he should be .
+And a given plaintiff will not necessarily be aware of all facts disclosed to him ; even a reasonably diligent plaintiff would not know those facts immediately upon receiving the disclosure .
+Although " the words of a statute must be read in their context , " Davis v. Michigan Dept . of Treasury , 489 U.S. 803 , 809 , 109 S.Ct . 1500 , 103 L.Ed.2d 891 ( 1989 ) , petitioners ' argument again gives the word " actual " little meaning at all .
+Petitioners also argue that § 1113(2 ) 's plain meaning undermines its purpose of protecting plan administrators from suits over bygone investment decisions .
+If a plan participant can simply deny knowledge , they say , administrators will rarely get the benefit of § 1113(2 ) .
+But even if this is true , as it may well be , we can not say that heeding the clear meaning of the word " actual " renders the statute so " ' [ in]coherent ' "
+that it must be disregarded .
+Kingdomware Technologies , Inc. v. United States , 579 U.S. ---- , ---- , 136 S.Ct . 1969 , 1976 , 195 L.Ed.2d 334 ( 2016 ) .
+For one thing , plan participants are not the only potential plaintiffs subject to § 1113 .
+The Secretary of Labor , for example , may also sue imprudent fiduciaries for the benefit of plan participants .
+See § 1132(a)(2 ) .
+And the United States represents that the Secretary will have a hard time doing so within § 1113(2 ) 's timeframe if deemed to have actual knowledge of the facts contained in the many reports that the Department receives from ERISA plans each year .
+See Brief for United States as Amicus Curiae 27 - 28 .
+Moreover , the statute 's repose period will still protect defendants from suits filed more than six years after the alleged breach .
+See § 1113(1 ) .
+Petitioners may well be correct that heeding the plain meaning of § 1113(2 ) substantially diminishes the protection that it provides for ERISA fiduciaries , but by the same token , petitioners ' interpretation would greatly reduce § 1113(1 ) 's value for beneficiaries , given the disclosure regime that petitioners themselves emphasize .
+Choosing between these alternatives is a task for Congress , and we must assume that the language of § 1113(2 ) reflects Congress 's choice .
+If policy considerations suggest that the current scheme should be altered , Congress must be the one to do it .
+See , e.g. , Azar v. Allina Health Services , 587 U.S. ---- , ---- , 139 S.Ct . 1804 , 1813 , 204 L.Ed.2d 139 ( 2019 ) .
+Finally , petitioners argue that the plain meaning of " actual knowledge " renders an earlier version of § 1113(2 ) incoherent .
+As originally enacted , the § 1113(2 ) limitations period began either when the plaintiff gained actual knowledge of the alleged breach or when " a report from which [ the plaintiff ] could reasonably be expected to have obtained knowledge ... was filed with " the Secretary of Labor .
+29 U.S.C. § 1113 ( 2 ) ( 1976 ed . ) .
+That latter , constructive - knowledge clause was later repealed .
+See Omnibus Budget Reconciliation Act of 1987 , § 9342(b ) , 101 Stat . 1330 -371 .
+According to petitioners , if " actual knowledge " means what it says , then the original version of § 1113(2 ) charged plan participants with learning what was sent to the Secretary but not what was sent to them .
+The version at issue here , however , is the current one - from which Congress removed any mention of constructive knowledge .
+"
+When Congress acts to amend a statute , we presume it intends its amendment to have real and substantial effect . "
+Intel Corp. v. Advanced Micro Devices , Inc. , 542 U.S. 241 , 258 - 259 , 124 S.Ct . 2466 , 159 L.Ed.2d 355 ( 2004 ) ( internal quotation marks omitted ) .
+Section 1113(2 ) 's history thus more readily suggests that the current version does in fact require actual knowledge .
+III
+Nothing in this opinion forecloses any of the " usual ways " to prove actual knowledge at any stage in the litigation .
+Farmer v. Brennan , 511 U.S. 825 , 842 , 114 S.Ct . 1970 , 128 L.Ed.2d 811 ( 1994 ) .
+Plaintiffs who recall reading particular disclosures will of course be bound by oath to say so in their depositions .
+On top of that , actual knowledge can be proved through " inference from circumstantial evidence . "
+Ibid . ; see also Staples v. United States , 511 U.S. 600 , 615 - 616 , n. 11 , 114 S.Ct . 1793 , 128 L.Ed.2d 608 ( 1994 ) ( " [ K]nowledge can be inferred from circumstantial evidence " ) .
+Evidence of disclosure would no doubt be relevant , as would electronic records showing that a plaintiff viewed the relevant disclosures and evidence suggesting that the plaintiff took action in response to the information contained in them .
+And though , " [ a]t the summary judgment stage , facts must be viewed in the light most favorable to the nonmoving party , " that is true " only if there is a ' genuine ' dispute as to those facts . "
+Scott v. Harris , 550 U.S. 372 , 380 , 127 S.Ct . 1769 , 167 L.Ed.2d 686 ( 2007 ) ( quoting Fed . Rule Civ . Proc . 56(c ) ) .
+If a plaintiff 's denial of knowledge is " blatantly contradicted by the record , " " a court should not adopt that version of the facts for purposes of ruling on a motion for summary judgment . "
+550 U.S. at 380 , 127 S.Ct . 1769 .
+Today 's opinion also does not preclude defendants from contending that evidence of " willful blindness " supports a finding of " actual knowledge . "
+Cf . Global - Tech Appliances , Inc. v. SEB S. A. , 563 U.S. 754 , 769 , 131 S.Ct . 2060 , 179 L.Ed.2d 1167 ( 2011 ) .
+In the case before us , however , petitioners do not argue that " actual knowledge " is established in any of these ways , only that they need not offer any such proof .
+And that is incorrect .
+* * *
+For these reasons , we affirm .
+It is so ordered .

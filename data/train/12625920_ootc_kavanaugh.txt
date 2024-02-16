@@ -1,0 +1,226 @@
+Justice KAVANAUGH delivered the opinion of the Court .
+Under the immigration laws , a noncitizen who is authorized to live permanently in the United States is a lawful permanent resident - also commonly known as a green - card holder .
+But unlike a U.S. citizen , a lawful permanent resident who commits a serious crime may be removed from the United States .
+Andre Barton is a Jamaican national and a longtime lawful permanent resident of the United States .
+During his time in the United States , Barton has been convicted of state crimes on three separate occasions spanning 12 years .
+The crimes include a firearms offense , drug offenses , and aggravated assault offenses .
+By law , the firearms offense and the drug offenses each independently rendered Barton eligible for removal from the United States .
+In September 2016 , the U.S. Government sought to remove Barton , and a U.S. Immigration Judge determined that Barton was removable .
+Barton applied for cancellation of removal , a form of relief that allows a noncitizen to remain in the United States despite being found removable .
+The immigration laws authorize an immigration judge to cancel removal , but Congress has established strict eligibility requirements .
+See 8 U.S.C. § § 1229b(a ) , ( d)(1)(B ) .
+For a lawful permanent resident such as Barton , the applicant for cancellation of removal ( 1 ) must have been a lawful permanent resident for at least five years ; ( 2 ) must have continuously resided in the United States for at least seven years after lawful admission ; ( 3 ) must not have been convicted of an aggravated felony as defined in the immigration laws ; and ( 4 ) during the initial seven years of continuous residence , must not have committed certain other offenses listed in 8 U.S.C. § 1182 ( a)(2 ) .
+If a lawful permanent resident meets those eligibility requirements , the immigration judge has discretion to ( but is not required to ) cancel removal and allow the lawful permanent resident to remain in the United States .
+Under the cancellation - of - removal statute , the immigration judge examines the applicant 's prior crimes , as well as the offense that triggered his removal .
+If a lawful permanent resident has ever been convicted of an aggravated felony , or has committed an offense listed in § 1182(a)(2 ) during the initial seven years of residence , that criminal record will preclude cancellation of removal .
+In that way , the statute operates like traditional criminal recidivist laws , which ordinarily authorize or impose greater sanctions on offenders who have committed prior crimes .
+In this case , after finding Barton removable based on his state firearms and drug offenses , the Immigration Judge and the Board of Immigration Appeals ( BIA ) concluded that Barton was not eligible for cancellation of removal .
+Barton had committed offenses listed in § 1182(a)(2 ) during his initial seven years of residence - namely , his state aggravated assault offenses in 1996 .
+Barton 's 1996 aggravated assault offenses were not the offenses that triggered his removal .
+But according to the BIA , and contrary to Barton 's argument , the offense that precludes cancellation of removal need not be one of the offenses of removal .  
+In re Jurado - Delgado , 24 I. & N. Dec. 29 , 31 ( BIA 2006 ) .
+The U.S. Court of Appeals for the Eleventh Circuit agreed with the BIA 's reading of the statute and concluded that Barton was not eligible for cancellation of removal .
+The Second , Third , and Fifth Circuits have similarly construed the statute ; only the Ninth Circuit has disagreed .
+Barton argues that the BIA and the Eleventh Circuit misinterpreted the statute .
+He contends that the § 1182(a)(2 ) offense that precludes cancellation of removal must be one of the offenses of removal .
+We disagree with Barton , and we affirm the judgment of the U.S. Court of Appeals for the Eleventh Circuit .
+I
+Federal immigration law governs the admission of noncitizens to the United States and the deportation of noncitizens previously admitted .
+See 8 U.S.C. § § 1182 ( a ) , 1227(a ) , 1229a .
+The umbrella statutory term for being inadmissible or deportable is " removable . "
+§ 1229a(e)(2 ) .
+A noncitizen who is authorized to live permanently in the United States is a lawful permanent resident , often known as a green - card holder .
+When a lawful permanent resident commits a crime and is determined by an immigration judge to be removable because of that crime , the Attorney General ( usually acting through an immigration judge ) may cancel removal .
+§ 1229b(a ) .
+But the comprehensive immigration law that Congress passed and President Clinton signed in 1996 tightly cabins eligibility for cancellation of removal .
+See Illegal Immigration Reform and Immigrant Responsibility Act of 1996 , 110 Stat . 3009 -546 , 8 U.S.C. § 1101 note .
+For a lawful permanent resident , the cancellation - of - removal statute provides that an immigration judge " may cancel removal in the case of an alien who is inadmissible or deportable from the United States if the alien-(1 ) has been an alien lawfully admitted for permanent residence for not less than 5 years , ( 2 ) has resided in the United States continuously for 7 years after having been admitted in any status , and ( 3 ) has not been convicted of any aggravated felony . "
+§ 1229b(a ) .
+The statute imposes one other requirement known as the " stop - time rule . "
+As relevant here , the statute provides that a lawful permanent resident , during the initial seven years of residence , also can not have committed " an offense referred to in section 1182(a)(2 ) of this title that renders the alien inadmissible to the United States under section 1182(a)(2 ) of this title or removable from the United States under section 1227(a)(2 ) or 1227(a)(4 ) of this title . "
+§ 1229b(d)(1)(B ) .
+Andre Barton is a Jamaican national and a lawful permanent resident of the United States .
+In 1996 , he was convicted in a Georgia court of a firearms offense stemming from an incident where Barton and a friend shot up the house of Barton 's ex - girlfriend .
+In separate proceedings in 2007 and 2008 , he was convicted in Georgia courts of state drug offenses .
+One case involved methamphetamine , and the other involved cocaine and marijuana .
+In 2016 , the U.S. Government charged Barton with deportability under 8 U.S.C. § 1227 ( a)(2 ) based on the 1996 firearms offense and the 2007 and 2008 drug crimes .
+See § § 1227(a)(2)(B)(i ) , ( C ) .
+Barton conceded that he was removable based on his criminal convictions for the firearms offense and drug offenses , and an Immigration Judge found him removable .
+Barton applied for cancellation of removal .
+All agree that Barton meets two of the eligibility requirements for cancellation of removal .
+He has been a lawful permanent resident for more than five years .
+And he has not been convicted of an " aggravated felony , " as defined by the immigration laws .
+The Immigration Judge concluded , however , that Barton had committed an offense listed in § 1182(a)(2 ) during his initial seven years of residence .
+In 1996 , 6½ years after his admission to this country , Barton committed aggravated assault offenses for which he was later convicted in a Georgia court .
+The Immigration Judge concluded that those aggravated assault offenses were covered by § 1182(a)(2 ) and that Barton was therefore not eligible for cancellation of removal .
+The Board of Immigration Appeals and the U.S. Court of Appeals for the Eleventh Circuit likewise concluded that Barton was not eligible for cancellation of removal .
+Barton v. United States Atty . Gen. , 904 F.3d 1294 , 1302 ( 2018 ) .
+The key question was whether the offense that precludes cancellation of removal ( here , Barton 's 1996 aggravated assault offenses ) must also be one of the offenses of removal .
+The Board of Immigration Appeals has long interpreted the statute to mean that " an alien need not actually be charged and found inadmissible or removable on the applicable ground in order for the criminal conduct in question to terminate continuous residence in this country " and preclude cancellation of removal .
+Jurado - Delgado , 24 I. & N. Dec. , at 31 .
+In this case , the Eleventh Circuit likewise indicated that the § 1182(a)(2 ) offense that precludes cancellation of removal need not be one of the offenses of removal .
+904 F.3d at 1299 - 1300 .
+And the Second , Third , and Fifth Circuits have similarly construed the statute .
+See Heredia v. Sessions , 865 F.3d 60 , 68 ( C.A.2 2017 ) ; Ardon v. Attorney General of United States , 449 Fed . Appx . 116 , 118 ( C.A.3 2011 ) ; Calix v. Lynch , 784 F.3d 1000 , 1011 ( C.A.5 2015 ) .
+But in 2018 , the Ninth Circuit disagreed with those courts and with the BIA .
+The Ninth Circuit ruled that a lawful permanent resident 's commission of an offense listed in § 1182(a)(2 ) makes the noncitizen ineligible for cancellation of removal only if that offense was one of the offenses of removal .  
+Nguyen v. Sessions , 901 F.3d 1093 , 1097 ( 2018 ) .
+Under the Ninth Circuit 's approach , Barton would have been eligible for cancellation of removal because his § 1182(a)(2 ) offenses ( his 1996 aggravated assault offenses ) were not among the offenses of removal ( his 1996 firearms offense and his 2007 and 2008 drug crimes ) .
+In light of the division in the Courts of Appeals over how to interpret this statute , we granted certiorari .
+587 U.S. ---- , 139 S.Ct . 1615 , 203 L.Ed.2d 755 ( 2019 ) .
+II
+A
+Under the immigration laws , when a noncitizen has committed a serious crime , the U.S. Government may seek to remove that noncitizen by initiating removal proceedings before an immigration judge .
+If the immigration judge determines that the noncitizen is removable , the immigration judge nonetheless has discretion to cancel removal .
+But the immigration laws impose strict eligibility requirements for cancellation of removal .
+To reiterate , a lawful permanent resident such as Barton who has been found removable because of criminal activity is eligible for cancellation of removal " if the alien-(1 ) has been an alien lawfully admitted for permanent residence for not less than 5 years , ( 2 ) has resided in the United States continuously for 7 years after having been admitted in any status , and ( 3 ) has not been convicted of any aggravated felony . "
+§ 1229b(a ) .
+To be eligible for cancellation of removal , the lawful permanent resident , during the initial seven years of residence after admission , also must not have committed " an offense referred to in section 1182(a)(2 ) of this title that renders the alien inadmissible to the United States under section 1182(a)(2 ) of this title or removable from the United States under section 1227(a)(2 ) or 1227(a)(4 ) of this title . "
+§ 1229b(d)(1)(B ) .
+The law therefore fashions two distinct ways in which a lawful permanent resident 's prior crimes may preclude cancellation of removal .
+The law precludes cancellation of removal if the lawful permanent resident has been convicted of an " aggravated felony " at any time .
+The statutory list of aggravated felonies is long : murder , rape , drug trafficking , firearms trafficking , obstruction of justice , treason , gambling , human trafficking , and tax evasion , among many other crimes .
+§ § 1101(a)(43)(A)-(U ) .
+In addition , the law precludes cancellation of removal if the lawful permanent resident committed certain other serious crimes during the initial seven years of residence .
+The law defines those offenses by cross - referencing § 1182(a)(2 ) , which specifies the offenses that can render a noncitizen " inadmissible " to the United States .
+Section 1182(a)(2 ) includes " crime[s ] involving moral turpitude , " which is a general category that covers a wide variety of crimes .
+Section 1182(a)(2 ) also expressly encompasses various violations of drug laws , prostitution , money laundering , and certain DUIs involving personal injury , among other crimes .
+§ § 1182(a)(2)(A)(i ) , ( C ) , ( D ) , ( E ) , ( I ) ; see § 1101(h ) .
+In specifying when cancellation of removal would be precluded because of prior criminal activity , Congress struck a balance that considers both the nature of the prior crime and the length of time that the noncitizen has resided in the United States .
+If a lawful permanent resident has been convicted at any time of certain crimes ( what the immigration laws refer to as an " aggravated felony " ) , then the noncitizen is not eligible for cancellation of removal .
+If during the initial 7 - year period of residence , a lawful permanent resident committed certain other offenses referred to in § 1182(a)(2 ) , then the noncitizen likewise is not eligible for cancellation of removal .
+In providing that a noncitizen 's prior crimes ( in addition to the offense of removal ) can render him ineligible for cancellation of removal , the cancellation - of - removal statute functions like a traditional recidivist sentencing statute .
+In an ordinary criminal case , a defendant may be convicted of a particular criminal offense .
+And at sentencing , the defendant 's other criminal offenses may be relevant .
+So too in the immigration removal context .
+A noncitizen may be found removable based on a certain criminal offense .
+In applying for cancellation of removal , the noncitizen must detail his entire criminal record on Form EOIR-42A.
+An immigration judge then must determine whether the noncitizen has been convicted of an aggravated felony at any time or has committed a § 1182(a)(2 ) offense during the initial seven years of residence .
+It is entirely ordinary to look beyond the offense of conviction at criminal sentencing , and it is likewise entirely ordinary to look beyond the offense of removal at the cancellation - of - removal stage in immigration cases .
+It is not surprising , moreover , that Congress required immigration judges considering cancellation of removal to look in part at whether the noncitizen has committed any offenses listed in § 1182(a)(2 ) .
+The offenses listed in § 1182(a)(2 ) help determine whether a noncitizen should be admitted to the United States .
+Under the cancellation - of - removal statute , immigration judges must look at that same category of offenses to determine whether , after a previously admitted noncitizen has been determined to be deportable , the noncitizen should nonetheless be allowed to remain in the United States .
+If a crime is serious enough to deny admission to a noncitizen , the crime can also be serious enough to preclude cancellation of removal , at least if committed during the initial seven years of residence .
+Importantly , the text of the cancellation - of - removal statute does not simply say that cancellation of removal is precluded when , during the initial seven years of residence , the noncitizen was convicted of an offense referred to in § 1182(a)(2 ) .
+Rather , the text says that cancellation of removal is precluded when , during the initial seven years of residence , the noncitizen " committed an offense referred to in section 1182(a)(2 ) ... that renders the alien inadmissible . "
+§ 1229b(d)(1)(B ) .
+That language clarifies two points of relevance here .
+  First , cancellation of removal is precluded if a noncitizen committed a § 1182(a)(2 ) offense during the initial seven years of residence , even if ( as in Barton 's case ) the conviction occurred after the seven years elapsed .
+In other words , as Congress specified in the statute and as the BIA and the Courts of Appeals have recognized , the date of commission of the offense is the key date for purposes of calculating whether the noncitizen committed a § 1182(a)(2 ) offense during the initial seven years of residence .
+See In re Perez , 22 I. & N. Dec. 689 , 693 - 694 ( BIA 1999 ) ( date of commission is controlling date ) ; see also Heredia , 865 F.3d at 70 - 71 ( " the date of the commission of the offense governs the computation of a lawful permanent resident 's continuous residency in the United States " ) ; Calix , 784 F.3d at 1012 ( " Once he was convicted of the offense " referred to in § 1182(a)(2 ) , " he was rendered inadmissible to the United States .
+His accrual of continuous residence was halted as of the date he committed that offense " ) .
+  Second , the text of the law requires that the noncitizen be rendered " inadmissible " as a result of the offense .
+For crimes involving moral turpitude , which is the relevant category of § 1182(a)(2 ) offenses here , § 1182(a)(2 ) provides that a noncitizen is rendered " inadmissible " when he is convicted of or admits the offense .
+§ 1182(a)(2)(A)(i ) .
+As the Eleventh Circuit explained , " while only commission is required at step one , conviction ( or admission ) is required at step two . "
+904 F.3d at 1301 .
+In this case , Barton 's 1996 state aggravated assault offenses were crimes involving moral turpitude and therefore " referred to in section 1182(a)(2 ) . "
+Barton committed those offenses during his initial seven years of residence .
+He was later convicted of the offenses in a Georgia court and thereby rendered " inadmissible . "
+Therefore , Barton was ineligible for cancellation of removal .
+As a matter of statutory text and structure , that analysis is straightforward .
+The Board of Immigration Appeals has long interpreted the statute that way .
+See Jurado - Delgado , 24 I. & N. Dec. , at 31 .
+And except for the Ninth Circuit , all of the Courts of Appeals to consider the question have interpreted the statute that way .
+B
+Barton pushes back on that straightforward statutory interpretation and the longstanding position of the Board of Immigration Appeals .
+Barton says that he may not be denied cancellation of removal based on his 1996 aggravated assault offenses because those offenses were not among the offenses of removal found by the Immigration Judge in Barton 's removal proceeding .
+Rather , his 1996 firearms offense and his 2007 and 2008 drug offenses were the offenses of removal .
+To succinctly summarize the parties ' different positions ( with the difference highlighted in italics below ): The Government would preclude cancellation of removal under this provision if the lawful permanent resident committed a § 1182(a)(2 ) offense during the initial seven years of residence .
+Barton would preclude cancellation of removal under this provision if the lawful permanent resident committed a § 1182(a)(2 ) offense during the initial seven years of residence and if that § 1182(a)(2 ) offense was one of the offenses of removal in the noncitizen 's removal proceeding .
+To support his " offense of removal " approach , Barton advances three different arguments .
+A caution to the reader : These arguments are not easy to unpack .
+First , according to Barton , the statute 's overall structure with respect to removal proceedings demonstrates that a § 1182(a)(2 ) offense may preclude cancellation of removal only if that § 1182(a)(2 ) offense was one of the offenses of removal .
+We disagree .
+In removal proceedings , a lawful permanent resident ( such as Barton ) may be found " deportable " based on deportability offenses listed in § 1227(a)(2 ) .
+A noncitizen who has not previously been admitted may be found " inadmissible " based on inadmissibility offenses listed in § 1182(a)(2 ) .
+See § § 1182(a ) , 1227(a ) , 1229a(e)(2 ) .
+Importantly , then , § 1227(a)(2 ) offenses - not § 1182(a)(2 ) offenses - are typically the basis for removal of lawful permanent residents .
+Because the offense of removal for lawful permanent residents is ordinarily a § 1227(a)(2 ) offense , Barton 's structural argument falls apart .
+If Barton were correct that this aspect of the cancellation - of - removal statute focused only on the offense of removal , the statute presumably would specify offenses " referred to in section 1182(a)(2 ) or section 1227(a)(2 ) . "
+So why does the statute identify only offenses " referred to in section 1182(a)(2 ) " ?
+Barton has no good answer .
+At oral argument , when directly asked that question , Barton 's able counsel forthrightly acknowledged : " It 's a little hard to explain . "
+Tr . of Oral Arg . 27 .
+This point is the Achilles ' heel of Barton 's structural argument .
+As we see it , Barton can not explain the omission of § 1227(a)(2 ) offenses in the " referred to " clause for a simple reason : Barton 's interpretation of the statute is incorrect .
+Properly read , this is not simply an " offense of removal " statute that looks only at whether the offense of removal was committed during the initial seven years of residence .
+Rather , this is a recidivist statute that uses § 1182(a)(2 ) offenses as a shorthand cross - reference for a category of offenses that will preclude cancellation of removal if committed during the initial seven years of residence .
+By contrast to this cancellation - of - removal provision , some other provisions of the immigration laws do focus only on the offense of removal - for example , provisions governing mandatory detention and jurisdiction .
+See § § 1226(a ) , ( c)(1)(A ) , ( B ) , 1252(a)(2)(C ) .
+But the statutory text and context of those provisions support that limitation .
+Those provisions use the phrase " inadmissible by reason of " a § 1182(a)(2 ) offense , " deportable by reason of " a § 1227(a)(2 ) offense , or " removable by reason of " a § 1182(a)(2 ) or § 1227(a)(2 ) offense .
+And the provisions make contextual sense only if the offense justifying detention or denying jurisdiction is one of the offenses of removal .
+The cancellation - of - removal statute does not employ similar language .
+  Second , moving from overall structure to precise text , Barton seizes on the statutory phrase " committed an offense referred to in section 1182(a)(2 ) ... that renders the alien inadmissible to the United States under section 1182(a)(2 ) . "
+§ 1229b(d)(1)(B ) ( emphasis added ) .
+According to Barton , conviction of an offense listed in § 1182(a)(2 ) -for example , conviction in state court of a crime involving moral turpitude - does not itself render the noncitizen " inadmissible . "
+He argues that a noncitizen is not rendered " inadmissible " unless and until the noncitizen is actually adjudicated as inadmissible and denied admission to the United States .
+And he further contends that a lawfully admitted noncitizen usually can not be removed from the United States on the basis of inadmissibility .
+As Barton puts it ( and the dissent echoes the point ) , how can a lawfully admitted noncitizen be found inadmissible when he has already been lawfully admitted ?
+As a matter of common parlance alone , that argument would of course carry some force .
+But the argument fails because it disregards the statutory text , which employs the term " inadmissibility " as a status that can result from , for example , a noncitizen 's ( including a lawfully admitted noncitizen 's ) commission of certain offenses listed in § 1182(a)(2 ) .
+For example , as relevant here , § 1182(a)(2 ) flatly says that a noncitizen such as Barton who commits a crime involving moral turpitude and is convicted of that offense " is inadmissible . "
+§ 1182(a)(2)(A)(i ) .
+Full stop .
+Similarly , a noncitizen who has two or more convictions , together resulting in aggregate sentences of at least five years , " is inadmissible . "
+§ 1182(a)(2)(B ) .
+A noncitizen who a consular officer or the Attorney General knows or has reason to believe is a drug trafficker " is inadmissible . "
+§ 1182(a)(2)(C)(i ) .
+A noncitizen who receives the proceeds of prostitution within 10 years of applying for admission " is inadmissible . "
+§ 1182(a)(2)(D)(ii ) .
+The list goes on .
+See , e.g. , § § 1182(a)(2)(C)(ii)-(E ) , ( G)-(I ) .
+Those provisions do not say that a noncitizen will become inadmissible if the noncitizen is found inadmissible in a subsequent immigration removal proceeding .
+Instead , those provisions say that the noncitizen " is inadmissible . "
+Congress has in turn made that status - inadmissibility because of conviction or other proof of commission of § 1182(a)(2 ) offenses - relevant in several statutory contexts that apply to lawfully admitted noncitizens such as Barton .
+Those contexts include adjustment to permanent resident status ; protection from removal because of temporary protected status ; termination of temporary resident status ; and here cancellation of removal .
+See , e.g. , § § 1160(a)(1)(C ) , ( a)(3)(B)(ii ) , 1254a(a)(1)(A ) , ( c)(1)(A)(iii ) , 1255(a ) , ( l ) ( 2 ) .
+In those contexts , the noncitizen faces immigration consequences from being convicted of a § 1182(a)(2 ) offense even though the noncitizen is lawfully admitted and is not necessarily removable solely because of that offense .
+Consider how those other proceedings work .
+A lawfully admitted noncitizen who is convicted of an offense listed in § 1182(a)(2 ) is typically not removable from the United States on that basis ( recall that a lawfully admitted noncitizen is ordinarily removable only for commission of a § 1227(a)(2 ) offense ) .
+But the noncitizen is " inadmissible " because of the § 1182(a)(2 ) offense and for that reason may not be able to obtain adjustment to permanent resident status .
+§ § 1255(a ) , ( l ) ( 2 ) .
+So too , a lawfully admitted noncitizen who is convicted of an offense listed in § 1182(a)(2 ) is " inadmissible " and for that reason may not be able to obtain temporary protected status .
+§ § 1254a(a)(1)(A ) , ( c)(1)(A)(iii ) .
+A lawfully admitted noncitizen who is a temporary resident and is convicted of a § 1182(a)(2 ) offense is " inadmissible " and for that reason may lose temporary resident status .
+§ § 1160(a)(1)(C ) , ( a)(3)(B)(ii ) .
+Those statutory examples pose a major hurdle for Barton 's textual argument .
+The examples demonstrate that Congress has employed the concept of " inadmissibility " as a status in a variety of statutes similar to the cancellation - of - removal statute , including for lawfully admitted noncitizens .
+Barton has no persuasive answer to those examples .
+Barton tries to say that some of those other statutes involve a noncitizen who , although already admitted to the United States , is nonetheless seeking " constructive admission . "
+Reply Brief 12 ; Tr . of Oral Arg . 11 .
+But that ginned - up label does not avoid the problem .
+Put simply , those other statutes show that lawfully admitted noncitizens who are , for example , convicted of § 1182(a)(2 ) crimes are " inadmissible " and in turn may suffer certain immigration consequences , even though those lawfully admitted noncitizens can not necessarily be removed solely because of those § 1182(a)(2 ) offenses .
+The same is true here .
+A lawfully admitted noncitizen who was convicted of a crime involving moral turpitude during his initial seven years of residence is " inadmissible " and for that reason is ineligible for cancellation of removal .
+In advancing his structural and textual arguments , Barton insists that his interpretation of the statute reflects congressional intent regarding cancellation of removal .
+But if Congress intended that only the offense of removal would preclude cancellation of removal under the 7 - year residence provision , it is unlikely that Congress would have employed such a convoluted way to express that intent .
+Barton can not explain why , if his view of Congress ' intent is correct , the statute does not simply say something like : " The alien is not eligible for cancellation of removal if the offense of removal was committed during the alien 's initial seven years of residence . "
+  Third , on a different textual tack , Barton argues that the Government 's interpretation can not be correct because the Government would treat as surplusage the phrase " or removable from the United States under section 1227(a)(2 ) or 1227(a)(4 ) of this title . "
+Recall that the statute , as relevant here , provides that a lawful permanent resident is not eligible for cancellation of removal if , during the initial seven years of residence , he committed " an offense referred to in section 1182(a)(2 ) of this title that renders the alien inadmissible to the United States under section 1182(a)(2 ) of this title or removable from the United States under section 1227(a)(2 ) or 1227(a)(4 ) of this title . "
+§ 1229b(d)(1)(B ) ( emphasis added ) .
+To begin with , all agree that under either side 's interpretation , the reference to § 1227(a)(4 ) -as distinct from § 1227(a)(2 ) -is redundant surplusage .
+See § 1229b(c)(4 ) ; Brief for Petitioner 32 - 33 & n. 7 .
+Under the Government 's interpretation , it is true that the reference to § 1227(a)(2 ) also appears to be redundant surplusage .
+Any offense that is both referred to in § 1182(a)(2 ) and an offense that would render the noncitizen deportable under § 1227(a)(2 ) would also render the noncitizen inadmissible under § 1182(a)(2 ) .
+But redundancies are common in statutory drafting - sometimes in a congressional effort to be doubly sure , sometimes because of congressional inadvertence or lack of foresight , or sometimes simply because of the shortcomings of human communication .
+The Court has often recognized : " Sometimes the better overall reading of the statute contains some redundancy . "
+Rimini Street , Inc. v. Oracle USA , Inc. , 586 U.S. ---- , ---- , 139 S.Ct . 873 , 881 , 203 L.Ed.2d 180 ( 2019 ) ; see Wisconsin Central Ltd. v. United States , 585 U.S. ---- , ---- , 138 S.Ct . 2067 , 2073 , 201 L.Ed.2d 490 ( 2018 ) ; Marx v. General Revenue Corp. , 568 U.S. 371 , 385 , 133 S.Ct . 1166 , 185 L.Ed.2d 242 ( 2013 ) ; Lamie v. United States Trustee , 540 U.S. 526 , 536 , 124 S.Ct . 1023 , 157 L.Ed.2d 1024 ( 2004 ) .
+So it is here .
+Most importantly for present purposes , we do not see why the redundant statutory reference to § 1227(a)(2 ) should cause us to entirely rewrite § 1229b so that a noncitizen 's commission of an offense referred to in § 1182(a)(2 ) would preclude cancellation of removal only if it is also the offense of removal .
+Redundancy in one portion of a statute is not a license to rewrite or eviscerate another portion of the statute contrary to its text , as Barton would have us do .
+One final point : Barton argues in the alternative that even if inadmissibility is a status , and even if the offense that precludes cancellation of removal need not be one of the offenses of removal , the noncitizen must at least have been capable of being charged with a § 1182(a)(2 ) inadmissibility offense as the basis for removal .
+The dissent seizes on this argument as well .
+But as we have explained , this cancellation - of - removal statute is a recidivist statute that precludes cancellation of removal if the noncitizen has committed an offense listed in § 1182(a)(2 ) during the initial seven years of residence .
+Whether the offense that precludes cancellation of removal was charged or could have been charged as one of the offenses of removal is irrelevant to that analysis .
+* * *
+Removal of a lawful permanent resident from the United States is a wrenching process , especially in light of the consequences for family members .
+Removal is particularly difficult when it involves someone such as Barton who has spent most of his life in the United States .
+Congress made a choice , however , to authorize removal of noncitizens - even lawful permanent residents - who have committed certain serious crimes .
+And Congress also made a choice to categorically preclude cancellation of removal for noncitizens who have substantial criminal records .
+Congress may of course amend the law at any time .
+In the meantime , the Court is constrained to apply the law as enacted by Congress .
+Here , as the BIA explained in its 2006 Jurado - Delgado decision , and as the Second , Third , Fifth , and Eleventh Circuits have indicated , the immigration laws enacted by Congress do not allow cancellation of removal when a lawful permanent resident has amassed a criminal record of this kind .
+We affirm the judgment of the U.S. Court of Appeals for the Eleventh Circuit .
+It is so ordered .

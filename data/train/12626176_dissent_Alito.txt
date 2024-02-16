@@ -1,0 +1,621 @@
+Justice ALITO , with whom Justice THOMAS joins , dissenting .
+There is only one word for what the Court has done today : legislation .
+The document that the Court releases is in the form of a judicial opinion interpreting a statute , but that is deceptive .
+Title VII of the Civil Rights Act of 1964 prohibits employment discrimination on any of five specified grounds : " race , color , religion , sex , [ and ] national origin . "
+42 U.S.C. § 2000e-2(a)(1 ) .
+Neither " sexual orientation " nor " gender identity " appears on that list .
+For the past 45 years , bills have been introduced in Congress to add " sexual orientation " to the list , and in recent years , bills have included " gender identity " as well .
+But to date , none has passed both Houses .
+Last year , the House of Representatives passed a bill that would amend Title VII by defining sex discrimination to include both " sexual orientation " and " gender identity , " H.R. 5 , 116th Cong . , 1st Sess . ( 2019 ) , but the bill has stalled in the Senate .
+An alternative bill , H.R. 5331 , 116th Cong . , 1st Sess . ( 2019 ) , would add similar prohibitions but contains provisions to protect religious liberty .
+This bill remains before a House Subcommittee .
+Because no such amendment of Title VII has been enacted in accordance with the requirements in the Constitution ( passage in both Houses and presentment to the President , Art . I , § 7 , cl . 2 ) , Title VII 's prohibition of discrimination because of " sex " still means what it has always meant .
+But the Court is not deterred by these constitutional niceties .
+Usurping the constitutional authority of the other branches , the Court has essentially taken H.R. 5 's provision on employment discrimination and issued it under the guise of statutory interpretation .
+A more brazen abuse of our authority to interpret statutes is hard to recall .
+The Court tries to convince readers that it is merely enforcing the terms of the statute , but that is preposterous .
+Even as understood today , the concept of discrimination because of " sex " is different from discrimination because of " sexual orientation " or " gender identity . "
+And in any event , our duty is to interpret statutory terms to " mean what they conveyed to reasonable people at the time they were written . "
+A. Scalia & B. Garner , Reading Law : The Interpretation of Legal Texts 16 ( 2012 ) ( emphasis added ) .
+If every single living American had been surveyed in 1964 , it would have been hard to find any who thought that discrimination because of sex meant discrimination because of sexual orientation -- not to mention gender identity , a concept that was essentially unknown at the time .
+The Court attempts to pass off its decision as the inevitable product of the textualist school of statutory interpretation championed by our late colleague Justice Scalia , but no one should be fooled .
+The Court 's opinion is like a pirate ship .
+It sails under a textualist flag , but what it actually represents is a theory of statutory interpretation that Justice Scalia excoriated -- the theory that courts should " update " old statutes so that they better reflect the current values of society .
+See A. Scalia , A Matter of Interpretation 22 ( 1997 ) .
+If the Court finds it appropriate to adopt this theory , it should own up to what it is doing .
+Many will applaud today 's decision because they agree on policy grounds with the Court 's updating of Title VII .
+But the question in these cases is not whether discrimination because of sexual orientation or gender identity should be outlawed .
+The question is whether Congress did that in 1964 .
+It indisputably did not .
+I
+A
+Title VII , as noted , prohibits discrimination " because of ... sex , " § 2000e-2(a)(1 ) , and in 1964 , it was as clear as clear could be that this meant discrimination because of the genetic and anatomical characteristics that men and women have at the time of birth .
+Determined searching has not found a single dictionary from that time that defined " sex " to mean sexual orientation , gender identity , or " transgender status . "
+Ante , at 1737 .
+( Appendix A , infra , to this opinion includes the full definitions of " sex " in the unabridged dictionaries in use in the 1960s . )
+In all those dictionaries , the primary definition of " sex " was essentially the same as that in the then - most recent edition of Webster 's New International Dictionary 2296 ( def . 1 ) ( 2d ed . 1953 ): " [ o]ne of the two divisions of organisms formed on the distinction of male and female . "
+See also American Heritage Dictionary 1187 ( def . 1(a ) ) ( 1969 ) ( " The property or quality by which organisms are classified according to their reproductive functions " ) ; Random House Dictionary of the English Language 1307 ( def . 1 ) ( 1966 ) ( Random House Dictionary ) ( " the fact or character of being either male or female " ) ; 9 Oxford English Dictionary 577 ( def . 1 ) ( 1933 ) ( " Either of the two divisions of organic beings distinguished as male and female respectively " ) .
+The Court does not dispute that this is what " sex " means in Title VII , although it coyly suggests that there is at least some support for a different and potentially relevant definition .
+Ante , at 1739 .
+( I address alternative definitions below .
+See Part I - B-3 , infra . )
+But the Court declines to stand on that ground and instead " proceed[s ] on the assumption that ' sex ' ...
+refer[s ] only to biological distinctions between male and female . "
+Ante , at 1739 .
+If that is so , it should be perfectly clear that Title VII does not reach discrimination because of sexual orientation or gender identity .
+If " sex " in Title VII means biologically male or female , then discrimination because of sex means discrimination because the person in question is biologically male or biologically female , not because that person is sexually attracted to members of the same sex or identifies as a member of a particular gender .
+How then does the Court claim to avoid that conclusion ?
+The Court tries to cloud the issue by spending many pages discussing matters that are beside the point .
+The Court observes that a Title VII plaintiff need not show that " sex " was the sole or primary motive for a challenged employment decision or its sole or primary cause ; that Title VII is limited to discrimination with respect to a list of specified actions ( such as hiring , firing , etc . ) ; and that Title VII protects individual rights , not group rights .
+See ante , at 1739 - 1741 , 1742 .
+All that is true , but so what ?
+In cases like those before us , a plaintiff must show that sex was a " motivating factor " in the challenged employment action , 42 U.S.C. § 2000e-2(m ) , so the question we must decide comes down to this : if an individual employee or applicant for employment shows that his or her sexual orientation or gender identity was a " motivating factor " in a hiring or discharge decision , for example , is that enough to establish that the employer discriminated " because of ... sex " ?
+Or , to put the same question in different terms , if an employer takes an employment action solely because of the sexual orientation or gender identity of an employee or applicant , has that employer necessarily discriminated because of biological sex ?
+The answers to those questions must be no , unless discrimination because of sexual orientation or gender identity inherently constitutes discrimination because of sex .
+The Court attempts to prove that point , and it argues , not merely that the terms of Title VII can be interpreted that way but that they can not reasonably be interpreted any other way .
+According to the Court , the text is unambiguous .
+See ante , at 1749 - 1750 , 1751 , 1752 - 1753 .
+The arrogance of this argument is breathtaking .
+As I will show , there is not a shred of evidence that any Member of Congress interpreted the statutory text that way when Title VII was enacted .
+See Part III - B , infra .
+But the Court apparently thinks that this was because the Members were not " smart enough to realize " what its language means .
+Hively v. Ivy Tech Community College of Ind. , 853 F.3d 339 , 357 ( CA7 2017 ) ( Posner , J. , concurring ) .
+The Court seemingly has the same opinion about our colleagues on the Courts of Appeals , because until 2017 , every single Court of Appeals to consider the question interpreted Title VII 's prohibition against sex discrimination to mean discrimination on the basis of biological sex .
+See Part III - C , infra .
+And for good measure , the Court 's conclusion that Title VII unambiguously reaches discrimination on the basis of sexual orientation and gender identity necessarily means that the EEOC failed to see the obvious for the first 48 years after Title VII became law .
+Day in and day out , the Commission enforced Title VII but did not grasp what discrimination " because of ... sex " unambiguously means .
+See Part III - C , infra .
+The Court 's argument is not only arrogant , it is wrong .
+It fails on its own terms .
+" Sex , " " sexual orientation , " and " gender identity " are different concepts , as the Court concedes .
+Ante , at 1746 - 1747 ( " homosexuality and transgender status are distinct concepts from sex " ) .
+And neither " sexual orientation " nor " gender identity " is tied to either of the two biological sexes .
+See ante , at 1742 ( recognizing that " discrimination on these bases " does not have " some disparate impact on one sex or another " ) .
+Both men and women may be attracted to members of the opposite sex , members of the same sex , or members of both sexes .
+And individuals who are born with the genes and organs of either biological sex may identify with a different gender .
+Using slightly different terms , the Court asserts again and again that discrimination because of sexual orientation or gender identity inherently or necessarily entails discrimination because of sex .
+See ante , at 1737 ( When an employer " fires an individual for being homosexual or transgender , " " [ s]ex plays a necessary and undisguisable role in the decision " ) ; ante , at 1741 ( " [ I]t is impossible to discriminate against a person for being homosexual or transgender without discriminating against that individual based on sex " ) ; ante , at 1742 ( " [ W]hen an employer discriminates against homosexual or transgender employees , [ the ] employer ... inescapably intends to rely on sex in its decisionmaking " ) ; ante , at 1743 ( " For an employer to discriminate against employees for being homosexual or transgender , the employer must intentionally discriminate against individual men and women in part because of sex " ) ; ante , at 1744 ( " When an employer fires an employee for being homosexual or transgender , it necessarily and intentionally discriminates against that individual in part because of sex " ) ; ante , at 1747 ( " [ D]iscrimination based on homosexuality or transgender status necessarily entails discrimination based on sex " ) .
+But repetition of an assertion does not make it so , and the Court 's repeated assertion is demonstrably untrue .
+Contrary to the Court 's contention , discrimination because of sexual orientation or gender identity does not in and of itself entail discrimination because of sex .
+We can see this because it is quite possible for an employer to discriminate on those grounds without taking the sex of an individual applicant or employee into account .
+An employer can have a policy that says : " We do not hire gays , lesbians , or transgender individuals . "
+And an employer can implement this policy without paying any attention to or even knowing the biological sex of gay , lesbian , and transgender applicants .
+In fact , at the time of the enactment of Title VII , the United States military had a blanket policy of refusing to enlist gays or lesbians , and under this policy for years thereafter , applicants for enlistment were required to complete a form that asked whether they were " homosexual . "
+Appendix D , infra , at 1803 , 1816 .
+At oral argument , the attorney representing the employees , a prominent professor of constitutional law , was asked if there would be discrimination because of sex if an employer with a blanket policy against hiring gays , lesbians , and transgender individuals implemented that policy without knowing the biological sex of any job applicants .
+Her candid answer was that this would " not " be sex discrimination .
+And she was right .
+The attorney 's concession was necessary , but it is fatal to the Court 's interpretation , for if an employer discriminates against individual applicants or employees without even knowing whether they are male or female , it is impossible to argue that the employer intentionally discriminated because of sex .
+Contra , ante , at 1746 - 1747 .
+An employer can not intentionally discriminate on the basis of a characteristic of which the employer has no knowledge .
+And if an employer does not violate Title VII by discriminating on the basis of sexual orientation or gender identity without knowing the sex of the affected individuals , there is no reason why the same employer could not lawfully implement the same policy even if it knows the sex of these individuals .
+If an employer takes an adverse employment action for a perfectly legitimate reason - for example , because an employee stole company property - that action is not converted into sex discrimination simply because the employer knows the employee 's sex .
+As explained , a disparate treatment case requires proof of intent- i.e. , that the employee 's sex motivated the firing .
+In short , what this example shows is that discrimination because of sexual orientation or gender identity does not inherently or necessarily entail discrimination because of sex , and for that reason , the Court 's chief argument collapses .
+Trying to escape the consequences of the attorney 's concession , the Court offers its own hypothetical :
+" Suppose an employer 's application form offered a single box to check if the applicant is either black or Catholic .
+If the employer refuses to hire anyone who checks that box , would we conclude the employer has complied with Title VII , so long as it studiously avoids learning any particular applicant 's race or religion ?
+Of course not . "
+Ante , at 1746 .
+How this hypothetical proves the Court 's point is a mystery .
+A person who checked that box would presumably be black , Catholic , or both , and refusing to hire an applicant because of race or religion is prohibited by Title VII .
+Rejecting applicants who checked a box indicating that they are homosexual is entirely different because it is impossible to tell from that answer whether an applicant is male or female .
+The Court follows this strange hypothetical with an even stranger argument .
+The Court argues that an applicant could not answer the question whether he or she is homosexual without knowing something about sex .
+If the applicant was unfamiliar with the term " homosexual , " the applicant would have to look it up or ask what the term means .
+And because this applicant would have to take into account his or her sex and that of the persons to whom he or she is sexually attracted to answer the question , it follows , the Court reasons , that an employer could not reject this applicant without taking the applicant 's sex into account .
+See ante , at 1746 - 1747 .
+This is illogical .
+Just because an applicant can not say whether he or she is homosexual without knowing his or her own sex and that of the persons to whom the applicant is attracted , it does not follow that an employer can not reject an applicant based on homosexuality without knowing the applicant 's sex .
+While the Court 's imagined application form proves nothing , another hypothetical case offered by the Court is telling .
+But what it proves is not what the Court thinks .
+The Court posits :
+" Imagine an employer who has a policy of firing any employee known to be homosexual .
+The employer hosts an office holiday party and invites employees to bring their spouses .
+A model employee arrives and introduces a manager to Susan , the employee 's wife .
+Will that employee be fired ?
+If the policy works as the employer intends , the answer depends entirely on whether the model employee is a man or a woman . "
+Ante , at 1742 .
+This example disproves the Court 's argument because it is perfectly clear that the employer 's motivation in firing the female employee had nothing to do with that employee 's sex .
+The employer presumably knew that this employee was a woman before she was invited to the fateful party .
+Yet the employer , far from holding her biological sex against her , rated her a " model employee . "
+At the party , the employer learned something new , her sexual orientation , and it was this new information that motivated her discharge .
+So this is another example showing that discrimination because of sexual orientation does not inherently involve discrimination because of sex .
+In addition to the failed argument just discussed , the Court makes two other arguments , more or less in passing .
+The first of these is essentially that sexual orientation and gender identity are closely related to sex .
+The Court argues that sexual orientation and gender identity are " inextricably bound up with sex , " ante , at 1742 , and that discrimination on the basis of sexual orientation or gender identity involves the application of " sex - based rules , " ante , at 1745 - 1746 .
+This is a variant of an argument found in many of the briefs filed in support of the employees and in the lower court decisions that agreed with the Court 's interpretation .
+All these variants stress that sex , sexual orientation , and gender identity are related concepts .
+The Seventh Circuit observed that " [ i]t would require considerable calisthenics to remove ' sex ' from ' sexual orientation . ' "
+Hively , 853 F.3d at 350 .
+The Second Circuit wrote that sex is necessarily " a factor in sexual orientation " and further concluded that " sexual orientation is a function of sex . "
+883 F.3d 100 , 112 - 113 ( CA2 2018 ) ( en banc ) .
+Bostock 's brief and those of amici supporting his position contend that sexual orientation is " a sex - based consideration . "
+Other briefs state that sexual orientation is " a function of sex " or is " intrinsically related to sex . "
+Similarly , Stephens argues that sex and gender identity are necessarily intertwined : " By definition , a transgender person is someone who lives and identifies with a sex different than the sex assigned to the person at birth . "
+It is curious to see this argument in an opinion that purports to apply the purest and highest form of textualism because the argument effectively amends the statutory text .
+Title VII prohibits discrimination because of sex itself , not everything that is related to , based on , or defined with reference to , " sex . "
+Many things are related to sex .
+Think of all the nouns other than " orientation " that are commonly modified by the adjective " sexual . "
+Some examples yielded by a quick computer search are " sexual harassment , " " sexual assault , " " sexual violence , " " sexual intercourse , " and " sexual content . "
+Does the Court really think that Title VII prohibits discrimination on all these grounds ?
+Is it unlawful for an employer to refuse to hire an employee with a record of sexual harassment in prior jobs ?
+Or a record of sexual assault or violence ?
+To be fair , the Court does not claim that Title VII prohibits discrimination because of everything that is related to sex .
+The Court draws a distinction between things that are " inextricably " related and those that are related in " some vague sense . "
+Ante , at 1741 - 1742 .
+Apparently the Court would graft onto Title VII some arbitrary line separating the things that are related closely enough and those that are not .
+And it would do this in the name of high textualism .
+An additional argument made in passing also fights the text of Title VII and the policy it reflects .
+The Court proclaims that " [ a]n individual 's homosexuality or transgender status is not relevant to employment decisions . "
+Ante , at 1741 .
+That is the policy view of many people in 2020 , and perhaps Congress would have amended Title VII to implement it if this Court had not intervened .
+But that is not the policy embodied in Title VII in its current form .
+Title VII prohibits discrimination based on five specified grounds , and neither sexual orientation nor gender identity is on the list .
+As long as an employer does not discriminate based on one of the listed grounds , the employer is free to decide for itself which characteristics are " relevant to [ its ] employment decisions . "
+Ibid .
+By proclaiming that sexual orientation and gender identity are " not relevant to employment decisions , " the Court updates Title VII to reflect what it regards as 2020 values .
+The Court 's remaining argument is based on a hypothetical that the Court finds instructive .
+In this hypothetical , an employer has two employees who are " attracted to men , " and " to the employer 's mind " the two employees are " materially identical " except that one is a man and the other is a woman .
+Ante , at 1741 ( emphasis added ) .
+The Court reasons that if the employer fires the man but not the woman , the employer is necessarily motivated by the man 's biological sex .
+Ante , at 1741 - 1742 .
+After all , if two employees are identical in every respect but sex , and the employer fires only one , what other reason could there be ?
+The problem with this argument is that the Court loads the dice .
+That is so because in the mind of an employer who does not want to employ individuals who are attracted to members of the same sex , these two employees are not materially identical in every respect but sex .
+On the contrary , they differ in another way that the employer thinks is quite material .
+And until Title VII is amended to add sexual orientation as a prohibited ground , this is a view that an employer is permitted to implement .
+As noted , other than prohibiting discrimination on any of five specified grounds , " race , color , religion , sex , [ and ] national origin . "
+42 U.S.C. § 2000e-2(a)(1 ) , Title VII allows employers to decide whether two employees are " materially identical . "
+Even idiosyncratic criteria are permitted ; if an employer thinks that Scorpios make bad employees , the employer can refuse to hire Scorpios .
+Such a policy would be unfair and foolish , but under Title VII , it is permitted .
+And until Title VII is amended , so is a policy against employing gays , lesbians , or transgender individuals .
+Once this is recognized , what we have in the Court 's hypothetical case are two employees who differ in two ways -- sex and sexual orientation -- and if the employer fires one and keeps the other , all that can be inferred is that the employer was motivated either entirely by sexual orientation , entirely by sex , or in part by both .
+We can not infer with any certainty , as the hypothetical is apparently meant to suggest , that the employer was motivated even in part by sex .
+The Court harps on the fact that under Title VII a prohibited ground need not be the sole motivation for an adverse employment action , see ante , at 1741 - 1742 , 1743 - 1745 , 1747 - 1748 , but its example does not show that sex necessarily played any part in the employer 's thinking .
+The Court tries to avoid this inescapable conclusion by arguing that sex is really the only difference between the two employees .
+This is so , the Court maintains , because both employees " are attracted to men . "
+Ante , at 1741 - 1742 .
+Of course , the employer would couch its objection to the man differently .
+It would say that its objection was his sexual orientation .
+So this may appear to leave us with a battle of labels .
+If the employer 's objection to the male employee is characterized as attraction to men , it seems that he is just like the woman in all respects except sex and that the employer 's disparate treatment must be based on that one difference .
+On the other hand , if the employer 's objection is sexual orientation or homosexuality , the two employees differ in two respects , and it can not be inferred that the disparate treatment was due even in part to sex .
+The Court insists that its label is the right one , and that presumably is why it makes such a point of arguing that an employer can not escape liability under Title VII by giving sex discrimination some other name .
+See ante , at 1743 - 1744 , 1745 - 1746 .
+That is certainly true , but so is the opposite .
+Something that is not sex discrimination can not be converted into sex discrimination by slapping on that label .
+So the Court can not prove its point simply by labeling the employer 's objection as " attract[ion ] to men . "
+Ante , at 1741 - 1742 .
+Rather , the Court needs to show that its label is the correct one .
+And a labeling standoff would not help the Court because that would mean that the bare text of Title VII does not unambiguously show that its interpretation is right .
+The Court would have no justification for its stubborn refusal to look any further .
+As it turns out , however , there is no standoff .
+It can easily be shown that the employer 's real objection is not " attract[ion ] to men " but homosexual orientation .
+In an effort to prove its point , the Court carefully includes in its example just two employees , a homosexual man and a heterosexual woman , but suppose we add two more individuals , a woman who is attracted to women and a man who is attracted to women .
+( A large employer will likely have applicants and employees who fall into all four categories , and a small employer can potentially have all four as well . )
+We now have the four exemplars listed below , with the discharged employees crossed out :
+Man attracted to men
+Woman attracted to men
+Woman attracted to women
+Man attracted to women
+The discharged employees have one thing in common .
+It is not biological sex , attraction to men , or attraction to women .
+It is attraction to members of their own sex - in a word , sexual orientation .
+And that , we can infer , is the employer 's real motive .
+In sum , the Court 's textual arguments fail on their own terms .
+The Court tries to prove that " it is impossible to discriminate against a person for being homosexual or transgender without discriminating against that individual based on sex , " ante , at 1741 , but as has been shown , it is entirely possible for an employer to do just that . " [ H]omosexuality and transgender status are distinct concepts from sex , " ante , at 1746 - 1747 , and discrimination because of sexual orientation or transgender status does not inherently or necessarily constitute discrimination because of sex .
+The Court 's arguments are squarely contrary to the statutory text .
+But even if the words of Title VII did not definitively refute the Court 's interpretation , that would not justify the Court 's refusal to consider alternative interpretations .
+The Court 's excuse for ignoring everything other than the bare statutory text is that the text is unambiguous and therefore no one can reasonably interpret the text in any way other than the Court does .
+Unless the Court has met that high standard , it has no justification for its blinkered approach .
+And to say that the Court 's interpretation is the only possible reading is indefensible .
+B
+Although the Court relies solely on the arguments discussed above , several other arguments figure prominently in the decisions of the lower courts and in briefs submitted by or in support of the employees .
+The Court apparently finds these arguments unpersuasive , and so do I , but for the sake of completeness , I will address them briefly .
+1
+One argument , which relies on our decision in Price Waterhouse v. Hopkins , 490 U.S. 228 , 109 S.Ct . 1775 , 104 L.Ed.2d 268 ( 1989 ) ( plurality opinion ) , is that discrimination because of sexual orientation or gender identity violates Title VII because it constitutes prohibited discrimination on the basis of sex stereotypes .
+See 883 F.3d at 119 - 123 ; Hively , 853 F.3d at 346 ; 884 F.3d 560 , 576 - 577 ( CA6 2018 ) .
+The argument goes like this .
+Title VII prohibits discrimination based on stereotypes about the way men and women should behave ; the belief that a person should be attracted only to persons of the opposite sex and the belief that a person should identify with his or her biological sex are examples of such stereotypes ; therefore , discrimination on either of these grounds is unlawful .
+This argument fails because it is based on a faulty premise , namely , that Title VII forbids discrimination based on sex stereotypes .
+It does not .
+It prohibits discrimination because of " sex , " and the two concepts are not the same .
+See Price Waterhouse , 490 U.S. at 251 , 109 S.Ct . 1775 .
+That does not mean , however , that an employee or applicant for employment can not prevail by showing that a challenged decision was based on a sex stereotype .
+Such evidence is relevant to prove discrimination because of sex , and it may be convincing where the trait that is inconsistent with the stereotype is one that would be tolerated and perhaps even valued in a person of the opposite sex .
+See ibid .
+Much of the plaintiff 's evidence in Price Waterhouse was of this nature .
+The plaintiff was a woman who was passed over for partnership at an accounting firm , and some of the adverse comments about her work appeared to criticize her for being forceful and insufficiently " feminin[e ] . "
+Id. , at 235 - 236 , 109 S.Ct . 1775 .
+The main issue in Price Waterhouse --the proper allocation of the burdens of proof in a so - called mixed motives Title VII case - is not relevant here , but the plurality opinion , endorsed by four Justices , commented on the issue of sex stereotypes .
+The plurality observed that " sex stereotypes do not inevitably prove that gender played a part in a particular employment decision " but " can certainly be evidence that gender played a part . "
+Id. , at 251 , 109 S.Ct . 1775 .
+And the plurality made it clear that " [ t]he plaintiff must show that the employer actually relied on her gender in making its decision . "
+Ibid .
+Plaintiffs who allege that they were treated unfavorably because of their sexual orientation or gender identity are not in the same position as the plaintiff in Price Waterhouse .
+In cases involving discrimination based on sexual orientation or gender identity , the grounds for the employer 's decision - that individuals should be sexually attracted only to persons of the opposite biological sex or should identify with their biological sex - apply equally to men and women .
+" [ H]eterosexuality is not a female stereotype ; it not a male stereotype ; it is not a sexspecific stereotype at all . "
+Hively , 853 F.3d at 370 ( Sykes , J. , dissenting ) .
+To be sure , there may be cases in which a gay , lesbian , or transgender individual can make a claim like the one in Price Waterhouse .
+That is , there may be cases where traits or behaviors that some people associate with gays , lesbians , or transgender individuals are tolerated or valued in persons of one biological sex but not the other .
+But that is a different matter .
+2
+A second prominent argument made in support of the result that the Court now reaches analogizes discrimination against gays and lesbians to discrimination against a person who is married to or has an intimate relationship with a person of a different race .
+Several lower court cases have held that discrimination on this ground violates Title VII .
+See , e.g. , Holcomb v. Iona College , 521 F.3d 130 ( CA2 2008 ) ; Parr v. Woodmen of World Life Ins . Co. , 791 F.2d 888 ( CA11 1986 ) .
+And the logic of these decisions , it is argued , applies equally where an employee or applicant is treated unfavorably because he or she is married to , or has an intimate relationship with , a person of the same sex .
+This argument totally ignores the historically rooted reason why discrimination on the basis of an interracial relationship constitutes race discrimination .
+And without taking history into account , it is not easy to see how the decisions in question fit the terms of Title VII .
+Recall that Title VII makes it unlawful for an employer to discriminate against an individual " because of such individual 's race . "
+42 U.S.C. § 2000e-2(a ) ( emphasis added ) .
+So if an employer is happy to employ whites and blacks but will not employ any employee in an interracial relationship , how can it be said that the employer is discriminating against either whites or blacks " because of such individual 's race " ?
+This employer would be applying the same rule to all its employees regardless of their race .
+The answer is that this employer is discriminating on a ground that history tells us is a core form of race discrimination .
+" It would require absolute blindness to the history of racial discrimination in this country not to understand what is at stake in such cases ....
+A prohibition on ' race - mixing ' was ... grounded in bigotry against a particular race and was an integral part of preserving the rigid hierarchical distinction that denominated members of the black race as inferior to whites . "
+883 F.3d at 158 - 159 ( Lynch , J. , dissenting ) .
+Discrimination because of sexual orientation is different .
+It can not be regarded as a form of sex discrimination on the ground that applies in race cases since discrimination because of sexual orientation is not historically tied to a project that aims to subjugate either men or women .
+An employer who discriminates on this ground might be called " homophobic " or " transphobic , " but not sexist .
+See Wittmer v. Phillips 66 Co. , 915 F.3d 328 , 338 ( CA5 2019 ) ( Ho , J. , concurring ) .
+3
+The opinion of the Court intimates that the term " sex " was not universally understood in 1964 to refer just to the categories of male and female , see ante , at 1739 , and while the Court does not take up any alternative definition as a ground for its decision , I will say a word on this subject .
+As previously noted , the definitions of " sex " in the unabridged dictionaries in use in the 1960s are reproduced in Appendix A , infra .
+Anyone who examines those definitions can see that the primary definition in every one of them refers to the division of living things into two groups , male and female , based on biology , and most of the definitions further down the list are the same or very similar .
+In addition , some definitions refer to heterosexual sex acts .
+See Random House Dictionary 1307 ( " coitus , " " sexual intercourse " ( defs .
+5 - 6 ) ) ; American Heritage Dictionary , at 1187 ( " sexual intercourse " ( def . 5 ) ) .
+Aside from these , what is there ?
+One definition , " to neck passionately , " Random House Dictionary 1307 ( def . 8) , refers to sexual conduct that is not necessarily heterosexual .
+But can it be seriously argued that one of the aims of Title VII is to outlaw employment discrimination against employees , whether heterosexual or homosexual , who engage in necking ?
+And even if Title VII had that effect , that is not what is at issue in cases like those before us .
+That brings us to the two remaining subsidiary definitions , both of which refer to sexual urges or instincts and their manifestations .
+See the fourth definition in the American Heritage Dictionary , at 1187 ( " the sexual urge or instinct as it manifests itself in behavior " ) , and the fourth definition in both Webster 's Second and Third ( " [ p]henomena of sexual instincts and their manifestations , " Webster 's New International Dictionary , at 2296 ( 2d ed . ) ; Webster 's Third New International Dictionary 2081 ( 1966 ) ) .
+Since both of these come after three prior definitions that refer to men and women , they are most naturally read to have the same association , and in any event , is it plausible that Title VII prohibits discrimination based on any sexual urge or instinct and its manifestations ?
+The urge to rape ?
+Viewing all these definitions , the overwhelming impact is that discrimination because of " sex " was understood during the era when Title VII was enacted to refer to men and women .
+( The same is true of current definitions , which are reproduced in Appendix B , infra . )
+This no doubt explains why neither this Court nor any of the lower courts have tried to make much of the dictionary definitions of sex just discussed .
+II
+A
+So far , I have not looked beyond dictionary definitions of " sex , " but textualists like Justice Scalia do not confine their inquiry to the scrutiny of dictionaries .
+See Manning , Textualism and the Equity of the Statute , 101 Colum . L. Rev. 1 , 109 ( 2001 ) .
+Dictionary definitions are valuable because they are evidence of what people at the time of a statute 's enactment would have understood its words to mean .
+Ibid .
+But they are not the only source of relevant evidence , and what matters in the end is the answer to the question that the evidence is gathered to resolve : How would the terms of a statute have been understood by ordinary people at the time of enactment ?
+Justice Scalia was perfectly clear on this point .
+The words of a law , he insisted , " mean what they conveyed to reasonable people at the time . "
+Reading Law , at 16 ( emphasis added ) .
+Leading proponents of Justice Scalia 's school of textualism have expounded on this principle and explained that it is grounded on an understanding of the way language works .
+As Dean John F. Manning explains , " the meaning of language depends on the way a linguistic community uses words and phrases in context . "
+What Divides Textualists From Purposivists ? 106 Colum . L. Rev. 70 , 78 ( 2006 ) .
+" [ O]ne can make sense of others ' communications only by placing them in their appropriate social and linguistic context , " i d . , at 79 - 80 , and this is no less true of statutes than any other verbal communications .
+" [ S]tatutes convey meaning only because members of a relevant linguistic community apply shared background conventions for understanding how particular words are used in particular contexts . "
+Manning , The Absurdity Doctrine , 116 Harv . L. Rev. 2387 , 2457 ( 2003 ) .
+Therefore , judges should ascribe to the words of a statute " what a reasonable person conversant with applicable social conventions would have understood them to be adopting . "
+Manning , 106 Colum . L. Rev. , at 77 .
+Or , to put the point in slightly different terms , a judge interpreting a statute should ask " ' what one would ordinarily be understood as saying , given the circumstances in which one said it . ' "
+Manning , 116 Harv . L. Rev. , at 2397 - 2398 .
+Judge Frank Easterbrook has made the same points :
+" Words are arbitrary signs , having meaning only to the extent writers and readers share an understanding ....
+Language in general , and legislation in particular , is a social enterprise to which both speakers and listeners contribute , drawing on background understandings and the structure and circumstances of the utterance . "
+Herrmann v. Cencom Cable Assocs . , Inc. , 978 F.2d 978 , 982 ( CA7 1992 ) .
+Consequently , " [ s]licing a statute into phrases while ignoring ... the setting of the enactment ... is a formula for disaster . "
+Ibid . ; see also Continental Can Co. v. Chicago Truck Drivers , Helpers and Warehouse Workers Union ( Independent ) Pension Fund , 916 F.2d 1154 , 1157 ( CA7 1990 ) ( " You do n't have to be Ludwig Wittgenstein or Hans - Georg Gadamer to know that successful communication depends on meanings shared by interpretive communities " ) .
+Thus , when textualism is properly understood , it calls for an examination of the social context in which a statute was enacted because this may have an important bearing on what its words were understood to mean at the time of enactment .
+Textualists do not read statutes as if they were messages picked up by a powerful radio telescope from a distant and utterly unknown civilization .
+Statutes consist of communications between members of a particular linguistic community , one that existed in a particular place and at a particular time , and these communications must therefore be interpreted as they were understood by that community at that time .
+For this reason , it is imperative to consider how Americans in 1964 would have understood Title VII 's prohibition of discrimination because of sex .
+To get a picture of this , we may imagine this scene .
+Suppose that , while Title VII was under consideration in Congress , a group of average Americans decided to read the text of the bill with the aim of writing or calling their representatives in Congress and conveying their approval or disapproval .
+What would these ordinary citizens have taken " discrimination because of sex " to mean ?
+Would they have thought that this language prohibited discrimination because of sexual orientation or gender identity ?
+B
+The answer could not be clearer .
+In 1964 , ordinary Americans reading the text of Title VII would not have dreamed that discrimination because of sex meant discrimination because of sexual orientation , much less gender identity .
+The ordinary meaning of discrimination because of " sex " was discrimination because of a person 's biological sex , not sexual orientation or gender identity .
+The possibility that discrimination on either of these grounds might fit within some exotic understanding of sex discrimination would not have crossed their minds .
+1
+In 1964 , the concept of prohibiting discrimination " because of sex " was no novelty .
+It was a familiar and well - understood concept , and what it meant was equal treatment for men and women .
+Long before Title VII was adopted , many pioneering state and federal laws had used language substantively indistinguishable from Title VII 's critical phrase , " discrimination because of sex . "
+For example , the California Constitution of 1879 stipulated that no one , " on account of sex , [ could ] be disqualified from entering upon or pursuing any lawful business , vocation , or profession . "
+Art . XX , § 18 ( emphasis added ) .
+It also prohibited a student 's exclusion from any state university department " on account of sex . "
+Art . IX , § 9 ; accord , Mont. Const . , Art . XI , § 9 ( 1889 ) .
+Wyoming 's first Constitution proclaimed broadly that " [ b]oth male and female citizens of this state shall equally enjoy all civil , political and religious rights and privileges , " Art . VI , § 1 ( 1890 ) , and then provided specifically that " [ i]n none of the public schools ... shall distinction or discrimination be made on account of sex , " Art . VII , § 10 ( emphasis added ) ; see also § 16 ( the " university shall be equally open to students of both sexes " ) .
+Washington 's Constitution likewise required " ample provision for the education of all children ... without distinction or preference on account of ... sex . "
+Art . IX , § 1 ( 1889 ) ( emphasis added ) .
+The Constitution of Utah , adopted in 1895 , provided that the right to vote and hold public office " shall not be denied or abridged on account of sex . "
+Art . IV , § 1 ( emphasis added ) .
+And in the next sentence it made clear what " on account of sex " meant , stating that " [ b]oth male and female citizens ... shall enjoy equally all civil , political and religious rights and privileges . "
+Ibid .
+The most prominent example of a provision using this language was the Nineteenth Amendment , ratified in 1920 , which bans the denial or abridgment of the right to vote " on account of sex . "
+U.S. Const . , Amdt . 19 .
+Similar language appeared in the proposal of the National Woman 's Party for an Equal Rights Amendment .
+As framed in 1921 , this proposal forbade all " political , civil or legal disabilities or inequalities on account of sex , [ o]r on account of marriage . "
+Women Lawyers Meet : Representatives of 20 States Endorse Proposed Equal Rights Amendment , N. Y. Times , Sept. 16 , 1921 , p. 10 .
+Similar terms were used in the precursor to the Equal Pay Act .
+Introduced in 1944 by Congresswoman Winifred C. Stanley , it proclaimed that " [ d]iscrimination against employees , in rates of compensation paid , on account of sex " was " contrary to the public interest . "
+H.R. 5056 , 78th Cong . , 2d Sess .
+In 1952 , the new Constitution for Puerto Rico , which was approved by Congress , 66 Stat . 327 , prohibited all " discrimination ... on account of ... sex , " Art . II , Bill of Rights § 1 ( emphasis added ) , and in the landmark Immigration and Nationality Act of 1952 , Congress outlawed discrimination in naturalization " because of ... sex . "
+8 U.S.C. § 1422 ( emphasis added ) .
+In 1958 , the International Labour Organisation , a United Nations agency of which the United States is a member , recommended that nations bar employment discrimination " made on the basis of ... sex . "
+Convention ( No . 111 ) Concerning Discrimination in Respect of Employment and Occupation , Art . 1(a ) , June 25 , 1958 , 362 U. N. T. S. 32 ( emphasis added ) .
+In 1961 , President Kennedy ordered the Civil Service Commission to review and modify personnel policies " to assure that selection for any career position is hereinafter made solely on the basis of individual merit and fitness , without regard to sex . "
+He concurrently established a " Commission on the Status of Women " and directed it to recommend policies " for overcoming discriminations in government and private employment on the basis of sex . "
+Exec . Order No . 10980 , 3 CFR 138 ( 1961 Supp . ) ( emphasis added ) .
+In short , the concept of discrimination " because of , " " on account of , " or " on the basis of " sex was well understood .
+It was part of the campaign for equality that had been waged by women 's rights advocates for more than a century , and what it meant was equal treatment for men and women .
+2
+Discrimination " because of sex " was not understood as having anything to do with discrimination because of sexual orientation or transgender status .
+Any such notion would have clashed in spectacular fashion with the societal norms of the day .
+For most 21st - century Americans , it is painful to be reminded of the way our society once treated gays and lesbians , but any honest effort to understand what the terms of Title VII were understood to mean when enacted must take into account the societal norms of that time .
+And the plain truth is that in 1964 homosexuality was thought to be a mental disorder , and homosexual conduct was regarded as morally culpable and worthy of punishment .
+In its then - most recent Diagnostic and Statistical Manual of Mental Disorders ( 1952 ) ( DSM - I ) , the American Psychiatric Association ( APA ) classified same - sex attraction as a " sexual deviation , " a particular type of " sociopathic personality disturbance , "
+i d. , at 38 - 39 , and the next edition , issued in 1968 , similarly classified homosexuality as a " sexual deviatio[n ] , " Diagnostic and Statistical Manual of Mental Disorders 44 ( 2d ed . ) ( DSM - II ) .
+It was not until the sixth printing of the DSM - II in 1973 that this was changed .
+Society 's treatment of homosexuality and homosexual conduct was consistent with this understanding .
+Sodomy was a crime in every State but Illinois , see W. Eskridge , Dishonorable Passions 387 - 407 ( 2008 ) , and in the District of Columbia , a law enacted by Congress made sodomy a felony punishable by imprisonment for up to 10 years and permitted the indefinite civil commitment of " sexual psychopath[s ] , " Act of June 9 , 1948 , § § 104 , 201 - 207 , 62 Stat . 347 -349 .
+This view of homosexuality was reflected in the rules governing the federal work force .
+In 1964 , federal " [ a]gencies could deny homosexual men and women employment because of their sexual orientation , " and this practice continued until 1975 .
+GAO , D. Heivilin , Security Clearances : Consideration of Sexual Orientation in the Clearance Process 2 ( GAO / NSIAD-95 - 21 , 1995 ) .
+See , e.g. , Anonymous v. Macy , 398 F.2d 317 , 318 ( CA5 1968 ) ( affirming dismissal of postal employee for homosexual acts ) .
+In 1964 , individuals who were known to be homosexual could not obtain security clearances , and any who possessed clearances were likely to lose them if their orientation was discovered .
+A 1953 Executive Order provided that background investigations should look for evidence of " sexual perversion , " as well as " [ a]ny criminal , infamous , dishonest , immoral , or notoriously disgraceful conduct . "
+Exec . Order No . 10450 , § 8(a)(1)(iii ) , 3 CFR 938 ( 1949 - 1953 Comp . ) .
+" Until about 1991 , when agencies began to change their security policies and practices regarding sexual orientation , there were a number of documented cases where defense civilian or contractor employees ' security clearances were denied or revoked because of their sexual orientation . "
+GAO , Security Clearances , at 2 .
+See , e.g. , Adams v. Laird , 420 F.2d 230 , 240 ( CADC 1969 ) ( upholding denial of security clearance to defense contractor employee because he had " engaged in repeated homosexual acts " ) ; see also Webster v. Doe , 486 U.S. 592 , 595 , 601 , 108 S.Ct . 2047 , 100 L.Ed.2d 632 ( 1988 ) ( concluding that decision to fire a particular individual because he was homosexual fell within the " discretion " of the Director of Central Intelligence under the National Security Act of 1947 and thus was unreviewable under the APA ) .
+The picture in state employment was similar .
+In 1964 , it was common for States to bar homosexuals from serving as teachers .
+An article summarizing the situation 15 years after Title VII became law reported that " [ a]ll states have statutes that permit the revocation of teaching certificates ( or credentials ) for immorality , moral turpitude , or unprofessionalism , " and , the survey added , " [ h]omosexuality is considered to fall within all three categories . "
+The situation in California is illustrative .
+California laws prohibited individuals who engaged in " immoral conduct " ( which was construed to include homosexual behavior ) , as well as those convicted of " sex offenses " ( like sodomy ) , from employment as teachers .
+Cal . Educ . Code Ann . § § 13202 , 13207 , 13209 , 13218 , 13255 ( West 1960 ) .
+The teaching certificates of individuals convicted of engaging in homosexual acts were revoked .
+See , e.g. , Sarac v. State Bd . of Ed . , 249 Cal . App.2d 58 , 62 - 64 , 57 Cal . Rptr . 69 , 72 - 73 ( 1967 ) ( upholding revocation of secondary teaching credential from teacher who was convicted of engaging in homosexual conduct on public beach ) , overruled in part , Morrison v. State Bd . of Ed . , 1 Cal.3d 214 , 461 P.2d 375 , 82 Cal . Rptr . 175 ( 1969 ) .
+In Florida , the legislature enacted laws authorizing the revocation of teaching certificates for " misconduct involving moral turpitude , " Fla. Stat . Ann . § 229.08 ( 16 ) ( 1961 ) , and this law was used to target homosexual conduct .
+In 1964 , a legislative committee was wrapping up a 6 - year campaign to remove homosexual teachers from public schools and state universities .
+As a result of these efforts , the state board of education apparently revoked at least 71 teachers ' certificates and removed at least 14 university professors .
+Eskridge , Dishonorable Passions , at 103 .
+Individuals who engaged in homosexual acts also faced the loss of other occupational licenses , such as those needed to work as a " lawyer , doctor , mortician , [ or ] beautician . "
+See , e.g. , Florida Bar v. Kay , 232 So.2d 378 ( Fla. 1970 ) ( attorney disbarred after conviction for homosexual conduct in public bathroom ) .
+In 1964 and for many years thereafter , homosexuals were barred from the military .
+See , e.g. , Army Reg . 635 - 89 , § I(2 ) ( a ) ( July 15 , 1966 ) ( " Personnel who voluntarily engage in homosexual acts , irrespective of sex , will not be permitted to serve in the Army in any capacity , and their prompt separation is mandatory " ) ; Army Reg . 600 - 443 , § I(2 ) ( April 10 , 1953 ) ( similar ) .
+Prohibitions against homosexual conduct by members of the military were not eliminated until 2010 .
+See Do n't Ask , Do n't Tell Repeal Act of 2010 , 124 Stat . 3515 ( repealing 10 U.S.C. § 654 , which required members of the Armed Forces to be separated for engaging in homosexual conduct ) .
+Homosexuals were also excluded from entry into the United States .
+The Immigration and Nationality Act of 1952 ( INA ) excluded aliens " afflicted with psychopathic personality . "
+8 U.S.C. § 1182 ( a)(4 ) ( 1964 ed . ) .
+In Boutilier v. INS , 387 U.S. 118 , 120 - 123 , 87 S.Ct . 1563 , 18 L.Ed.2d 661 ( 1967 ) , this Court , relying on the INA 's legislative history , interpreted that term to encompass homosexuals and upheld an alien 's deportation on that ground .
+Three Justices disagreed with the majority 's interpretation of the phrase " psychopathic personality . "
+But it apparently did not occur to anyone to argue that the Court 's interpretation was inconsistent with the INA 's express prohibition of discrimination " because of sex . "
+That was how our society - and this Court - saw things a half century ago .
+Discrimination because of sex and discrimination because of sexual orientation were viewed as two entirely different concepts .
+To its credit , our society has now come to recognize the injustice of past practices , and this recognition provides the impetus to " update " Title VII .
+But that is not our job .
+Our duty is to understand what the terms of Title VII were understood to mean when enacted , and in doing so , we must take into account the societal norms of that time .
+We must therefore ask whether ordinary Americans in 1964 would have thought that discrimination because of " sex " carried some exotic meaning under which private - sector employers would be prohibited from engaging in a practice that represented the official policy of the Federal Government with respect to its own employees .
+We must ask whether Americans at that time would have thought that Title VII banned discrimination against an employee for engaging in conduct that Congress had made a felony and a ground for civil commitment .
+The questions answer themselves .
+Even if discrimination based on sexual orientation or gender identity could be squeezed into some arcane understanding of sex discrimination , the context in which Title VII was enacted would tell us that this is not what the statute 's terms were understood to mean at that time .
+To paraphrase something Justice Scalia once wrote , " our job is not to scavenge the world of English usage to discover whether there is any possible meaning " of discrimination because of sex that might be broad enough to encompass discrimination because of sexual orientation or gender identity .
+Chisom v. Roemer , 501 U.S. 380 , 410 , 111 S.Ct . 2354 , 115 L.Ed.2d 348 ( 1991 ) ( dissenting opinion ) .
+Without strong evidence to the contrary ( and there is none here ) , our job is to ascertain and apply the " ordinary meaning " of the statute .
+Ibid .
+And in 1964 , ordinary Americans most certainly would not have understood Title VII to ban discrimination because of sexual orientation or gender identity .
+The Court makes a tiny effort to suggest that at least some people in 1964 might have seen what Title VII really means .
+Ante , at 1750 - 1751 .
+What evidence does it adduce ?
+One complaint filed in 1969 , another filed in 1974 , and arguments made in the mid-1970s about the meaning of the Equal Rights Amendment .
+Ibid .
+To call this evidence merely feeble would be generous .
+C
+While Americans in 1964 would have been shocked to learn that Congress had enacted a law prohibiting sexual orientation discrimination , they would have been bewildered to hear that this law also forbids discrimination on the basis of " transgender status " or " gender identity , " terms that would have left people at the time scratching their heads .
+The term " transgender " is said to have been coined " ' in the early 1970s , ' " and the term " gender identity , " now understood to mean " [ a]n internal sense of being male , female or something else , " apparently first appeared in an academic article in 1964 .
+Certainly , neither term was in common parlance ; indeed , dictionaries of the time still primarily defined the word " gender " by reference to grammatical classifications .
+See , e.g. , American Heritage Dictionary , at 548 ( def . 1(a ) ) ( " Any set of two or more categories , such as masculine , feminine , and neuter , into which words are divided ... and that determine agreement with or the selection of modifiers , referents , or grammatical forms " ) .
+While it is likely true that there have always been individuals who experience what is now termed " gender dysphoria , " i.e. , " [ d]iscomfort or distress related to an incongruence between an individual 's gender identity and the gender assigned at birth , " the current understanding of the concept postdates the enactment of Title VII .
+Nothing resembling what is now called gender dysphoria appeared in either DSM - I ( 1952 ) or DSM - II ( 1968 ) .
+It was not until 1980 that the APA , in DSM - III , recognized two main psychiatric diagnoses related to this condition , " Gender Identity Disorder of Childhood " and " Transsexualism " in adolescents and adults .
+DSM - III , at 261 - 266 .
+The first widely publicized sex reassignment surgeries in the United States were not performed until 1966 , and the great majority of physicians surveyed in 1969 thought that an individual who sought sex reassignment surgery was either " ' severely neurotic ' " or " ' psychotic . ' "
+It defies belief to suggest that the public meaning of discrimination because of sex in 1964 encompassed discrimination on the basis of a concept that was essentially unknown to the public at that time .
+D
+1
+The Court 's main excuse for entirely ignoring the social context in which Title VII was enacted is that the meaning of Title VII 's prohibition of discrimination because of sex is clear , and therefore it simply does not matter whether people in 1964 were " smart enough to realize " what its language means .
+Hively , 853 F.3d at 357 ( Posner , J. , concurring ) .
+According to the Court , an argument that looks to the societal norms of those times represents an impermissible attempt to displace the statutory language .
+Ante , at 1750 - 1751 .
+The Court 's argument rests on a false premise .
+As already explained at length , the text of Title VII does not prohibit discrimination because of sexual orientation or gender identity .
+And what the public thought about those issues in 1964 is relevant and important , not because it provides a ground for departing from the statutory text , but because it helps to explain what the text was understood to mean when adopted .
+In arguing that we must put out of our minds what we know about the time when Title VII was enacted , the Court relies on Justice Scalia 's opinion for the Court in Oncale v. Sundowner Offshore Services , Inc. , 523 U.S. 75 , 118 S.Ct . 998 , 140 L.Ed.2d 201 ( 1998 ) .
+But Oncale is nothing like these cases , and no one should be taken in by the majority 's effort to enlist Justice Scalia in its updating project .
+The Court 's unanimous decision in Oncale was thoroughly unremarkable .
+The Court held that a male employee who alleged that he had been sexually harassed at work by other men stated a claim under Title VII .
+Although the impetus for Title VII 's prohibition of sex discrimination was to protect women , anybody reading its terms would immediately appreciate that it applies equally to both sexes , and by the time Oncale reached the Court , our precedent already established that sexual harassment may constitute sex discrimination within the meaning of Title VII .
+See Meritor Savings Bank , FSB v. Vinson , 477 U.S. 57 , 106 S.Ct . 2399 , 91 L.Ed.2d 49 ( 1986 ) .
+Given these premises , syllogistic reasoning dictated the holding .
+What today 's decision latches onto are Oncale 's comments about whether " ' male - on - male sexual harassment ' " was on Congress 's mind when it enacted Title VII .
+Ante , at 1751 ( quoting 523 U.S. at 79 , 118 S.Ct . 998 ) .
+The Court in Oncale observed that this specific type of behavior " was assuredly not the principal evil Congress was concerned with when it enacted Title VII , " but it found that immaterial because " statutory prohibitions often go beyond the principal evil to cover reasonably comparable evils , and it is ultimately the provisions of our laws rather than the principal concerns of our legislators by which we are governed . "
+523 U.S. at 79 , 118 S.Ct . 998 ( emphasis added ) .
+It takes considerable audacity to read these comments as committing the Court to a position on deep philosophical questions about the meaning of language and their implications for the interpretation of legal rules .
+These comments are better understood as stating mundane and uncontroversial truths .
+Who would argue that a statute applies only to the " principal evils " and not lesser evils that fall within the plain scope of its terms ?
+Would even the most ardent " purposivists " and fans of legislative history contend that congressional intent is restricted to Congress 's " principal concerns " ?
+Properly understood , Oncale does not provide the slightest support for what the Court has done today .
+For one thing , it would be a wild understatement to say that discrimination because of sexual orientation and transgender status was not the " principal evil " on Congress 's mind in 1964 .
+Whether we like to admit it now or not , in the thinking of Congress and the public at that time , such discrimination would not have been evil at all .
+But the more important difference between these cases and Oncale is that here the interpretation that the Court adopts does not fall within the ordinary meaning of the statutory text as it would have been understood in 1964 .
+To decide for the defendants in Oncale , it would have been necessary to carve out an exception to the statutory text .
+Here , no such surgery is at issue .
+Even if we totally disregard the societal norms of 1964 , the text of Title VII does not support the Court 's holding .
+And the reasoning of Oncale does not preclude or counsel against our taking those norms into account .
+They are relevant , not for the purpose of creating an exception to the terms of the statute , but for the purpose of better appreciating how those terms would have been understood at the time .
+2
+The Court argues that two other decisions-- Phillips v. Martin Marietta Corp. , 400 U.S. 542 , 91 S.Ct . 496 , 27 L.Ed.2d 613 ( 1971 ) ( per curiam ) , and Los Angeles Dept . of Water and Power v. Manhart , 435 U.S. 702 , 98 S.Ct . 1370 , 55 L.Ed.2d 657 ( 1978 ) --buttress its decision , but those cases merely held that Title VII prohibits employer conduct that plainly constitutes discrimination because of biological sex .
+In Philips , the employer treated women with young children less favorably than men with young children .
+In Manhart , the employer required women to make larger pension contributions than men .
+It is hard to see how these holdings assist the Court .
+The Court extracts three " lessons " from Phillips , Manhart , and Oncale , but none sheds any light on the question before us .
+The first lesson is that " it 's irrelevant what an employer might call its discriminatory practice , how others might label it , or what else might motivate it . "
+Ante , at 1744 .
+This lesson is obviously true but proves nothing .
+As to the label attached to a practice , has anyone ever thought that the application of a law to a person 's conduct depends on how it is labeled ?
+Could a bank robber escape conviction by saying he was engaged in asset enhancement ?
+So if an employer discriminates because of sex , the employer is liable no matter what it calls its conduct , but if the employer 's conduct is not sex discrimination , the statute does not apply .
+Thus , this lesson simply takes us back to the question whether discrimination because of sexual orientation or gender identity is a form of discrimination because of biological sex .
+For reasons already discussed , see Part I - A , supra , it is not .
+It likewise proves nothing of relevance here to note that an employer can not escape liability by showing that discrimination on a prohibited ground was not its sole motivation .
+So long as a prohibited ground was a motivating factor , the existence of other motivating factors does not defeat liability .
+The Court makes much of the argument that " [ i]n Phillips , the employer could have accurately spoken of its policy as one based on ' motherhood . ' "
+Ante , at 1744 ; see also ante , at 1745 .
+But motherhood , by definition , is a condition that can be experienced only by women , so a policy that distinguishes between motherhood and parenthood is necessarily a policy that draws a sex - based distinction .
+There was sex discrimination in Phillips , because women with children were treated disadvantageously compared to men with children .
+Lesson number two-"the plaintiff 's sex need not be the sole or primary cause of the employer 's adverse action , " ante , at 1744 - is similarly unhelpful .
+The standard of causation in these cases is whether sex is necessarily a " motivating factor " when an employer discriminates on the basis of sexual orientation or gender identity .
+42 U.S.C. § 2000e-2(m ) .
+But the essential question - whether discrimination because of sexual orientation or gender identity constitutes sex discrimination - would be the same no matter what causation standard applied .
+The Court 's extensive discussion of causation standards is so much smoke .
+Lesson number three--"an employer can not escape liability by demonstrating that it treats males and females comparably as groups , " ante , at 1744 , is also irrelevant .
+There is no dispute that discrimination against an individual employee based on that person 's sex can not be justified on the ground that the employer 's treatment of the average employee of that sex is at least as favorable as its treatment of the average employee of the opposite sex .
+Nor does it matter if an employer discriminates against only a subset of men or women , where the same subset of the opposite sex is treated differently , as in Phillips .
+That is not the issue here .
+An employer who discriminates equally on the basis of sexual orientation or gender identity applies the same criterion to every affected individual regardless of sex .
+See Part I - A , supra .
+III
+A
+Because the opinion of the Court flies a textualist flag , I have taken pains to show that it can not be defended on textualist grounds .
+But even if the Court 's textualist argument were stronger , that would not explain today 's decision .
+Many Justices of this Court , both past and present , have not espoused or practiced a method of statutory interpretation that is limited to the analysis of statutory text .
+Instead , when there is ambiguity in the terms of a statute , they have found it appropriate to look to other evidence of " congressional intent , " including legislative history .
+So , why in these cases are congressional intent and the legislative history of Title VII totally ignored ?
+Any assessment of congressional intent or legislative history seriously undermines the Court 's interpretation .
+B
+As the Court explained in General Elec . Co. v. Gilbert , 429 U.S. 125 , 143 , 97 S.Ct . 401 , 50 L.Ed.2d 343 ( 1976 ) , the legislative history of Title VII 's prohibition of sex discrimination is brief , but it is nevertheless revealing .
+The prohibition of sex discrimination was " added to Title VII at the last minute on the floor of the House of Representatives , " Meritor Savings Bank , 477 U.S. at 63 , 106 S.Ct . 2399 , by Representative Howard Smith , the Chairman of the Rules Committee .
+See 110 Cong . Rec . 2577 ( 1964 ) .
+Representative Smith had been an ardent opponent of the civil rights bill , and it has been suggested that he added the prohibition against discrimination on the basis of " sex " as a poison pill .
+See , e.g. , Ulane v. Eastern Airlines , Inc. , 742 F.2d 1081 , 1085 ( CA7 1984 ) .
+On this theory , Representative Smith thought that prohibiting employment discrimination against women would be unacceptable to Members who might have otherwise voted in favor of the bill and that the addition of this prohibition might bring about the bill 's defeat .
+But if Representative Smith had been looking for a poison pill , prohibiting discrimination on the basis of sexual orientation or gender identity would have been far more potent .
+However , neither Representative Smith nor any other Member said one word about the possibility that the prohibition of sex discrimination might have that meaning .
+Instead , all the debate concerned discrimination on the basis of biological sex .
+See 110 Cong . Rec . 2577 - 2584 .
+Representative Smith 's motivations are contested , 883 F.3d at 139 - 140 ( Lynch , J. , dissenting ) , but whatever they were , the meaning of the adoption of the prohibition of sex discrimination is clear .
+It was no accident .
+It grew out of " a long history of women 's rights advocacy that had increasingly been gaining mainstream recognition and acceptance , " and it marked a landmark achievement in the path toward fully equal rights for women .
+Id. , at 140 .
+" Discrimination against gay women and men , by contrast , was not on the table for public debate ... [ i]n those dark , pre - Stonewall days . "
+Ibid .
+For those who regard congressional intent as the touchstone of statutory interpretation , the message of Title VII 's legislative history can not be missed .
+C
+Post - enactment events only clarify what was apparent when Title VII was enacted .
+As noted , bills to add " sexual orientation " to Title VII 's list of prohibited grounds were introduced in every Congress beginning in 1975 , see supra , at 1754 - 1755 , and two such bills were before Congress in 1991 when it made major changes in Title VII .
+At that time , the three Courts of Appeals to reach the issue had held that Title VII does not prohibit discrimination because of sexual orientation , two other Circuits had endorsed that interpretation in dicta , and no Court of Appeals had held otherwise .
+Similarly , the three Circuits to address the application of Title VII to transgender persons had all rejected the argument that it covered discrimination on this basis .
+These were also the positions of the EEOC .
+In enacting substantial changes to Title VII , the 1991 Congress abrogated numerous judicial decisions with which it disagreed .
+If it also disagreed with the decisions regarding sexual orientation and transgender discrimination , it could have easily overruled those as well , but it did not do so .
+After 1991 , six other Courts of Appeals reached the issue of sexual orientation discrimination , and until 2017 , every single Court of Appeals decision understood Title VII 's prohibition of " discrimination because of sex " to mean discrimination because of biological sex .
+See , e.g. , Higgins v. New Balance Athletic Shoe , Inc. , 194 F.3d 252 , 259 ( CA1 1999 ) ; Simonton v. Runyon , 232 F.3d 33 , 36 ( CA2 2000 ) ; Bibby v. Philadelphia Coca Cola Bottling Co. , 260 F.3d 257 , 261 ( CA3 2001 ) , cert .
+denied , 534 U.S. 1155 , 122 S.Ct . 1126 , 151 L.Ed.2d 1018 ( 2002 ) ; Wrightson v. Pizza Hut of Am . , Inc. , 99 F.3d 138 , 143 ( CA4 1996 ) ; Hamm v. Weyauwega Milk Products , Inc. , 332 F.3d 1058 , 1062 ( CA7 2003 ) ; Medina v. Income Support Div . , N. M. , 413 F.3d 1131 , 1135 ( CA10 2005 ) ; Evans v. Georgia Regional Hospital , 850 F.3d 1248 , 1255 ( CA11 ) , cert .
+denied , 583 U.S. ---- , 138 S.Ct . 557 , 199 L.Ed.2d 446 ( 2017 ) .
+Similarly , the other Circuit to formally address whether Title VII applies to claims of discrimination based on transgender status had also rejected the argument , creating unanimous consensus prior to the Sixth Circuit 's decision below .
+See Etsitty v. Utah Transit Authority , 502 F.3d 1215 , 1220 - 1221 ( CA10 2007 ) .
+The Court observes that " [ t]he people are entitled to rely on the law as written , without fearing that courts might disregard its plain terms , " ante , at 1749 , but it has no qualms about disregarding over 50 years of uniform judicial interpretation of Title VII 's plain text .
+Rather , the Court makes the jaw - dropping statement that its decision exemplifies " judicial humility . "
+Ante , at 1753 .
+Is it humble to maintain , not only that Congress did not understand the terms it enacted in 1964 , but that all the Circuit Judges on all the pre-2017 cases could not see what the phrase discrimination " because of sex " really means ?
+If today 's decision is humble , it is sobering to imagine what the Court might do if it decided to be bold .
+IV
+What the Court has done today -- interpreting discrimination because of " sex " to encompass discrimination because of sexual orientation or gender identity -- is virtually certain to have far - reaching consequences .
+Over 100 federal statutes prohibit discrimination because of sex .
+See Appendix C , infra ; e.g. , 20 U.S.C. § 1681 ( a ) ( Title IX ) ; 42 U.S.C. § 3631 ( Fair Housing Act ) ; 15 U.S.C. 1691(a)(1 ) ( Equal Credit Opportunity Act ) .
+The briefs in these cases have called to our attention the potential effects that the Court 's reasoning may have under some of these laws , but the Court waves those considerations aside .
+As to Title VII itself , the Court dismisses questions about " bathrooms , locker rooms , or anything else of the kind . "
+Ante , at 1753 .
+And it declines to say anything about other statutes whose terms mirror Title VII 's .
+The Court 's brusque refusal to consider the consequences of its reasoning is irresponsible .
+If the Court had allowed the legislative process to take its course , Congress would have had the opportunity to consider competing interests and might have found a way of accommodating at least some of them .
+In addition , Congress might have crafted special rules for some of the relevant statutes .
+But by intervening and proclaiming categorically that employment discrimination based on sexual orientation or gender identity is simply a form of discrimination because of sex , the Court has greatly impeded - and perhaps effectively ended - any chance of a bargained legislative resolution .
+Before issuing today 's radical decision , the Court should have given some thought to where its decision would lead .
+As the briefing in these cases has warned , the position that the Court now adopts will threaten freedom of religion , freedom of speech , and personal privacy and safety .
+No one should think that the Court 's decision represents an unalloyed victory for individual liberty .
+I will briefly note some of the potential consequences of the Court 's decision , but I do not claim to provide a comprehensive survey or to suggest how any of these issues should necessarily play out under the Court 's reasoning .
+" [ B]athrooms , locker rooms , [ and other things ] of [ that ] kind . "
+The Court may wish to avoid this subject , but it is a matter of concern to many people who are reticent about disrobing or using toilet facilities in the presence of individuals whom they regard as members of the opposite sex .
+For some , this may simply be a question of modesty , but for others , there is more at stake .
+For women who have been victimized by sexual assault or abuse , the experience of seeing an unclothed person with the anatomy of a male in a confined and sensitive location such as a bathroom or locker room can cause serious psychological harm .
+Under the Court 's decision , however , transgender persons will be able to argue that they are entitled to use a bathroom or locker room that is reserved for persons of the sex with which they identify , and while the Court does not define what it means by a transgender person , the term may apply to individuals who are " gender fluid , " that is , individuals whose gender identity is mixed or changes over time .
+Thus , a person who has not undertaken any physical transitioning may claim the right to use the bathroom or locker room assigned to the sex with which the individual identifies at that particular time .
+The Court provides no clue why a transgender person 's claim to such bathroom or locker room access might not succeed .
+A similar issue has arisen under Title IX , which prohibits sex discrimination by any elementary or secondary school and any college or university that receives federal financial assistance .
+In 2016 , a Department of Justice advisory warned that barring a student from a bathroom assigned to individuals of the gender with which the student identifies constitutes unlawful sex discrimination , and some lower court decisions have agreed .
+See Whitaker v. Kenosha Unified School Dist . No . 1 Bd . of Ed . , 858 F.3d 1034 , 1049 ( CA7 2017 ) ; G. G. v. Gloucester Cty . School Bd . , 822 F.3d 709 , 715 ( CA4 2016 ) , vacated and remanded , 580 U.S. ---- , 137 S.Ct . 1239 , 197 L.Ed.2d 460 ( 2017 ) ; Adams v. School Bd . of St. Johns Cty . , 318 F.Supp.3d 1293 , 1325 ( MD Fla. 2018 ) ; cf . Doe v. Boyertown Area School Dist . , 897 F.3d 518 , 533 ( CA3 2018 ) , cert . denied , 587 U.S. ---- , 139 S.Ct . 2636 , 204 L.Ed.2d 300 ( 2019 ) .
+Women 's sports .
+Another issue that may come up under both Title VII and Title IX is the right of a transgender individual to participate on a sports team or in an athletic competition previously reserved for members of one biological sex .
+This issue has already arisen under Title IX , where it threatens to undermine one of that law 's major achievements , giving young women an equal opportunity to participate in sports .
+The effect of the Court 's reasoning may be to force young women to compete against students who have a very significant biological advantage , including students who have the size and strength of a male but identify as female and students who are taking male hormones in order to transition from female to male .
+See , e.g. , Complaint in Soule v. Connecticut Assn . of Schools , No . 3:20 - cv-00201 ( D Conn. , Apr. 17 , 2020 ) ( challenging Connecticut policy allowing transgender students to compete in girls ' high school sports ) ; Complaint in Hecox v. Little , No . 1:20 - cv-00184 ( D Idaho , Apr. 15 , 2020 ) ( challenging state law that bars transgender students from participating in school sports in accordance with gender identity ) .
+Students in these latter categories have found success in athletic competitions reserved for females .
+The logic of the Court 's decision could even affect professional sports .
+Under the Court 's holding that Title VII prohibits employment discrimination because of transgender status , an athlete who has the physique of a man but identifies as a woman could claim the right to play on a women 's professional sports team .
+The owners of the team might try to claim that biological sex is a bona fide occupational qualification ( BFOQ ) under 42 U.S.C. § 2000e-2(e ) , but the BFOQ exception has been read very narrowly .
+See Dothard v. Rawlinson , 433 U.S. 321 , 334 , 97 S.Ct . 2720 , 53 L.Ed.2d 786 ( 1977 ) .
+Housing .
+The Court 's decision may lead to Title IX cases against any college that resists assigning students of the opposite biological sex as roommates .
+A provision of Title IX , 20 U.S.C. § 1686 , allows schools to maintain " separate living facilities for the different sexes , " but it may be argued that a student 's " sex " is the gender with which the student identifies .
+Similar claims may be brought under the Fair Housing Act .
+See 42 U.S.C. § 3604 .
+Employment by religious organizations .
+Briefs filed by a wide range of religious groups -- Christian , Jewish , and Muslim -- express deep concern that the position now adopted by the Court " will trigger open conflict with faithbased employment practices of numerous churches , synagogues , mosques , and other religious institutions . "
+They argue that " [ r]eligious organizations need employees who actually live the faith , " and that compelling a religious organization to employ individuals whose conduct flouts the tenets of the organization 's faith forces the group to communicate an objectionable message .
+This problem is perhaps most acute when it comes to the employment of teachers .
+A school 's standards for its faculty " communicate a particular way of life to its students , " and a " violation by the faculty of those precepts " may undermine the school 's " moral teaching . "
+Thus , if a religious school teaches that sex outside marriage and sex reassignment procedures are immoral , the message may be lost if the school employs a teacher who is in a same - sex relationship or has undergone or is undergoing sex reassignment .
+Yet today 's decision may lead to Title VII claims by such teachers and applicants for employment .
+At least some teachers and applicants for teaching positions may be blocked from recovering on such claims by the " ministerial exception " recognized in Hosanna - Tabor Evangelical Lutheran Church and School v. EEOC , 565 U.S. 171 , 132 S.Ct . 694 , 181 L.Ed.2d 650 ( 2012 ) .
+Two cases now pending before the Court present the question whether teachers who provide religious instruction can be considered to be " ministers . "
+But even if teachers with those responsibilities qualify , what about other very visible school employees who may not qualify for the ministerial exception ?
+Provisions of Title VII provide exemptions for certain religious organizations and schools " with respect to the employment of individuals of a particular religion to perform work connected with the carrying on " of the " activities " of the organization or school , 42 U.S.C. § 2000e-1(a ) ; see also § 2000e-2(e)(2 ) , but the scope of these provisions is disputed , and as interpreted by some lower courts , they provide only narrow protection .
+Healthcare .
+Healthcare benefits may emerge as an intense battleground under the Court 's holding .
+Transgender employees have brought suit under Title VII to challenge employer - provided health insurance plans that do not cover costly sex reassignment surgery .
+Similar claims have been brought under the Affordable Care Act ( ACA ) , which broadly prohibits sex discrimination in the provision of healthcare .
+Such claims present difficult religious liberty issues because some employers and healthcare providers have strong religious objections to sex reassignment procedures , and therefore requiring them to pay for or to perform these procedures will have a severe impact on their ability to honor their deeply held religious beliefs .
+Freedom of speech .
+The Court 's decision may even affect the way employers address their employees and the way teachers and school officials address students .
+Under established English usage , two sets of sex - specific singular personal pronouns are used to refer to someone in the third person ( he , him , and his for males ; she , her , and hers for females ) .
+But several different sets of gender - neutral pronouns have now been created and are preferred by some individuals who do not identify as falling into either of the two traditional categories .
+Some jurisdictions , such as New York City , have ordinances making the failure to use an individual 's preferred pronoun a punishable offense , and some colleges have similar rules .
+After today 's decision , plaintiffs may claim that the failure to use their preferred pronoun violates one of the federal laws prohibiting sex discrimination .
+See Prescott v. Rady Children 's Hospital San Diego , 265 F.Supp.3d 1090 , 1098 - 1100 ( SD Cal . 2017 ) ( hospital staff 's refusal to use preferred pronoun violates ACA ) .
+The Court 's decision may also pressure employers to suppress any statements by employees expressing disapproval of same - sex relationships and sex reassignment procedures .
+Employers are already imposing such restrictions voluntarily , and after today 's decisions employers will fear that allowing employees to express their religious views on these subjects may give rise to Title VII harassment claims .
+Constitutional claims .
+Finally , despite the important differences between the Fourteenth Amendment and Title VII , the Court 's decision may exert a gravitational pull in constitutional cases .
+Under our precedents , the Equal Protection Clause prohibits sex - based discrimination unless a " heightened " standard of review is met .
+Sessions v. Morales - Santana , 582 U.S. ---- , ---- , 137 S.Ct . 1678 , 1689 , 198 L.Ed.2d 150 ( 2017 ) ; United States v. Virginia , 518 U.S. 515 , 532 - 534 , 116 S.Ct . 2264 , 135 L.Ed.2d 735 ( 1996 ) .
+By equating discrimination because of sexual orientation or gender identity with discrimination because of sex , the Court 's decision will be cited as a ground for subjecting all three forms of discrimination to the same exacting standard of review .
+Under this logic , today 's decision may have effects that extend well beyond the domain of federal antidiscrimination statutes .
+This potential is illustrated by pending and recent lower court cases in which transgender individuals have challenged a variety of federal , state , and local laws and policies on constitutional grounds .
+See , e.g. , Complaint in Hecox , No . 1 : 20 - CV-00184 ( state law prohibiting transgender students from competing in school sports in accordance with their gender identity ) ; Second Amended Complaint in Karnoski v. Trump , No . 2:17 - cv-01297 ( WD Wash. , July 31 , 2019 ) ( military 's ban on transgender members ) ; Kadel v. Folwell , ---- F. Supp . 3d ---- , ---- - ---- , 2020 WL 1169271 , * 10-*11 ( MDNC , Mar. 11 , 2020 ) ( state health plan 's exclusion of coverage for sex reassignment procedures ) ; Complaint in Gore v. Lee , No . 3:19 - cv-00328 ( MD Tenn. , Mar. 3 , 2020 ) ( change of gender on birth certificates ) ; Brief for Appellee in Grimm v. Gloucester Cty . School Bd . , No . 19 - 1952 ( CA4 , Nov. 18 , 2019 ) ( transgender student forced to use gender neutral bathrooms at school ) ; Complaint in Corbitt v. Taylor , No . 2:18 - cv-00091 ( MD Ala. , July 25 , 2018 ) ( change of gender on driver 's licenses ) ; Whitaker , 858 F.3d at 1054 ( school policy requiring students to use the bathroom that corresponds to the sex on birth certificate ) ; Keohane v. Florida Dept . of Corrections Secretary , 952 F.3d 1257 , 1262 - 1265 ( CA11 2020 ) ( transgender prisoner denied hormone therapy and ability to dress and groom as a female ) ; Edmo v. Corizon , Inc. , 935 F.3d 757 , 767 ( CA9 2019 ) ( transgender prisoner requested sex reassignment surgery ) ; cf . Glenn v. Brumby , 663 F.3d 1312 , 1320 ( CA11 2011 ) ( transgender individual fired for gender non - conformity ) .
+Although the Court does not want to think about the consequences of its decision , we will not be able to avoid those issues for long .
+The entire Federal Judiciary will be mired for years in disputes about the reach of the Court 's reasoning .
+* * *
+The updating desire to which the Court succumbs no doubt arises from humane and generous impulses .
+Today , many Americans know individuals who are gay , lesbian , or transgender and want them to be treated with the dignity , consideration , and fairness that everyone deserves .
+But the authority of this Court is limited to saying what the law is .
+The Court itself recognizes this :
+" The place to make new legislation ... lies in Congress .
+When it comes to statutory interpretation , our role is limited to applying the law 's demands as faithfully as we can in the cases that come before us . "
+Ante , at 1753 .
+It is easy to utter such words .
+If only the Court would live by them .
+I respectfully dissent .

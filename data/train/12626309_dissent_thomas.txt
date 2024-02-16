@@ -1,0 +1,156 @@
+Justice THOMAS , dissenting .
+The Court correctly declines to affirm the Ninth Circuit 's decision upholding the District Court 's disgorgement order , but I disagree with the Court 's decision to vacate and remand for the lower courts to " limi[t ] " the disgorgement award .
+Ante , at 1940 -1941 .
+Disgorgement can never be awarded under 15 U.S.C. § 78u(d)(5 ) .
+That statute authorizes the Securities and Exchange Commission ( SEC ) to seek only " equitable relief that may be appropriate or necessary for the benefit of investors , " and disgorgement is not a traditional equitable remedy .
+Thus , I would reverse the judgment of the Court of Appeals .
+I
+The Securities Exchange Act of 1934 , as amended in 2005 , allows the SEC to request " equitable relief " in federal district court against those who violate federal securities laws .
+§ 78u(d)(5 ) .
+According to our usual interpretive convention , " equitable relief " refers to forms of equitable relief available in the English Court of Chancery at the time of the founding .
+Because disgorgement is a creation of the 20th century , it is not properly characterized as " equitable relief , " and , hence , the District Court was not authorized to award it under § 78u(d)(5 ) .
+A
+" This Court has never treated general statutory grants of equitable authority as giving federal courts a freewheeling power to fashion new forms of equitable remedies . "
+Trump v. Hawaii , 585 U. S. ---- , ---- , 138 S.Ct . 2392 , 2425 , 201 L.Ed.2d 775 ( 2018 ) ( THOMAS , J. , concurring ) .
+" Rather , it has read such statutes as constrained by ' the body of law which had been transplanted to this country from the English Court of Chancery ' in 1789 . "
+Ibid . ( quoting Guaranty Trust Co. v. York , 326 U.S. 99 , 105 , 65 S.Ct . 1464 , 89 L.Ed . 2079 ( 1945 ) ) .
+As Justice Story put it , " the settled doctrine of this court is , that the remedies in equity are to be administered ... according to the practice of courts of equity in [ England ] , as contradistinguished from that of courts of law ; subject , of course to the provisions of the acts of congress . "
+Boyle v. Zacharie & Turner , 6 Pet . 648 , 654 , 8 L.Ed . 532 ( 1832 ) .
+We have interpreted other statutes according to this " settled doctrine . "
+For example , we have read the term " equitable relief " in the Employee Retirement Income Security Act of 1974 to refer to " those categories of relief that were typically available in equity . "
+Mertens v. Hewitt Associates , 508 U.S. 248 , 256 , 113 S.Ct . 2063 , 124 L.Ed.2d 161 ( 1993 ) ( emphasis deleted ) .
+We have done the same for the Judiciary Act of 1789 , see , e.g. , Grupo Mexicano de Desarrollo , S. A. v. Alliance Bond Fund , Inc. , 527 U.S. 308 , 318 - 319 , 119 S.Ct . 1961 , 144 L.Ed.2d 319 ( 1999 ) , and for provisions in the Bankruptcy Code , see Taggart v. Lorenzen , 587 U. S. ---- , ---- , 139 S.Ct . 1795 , 1801 , 204 L.Ed.2d 129 ( 2019 ) .
+There is nothing about § 78u(d)(5 ) that counsels departing from this approach .
+B
+Disgorgement is not a traditional form of equitable relief .
+Rather , cases , legal dictionaries , and treatises establish that it is a 20th - century invention .
+As an initial matter , it is not even clear what " disgorgement " means .
+The majority frankly acknowledges its " ' " protean character . " ' "
+Ante , at 1943 ( quoting Petrella v. Metro - Goldwyn - Mayer , Inc. , 572 U.S. 663 , 688 , n. 1 , 134 S.Ct . 1962 , 188 L.Ed.2d 979 ( 2014 ) ) .
+The difficulty of defining this supposedly traditional remedy is the first sign that it is not a historically recognized equitable remedy .
+In contrast , an accounting for profits , or accounting - a distinct form of relief that the majority groups with disgorgement - has a well - accepted definition : It compels a defendant to account for , and repay to a plaintiff , those profits that belong to the plaintiff in equity .
+Bray , Fiduciary Remedies , in The Oxford Handbook of Fiduciary Law 449 ( E. Criddle , P. Miller , & R. Sitkoff eds . 2019 ) .
+The definition of disgorgement , after today 's decision , is a remedy that compels each defendant to pay his profits ( and sometimes , though it is not clear when , all of his codefendants ' profits ) to a third - party Government agency ( which sometimes , though it is not clear when , passes the money on to victims ) .
+This remedy has no basis in historical practice .
+No published case appears to have used the term " disgorgement " to refer to equitable relief until the 20th century .
+Even then , the earliest cases use the word in a " non - technical " sense , Brief for Law Professors as Amici Curiae 22 , to describe the action a defendant must take when a party is awarded a traditional equitable remedy such as an accounting for profits or an equitable lien .
+For example , in Byrd v. Mullinix , 159 Ark. 310 , 251 S.W. 871 ( 1923 ) , the Supreme Court of Arkansas affirmed the imposition of an equitable lien to prevent a debtor from " put[ting ] the money in property which was itself beyond the reach of creditors , and to compel its disgorgement , " i d. , at 316 - 317 , 251 S.W. at 872 .
+Likewise , in Armstrong v. Richards , 128 Fla. 561 , 175 So . 340 ( 1937 ) , the Supreme Court of Florida referred to " the right of the taxpayer to require an accounting from and disgorgement by public officers and those in collusion with them , "
+i d. , at 564 , 175 So . at 341 .
+In these cases , the term " disgorgement " colloquially described what a defendant was ordered to do , not the remedy itself .
+By the 1960s , published opinions began to use " disgorgement " to refer to a remedy in the administrative context .
+In NLRB v. Local 176 , 276 F.2d 583 ( CA1 1960 ) , the agency had " applied its ... remedy of disgorgement of dues , requiring the union to refund to every member who had obtained employment on the Company project the dues which he had paid , "
+i d. , at 586 ( footnote omitted ) .
+The court declined to enforce this part of the agency 's order , but not because disgorgement was an impermissible form of relief .
+Instead , it found that , in the circumstances of the case , disgorgement " seem[ed ] ... to be an ex post facto penalty . "
+Ibid . ; see also NLRB v. Local 111 , 278 F.2d 823 , 825 ( CA1 1960 ) ( enforcing a disgorgement order from the agency ) .
+By the 1970s , courts started using the term " disgorgement " to describe a judicial remedy in its own right .
+When the SEC initially sought this kind of relief under the Securities Exchange Act in SEC v. Texas Gulf Sulphur Co. , 312 F.Supp . 77 ( SDNY 1970 ) , the District Court called it " restitution , " i d. , at 93 , and the Court of Appeals called it " [ r]estitution of [ p]rofits , " SEC v. Texas Gulf Sulphur Co. , 446 F.2d 1301 , 1307 ( CA2 1971 ) ( emphasis deleted ) .
+Courts soon substituted the label " disgorgement . "
+SEC v. Manor Nursing Centers , Inc. , 458 F.2d 1082 , 1105 ( CA2 1972 ) ; SEC v. Shapiro , 349 F.Supp . 46 , 55 ( SDNY 1972 ) .
+The late date of these cases is sufficient reason to reject the argument that disgorgement is a traditional equitable remedy .
+But it is also telling that , when the SEC began seeking this relief , it did so without any statutory authority .
+Prior to 2005 , the SEC lacked the power even to seek " equitable relief " in cases like this one .
+See § 305(b ) , 116 Stat . 779 ( amending the Securities Exchange Act ) .
+The District Court in Texas Gulf Sulphur purported to " imply [ a ] new remed[y ] , " based on its " inherent equity power " and a belief that " the congressional purpose is effectuated by so doing . "
+312 F.Supp . at 91 .
+But the sources it cited are dubious .
+The court relied on J. I. Case Co. v. Borak , 377 U.S. 426 , 84 S.Ct . 1555 , 12 L.Ed.2d 423 ( 1964 ) , a case about implied causes of action that we have since abrogated .
+See Alexander v. Sandoval , 532 U.S. 275 , 287 , 121 S.Ct . 1511 , 149 L.Ed.2d 517 ( 2001 ) .
+It also relied on a securities law treatise that advocated for what it called " restitution " but admitted that district courts had no express authority to grant the remedy and that the SEC had never sought this remedy in the past .
+3 L. Loss , Securities Regulation 1827 - 1828 ( 1961 ) .
+It is functionally this same unauthorized remedy that the SEC and courts now call " disgorgement . "
+The details have varied over time , but the lineage is clear : Disgorgement is " a relic of the heady days " of courts inserting judicially created relief into statutes .
+Correctional Services Corp. v. Malesko , 534 U.S. 61 , 75 , 122 S.Ct . 515 , 151 L.Ed.2d 456 ( 2001 ) ( Scalia , J. , concurring ) .
+Disgorgement as a remedy in its own right is also absent from legal publications until the 20th century .
+Leading legal dictionaries did not define the term until the turn of the 20th century .
+See , e.g. , Merriam - Webster 's Dictionary of Law 143 ( 1996 ) ; Black 's Law Dictionary 480 ( 7th ed . 1999 ) .
+Nor was disgorgement included in the first Restatement of Restitution , adopted in 1936 .
+The remedy does not appear until the Third Restatement , adopted in 2010 , which states that " [ r]estitution remedies " that seek " to eliminate profit from wrongdoing ... are often called ' disgorgement ' or ' accounting . ' "
+2
+Restatement ( Third ) of Restitution and Unjust Enrichment § 51(4 ) , p. 203 .
+But " Restatement " is an inapt title for this edition of the treatise .
+Like many of the modern Restatements , its " authors have abandoned the mission of describing the law , and have chosen instead to set forth their aspirations for what the law ought to be . "
+Kansas v. Nebraska , 574 U.S. 445 , 475 , 135 S.Ct . 1042 , 191 L.Ed.2d 1 ( 2015 ) ( Scalia , J. , concurring in part and dissenting in part ) .
+The inclusion of " disgorgement " in the Third Restatement , which the majority cites in support of its holding , ante , at 1942 - 1943 , represents a " ' novel extension ' " of equity .
+Kansas , supra , at 483 , 135 S.Ct . 1042 ( THOMAS , J. , concurring in part and dissenting in part ) ( quoting Roberts , Restitutionary Disgorgement for Opportunistic Breach of Contract and Mitigation of Damages , 42 Loyola ( LA ) L. Rev. 131 , 134 ( 2008 ) ) .
+I acknowledge that this Court has referred to disgorgement as an equitable remedy in some of its prior decisions .
+See , e.g. , Feltner v. Columbia Pictures Television , Inc. , 523 U.S. 340 , 352 , 118 S.Ct . 1279 , 140 L.Ed.2d 438 ( 1998 ) .
+But these opinions merely referred to the term in passing without considering the question in depth .
+The history is clear : Disgorgement is not a form of relief that was available in the English Court of Chancery at the time of the founding .
+C
+The majority 's treatment of disgorgement as an equitable remedy threatens great mischief .
+The term disgorgement itself invites abuse because it is a word with no fixed meaning .
+The majority sees " parallels " between accounting and disgorgement , ante , at 1940 , n. 1 , but parallels are by definition not the same .
+Even if they were , the traditional remedy of an accounting - which compels a party to repay profits that belong to a plaintiff - has important conceptual limitations that disgorgement does not .
+An accounting connotes the relationship between a plaintiff and a defendant .
+In the words of one scholar , " it is an accounting by A to B. "
+Bray , Fiduciary Remedies , at 454 .
+But disgorgement connotes no relationship and so is not naturally limited to net profits and compensation of victims .
+It simply " is A disgorging . "
+Ibid . Further , the traditional remedy of a constructive trust or an equitable lien requires that the " money or property identified as belonging in good conscience to the plaintiff ... clearly be traced to particular funds or property in the defendant 's possession . "
+Great - West Life & Annuity Ins . Co. v. Knudson , 534 U.S. 204 , 213 , 122 S.Ct . 708 , 151 L.Ed.2d 635 ( 2002 ) .
+Disgorgement reaches further because it has no tracing requirement .
+By using a word with no history in equity jurisprudence , the SEC and courts have made it possible to circumvent the careful limitations imposed on other equitable remedies .
+One need look no further than the SEC 's use of disgorgement to see the pitfalls of the majority 's acquiescence in its continued use as a remedy .
+The order in Texas Gulf Sulphur did not depart too far from equitable principles .
+The award was limited to the defendants ' net profits and the funds were held in escrow and were at least partly available to compensate victims , 446 F.2d at 1307 .
+It did not take long , however , for a district court to order a defendant to turn over both his profits and the investment " income earned on the proceeds . "
+Manor Nursing Centers , 458 F.2d at 1105 .
+And in the case before us today , just a half century later , disgorgement has expanded even further .
+The award is not limited to net profits or even money possessed by an individual defendant when it is imposed jointly and severally .
+See ante , at 1942 - 1943 .
+And not only is it not guaranteed to be used to compensate victims , but the imposition of over $ 26 million in disgorgement and approximately $ 8 million in civil monetary penalties in this case seems to ensure that victims will be unable to recover anything in their own actions .
+As long as courts continue to award " disgorgement , " both courts and the SEC will continue to have license to expand their own power .
+The majority 's decision to tame , rather than reject , disgorgement will also cause confusion in administrative practice .
+As the majority explains , the SEC is expressly authorized to impose " ' disgorgement ' " in its in - house tribunals .
+Ante , at 1946 -1947 ( quoting 15 U.S.C. § 77h-1(e ) ) .
+It is unclear whether the majority 's new restrictions on disgorgement will apply to these proceedings as well .
+If they do not , the result will be that disgorgement has one meaning when the SEC goes to district court and another when it proceeds in - house .
+More fundamentally , by failing to recognize that the problem is disgorgement itself , the majority undermines our entire system of equity .
+The majority believes that insistence on the traditional rules of equity is unnecessarily formalistic , ante , at 1940 - 1941 , n. 1 , but the Founders accepted federal equitable powers only because those powers depended on traditional forms .
+The Constitution was ratified on the understanding that equity was " a precise legal system " with " specific equitable remed[ies ] . "
+Missouri v. Jenkins , 515 U.S. 70 , 127 , 115 S.Ct . 2038 , 132 L.Ed.2d 63 ( 1995 ) ( THOMAS , J. , concurring ) .
+" Although courts of equity exercised remedial ' discretion , ' that discretion allowed them to deny or tailor a remedy despite a demonstrated violation of a right , not to expand a remedy beyond its traditional scope . "
+Trump , 585 U. S. , at ---- , 138 S.Ct . , at 2426 ( THOMAS , J. , concurring ) .
+The majority , while imposing some limits , ultimately permits courts to continue expanding equitable remedies .
+I would simply hold that the phrase " equitable relief " in § 78u(d)(5 ) does not authorize disgorgement .
+II
+After holding that disgorgement is equitable relief , the majority remands for the lower courts to reconsider the disgorgement order in this case .
+If the majority is going to accept " disgorgement " as an available remedy , it should at least limit the order to be consistent with the traditional rules of equity .
+First , the order should be limited to each petitioner 's profits .
+Second , the order should not be imposed jointly and severally .
+Third , the money paid by petitioners should be used to compensate petitioners ' victims .
+A
+First , the disgorgement order should be limited to " the profits actually made " by each petitioner .
+Mowry v. Whitney , 14 Wall . 620 , 649 , 20 L.Ed . 860 ( 1872 ) ; see also ante , at 1955 - 1946 , 1949 - 1950 .
+Defendants in equity traditionally may deduct " allowances ... for the cost and expense of the business " from the amount of the award .
+Root v. Railway Co. , 105 U.S. 189 , 215 , 26 L.Ed . 975 ( 1882 ) ; see also Callaghan v. Myers , 128 U.S. 617 , 665 , 9 S.Ct . 177 , 32 L.Ed . 547 ( 1888 ) ; Elizabeth v. Pavement Co. , 97 U.S. 126 , 139 , 24 L.Ed . 1000 ( 1878 ) ; Rubber Co. v. Goodyear , 9 Wall . 788 , 804 , 19 L.Ed . 566 ( 1870 ) .
+The rationale behind this rule is that " it is not the function of courts of equity to administer punishment . "
+Bangor Punta Operations , Inc. v. Bangor & Aroostook R. Co. , 417 U.S. 703 , 717 - 718 , n. 14 , 94 S.Ct . 2578 , 41 L.Ed.2d 418 ( 1974 ) ( internal quotation marks omitted ) ; see also 2 J. Story , Commentaries on Equity Jurisprudence § 1494 , p. 819 ( 13th ed . 1886 ) .
+Here , however , the District Court reasoned that " it would be ' unjust to permit the defendants to offset against the investor dollars they received the expenses of running the very business they created to defraud those investors into giving the defendants the money in the first place . ' "
+754 Fed . Appx . 505 , 509 ( CA9 2018 ) ( quoting SEC v. J. T. Wallenbrock & Assocs . , 440 F.3d 1109 , 1114 ( CA9 2006 ) ) .
+On remand , the lower courts should limit the award to each petitioner 's profits .
+B
+Second , and relatedly , the disgorgement order should not be imposed jointly and severally .
+The majority analogizes disgorgement to accounting , ante , at 1942 , but this Court has rejected joint and several liability in actions for an accounting .
+Elizabeth , supra , at 139 - 140 ; Keystone fg . Co. v. Adams , 151 U.S. 139 , 148 , 14 S.Ct . 295 , 38 L.Ed . 103 ( 1894 ) ; Belknap v. Schild , 161 U.S. 10 , 25 - 26 , 16 S.Ct . 443 , 40 L.Ed . 599 ( 1896 ) .
+The majority instructs the lower courts to determine whether petitioners were " partners in wrongdoing , " apparently based on a case about the liability of partners .
+Ante , at 1945 , 1949 ( citing Ambler v. Whipple , 20 Wall .
+546 , 22 L.Ed .
+403 ( 1874 ) ) .
+But the liability in that case was premised on the law of partnership , and nothing indicates that petitioners here were legal partners .
+The joint and several order in this case is thus at odds with traditional equitable rules .
+C
+Finally , the award should be used to compensate victims , not to enrich the Government .
+Plaintiffs in equity may claim " that which , ex aequo et bono [ according to what is equitable and good ] , is theirs , and nothing beyond this . "
+Livingston v. Woodworth , 15 How . 546 , 560 , 14 L.Ed . 809 ( 1854 ) .
+The money ordered to be paid as disgorgement in no sense belongs to the Government , and the majority cites no authority allowing a Government agency to keep equitable relief for a wrong done to a third party .
+Requiring the SEC to only " generally " compensate victims , ante , at 1947 - 1948 , is inconsistent with traditional equitable principles .
+Worse still from a practical standpoint , the majority provides almost no guidance to the lower courts about how to resolve this question on remand .
+Even assuming that disgorgement is " equitable relief " for purposes of § 78u(d)(5 ) and that the Government may sometimes keep the money , the Court should at least do more to identify the circumstances in which the Government may keep the money .
+Instead , the Court asks lower courts to improvise a solution .
+If past is prologue , this uncertainty is sure to create opportunities for the SEC to continue exercising unlawful power .
+* * *
+I would reverse for the straightforward reason that disgorgement is not " equitable relief " within the meaning of § 78u(d)(5 ) .
+Because the majority acquiesces in the continued use of disgorgement under that statute , I respectfully dissent .

@@ -1,0 +1,31 @@
+Justice KAVANAUGH , concurring .
+I join the Court 's opinion in full .
+I write separately to emphasize three points .
+First , the Court 's interpretation of the Clean Water Act regarding pollution " from " point sources adheres to the interpretation set forth in Justice Scalia 's plurality opinion in Rapanos v. United States , 547 U.S. 715 , 126 S.Ct . 2208 , 165 L.Ed.2d 159 ( 2006 ) .
+The Clean Water Act requires a permit for " any addition of any pollutant to navigable waters from any point source . "
+33 U.S.C. § 1362 ( 12)(A ) ; see § § 1311(a ) , 1342(a ) .
+The key word is " from . "
+The question in this case is whether the County of Maui needs a permit for its Lahaina Wastewater Reclamation Facility .
+No one disputes that pollutants originated at Maui 's wastewater facility ( a point source ) , and no one disputes that the pollutants ended up in the Pacific Ocean ( a navigable water ) .
+Maui contends , however , that it does not need a permit .
+Maui says that the pollutants did not come " from " the Lahaina facility because the pollutants traveled through groundwater before reaching the ocean .
+Justice Scalia 's plurality opinion in Rapanos explained why Maui 's interpretation of the Clean Water Act is incorrect .
+In that case , Justice Scalia stated that polluters could not " evade the permitting requirement of § 1342(a ) simply by discharging their pollutants into noncovered intermittent watercourses that lie upstream of covered waters . "
+547 U.S. at 742 - 743 , 126 S.Ct . 2208 .
+Justice Scalia reasoned that the Clean Water Act does not merely " forbid the ' addition of any pollutant directly to navigable waters from any point source , ' but rather the ' addition of any pollutant to navigable waters . '
+Thus , from the time of the CWA 's enactment , lower courts have held that the discharge into intermittent channels of any pollutant that naturally washes downstream likely violates § 1311(a ) , even if the pollutants discharged from a point source do not emit ' directly into ' covered waters , but pass ' through conveyances ' in between . "
+Id. , at 743 , 126 S.Ct . 2208 ( citations omitted ) .
+In other words , under Justice Scalia 's interpretation in Rapanos , the fact that the pollutants from Maui 's wastewater facility reach the ocean via an indirect route does not itself exempt Maui 's facility from the Clean Water Act 's permitting requirement for point sources .
+The Court today adheres to Justice Scalia 's analysis in Rapanos on that issue .
+Second , as Justice Scalia 's opinion in Rapanos pointed out and as the Court 's opinion today explains , the statute does not establish a bright - line test regarding when a pollutant may be considered to have come " from " a point source .
+The source of the vagueness is Congress ' statutory text , not the Court 's opinion .
+The Court 's opinion seeks to translate the vague statutory text into more concrete guidance .
+Third , JUSTICE THOMAS ' dissent states that " the Court does not commit " to " which factors are the most important " in determining whether pollutants that enter navigable waters come " from " a point source .
+Post , at 1481 - 1482 .
+That critique is not accurate , as I read the Court 's opinion .
+The Court identifies relevant factors to consider and emphasizes that " [ t]ime and distance are obviously important . "
+Ante , at 1476 .
+And the Court expressly adds that " [ t]ime and distance will be the most important factors in most cases , but not necessarily every case . "
+Ante , at 1477 .
+Although the statutory text does not supply a bright - line test , the Court 's emphasis on time and distance will help guide application of the statutory standard going forward .
+With those additional comments , I join the Court 's opinion in full .

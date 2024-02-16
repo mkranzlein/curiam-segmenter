@@ -1,0 +1,177 @@
+Justice GORSUCH , with whom Justice THOMAS joins , concurring in part and dissenting in part .
+For nearly a century , Atlantic Richfield 's predecessor operated a smelter near the town of Opportunity , Montana .
+At one time , the smelter produced much of the Nation 's copper supply and served as the State 's largest employer .
+App . 311 .
+Eventually , though , it became apparent the smelter was producing more than just copper and jobs .
+Studies showed that the plant emitted up to 62 tons of arsenic and 10 tons of lead each day .
+Brief for Respondents 7 .
+Thanks to what was once the world 's tallest brick smokestack , these heavy metals blanketed the town and the whole of the Deer Lodge Valley - contaminating hundreds of square miles .
+Today , the smokestack is all that is left of the once massive operation .
+It stands alone in a state park , much of which remains dangerously contaminated and closed to the public .
+Visitors may view the stack , but only from a distance , through fences and between huge slag piles .
+Id. , at 9 .
+This case involves nearly 100 nearby residents .
+Some have lived in their homes for decades , some long before the environmental consequences of the smelter were fully appreciated .
+They say they have thought about moving , but for many their property values are n't what they once were .
+Besides , as one homeowner put it , " I could n't find a kitchen door that 's got all my kids ' heights on it . "
+Id. , at 8 .
+The federal government has tried to help in its own way .
+In 1983 , the government designated the 300 - square - mile area surrounding the smelter a Superfund site under the Comprehensive Environmental Response , Compensation , and Liability Act of 1980 ( CERCLA ) , 94 Stat . 2767 , as amended , 42 U.S.C. § 9601 et seq .
+After years of study and negotiation , the government ordered Atlantic Richfield to remove up to 18 inches of soil in residential yards with arsenic levels exceeding 250 parts per million ( ppm ) .
+App . 94 - 95 .
+For so - called " pasture land"-that is , nearly everything else - the government set the threshold for soil removal at 1,000 ppm .
+Brief for Respondents 8 .
+By way of reference , even 100 ppm is sometimes considered too toxic for local landfills , and the federal government itself has elsewhere set a threshold of 25 ppm .
+Ibid .
+Some States set residential cleanup levels as low as 0.04 ppm .
+Ibid .
+The cleanup work that followed left much to be desired .
+By 2016 , Atlantic Richfield claimed that it had virtually finished work on the landowners ' properties .
+Yet , only 24 of their 77 properties had been remediated , and only about 5 percent of the total acreage had been touched .
+I d . , at 9 .
+Soil near Tammy Peters 's daycare playground , for example , still shows an arsenic level of 292 ppm .
+But because the " weighted average " for her yard is below 250 ppm , Atlantic Richfield performed no cleanup of the playground at all .
+I d . , at 10 .
+So the landowners here proceeded as landowners historically have : They sought remedies for the pollution on their lands in state court under state law .
+Their choice can come as no surprise .
+The federal government enjoys no general power to regulate private lands ; it may intervene only consistent with the Commerce Clause or some other constitutionally enumerated power .
+Nor does the federal government always intervene as fully as it might even when it can .
+Meanwhile , the regulation of real property and the protection of natural resources is a traditional and central responsibility of state governments .
+And States have long allowed landowners to seek redress for the pollution of their lands through ancient common law causes of action like nuisance and trespass .
+The landowners employed exactly these theories when they brought suit in state court seeking restoration damages from Atlantic Richfield - money that could be used only to remove arsenic , lead , and other toxins from their properties .
+The Montana Supreme Court has held that the landowners ' case states a viable claim for relief and warrants trial .
+Now , however , Atlantic Richfield wants us to call a halt to the proceedings .
+The company insists that CERCLA preempts and prohibits common law tort suits like this one .
+On Atlantic Richfield 's telling , CERCLA even prevents private landowners from voluntarily remediating their own properties at their own expense .
+No one may do anything in 300 square miles of Montana , the company insists , without first securing the federal government 's permission .
+But what in the law commands that result ?
+Everything in CERCLA suggests that it seeks to supplement , not supplant , traditional state law remedies and promote , not prohibit , efforts to restore contaminated land .
+Congress hardly could have been clearer .
+It stated that , " [ n]othing in this [ Act ] shall be construed or interpreted as preempting any State from imposing any additional liability or requirements with respect to the release of hazardous substances within such State . "
+42 U.S.C. § 9614 ( a ) .
+It added that " [ n]othing in this [ Act ] shall affect or modify in any way the obligations or liabilities of any person under other Federal or State law , including common law , with respect to releases of hazardous substances or other pollutants or contaminants . "
+§ 9652(d ) .
+And it said again that " [ t]his [ Act ] does not affect or otherwise impair the rights of any person under Federal , State , or common law , except with respect to the timing of review as provided " elsewhere in provisions that even the Court today does not invoke as limits on recovery here .
+§ 9659(h ) .
+Three times Congress made its point as plainly as anyone might .
+So how does Atlantic Richfield seek to transform CERCLA from a tool to aid cleanups into a ban on them ?
+The company has to point to something in the statutory text that trumps these many provisions and preempts the landowners ' right to use state law to restore their lands .
+After all , merely " [ i]nvoking some brooding federal interest or appealing to a judicial policy preference should never be enough to win preemption of a state law " ; instead , a party like Atlantic Richfield seeking to displace state law must identify " ' a constitutional text or a federal statute ' that does the displacing . "
+Virginia Uranium , Inc. v. Warren , 587 U. S. ---- , ---- , 139 S.Ct . 1894 , 1901 , 204 L.Ed.2d 377 ( 2019 ) ( opinion of GORSUCH , J. ) ( quoting Puerto Rico Dept . of Consumer Affairs v. Isla Petroleum Corp. , 485 U.S. 495 , 503 , 108 S.Ct . 1350 , 99 L.Ed.2d 582 ( 1988 ) ) .
+In answer , Atlantic Richfield directs our attention to § 122(e)(6 ) .
+It 's a provision buried in a section captioned " Settlements . "
+The section outlines the process private parties must follow to negotiate a settlement and release of CERCLA liability with the federal government .
+Subsection ( e)(6 ) bears the title " Inconsistent response action " and states that , " [ w]hen either the President , or a potentially responsible party pursuant to an administrative order or consent decree under this chapter , has initiated a remedial investigation and feasibility study for a particular facility under this chapter , no potentially responsible party may undertake any remedial action at the facility unless such remedial action has been authorized by the President . "
+42 U.S.C. § 9622 ( e)(6 ) .
+So even read for all its worth , this provision only bars those " potentially responsible " to the federal government from initiating cleanup efforts without prior approval .
+To get where it needs to go , Atlantic Richfield must find some way to label the innocent landowners here " potentially responsible part[ies ] " on the hook for cleanup duties with the federal government .
+They are hardly that .
+When interpreting a statute , this Court applies the law 's ordinary public meaning at the time of the statute 's adoption , here 1980 .
+See Wisconsin Central Ltd. v. United States , 585 U. S. ---- , ---- , 138 S.Ct . 2067 , 2074 , 201 L.Ed.2d 490 ( 2018 ) .
+To be " potentially responsible " for something meant then , as it does today , that a person could possibly be held accountable for it ; the outcome is capable of happening .
+American Heritage Dictionary 1025 ( 1981 ) ; Webster 's New Collegiate Dictionary 893 ( 1980 ) .
+And there is simply no way the landowners here are potentially , possibly , or capable of being held liable by the federal government for anything .
+In the first place , the federal government never notified the landowners that they might be responsible parties , as it must under § 122(e)(1 ) .
+Additionally , everyone admits that the period allowed for bringing a CERLCA claim against them has long since passed under § 113(g)(2)(B ) .
+On any reasonable account , the landowners are potentially responsible to the government for exactly nothing .
+Statutory context is of a piece with the narrow text .
+Nothing in § 122 affects the rights of strangers to the federal government 's settlement process .
+Everything in the section speaks to the details of that process .
+The section requires the government to provide all potentially responsible parties with notice that they might be held responsible for remedial measures .
+§ 9622(e)(1 ) .
+It instructs the government to give a potentially responsible party a list of everyone else so designated .
+Ibid .
+It specifies procedures for sharing proposals and counterproposals among this group .
+§ § 9622(e)(2)-(3 ) .
+It allows the government to release from federal liability those who agree to settle and clean up hazardous sites .
+See § § 9622(a ) - ( c ) .
+And because parties who settle with the federal government may seek cleanup costs they incurred prior to settlement from other potentially responsible parties , subsection ( e)(6 ) bars a potentially responsible party from taking unauthorized remedial measures .
+See § § 922(e)(1)-(3 ) , ( h ) .
+This ensures the government can control the shape of any final settlement and no private party can unilaterally incur costs that it might then foist on others .
+At the end of it all , the section does just what its title suggests .
+It governs the settlement process among those who have something to settle .
+It says nothing about the rights and duties of individuals who , like the landowners here , have nothing to settle because they face no potential liability .
+Then there 's what the rest of the statute tells us .
+As we 've seen , CERCLA says again and again that it does not impair the rights of individuals under state law .
+That instruction makes perfect sense and does plenty of work if § 122 only requires those potentially liable to the federal government to secure permission before engaging in cleanup efforts .
+By contrast , reading § 122 to bar nearly everyone from undertaking remedial efforts without federal permission renders CERCLA 's many and emphatic promises about protecting existing state law rights practically dead letters .
+Sure , the federal government would still have to " involv[e ] " state officials and comply with state laws - or at least those laws federal agency employees deem " relevant and appropriate . "
+§ § 9621(f ) ( 1 ) , ( d)(2)(A)(ii ) .
+But CERCLA would promise nothing more than observer status for state law and those who wish to rely on it .
+States and private landowners alike who lack any potential federal liability could be barred even from undertaking remedial efforts on their own lands at their own expense , required instead to host toxic wastes involuntarily and indefinitely .
+Rather than supplementing state remedial efforts , CERCLA would rule them all .
+Reading CERCLA this way would raise uneasy constitutional questions too .
+If CERCLA really did allow the federal government to order innocent landowners to house another party 's pollutants involuntarily , it would invite weighty takings arguments under the Fifth Amendment .
+See Loretto v. Teleprompter Manhattan CATV Corp. , 458 U.S. 419 , 421 , 102 S.Ct . 3164 , 73 L.Ed.2d 868 ( 1982 ) .
+And if the statute really did grant the federal government the power to regulate virtually each shovelful of dirt homeowners may dig on their own properties , it would sorely test the reaches of Congress 's power under the Commerce Clause .
+See National Federation of Independent Business v. Sebelius , 567 U.S. 519 , 551 - 553 , 132 S.Ct . 2566 , 183 L.Ed.2d 450 ( 2012 ) .
+Atlantic Richfield 's replies do nothing to address these problems .
+Instead of making some helpful textual or contextual rejoinder about § 122 , the company asks us look somewhere else entirely .
+Now , Atlantic Richfield says , we should direct our attention to § 107 , a provision that lists four classes of " [ c]overed persons " the federal government is authorized to sue under CERCLA .
+One of these classes encompasses any person who owns a " facility " where hazardous waste has " come to be located . "
+§ § 9607 , 9601(9 ) .
+Because the landowners ' properties qualify as " facilit[ies ] " where Atlantic Richfield 's waste has come to be located , everyone admits the landowners themselves are " [ c]overed persons . "
+And , according to Atlantic Richfield , this necessarily means they are also " potentially responsible part[ies ] " subject to § 122(e)(6 ) 's requirement that they seek federal permission before proceeding with any cleanup .
+But notice the linguistic contortion and logical leap .
+Linguistically , § 107 identifies the " [ c]overed persons " the government is authorized to sue .
+Section 122 requires a " potentially responsible party " seeking settlement with and discharge of liability from the federal government to obtain its permission before engaging in a cleanup .
+The terms use different language , appear in different statutory sections , and address different matters .
+Nor are these two sections the only ones like them .
+CERCLA differentiates between covered persons and potentially responsible parties in many places : Some sections apply to all persons covered by § 107 ( see , e.g. , 42 U.S.C. § § 9619 ( d ) , 9624(b ) ) , while others extend their mandates only to potentially responsible parties ( see , e.g. , § § 9604 , 9605 , 9611 ) .
+Logically , too , the concepts are distinct .
+Yes , a potentially responsible party must be a covered person the government is authorized to sue .
+But the inverse does not follow .
+It is possible to be a person the government is authorized to sue without also being a person the government has chosen to single out for potential responsibility .
+Atlantic Richfield 's argument , thus , essentially proceeds like this : Disregard the differences in language ; then assume Congress chose its terms randomly throughout the law ; and , finally , conflate logically distinct concepts .
+Our case illustrates the significance of the distinction Congress drew and Atlantic Richfield would have us ignore .
+Maybe the federal government was once authorized by § 107 to include the innocent landowners here in a CERCLA suit .
+But few statutes pursue their purpose single - mindedly or require their full enforcement .
+And as we 've seen , at least two things happened that preclude these landowners from being held responsible for anything : The government chose not to notify them of potential liability under § 122(e)(3 ) , and it declined to bring suit within the period prescribed by § 113(g)(2)(B ) .
+Under the plain and ordinary meaning of the statutory terms before us , these landowners are not potentially responsible parties and CERCLA does n't require them to seek permission from federal officials before cleaning their own lands .
+If Congress had wished to extend its ask - before - cleaning rule to every covered person - including those the government chooses not to pursue for potential liability - all it had to do was say so .
+Congress displayed no trouble using the term " [ c]overed persons " elsewhere in the statute .
+See , e.g. , § § 9619(d ) , 9624(b)(2 ) .
+Conspicuously , it made a different choice here .
+Without any plausible foundation in the statute to support its position , Atlantic Richfield resorts to this odd argument .
+Maybe the terms " [ c]overed persons " and " potentially responsible party " are different and the statute uses them in different places to do different things .
+But , the company insists , we must conflate them now because this Court has conflated them before .
+In particular , Atlantic Richfield points to language in United States v. Atlantic Research Corp. , 551 U.S. 128 , 127 S.Ct . 2331 , 168 L.Ed.2d 28 ( 2007 ) , where the Court spoke of " Section 107(a ) [
+as ] defin[ing ] four categories of PRPs [ potentially responsible parties ] . "
+I d . , at 131 - 132 , 127 S.Ct . 2331 .
+That may be so but it does not make it so .
+The relationship between the terms " [ c]overed persons " under § 107 and " potentially responsible part[ies ] " under § 122 is of critical importance in this case , but it was not briefed , argued , or decided in Atlantic Research .
+Instead , the only question there concerned the meaning of the term " [ c]overed persons " under § 107 .
+Though the Court employed the term " PRP " to describe " [ c]overed persons , " nothing turned on the use or meaning of the acronym : Replace every reference to " PRP " with " [ c]overed person " and the Court 's holding and reasoning remains the same .
+This Court has long warned that matters " ' lurk[ing ] in the record , neither brought to the attention of the court nor ruled upon , ' " should not be read as having decided anything .
+Cooper Industries , Inc. v. Aviall Services , Inc. , 543 U.S. 157 , 170 , 125 S.Ct . 577 , 160 L.Ed.2d 548 ( 2004 ) ( quoting Webster v. Fall , 266 U.S. 507 , 511 , 45 S.Ct . 148 , 69 L.Ed .
+411 ( 1925 ) ) .
+We have warned , too , against reading our judicial opinions as if they were some sort of legislative code because , otherwise , innocent and inconsequential judicial remarks might mistakenly come to trump democratically adopted laws .
+See Reiter v. Sonotone Corp. , 442 U.S. 330 , 341 , 99 S.Ct . 2326 , 60 L.Ed.2d 931 ( 1979 ) .
+Atlantic Richfield would have us ignore these teachings and confuse a stray remark with a rule of law .
+In the end , the company 's case can not help but be seen for what it really is : an appeal to policy .
+On its view , things would be so much more orderly if the federal government ran everything .
+And , let 's be honest , the implication here is that property owners can not be trusted to clean up their lands without causing trouble ( especially for Atlantic Richfield ) .
+Nor , we are told , should Montanans worry so much : The restrictions Atlantic Richfield proposes are n't really that draconian because homeowners would still be free to do things like build sandboxes for their grandchildren ( provided , of course , they do n't scoop out too much arsenic in the process ) .
+But , as in so many cases that come before this Court , the policy arguments here cut both ways .
+Maybe paternalistic central planning can not tolerate parallel state law efforts to restore state lands .
+But maybe , too , good government and environmental protection would be better served if state law remedies proceeded alongside federal efforts .
+State and federal law enforcement usually work in just this way , complementing rather than displacing one another .
+And , anyway , how long would Atlantic Richfield have us enforce what amounts to a federal easement requiring landowners to house toxic waste on their lands ?
+The government has been on site since 1983 ; work supposedly finished around the landowners ' homes in 2016 ; the completion of " primary " cleanup efforts is " estimated " to happen by 2025 .
+So , yes , once a Superfund site is " delisted , " the restrictions on potentially responsible parties fade away .
+But this project is well on its way to the half - century mark and still only a " preliminary " deadline lies on the horizon .
+No one before us will even hazard a guess when the work will finish and a " delisting " might come .
+On Atlantic Richfield 's view , generations have come and gone and more may follow before the plaintiffs can clean their land .
+The real problem , of course , is that Congress , not this Court , is supposed to make judgments between competing policy arguments like these .
+And , as we 've seen , Congress has offered its judgment repeatedly and clearly .
+CERCLA sought to add to , not detract from , state law remedial efforts .
+It endorsed a federalized , not a centralized , approach to environmental protection .
+What if private or state cleanup efforts really do somehow interfere with federal interests ?
+Congress did n't neglect the possibility .
+But instead of requiring state officials and local landowners to beg Washington for permission , Congress authorized the federal government to seek injunctive relief in court .
+See § 9606(a ) .
+Atlantic Richfield would have us turn this system upside down , recasting the statute 's presumption in favor of cooperative federalism into a presumption of federal absolutism .
+While I agree with the Court 's assessment in Parts I and II of its opinion that we have jurisdiction to hear this case , I can not agree with its ruling on the merits in Part III .
+Departing from CERCLA 's terms in this way transforms it from a law that supplements state environmental restoration efforts into one that prohibits them .
+Along the way , it strips away ancient common law rights from innocent landowners and forces them to suffer toxic waste in their backyards , playgrounds , and farms .
+Respectfully , that is not what the law was written to do ; that is what it was written to prevent .

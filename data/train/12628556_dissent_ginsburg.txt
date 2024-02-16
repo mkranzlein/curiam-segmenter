@@ -1,0 +1,97 @@
+Justice GINSBURG , dissenting from the opinion in part and from the judgment .
+Generally , I agree with the Court , the " discovery rule " does not apply to the one - year statute of limitations contained in the Fair Debt Collection Practices Act ( FDCPA ) , 15 U.S.C. § 1692k(d ) .
+That limitations period ordinarily commences to run on the date " the violation occurs , " ibid .
+See TRW Inc. v. Andrews , 534 U.S. 19 , 28 - 33 , 122 S.Ct . 441 , 151 L.Ed.2d 339 ( 2001 ) .
+But the ordinarily applicable time trigger does not apply when fraud on the creditor 's part accounts for the debtor 's failure to sue within one year of the creditor 's violation .
+Id. , at 37 , 122 S.Ct . 441 ( Scalia , J. , concurring in judgment ) .
+See also i d. , at 27 , 122 S.Ct . 441 ( majority opinion ) .
+True , in the case at hand , debtor Rotkiske 's FDCPA claim does not rest on any fraud inhering in the claim creditor Klemm stated in his debt - collection suit .
+Rather , debtor Rotkiske alleges that creditor Klemm commenced the debt - collection suit too late .
+But Rotkiske was disarmed from asserting that defense in Klemm 's suit , for he never received notice of the suit and therefore had no opportunity to defend against it .
+For the same reason , he was stopped from raising an FDCPA claim challenging Klemm 's suit within the one - year limitations period .
+By knowingly arranging for service of the complaint against Rotkiske at an address where Rotkiske no longer lived , and filing a false affidavit of service , Rotkiske alleges , Klemm engaged in fraud .
+Such fraud , I would hold , warrants application of the discovery rule to time Rotkiske 's FDCPA suit from the date he learned of the default judgment against him .
+As today 's decision recognizes , see ante , at 359 - 362 , this Court long ago " adopted as its own the old chancery rule that where a plaintiff has been injured by fraud and remains in ignorance of it without any fault or want of diligence or care on his part , the bar of the statute [ of limitations ] does not begin to run until the fraud is discovered . "
+Holmberg v. Armbrecht , 327 U.S. 392 , 397 , 66 S.Ct . 582 , 90 L.Ed . 743 ( 1946 ) ( internal quotation marks omitted ) .
+See also Bailey v. Glover , 21 Wall . 342 , 347 , 22 L.Ed . 636 ( 1875 ) ( " [ W]hen the object of the suit is to obtain relief against a fraud , the bar of the statute does not commence to run until the fraud is discovered or becomes known to the party injured by it . " ) .
+Like the general discovery rule that lower courts have " appl[ied ] ... when a statute is silent on the issue " of a claim 's accrual , TRW Inc. , 534 U.S. at 27 , 122 S.Ct . 441 ( quoting Rotella v. Wood , 528 U.S. 549 , 555 , 120 S.Ct . 1075 , 145 L.Ed.2d 1047 ( 2000 ) ) , the fraud - based discovery rule operates as a statutory presumption " read into every federal statute of limitation , " Holmberg , 327 U.S. at 397 , 66 S.Ct . 582 .
+This circumscribed rule is distinct from the general discovery rule in that it governs only " case[s ] of fraud . "
+Merck & Co. v. Reynolds , 559 U.S. 633 , 644 , 130 S.Ct . 1784 , 176 L.Ed.2d 582 ( 2010 ) .
+Unlike the general discovery rule , there is no reason to believe the FDCPA displaced the fraud - based discovery rule .
+The Court does not hold otherwise .
+The fraud - based discovery rule has a thrust different from equitable tolling .
+" Equitable tolling " describes a doctrine that pauses , or " tolls , " a statutory limitations period after it has commenced .
+Lozano v. Montoya Alvarez , 572 U.S. 1 , 10 , 134 S.Ct . 1224 , 188 L.Ed.2d 200 ( 2014 ) .
+A litigant qualifies for equitable tolling only if he establishes " ( 1 ) that he has been pursuing his rights diligently , and ( 2 ) that some extraordinary circumstance stood in his way and prevented timely filing . "
+Menominee Indian Tribe of Wis. v. United States , 577 U.S. ---- , ---- , 136 S.Ct . 750 , 755 , 193 L.Ed.2d 652 ( 2016 ) ( internal quotation marks omitted ) .
+For example , in Burnett v. New York Central R. Co. , 380 U.S. 424 , 85 S.Ct . 1050 , 13 L.Ed.2d 941 ( 1965 ) , a plaintiff filed an action under the Federal Employers ' Liability Act ( FELA ) in Ohio state court , alleging that he sustained a workplace injury just under three years earlier .
+Ibid .
+Several months later , the state court dismissed the suit for improper venue under state law .
+Id. , at 425 , 85 S.Ct . 1050 .
+The plaintiff promptly brought an identical action in federal district court .
+That court dismissed the action on the ground that the FELA 's three - year statute of limitations began to run when the plaintiff was injured and had expired while his state - court action was pending .
+Ibid .
+This Court reversed .
+Id. , at 436 , 85 S.Ct . 1050 .
+Yes , the limitations period began to run on the date of the plaintiff 's injury .
+But , the Court held , the clock tolled during the pendency of the plaintiff 's state - court suit .
+Ibid .
+Subtracting the time consumed by the state - court suit , the plaintiff 's federal action was timely .
+Id. , at 426 , 434 - 436 , 85 S.Ct . 1050 .
+By contrast , the fraud - based discovery rule sets the time at which a claim accrues , i.e. , the time when the statute of limitations commences to run .
+See Merck & Co. , 559 U.S. at 644 - 645 , 130 S.Ct . 1784 .
+It is " an exception to the standard rule " that " a claim accrues when the plaintiff has a complete and present cause of action . "
+Gabelli v. SEC , 568 U.S. 442 , 448 - 449 , 133 S.Ct . 1216 , 185 L.Ed.2d 297 ( 2013 ) ( internal quotation marks omitted ) .
+Accordingly , when a plaintiff is " injured by fraud ... ' the bar of the statute does not begin to run until the fraud is discovered . ' "
+Holmberg , 327 U.S. at 397 , 66 S.Ct . 582 ( quoting Bailey , 21 Wall . at 348 ) .
+For example , in Exploration Co. v. United States , 247 U.S. 435 , 38 S.Ct . 571 , 62 L.Ed . 1200 ( 1918 ) , a company had unlawfully procured land from the United States through a series of fraudulent transactions in 1902 .
+Id. , at 437 , 438 , 38 S.Ct . 571 .
+The parties involved in the transactions successfully concealed the scheme until 1909 .
+Ibid .
+When the Government brought suit to void the transactions , the company raised the six - year statute of limitations as a defense .
+Id. , at 445 , 38 S.Ct . 571 .
+Applying the fraud - based discovery rule , the Court held that the limitations period began to run only upon the Government 's discovery of the fraud .
+Id. , at 449 , 38 S.Ct . 571 .
+The suit was filed within six years of that date and was therefore timely .
+Ibid .
+I do not agree that Rotkiske failed to preserve a fraud - based discovery rule argument in the Court of Appeals .
+See ante , at 361 - 362 .
+Rotkiske did raise the issue ; he argued that " [ a]t the very least , ... the discovery rule applies to [ FDCPA ] claims based on false or misleading misrepresentations or other self - concealing conduct . "
+Supp . Brief for Appellant in No . 16 - 1668 ( CA3 ) , p.13 ( citing Bailey , 21 Wall . at 350 ) .
+The Court of Appeals apparently declined to address that argument because Rotkiske had failed to raise " equitable tolling " in his appellate briefs .
+890 F.3d 422 , 428 - 429 , and n. 5 ( C.A.3 2018 ) .
+But failure to raise " equitable tolling " should pose no obstacle to determining whether the discrete fraud - based discovery rule applies to Rotkiske 's claim .
+Nor do I agree that Rotkiske forfeited the issue by not raising it in his petition for certiorari .
+See ante , at 361 - 362 .
+Generously read , Rotkiske asked whether a discovery rule of any kind applies to the FDCPA 's one - year statute of limitations .
+While hardly a model of the deft pleader 's art , the petition for certiorari stated that Rotkiske did not learn of Klemm 's debt - collection suit and default judgment until long after their occurrence because of the " intended reservice [ of Klemm 's complaint ] at a known incorrect address . "
+Pet . for Cert . 8 .
+His brief on the merits in this Court noted : " Petitioner is not advocating that the Court adopt a generally applicable discovery rule . "
+Brief for Petitioner 16 , n.16 .
+His reply brief was more precise : " The default judgment obtained by [ Klemm ] at issue in [ Rotkiske 's FDCPA complaint ] was made possible by the filing of a fraudulent Affidavit of Service . "
+Reply Brief 15 .
+Indeed , the Court recognizes that Rotkiske 's arguments included " a fraud - specific discovery rule as an equitable doctrine . "
+Ante , at 360 .
+Rotkiske 's FDCPA complaint , in my view , falls comfortably within the fraud - based discovery rule 's scope .
+See Brief for Samuel L. Bray et al . as Amici Curiae 12 - 14 .
+Rotkiske alleged that Klemm engaged in " sewer service"-intentionally serving process in a manner designed to prevent Rotkiske from learning of the collection suit .
+Klemm did so , according to Rotkiske , in order to ensure that Klemm 's untimely suit would result in a default judgment that would remain undiscovered until time to oppose that judgment , and to commence an FDCPA suit , ran out .
+Though Rotkiske did not allege that " sewer service " is itself a practice independently proscribed by the FDCPA , such service is nonetheless a fraudulent abuse that should trigger the fraud - based discovery rule .
+See Reply Brief 15 - 17 .
+The Government urges that the fraud - based discovery rule applies only when the fraudulent conduct is itself the basis for the plaintiff 's claim for relief .
+Brief for United States as Amicus Curiae 31 - 32 .
+That is not so of Rotkiske 's complaint , the Government observes , for his claim is premised on the assertion that Klemm 's debt - collection suit was time barred .
+I do not view the fraud - based discovery rule as so confined and would hold that the rule governs if either the conduct giving rise to the claim is fraudulent , or if fraud infects the manner in which the claim is presented .
+That understanding of the rule is consistent with its equitable roots and historic rationale .
+Nearly two centuries ago , Justice Story explained the rule this way : " [ E]very statute is to be expounded reasonably , so as to suppress , and not to extend , the mischief[s ] which it was designed to cure . "
+Sherwood v. Sutton , 21 F.Cas . 1303 , 1307 ( No . 12,782 ) ( C.C.D.N.H. 1828 ) .
+Because statutes of limitations " preven[t ] fraudulent and unjust claims from starting up at great distances of time , " a limitations provision " ought not ... be so construed , as to become an instrument to encourage fraud , if it admits of any other reasonable interpretation . "
+Ibid . " [ C]ases of fraud , therefore , form an implied exception [ to a limitations prescription ] , " so as not to " permi[t ] the defendant to avail himself of his own fraud . "
+Ibid .
+This Court expressed the same understanding of the fraud - based discovery rule in Bailey .
+There , the Court stated : " To hold that by concealing a fraud , or by committing a fraud in a manner that it concealed itself until such time as the party committing the fraud could plead the statute of limitations to protect it , is to make the law which was designed to prevent fraud the means by which it is made successful and secure . "
+21 Wall . at 349 .
+Klemm allegedly employed fraudulent service to obtain and conceal the default judgment that precipitated Rotkiske 's FDCPA claim .
+That allegation , if proved , should suffice , under the fraud - based discovery rule , to permit adjudication of Rotkiske 's claim on its merits .
+* * *
+For the reasons stated , I would vacate the judgment of the Court of Appeals for the Third Circuit and remand the case for further proceedings .

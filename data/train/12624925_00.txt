@@ -1,0 +1,179 @@
+Justice GORSUCH delivered the opinion of the Court .
+Few legal principles are better established than the rule requiring a plaintiff to establish causation .
+In the law of torts , this usually means a plaintiff must first plead and then prove that its injury would not have occurred " but for " the defendant 's unlawful conduct .
+The plaintiffs before us suggest that 42 U.S.C. § 1981 departs from this traditional arrangement .
+But looking to this particular statute 's text and history , we see no evidence of an exception .
+I
+This case began after negotiations between two media companies failed .
+African - American entrepreneur Byron Allen owns Entertainment Studios Network ( ESN ) , the operator of seven television networks - Justice Central . TV , Comedy . TV , ES.TV , Pets . TV , Recipe . TV , MyDestination . TV , and Cars . TV .
+For years , ESN sought to have Comcast , one of the nation 's largest cable television conglomerates , carry its channels .
+But Comcast refused , citing lack of demand for ESN 's programming , bandwidth constraints , and its preference for news and sports programming that ESN did n't offer .
+With bargaining at an impasse , ESN sued .
+Seeking billions in damages , the company alleged that Comcast systematically disfavored " 100 % African American - owned media companies . "
+ESN did n't dispute that , during negotiations , Comcast had offered legitimate business reasons for refusing to carry its channels .
+But , ESN contended , these reasons were merely pretextual .
+To help obscure its true discriminatory intentions and win favor with the Federal Communications Commission , ESN asserted , Comcast paid civil rights groups to advocate publicly on its behalf .
+As relevant here , ESN alleged that Comcast 's behavior violated 42 U.S.C. § 1981 ( a ) , which guarantees , among other things , " [ a]ll persons ... the same right ... to make and enforce contracts ... as is enjoyed by white citizens . "
+Much motions practice followed .
+Comcast sought to dismiss ESN 's complaint , and eventually the district court agreed , holding that ESN 's pleading failed to state a claim as a matter of law .
+The district court twice allowed ESN a chance to remedy its complaint 's deficiencies by identifying additional facts to support its case .
+But each time , the court concluded , ESN 's efforts fell short of plausibly showing that , but for racial animus , Comcast would have contracted with ESN .
+After three rounds of pleadings , motions , and dismissals , the district court decided that further amendments would prove futile and entered a final judgment for Comcast .
+The Ninth Circuit reversed .
+As that court saw it , the district court used the wrong causation standard when assessing ESN 's pleadings .
+A § 1981 plaintiff does n't have to point to facts plausibly showing that racial animus was a " but for " cause of the defendant 's conduct .
+Instead , the Ninth Circuit held , a plaintiff must only plead facts plausibly showing that race played " some role " in the defendant 's decisionmaking process .
+743 Fed . Appx . 106 , 107 ( 2018 ) ; see also   National Assn . of African American - Owned Media v. Charter Communications , Inc. , 915 F.3d 617 , 626 ( CA9 2019 ) ( describing the test as whether " discriminatory intent play[ed ]   any role " ) .
+And under this more forgiving causation standard , the court continued , ESN had pleaded a viable claim .
+Other circuits dispute the Ninth Circuit 's understanding of § 1981 .
+Like the district court in this case , for example , the Seventh Circuit has held that " to be actionable , racial prejudice must be a but - for cause ... of the refusal to transact . "
+Bachman v. St. Monica 's Congregation , 902 F.2d 1259 , 1262 - 1263 ( 1990 ) .
+To resolve the disagreement among the circuits over § 1981 's causation requirement , we agreed to hear this case .
+587 U. S. ---- , 139 S.Ct . 2693 , 204 L.Ed.2d 1089 ( 2019 ) .
+II
+It is " textbook tort law " that a plaintiff seeking redress for a defendant 's legal wrong typically must prove but - for causation .  
+University of Tex . Southwestern Medical Center v. Nassar , 570 U.S. 338 , 347 , 133 S.Ct . 2517 , 186 L.Ed.2d 503 ( 2013 ) ( citing W. Keeton , D. Dobbs , R. Keeton , & D. Owen , Prosser and Keeton on Law of Torts 265 ( 5th ed . 1984 ) ) .
+Under this standard , a plaintiff must demonstrate that , but for the defendant 's unlawful conduct , its alleged injury would not have occurred .
+This ancient and simple " but for " common law causation test , we have held , supplies the " default " or " background " rule against which Congress is normally presumed to have legislated when creating its own new causes of action .
+570 U.S. at 346 - 347 , 133 S.Ct . 2517 ( citing   Los Angeles Dept . of Water and Power v. Manhart , 435 U.S. 702 , 711 , 98 S.Ct . 1370 , 55 L.Ed.2d 657 ( 1978 ) ) .
+That includes when it comes to federal antidiscrimination laws like § 1981 .
+See 570 U.S. at 346 - 347 , 133 S.Ct . 2517 ( Title VII retaliation ) ;   Gross v. FBL Financial Services , Inc. , 557 U.S. 167 , 176 - 177 , 129 S.Ct . 2343 , 174 L.Ed.2d 119 ( 2009 ) ( Age Discrimination in Employment Act of 1967 ) .
+Normally , too , the essential elements of a claim remain constant through the life of a lawsuit .
+What a plaintiff must do to satisfy those elements may increase as a case progresses from complaint to trial , but the legal elements themselves do not change .
+So , to determine what the plaintiff must plausibly allege at the outset of a lawsuit , we usually ask what the plaintiff must prove in the trial at its end .
+See ,   e.g. ,   Lujan v. Defenders of Wildlife , 504 U.S. 555 , 561 , 112 S.Ct . 2130 , 119 L.Ed.2d 351 ( 1992 ) ;   Dura Pharmaceuticals , Inc. v. Broudo , 544 U.S. 336 , 346 - 347 , 125 S.Ct . 1627 , 161 L.Ed.2d 577 ( 2005 ) ;   Ashcroft v. Iqbal , 556 U.S. 662 , 678 - 679 , 129 S.Ct . 1937 , 173 L.Ed.2d 868 ( 2009 ) .
+ESN does n't seriously dispute these general principles .
+Instead , it suggests § 1981 creates an exception to one or both of them .
+At times , ESN seems to argue that a § 1981 plaintiff only bears the burden of showing that race was a " motivating factor " in the defendant 's challenged decision , not a but - for cause of its injury .
+At others , ESN appears to concede that a § 1981 plaintiff does have to prove but - for causation at trial , but contends the rules should be different at the pleading stage .
+According to this version of ESN 's argument , a plaintiff should be able to overcome at least a motion to dismiss if it can allege facts plausibly showing that race was a " motivating factor " in the defendant 's decision .
+ESN admits this arrangement would allow some claims to proceed past the pleading stage that are destined to fail later as a matter of law .
+Still , the company insists , that is what the statute demands .
+A
+We do n't doubt that most rules bear their exceptions .
+But , taken collectively , clues from the statute 's text , its history , and our precedent persuade us that § 1981 follows the general rule .
+Here , a plaintiff bears the burden of showing that race was a but - for cause of its injury .
+And , while the materials the plaintiff can rely on to show causation may change as a lawsuit progresses from filing to judgment , the burden itself remains constant .
+Congress passed the Civil Rights Act of 1866 in the aftermath of the Civil War to vindicate the rights of former slaves .
+Section 1 of that statute included the language found codified today in § 1981(a ) , promising that " [ a]ll persons ... shall have the same right ... to make and enforce contracts , to sue , be parties , [ and ] give evidence ... as is enjoyed by white citizens . "
+42 U.S.C. § 1981 ; Civil Rights Act of 1866 , 14 Stat . 27 .
+While the statute 's text does not expressly discuss causation , it is suggestive .
+The guarantee that each person is entitled to the " same right ... as is enjoyed by white citizens " directs our attention to the counterfactual - what would have happened if the plaintiff had been white ?
+This focus fits naturally with the ordinary rule that a plaintiff must prove but - for causation .
+If the defendant would have responded the same way to the plaintiff even if he had been white , an ordinary speaker of English would say that the plaintiff received the " same " legally protected right as a white person .
+Conversely , if the defendant would have responded differently but for the plaintiff 's race , it follows that the plaintiff has not received the same right as a white person .
+Nor does anything in the statute signal that this test should change its stripes ( only ) in the face of a motion to dismiss .
+The larger structure and history of the Civil Rights Act of 1866 provide further clues .
+Nothing in the Act specifically authorizes private lawsuits to enforce the right to contract .
+Instead , this Court created a judicially implied private right of action , definitively doing so for the first time in 1975 .
+See   Johnson v. Railway Express Agency , Inc. , 421 U.S. 454 , 459 , 95 S.Ct . 1716 , 44 L.Ed.2d 295 ( 1975 ) ; see also   Jett v. Dallas Independent School Dist . , 491 U.S. 701 , 720 , 109 S.Ct . 2702 , 105 L.Ed.2d 598 ( 1989 ) .
+That was during a period when the Court often " assumed it to be a proper judicial function to provide such remedies as are necessary to make effective a statute 's purpose . "
+Ziglar v.   Abbasi , 582 U. S. ---- , ---- , 137 S.Ct . 1843 , 1855 , 198 L.Ed.2d 290 ( 2017 ) ( internal quotation marks omitted ) .
+With the passage of time , of course , we have come to appreciate that , " [ l]ike substantive federal law itself , private rights of action to enforce federal law must be created by Congress " and " [ r]aising up causes of action where a statute has not created them may be a proper function for common - law courts , but not for federal tribunals . "
+Alexander v. Sandoval , 532 U.S. 275 , 286 - 287 , 121 S.Ct . 1511 , 149 L.Ed.2d 517 ( 2001 ) ( internal quotation marks omitted ) .
+Yet , even in the era when this Court routinely implied causes of action , it usually insisted on legal elements at least as demanding as those Congress specified for analogous causes of action actually found in the statutory text .
+See ,   e.g. ,   Blue Chip Stamps v. Manor Drug Stores , 421 U.S. 723 , 736 , 95 S.Ct . 1917 , 44 L.Ed.2d 539 ( 1975 ) .
+That rule supplies useful guidance here .
+Though Congress did not adopt a private enforcement mechanism for violations of § 1981 , it did establish criminal sanctions in a neighboring section .
+That provision permitted the prosecution of anyone who " depriv[es ] " a person of " any right " protected by the substantive provisions of the Civil Rights Act of 1866 " on account of " that person 's prior " condition of slavery " or " by reason of " that person 's " color or race . "
+§ 2 , 14 Stat . 27 .
+To prove a violation , then , the government had to show that the defendant 's challenged actions were taken " ' on account of ' " or " ' by reason of ' " race - terms we have often held indicate a but - for causation requirement .  
+Gross , 557 U.S. at 176 - 177 , 129 S.Ct . 2343 .
+Nor did anything in the statute hint that a different and more forgiving rule might apply at one particular stage in the litigation .
+In light of the causation standard Congress specified for the cause of action it expressly endorsed , it would be more than a little incongruous for us to employ the laxer rules ESN proposes for this Court 's judicially implied cause of action .
+Other provisions of the 1866 statute offer further guidance .
+Not only do we generally presume that Congress legislates against the backdrop of the common law .  
+Nassar , 570 U.S. at 347 , 133 S.Ct . 2517 .
+The Civil Rights Act of 1866 made this background presumption explicit , providing that " in all cases where [ the laws of the United States ] are not adapted to the object [ of carrying the statute into effect ] the common law ... shall ... govern said courts in the trial and disposition of such cause . "
+§ 3 , 14 Stat . 27 .
+And , while there were exceptions , the common law in 1866 often treated a showing of but - for causation as a prerequisite to a tort suit .
+See ,   e.g. ,   Hayes v. Michigan Central R. Co. , 111 U.S. 228 , 241 , 4 S.Ct . 369 , 28 L.Ed . 410 ( 1884 ) ; Smith , Legal Cause in Actions of Tort , 25 Harv . L. Rev. 103 , 108 - 109 ( 1911 ) ; White , The Emergence and Doctrinal Development of Tort Law , 1870 - 1930 , 11 U. St. Thomas L. J. 463 , 464 - 465 ( 2014 ) ; 1 F. Hilliard , Law of Torts 78 - 79 ( 1866 ) ; 1 T. Sedgwick , Measure of Damages 199 ( 9th ed . 1912 ) .
+Nor did this prerequisite normally wait long to make its appearance ; if anything , pleadings standards back then were generally even stricter than they are in federal practice today .
+See generally ,   e.g. , Lugar , Common Law Pleading Modified versus the Federal Rules , 52 W. Va. L. Rev. 137 ( 1950 ) .
+This Court 's precedents confirm all that the statute 's language and history indicate .
+When it first inferred a private cause of action under § 1981 , this Court described it as " afford[ing ] a federal remedy against discrimination ...   on the basis of race , " language ( again ) strongly suggestive of a but - for causation standard .  
+Johnson , 421 U.S. at 459 - 460 , 95 S.Ct . 1716 ( emphasis added ) .
+Later , in   General Building Contractors Assn . , Inc. v. Pennsylvania , 458 U.S. 375 , 102 S.Ct .3141 , 73 L.Ed.2d 835 ( 1982 ) , the Court explained that § 1981 was " designed to eradicate blatant deprivations of civil rights , " such as where " a private offeror refuse[d ] to extend to [ an African - American ] , ... because he is [ an African - American ] , the same opportunity to enter into contracts as he extends to white offerees . "
+Id. , at 388 , 102 S.Ct . 3141 ( emphasis deleted ; internal quotation marks omitted ) .
+Once more , the Court spoke of § 1981 using language - because of - often associated with but - for causation .  
+Nassar , 570 U.S. at 350 , 133 S.Ct . 2517 .
+Nor did anything in these decisions even gesture toward the possibility that this rule of causation sometimes might be overlooked or modified in the early stages of a case .
+This Court 's treatment of a neighboring provision , § 1982 , supplies a final telling piece of evidence .
+Because § 1982 was also first enacted as part of the Civil Rights Act of 1866 and uses nearly identical language as § 1981 , the Court 's " precedents have ... construed § § 1981 and 1982 similarly . "
+CBOCS West , Inc. v. Humphries , 553 U.S. 442 , 447 , 128 S.Ct . 1951 , 170 L.Ed.2d 864 ( 2008 ) .
+Section 1982 guarantees all citizens " the same right ... as is enjoyed by white citizens ... to inherit , purchase , lease , sell , hold , and convey real and personal property . "
+And this Court has repeatedly held that a claim arises under § 1982 when a citizen is not allowed " to acquire property ...   because of color . "
+Buchanan v. Warley , 245 U.S. 60 , 78 - 79 , 38 S.Ct . 16 , 62 L.Ed . 149 ( 1917 ) ( emphasis added ) ; see also   Jones v. Alfred H. Mayer Co. , 392 U.S. 409 , 419 , 88 S.Ct . 2186 , 20 L.Ed.2d 1189 ( 1968 ) ;   Runyon v. McCrary , 427 U.S. 160 , 170 - 171 , 96 S.Ct . 2586 , 49 L.Ed.2d 415 ( 1976 ) .
+If a § 1982 plaintiff must show the defendant 's challenged conduct was " because of " race , it is unclear how we might demand less from a § 1981 plaintiff .
+Certainly ESN offers no compelling reason to read two such similar statutes so differently .
+B
+What does ESN offer in reply ?
+The company asks us to draw on , and then innovate with , the " motivating factor " causation test found in Title VII of the Civil Rights Act of 1964 .
+But a critical examination of Title VII 's history reveals more than a few reasons to be wary of any invitation to import its motivating factor test into § 1981 .
+This Court first adopted Title VII 's motivating factor test in   Price Waterhouse v. Hopkins , 490 U.S. 228 , 109 S.Ct . 1775 , 104 L.Ed.2d 268 ( 1989 ) .
+There , a plurality and two Justices concurring in the judgment held that a Title VII plaintiff does n't have to prove but - for causation ; instead , it 's enough to show that discrimination was a motivating factor in the defendant 's decision .  
+Id. , at 249 - 250 , 109 S.Ct . 1775 ( plurality opinion ) ; see also   i d. , at 258 - 259 , 109 S.Ct . 1775 ( White , J. , concurring in judgment ) ;   i d. , at 268 - 269 , 109 S.Ct . 1775 ( O'Connor , J. , concurring in judgment ) .
+Once a plaintiff meets this lesser standard , the plurality continued , the defendant may defeat liability by establishing that it would have made the same decision even if it had not taken the plaintiff 's race ( or other protected trait ) into account .
+In essence ,   Price Waterhouse took the burden of proving but - for causation from the plaintiff and handed it to the defendant as an affirmative defense .  
+Id. , at 246 , 109 S.Ct . 1775 .
+But this arrangement did n't last long .
+Congress soon displaced   Price Waterhouse in favor of its own version of the motivating factor test .
+In the Civil Rights Act of 1991 , Congress provided that a Title VII plaintiff who shows that discrimination was even a motivating factor in the defendant 's challenged employment decision is entitled to declaratory and injunctive relief .
+§ 107 , 105 Stat . 1075 .
+A defendant may still invoke lack of but - for causation as an affirmative defense , but only to stave off damages and reinstatement , not liability in general .
+42 U.S.C. § § 2000e-2(m ) , 2000e-5(g)(2)(B ) ; see also   Desert Palace , Inc. v. Costa , 539 U.S. 90 , 94 - 95 , 123 S.Ct . 2148 , 156 L.Ed.2d 84 ( 2003 ) .
+While this is all well and good for understanding Title VII , it 's hard to see what any of it might tell us about § 1981 .
+Title VII was enacted in 1964 ; this Court recognized its motivating factor test in 1989 ; and Congress replaced that rule with its own version two years later .
+Meanwhile , § 1981 dates back to 1866 and has never said a word about motivating factors .
+So we have two statutes with two distinct histories , and not a shred of evidence that Congress meant them to incorporate the same causation standard .
+Worse yet , ESN 's fallback position - that we should borrow the motivating factor concept only at the pleadings stage - is foreign even to Title VII practice .
+To accept ESN 's invitation to consult , tinker with , and then engraft a test from a modern statute onto an old one would thus require more than a little judicial adventurism , and look a good deal more like amending a law than interpreting one .
+What 's more , it 's not as if Congress forgot about § 1981 when it adopted the Civil Rights Act of 1991 .
+At the same time that it added the motivating factor test to Title VII , Congress   also amended § 1981 .
+See Civil Rights Act of 1991 , § 101 , 105 Stat . 1072 ( adding new subsections ( b ) and ( c ) to § 1981 ) .
+But nowhere in its amendments to § 1981 did Congress so much as whisper about motivating factors .
+And where , as here , Congress has simultaneously chosen to amend one statute in one way and a second statute in another way , we normally assume the differences in language imply differences in meaning .  
+Gross , 557 U.S. at 174 - 175 , 129 S.Ct . 2343 ; see also   Russello v. United States , 464 U.S. 16 , 23 , 104 S.Ct . 296 , 78 L.Ed.2d 17 ( 1983 ) .
+Still , ESN tries to salvage something from the 1991 law .
+It reminds us that one of the amendments to § 1981 defined the term " make and enforce contracts " to include " making , performance , modification , and termination of contracts , and the enjoyment of all benefits , privileges , terms , and conditions of the contractual relationship . "
+42 U.S.C. § 1981 ( b ) .
+In all this , ESN asks us to home in on one word , " making . "
+By using this particular word , ESN says , Congress clarified that § 1981(a ) guarantees not only the right to equivalent contractual   outcomes ( a contract with the same final terms ) , but also the right to an equivalent contracting   process ( no extra hurdles on the road to securing that contract ) .
+And , ESN continues , if the statute addresses the whole contracting process , not just its outcome , a motivating factor causation test fits more logically than the traditional but - for test .
+Comcast and the government disagree .
+As they see it , the Civil Rights Act of 1866 unambiguously protected only outcomes - the right to contract , sue , be a party , and give evidence .
+When Congress sought to define some of these terms in 1991 , it merely repeated one word from the original 1866 Act ( make ) in a different form ( making ) .
+No reasonable reader , Comcast and the government contend , would think that the addition of the present participle form of a verb already in the statute carries such a radically different meaning and so extends § 1981 liability in the new directions ESN suggests .
+And , we are told , the statute 's original and continuing focus on contractual   outcomes ( not processes ) is more consistent with the traditional but - for test of causation .
+This debate , we think , misses the point .
+Of course , Congress could write an employment discrimination statute to protect only outcomes or to provide broader protection .
+But , for our purposes today , none of this matters .
+The difficulty with ESN 's argument lies in its mistaken premise that a process - oriented right necessarily pairs with a motivating factor causal standard .
+The inverse argument - that an outcome - oriented right implies a but - for causation standard - is just as flawed .  
+Either causal standard could conceivably apply regardless of the legal right § 1981 protects .
+We need not and do not take any position on whether § 1981 as amended protects only outcomes or protects processes too , a question not passed on below or raised in the petition for certiorari .
+Our point is simply that a § 1981 plaintiff first must show that he was deprived of the protected right and then establish causation - and that these two steps are analytically distinct .
+Unable to latch onto either   Price Waterhouse or the Civil Rights Act of 1991 , ESN is left to cast about for some other hook to support its arguments about § 1981 's operation .
+In a final effort , it asks us to consider the burden - shifting framework of   McDonnell Douglas Corp. v. Green , 411 U.S. 792 , 802 , 804 , 93 S.Ct . 1817 , 36 L.Ed.2d 668 ( 1973 ) .
+Like the motivating factor test ,   McDonnell Douglas is a product of Title VII practice .
+Under its terms , once a plaintiff establishes a prima facie case of race discrimination through indirect proof , the defendant bears the burden of producing a race - neutral explanation for its action , after which the plaintiff may challenge that explanation as pretextual .  
+Texas Dept . of Community Affairs v. Burdine , 450 U.S. 248 , 257 - 258 , 101 S.Ct . 1089 , 67 L.Ed.2d 207 ( 1981 ) .
+This burden shifting , ESN contends , is comparable to the regime it proposes for § 1981 .
+It is nothing of the kind .
+Whether or not   McDonnell Douglas has some useful role to play in § 1981 cases , it does not mention the motivating factor test , let alone endorse its use only at the pleadings stage .
+Nor can this come as a surprise : This Court did n't introduce the motivating factor test into Title VII practice until years   after   McDonnell Douglas .
+For its part ,   McDonnell Douglas sought only to supply a tool for assessing claims , typically at summary judgment , when the plaintiff relies on indirect proof of discrimination .
+See 411 U.S. at 802 - 805 , 93 S.Ct . 1817 ; see also   Furnco Constr . Corp. v. Waters , 438 U.S. 567 , 577 , 98 S.Ct . 2943 , 57 L.Ed.2d 957 ( 1978 ) ; Malamud , The Last Minuet : Disparate Treatment After   Hicks , 93 Mich. L. Rev. 2229 , 2259 ( 1995 ) .
+Because   McDonnell Douglas arose in a context where but - for causation was the undisputed test , it did not address causation standards .
+So nothing in the opinion involves ESN 's preferred standard .
+Under   McDonnell Douglas 's terms , too , only the burden of production ever shifts to the defendant , never the burden of persuasion .
+See   Burdine , 450 U.S. at 254 - 255 , 101 S.Ct . 1089 ;   Postal Service Bd . of Governors v. Aikens , 460 U.S. 711 , 715 - 716 , 103 S.Ct . 1478 , 75 L.Ed.2d 403 ( 1983 ) .
+So   McDonnell Douglas can provide no basis for allowing a complaint to survive a motion to dismiss when it fails to allege essential elements of a plaintiff 's claim .
+III
+All the traditional tools of statutory interpretation persuade us that § 1981 follows the usual rules , not any exception .
+To prevail , a plaintiff must initially plead and ultimately prove that , but for race , it would not have suffered the loss of a legally protected right .
+We do not , however , pass on whether ESN 's operative amended complaint " contain[s ] sufficient factual matter , accepted as true , to ' state a claim to relief that is plausible on its face ' " under the but - for causation standard .  
+Iqbal , 556 U.S. at 678 - 679 , 129 S.Ct . 1937 .
+The Ninth Circuit has yet to consider that question because it assessed ESN 's pleadings under a different and mistaken test .
+To allow that court the chance to determine the sufficiency of ESN 's pleadings under the correct legal rule in the first instance , we vacate the judgment of the court of appeals and remand the case for further proceedings consistent with this opinion .
+It is so ordered .

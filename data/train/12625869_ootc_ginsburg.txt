@@ -1,0 +1,216 @@
+Justice GINSBURG delivered the opinion of the Court .
+Inter partes review is an administrative process in which a patent challenger may ask the U.S. Patent and Trademark Office ( PTO ) to reconsider the validity of earlier granted patent claims .
+This case concerns a statutorily prescribed limitation of the issues a party may raise on appeal from an inter partes review proceeding .
+When presented with a request for inter partes review , the agency must decide whether to institute review .
+35 U.S.C. § 314 .
+Among other conditions set by statute , if the request comes more than a year after suit against the requesting party for patent infringement , " [ a]n inter partes review may not be instituted . "
+§ 315(b ) .
+" The determination by the [ PTO ] Director whether to institute an inter partes review under this section shall be final and nonappealable . "
+§ 314(d ) .
+In this case , the agency instituted inter partes review in response to a petition from Thryv , Inc. , resulting in the cancellation of several patent claims .
+Patent owner Click - to - Call Technologies , LP , appealed , contending that Thryv 's petition was untimely under § 315(b ) .
+The question before us : Does § 314(d ) 's bar on judicial review of the agency 's decision to institute inter partes review preclude Click - to - Call 's appeal ?
+Our answer is yes .
+The agency 's application of § 315(b ) 's time limit , we hold , is closely related to its decision whether to institute inter partes review and is therefore rendered nonappealable by § 314(d ) .
+I
+The Patent and Trademark Office has several ways " to reexamine - and perhaps cancel - a patent claim that it had previously allowed . "
+Cuozzo Speed Technologies , LLC v. Lee , 579 U.S. ---- , ---- , 136 S.Ct . 2131 , 2137 , 195 L.Ed.2d 423 ( 2016 ) .
+Congress established the procedure at issue here , inter partes review , in the Leahy - Smith America Invents Act ( AIA ) , 125 Stat . 284 , enacted in 2011 .
+See 35 U.S.C. § 311 et seq .
+Inter partes review allows third parties to challenge patent claims on grounds of invalidity specified by statute .
+§ 311(b ) .
+For inter partes review to proceed , the agency must agree to institute review .
+§ 314 .
+Any person who is not the patent 's owner may file a petition requesting inter partes review .
+§ 311(a ) .
+The patent owner may oppose institution of inter partes review , asserting the petition 's " failure ... to meet any requirement of this chapter . "
+§ 313 .
+The AIA sets out prerequisites for institution .
+Among them , " [ t]he Director may not authorize an inter partes review to be instituted unless the Director determines ... that there is a reasonable likelihood that the petitioner would prevail with respect to at least 1 of the claims challenged in the petition . "
+§ 314(a ) .
+Most pertinent to this case , " [ a]n inter partes review may not be instituted if the petition requesting the proceeding is filed more than 1 year after the date on which the petitioner , real party in interest , or privy of the petitioner is served with a complaint alleging infringement of the patent . "
+§ 315(b ) .
+After receiving the petition and any response , the PTO " Director shall determine whether to institute an inter partes review under this chapter . "
+§ 314(b ) .
+The Director has delegated institution authority to the Patent Trial and Appeal Board ( Board ) .
+37 CFR § 42.4 ( a ) ( 2019 ) .
+As just noted , the federal agency 's " determination ... whether to institute an inter partes review under this section " is " final and nonappealable . "
+35 U.S.C. § 314 ( d ) .
+Upon electing to institute inter partes review , the Board conducts a proceeding to evaluate the challenged claims ' validity .
+See § 316 .
+At the conclusion of the proceeding - if review " is instituted and not dismissed"-the Board " issue[s ] a final written decision with respect to the patentability of " the challenged claims .
+§ 318(a ) .
+" A party dissatisfied with the final written decision ... may appeal the decision " to the Court of Appeals for the Federal Circuit .
+§ 319 .
+II
+Respondent Click - to - Call owns a patent relating to a technology for anonymous telephone calls , U.S. Patent No . 5,818,836 ( ' 836 patent ) .
+In 2013 , petitioner Thryv sought inter partes review , challenging several of the patent 's claims .
+In opposition , Click - to - Call urged that § 315(b ) barred institution of inter partes review because Thryv filed its petition too late .
+Click - to - Call pointed to an infringement suit filed in 2001 , which ended in a voluntary dismissal without prejudice .
+In Click - to - Call 's view , that 2001 suit started § 315(b ) 's one - year clock , making the 2013 petition untimely .
+The Board disagreed .
+Section 315(b ) did not bar the institution of inter partes review , the Board concluded , because a complaint dismissed without prejudice does not trigger § 315(b ) 's one - year limit .
+Finding no other barrier to institution , the Board decided to institute review .
+After proceedings on the merits , the Board issued a final written decision reiterating its rejection of Click - to - Call 's § 315(b ) argument and canceling 13 of the patent 's claims as obvious or lacking novelty .
+Click - to - Call appealed , challenging only the Board 's determination that § 315(b ) did not preclude inter partes review .
+The Court of Appeals dismissed the appeal for lack of jurisdiction , agreeing with Thryv and the Director ( who intervened on appeal ) that § 314(d ) 's bar on appeal of the institution decision precludes judicial review of the agency 's application of § 315(b ) .
+Citing our intervening decision in Cuozzo , see infra , at 1372 - 1373 , we granted certiorari , vacated the judgment , and remanded .
+Click - to - Call Technologies , LP v. Oracle Corp. , 579 U.S. ---- , 136 S.Ct . 2508 , 195 L.Ed.2d 837 ( 2016 ) .
+On remand , the Court of Appeals again dismissed the appeal on the same ground .
+Thereafter , in another case , the en banc Federal Circuit held that " time - bar determinations under § 315(b ) are appealable " notwithstanding § 314(d ) .
+Wi - Fi One , LLC v. Broadcom Corp. , 878 F.3d 1364 , 1367 ( 2018 ) .
+The majority opinion construed § 314(d ) 's reference to the determination whether to institute inter partes review " under this section " as trained on the likelihood - of - success requirement stated in § 314(a ) .
+Id. , at 1372 .
+The § 315(b ) timeliness determination , the majority concluded , " is not ' closely related ' to the institution decision addressed in § 314(a ) . "
+Id. , at 1374 ( quoting Cuozzo , 579 U.S. , at ---- , 136 S.Ct . , at 2142 ) .
+The majority therefore held that for § 315(b ) appeals , § 314(d ) does not displace the usual presumption favoring judicial review of agency action .
+Wi - Fi One , 878 F.3d at 1374 - 1375 .
+In a concurring opinion , Judge O'Malley emphasized a " simpler " basis for the same conclusion .
+Id. , at 1375 .
+In her view , § 314(d ) shields from review only the agency 's assessment of a petition 's " substantive adequacy , " not questions about the agency 's " authority to act . "
+Id. , at 1376 .
+Judge Hughes , joined by Judges Lourie , Bryson , and Dyk , dissented , expressing a position that today 's dissent characterizes as " extraordinary . "
+Post , at 1380 - 1381 .
+Those judges concluded that § 314(d ) conveys Congress ' " clear and unmistakable " " intent to prohibit judicial review of the Board 's [ inter partes review ] institution decision . "
+Wi - Fi One , 878 F.3d at 1378 .
+That prohibition applies to § 315(b ) issues , the Federal Circuit dissenters maintained , because § 315(b ) " describes when an [ inter partes review ] may be ' instituted . ' "
+Id. , at 1377 , 1378 - 1379 ( quoting § 315(b ) ) .
+In light of its en banc decision in Wi - Fi One , the Court of Appeals granted panel rehearing in this case .
+Treating the Board 's application of § 315(b ) as judicially reviewable , the panel 's revised opinion held that the Board erred by instituting review .
+The petition for inter partes review here was untimely , the Court of Appeals held , because the 2001 infringement complaint , though dismissed without prejudice , started the one - year clock under § 315(b ) .
+The court therefore vacated the Board 's final written decision , which had invalidated 13 of Click - to - Call 's claims for want of the requisite novelty and nonobviousness , and remanded with instructions to dismiss .
+We granted certiorari to resolve the reviewability issue , 587 U.S. ---- , 139 S.Ct . 2742 , 204 L.Ed.2d 1129 ( 2019 ) , and now vacate the Federal Circuit 's judgment and remand with instructions to dismiss the appeal for lack of appellate jurisdiction .
+III
+A
+To determine whether § 314(d ) precludes judicial review of the agency 's application of § 315(b ) 's time prescription , we begin by defining § 314(d ) 's scope .
+Section 314(d ) 's text renders " final and nonappealable " the " determination by the Director whether to institute an inter partes review under this section . "
+§ 314(d ) ( emphasis added ) .
+That language indicates that a party generally can not contend on appeal that the agency should have refused " to institute an inter partes review . "
+We held as much in Cuozzo .
+There , a party contended on appeal that the agency should have refused to institute inter partes review because the petition failed § 312(a)(3 ) 's requirement that the grounds for challenging patent claims must be identified " with particularity . "
+579 U.S. , at ---- , 136 S.Ct . , at 2139 ( internal quotation marks omitted ) .
+This " contention that the Patent Office unlawfully initiated its agency review is not appealable , " we held , for " that is what § 314(d ) says . "
+Id. , at ---- , 136 S.Ct . , at 2139 .
+Section 314(d ) , we explained , " preclud[es ] review of the Patent Office 's institution decisions " with sufficient clarity to overcome the " ' strong presumption ' in favor of judicial review . "
+Id. , at ---- - ---- , 136 S.Ct . , at 2140 - 2141 ( quoting Mach Mining , LLC v. EEOC , 575 U.S. 480 , 486 , 135 S.Ct . 1645 , 191 L.Ed.2d 607 ( 2015 ) ) .
+See Cuozzo , 579 U.S. , at ---- - ---- , 136 S.Ct . , at 2140 ( finding " ' clear and convincing ' indications ... that Congress intended to bar review " ( quoting Block v. Community Nutrition Institute , 467 U.S. 340 , 349 - 350 , 104 S.Ct . 2450 , 81 L.Ed.2d 270 ( 1984 ) ) ) .
+We reserved judgment in Cuozzo , however , on whether § 314(d ) would bar appeals reaching well beyond the decision to institute inter partes review .
+579 U.S. , at ---- , 136 S.Ct . at 2141 - 2142 .
+We declined to " decide the precise effect of § 314(d ) on , " for example , " appeals that implicate constitutional questions . "
+Ibid . Instead , we defined the bounds of our holding this way : " [ O]ur interpretation applies where the grounds for attacking the decision to institute inter partes review consist of questions that are closely tied to the application and interpretation of statutes related to the Patent Office 's decision to initiate inter partes review . "
+Ibid .
+B
+We therefore ask whether a challenge based on § 315(b ) ranks as an appeal of the agency 's decision " to institute an inter partes review . "
+§ 314(d ) .
+We need not venture beyond Cuozzo 's holding that § 314(d ) bars review at least of matters " closely tied to the application and interpretation of statutes related to " the institution decision , 579 U.S. , at ---- , 136 S.Ct . , at 2141 , for a § 315(b ) challenge easily meets that measurement .
+Section 315(b ) 's time limitation is integral to , indeed a condition on , institution .
+After all , § 315(b ) sets forth a circumstance in which " [ a]n inter partes review may not be instituted . "
+Even Click - to - Call and the Court of Appeals recognize that § 315(b ) governs institution .
+See Brief for Respondent Click - to - Call 1 ( § 315(b ) is " a clear limit on the Board 's institution authority " ) ; Wi - Fi One , 878 F.3d at 1373 ( " § 315(b ) controls the Director 's authority to institute [ inter partes review ] " ) .
+Because § 315(b ) expressly governs institution and nothing more , a contention that a petition fails under § 315(b ) is a contention that the agency should have refused " to institute an inter partes review . "
+§ 314(d ) .
+A challenge to a petition 's timeliness under § 315(b ) thus raises " an ordinary dispute about the application of " an institution - related statute .
+Cuozzo , 579 U.S. , at ---- , 136 S.Ct . , at 2139 .
+In this case as in Cuozzo , therefore , § 314(d )
+overcomes the presumption favoring judicial review .
+C
+The AIA 's purpose and design strongly reinforce our conclusion .
+By providing for inter partes review , Congress , concerned about overpatenting and its diminishment of competition , sought to weed out bad patent claims efficiently .
+See i d . , at ---- , 136 S.Ct . , at 2139 - 2140 ; H. R. Rep. No . 112 - 98 , pt . 1 , p. 40 ( 2011 ) ( " The legislation is designed to establish a more efficient and streamlined patent system that will improve patent quality and limit unnecessary and counterproductive litigation costs . " ) .
+Allowing § 315(b ) appeals would tug against that objective , wasting the resources spent resolving patentability and leaving bad patents enforceable .
+A successful § 315(b ) appeal would terminate in vacatur of the agency 's decision ; in lieu of enabling judicial review of patentability , vacatur would unwind the agency 's merits decision .
+See Cuozzo , 579 U.S. , at ---- , 136 S.Ct . , at 2139 - 2140 .
+And because a patent owner would need to appeal on § 315(b ) untimeliness grounds only if she could not prevail on patentability , § 315(b ) appeals would operate to save bad patent claims .
+This case illustrates the dynamic .
+The agency held Click - to - Call 's patent claims invalid , and Click - to - Call does not contest that holding .
+It resists only the agency 's institution decision , mindful that if the institution decision is reversed , then the agency 's work will be undone and the canceled patent claims resurrected .
+Other features of the statutory design confirm that Congress prioritized patentability over § 315(b ) 's timeliness requirement .
+A petitioner 's failure to satisfy § 315(b ) does not prevent the agency from conducting inter partes review of the challenged patent claims ; the agency can do so at another petitioner 's request .
+§ 311(a ) .
+Nor does failure to satisfy § 315(b ) prevent the original initiator from participating on the merits ; the § 315(b)-barred party can join a proceeding initiated by another petitioner .
+§ 315(b ) , ( c ) .
+And once inter partes review is instituted , the agency may issue a final written decision even " [ i]f no petitioner remains in the inter partes review . "
+§ 317(a ) .
+It is unsurprising that a statutory scheme so consistently elevating resolution of patentability above a petitioner 's compliance with § 315(b ) would exclude § 315(b ) appeals , thereby preserving the Board 's adjudication of the merits .
+Judicial review of § 315(b ) rulings , moreover , would do little to serve other statutory goals .
+The purpose of § 315(b ) , all agree , is to minimize burdensome overlap between inter partes review and patent - infringement litigation .
+Brief for Petitioner 24 ; Brief for Federal Respondent 36 ; Brief for Respondent Click - to - Call 37 .
+Judicial review after the agency proceedings can not undo the burdens already occasioned .
+Nor are § 315(b ) appeals necessary to protect patent claims from wrongful invalidation , for patent owners remain free to appeal final decisions on the merits .
+§ 319 .
+IV
+Click - to - Call advances a narrower reading of § 314(d ) .
+In Click - to - Call 's view , which the dissent embraces , post , at 1380 - 1387 , the bar on judicial review applies only to the agency 's threshold determination under § 314(a ) of the question whether the petitioner has a reasonable likelihood of prevailing .
+Section 314(d ) addresses the " determination by the Director whether to institute inter partes review under this section " ( emphasis added ) , and , Click - to - Call maintains , § 314(a ) contains " the only substantive determination referenced in " the same section as § 314(d ) .
+Brief for Respondent Click - to - Call 16 .
+This interpretation , Click - to - Call argues , supplies a clear rule consonant with the presumption favoring judicial review .
+Cf . supra , at 1371 - 1372 ( Federal Circuit 's en banc Wi - Fi One decision ) .
+Cuozzo is fatal to Click - to - Call 's interpretation .
+Section 314(d ) 's review bar is not confined to the agency 's application of § 314(a ) , for in Cuozzo we held unreviewable the agency 's application of § 312(a)(3 ) .
+579 U.S. , at ---- - ---- , 136 S.Ct . , at 2139 - 2140 .
+Far from limiting the appeal bar to § 314(a ) and " nothing else " as Click - to - Call urges , Brief for Respondent 29 , the Court 's opinion in Cuozzo explained that the bar extends to challenges grounded in " statutes related to " the institution decision .
+579 U.S. , at ---- , 136 S.Ct . , at 2141 .
+The text of § 314(d ) offers Click - to - Call no support .
+The provision sweeps more broadly than the determination about whether " there is a reasonable likelihood that the petitioner would prevail . "
+§ 314(a ) .
+Rather , it encompasses the entire determination " whether to institute an inter partes review . "
+§ 314(d ) .
+And § 314(d ) refers not to a determination under subsection ( a ) , but to the determination " under this section . "
+That phrase indicates that § 314 governs the Director 's institution of inter partes review .
+Titled " Institution of inter partes review , " § 314 is the section housing the command to the Director to " determine whether to institute an inter partes review , " § 314(b ) .
+Thus , every decision to institute is made " under " § 314 but must take account of specifications in other provisions - such as the § 312(a)(3 ) particularity requirement at issue in Cuozzo and the § 315(b ) timeliness requirement at issue here .
+Similar clarifying language recurs throughout the AIA .
+See , e.g. , § 315(c ) ( referring to the Director 's determination regarding " the institution of an inter partes review under section 314 " ( emphasis added ) ) ; § 314(b ) ( referring to " a petition filed under section 311 , " the section authorizing the filing of petitions ( emphasis added ) ) ; § 314(b)(1 ) ( referring to " a preliminary response to the petition under section 313 , " the section authorizing the filing of preliminary responses to petitions ( emphasis added ) ) .
+If Congress had intended Click - to - Call 's meaning , it had at hand readymade language from a precursor to § 314(d ) :
+" A determination by the Director under subsection ( a ) shall be final and non - appealable . "
+35 U.S.C. § 312 ( c ) ( 2006 ed . )
+( emphasis added ) ( governing inter partes reexamination ) .
+Or Congress might have borrowed from a related provision : " A determination by the Director pursuant to subsection ( a ) of this section that no substantial new question of patentability has been raised will be final and nonappealable . "
+35 U.S.C. § 303 ( c ) ( emphasis added ) ( governing ex parte reexamination ) .
+Instead , Congress chose to shield from appellate review the determination " whether to institute an inter partes review under this section . "
+§ 314(d ) ( emphasis added ) .
+That departure in language suggests a departure in meaning .
+See Henson v. Santander Consumer USA Inc. , 582 U.S. ---- , ---- , 137 S.Ct . 1718 , 1723 , 198 L.Ed.2d 177 ( 2017 ) .
+Click - to - Call doubts that Congress would have limited the agency 's institution authority in § 315(b ) without ensuring judicial supervision .
+Congress entrusted the institution decision to the agency , however , to avoid the significant costs , already recounted , of nullifying a thoroughgoing determination about a patent 's validity .
+See supra , at 1374 - 1375 .
+That goal - preventing appeals that would frustrate efficient resolution of patentability - extends beyond § 314(a ) appeals .
+Click - to - Call also contends that we adopted its interpretation of § 314(d ) in SAS Institute Inc. v. Iancu , 584 U.S. ---- , 138 S.Ct . 1348 , 200 L.Ed.2d 695 ( 2018 ) .
+Neither of our holdings in that case assists Click - to - Call , and both holdings remain governing law .
+SAS Institute first held that once the agency institutes an inter partes review , it must " resolve all of the claims in the case . "
+Id. , at ---- , 138 S.Ct . , at 1353 .
+SAS Institute located that rule in § 318(a ) , which requires the agency to decide " the patentability of any patent claim challenged by the petitioner . "
+Ibid . ( emphasis in original ; internal quotation marks omitted ) .
+SAS Institute next held that § 314(d ) did not bar judicial review of § 318(a ) 's application .
+Id. , at ---- - ---- , 138 S.Ct . , at 1358 - 1360 .
+Our decision explained that " nothing in § 314(d ) or Cuozzo withdraws our power to ensure that an inter partes review proceeds in accordance with the law 's demands . "
+Id. , at ---- , 138 S.Ct . , at 1359 .
+That reviewability holding is inapplicable here , for Click - to - Call 's appeal challenges not the manner in which the agency 's review " proceeds " once instituted , but whether the agency should have instituted review at all .
+Click - to - Call homes in on a single sentence from SAS Institute 's reviewability discussion : " Cuozzo concluded that § 314(d ) precludes judicial review only of the Director 's ' initial determination ' under § 314(a ) that ' there is a " reasonable likelihood " that the claims are unpatentable on the grounds asserted ' and review is therefore justified . "
+Id. , at ---- , 138 S.Ct . , at 1359 ( quoting Cuozzo , 579 U.S. , at ---- , 136 S.Ct . , at 2140 ) .
+But that sentence 's account of Cuozzo is incomplete .
+Recall that Cuozzo itself applied § 314(d ) 's appeal bar to a challenge on grounds other than § 314(a ) .
+See supra , at 1374 - 1375 .
+To understand how far beyond § 314(a ) the bar on judicial review extends , we look to the statute and Cuozzo ; for the reasons stated above , they establish that § 314(d ) bars challenges resting on § 315(b ) .
+V
+Click - to - Call presses an alternative reason why the Board 's ruling on its § 315(b ) objection is appealable .
+The Board 's final written decision addressed the § 315(b ) issue , so Click - to - Call argues that it may appeal under § 319 , which authorizes appeal from the final written decision .
+But even labeled as an appeal from the final written decision , Click - to - Call 's attempt to overturn the Board 's § 315(b ) ruling is still barred by § 314(d ) .
+Because § 315(b ) 's sole office is to govern institution , Click - to - Call 's contention remains , essentially , that the agency should have refused to institute inter partes review .
+As explained , § 314(d ) makes that contention unreviewable .
+* * *
+For the reasons stated , we vacate the judgment of the United States Court of Appeals for the Federal Circuit and remand the case with instructions to dismiss for lack of appellate jurisdiction .
+It is so ordered .
+APPENDIX OF KEY STATUTORY PROVISIONS
+35 U.S.C. § 314 :
+" Institution of inter partes review
+" ( a ) THRESHOLD .-The Director may not authorize an inter partes review to be instituted unless the Director determines that the information presented in the petition filed under section 311 and any response filed under section 313 shows that there is a reasonable likelihood that the petitioner would prevail with respect to at least 1 of the claims challenged in the petition .
+" ( b ) TIMING .-The Director shall determine whether to institute an inter partes review under this chapter pursuant to a petition filed under section 311 within 3 months after-
+" ( 1 ) receiving a preliminary response to the petition under section 313 ; or
+" ( 2 ) if no such preliminary response is filed , the last date on which such response may be filed .
+" ( c ) NOTICE .-The Director shall notify the petitioner and patent owner , in writing , of the Director 's determination under subsection ( a ) , and shall make such notice available to the public as soon as is practicable .
+Such notice shall include the date on which the review shall commence .
+" ( d ) NO APPEAL .-The determination by the Director whether to institute an inter partes review under this section shall be final and nonappealable . "
+35 U.S.C. § 315 ( b ) :
+" PATENT OWNER 'S ACTION .-An inter partes review may not be instituted if the petition requesting the proceeding is filed more than 1 year after the date on which the petitioner , real party in interest , or privy of the petitioner is served with a complaint alleging infringement of the patent .
+The time limitation set forth in the preceding sentence shall not apply to a request for joinder under subsection ( c ) . "

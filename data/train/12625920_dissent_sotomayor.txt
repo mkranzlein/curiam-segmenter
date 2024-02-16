@@ -1,0 +1,180 @@
+Justice SOTOMAYOR , with whom Justice GINSBURG , Justice BREYER , and Justice KAGAN join , dissenting .
+The stop - time rule ends a noncitizen 's period of continuous residence , making him or her ineligible for certain relief from removal .
+But to trigger the rule , it takes more than commission of a specified criminal offense : The offense must also render a noncitizen either " inadmissible " or " deportable . "
+In applying these important limitations , the rule directly references the two - track nature of the Immigration and Nationality Act ( INA ) , a statute that has long distinguished between noncitizens seeking admission and those already admitted .
+Inadmissibility , of course , pertains to noncitizens seeking admission ; deportability relates to noncitizens already admitted but removable .
+The majority errs by conflating these two terms .
+It concludes that the term " inadmissible , " for the purposes of the stop - time rule , refers to a status that a noncitizen could acquire even if he or she is not seeking admission .
+Under this logic , petitioner Andre Barton is inadmissible yet , at the same time , lawfully admitted .
+Neither the express language of the statute nor any interpretative canons support this paradox ; Barton can not and should not be considered inadmissible for purposes of the stop - time rule because he has already been admitted to the country .
+Thus , for the stop - time rule to render Barton ineligible for relief from removal , the Government must show that he committed an offense that made him deportable .
+Because the Government can not meet that burden , Barton should prevail .
+I respectfully dissent .
+I
+A
+Cancellation of removal is a form of immigration relief available to lawful permanent residents ( LPRs ) and other noncitizens , including those who have never been lawfully admitted .
+8 U.S.C. § 1229b .
+To obtain this relief , both groups must continuously reside in the United States for a certain amount of time .
+§ 1229b(a)(2 ) ( seven years for LPRs ) ; § 1229b(b)(1)(A ) ( 10 years for non - LPR noncitizens ) .
+The stop - time rule ends a noncitizen 's period of continuous residence ( 1 ) when the noncitizen " has committed an offense referred to in section 1182(a)(2 ) of this title " that either ( 2 ) " renders " the noncitizen " inadmissible to the United States under section 1182(a)(2 ) of this title " or ( 3 ) renders the noncitizen " removable from the United States under section 1227(a)(2 ) or 1227(a)(4 ) of this title . "
+§ 1229b(d)(1 ) .
+The second clause directly invokes grounds of inadmissibility ; the third clause , although using the term " removable , " directly invokes grounds of deportability .
+See § 1227(a ) ( specifying " [ c]lasses of deportable aliens " ) .
+Both the second and the third clauses are cabined by the first : In addition to rendering a noncitizen either inadmissible or deportable , the offense must also be one " referred to " in § 1182(a)(2 ) .
+That provision includes some - but not all - of the grounds of deportability in § 1227 .
+This distinction between " inadmissible " and " deportable " matters .
+Indeed , both are terms of art , so it is critical to understand their histories and their attached meaning over time .
+See INS v. St. Cyr , 533 U.S. 289 , 312 n. 35 , 121 S.Ct . 2271 , 150 L.Ed.2d 347 ( 2001 ) ( noting that " ' [ w]here Congress borrows terms of art , ' " with settled meaning , it " ' presumably knows and adopts the cluster of ideas that were attached to each borrowed word ' " ( quoting Morissette v. United States , 342 U.S. 246 , 263 , 72 S.Ct . 240 , 96 L.Ed . 288 ( 1952 ) ) ) .
+Until Congress passed the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ( IIRIRA ) , noncitizens seeking physical entry were placed in " ' exclusion proceeding[s ] , ' " while those already physically present were placed in " ' deportation proceeding[s ] . ' "
+Judulang v. Holder , 565 U.S. 42 , 45 , 132 S.Ct . 476 , 181 L.Ed.2d 449 ( 2011 ) .
+Although the grounds for exclusion and deportation - and the procedures applying to each - evolved over time , the immigration laws retained a two - track system ; different procedures and processes applied to noncitizens who were deportable and noncitizens who were excludable .
+Brief for Immigration Law Professors as Amici Curiae 3 - 8 .
+IIRIRA changed the proceedings and some of the language .
+All noncitizens are now channeled into " ' removal proceeding[s ] , ' " and noncitizens previously labeled " excludable " are now labeled " ' inadmissible . ' "
+Judulang , 565 U.S. at 46 , 132 S.Ct . 476 .
+IIRIRA also altered when a noncitizen faces grounds of inadmissibility , formerly exclusion : Rather than focusing on whether a noncitizen had physically entered the country , the statute now asks whether the noncitizen had been lawfully admitted , in any status , to the country .
+See § § 1101(a)(13)(A ) , 1182(a ) .
+Still , the immigration laws have retained their two - track structure .
+Inadmissibility and deportability remain separate concepts , triggered by different grounds .
+With few exceptions , the grounds for inadmissibility are broader than those for deportability .
+Compare § 1182(a)(2)(A)(i)(I ) with § 1227(a)(2)(A)(i ) ( reflecting different treatment for crimes involving moral turpitude ) .
+Further , while a noncitizen charged with inadmissibility bears the ultimate burden to show that he is admissible , the Government bears the burden of demonstrating that a noncitizen is deportable .
+§ § 1229a(c)(2 ) , ( c)(3 ) .
+Whether a noncitizen is charged with inadmissibility or deportability also affects what the noncitizen or the Government must show to carry their respective burdens .
+A criminal ground for inadmissibility can be made out by showing either that the noncitizen admitted to conduct meeting the elements of a crime or that she was actually convicted of an offense .
+See , e.g. , Pazcoguin v. Radcliffe , 292 F.3d 1209 , 1213 - 1215 ( C.A.9 2002 ) ( noncitizen inadmissible because he admitted to health officer that he smoked marijuana in his youth ) ; see also § 1182(a)(2)(A ) .
+By contrast , most criminal grounds for deportability can be established only through convictions .
+See § § 1227(a)(2)(A)(i)-(v ) , ( a)(2)(B)(i ) .
+Finally , the substantive standards for cancellation of removal are also less stringent for a subset of deportable noncitizens : LPRs like Barton .
+Among other things , while an otherwise - eligible LPR must merely demonstrate that he or she deserves the relief as a matter of discretion , see In re C - V - T- , 22 I. & N. Dec. 7 , 10 - 11 ( BIA 1998 ) , non - LPRs must demonstrate exceptional and extremely unusual hardship to an LPR or citizen parent , spouse , or child , § 1229b(b)(1)(D ) .
+These separate categories and procedures - treating deportable noncitizens more generously than inadmissible noncitizens , and treating one group of deportable noncitizens ( LPRs ) the most generously of all - stem from one animating principle .
+All noncitizens in this country are entitled to certain rights and protections , but the protections afforded to previously admitted noncitizens and LPRs are particularly strong .
+See Demore v. Kim , 538 U.S. 510 , 543 - 544 , 123 S.Ct . 1708 , 155 L.Ed.2d 724 ( 2003 ) ( Souter , J. , concurring in part and dissenting in part ) .
+Indeed , " [ t]he immigration laws give LPRs the opportunity to establish a life permanently in this country by developing economic , familial , and social ties indistinguishable from those of a citizen . "
+Id. , at 544 , 123 S.Ct . 1708 .
+Because those already admitted , like Barton , are often presumed to have greater connections to the country , the immigration laws use separate terms and create separate procedures for noncitizens seeking admission to the country on the one hand , and those who were previously admitted on the other .
+The stop - time rule carries that distinction forward .
+The rule specifies how a period of continuous residence ends for noncitizens who are seeking admission and thus are inadmissible , as well as noncitizens who are already admitted and thus are deportable .
+By using separate terms and grounds for two groups of people , the stop - time rule thus reflects the two - track dichotomy for inadmissible or deportable noncitizens that pervades the INA .
+B
+Barton is a longtime lawfully admitted resident of the United States .
+He and his mother moved to the United States from Jamaica when he was about 10 years old .
+They both entered legally and , through Barton 's stepfather , soon adjusted their status to LPRs .
+When Barton was placed in removal proceedings , all of his immediate family - his mother , his children , his fiancee - were living in the United States .
+He had not returned to Jamaica in 25 years .
+Barton was first arrested in 1996 , when he was 17 or 18 , after a friend shot at his ex - girlfriend 's house while he was present .
+Both he and his friend were convicted of , among other things , aggravated assault and possession of a firearm .
+Barton later testified before an immigration judge that he was unaware that his friend had a gun or was planning to shoot it .
+After attending a boot camp and obtaining his GED , Barton led a law - abiding life for several years .
+But in the mid-2000s , Barton developed a drug problem and was convicted twice on possession charges .
+After attending two drug rehabilitation programs , Barton was never arrested again .
+He graduated from college , began running an automobile repair shop , and became a father to four young children .
+Just a few years ago - nearly 10 years after his last arrest - the Government detained Barton and placed him in removal proceedings .
+Because he had been lawfully admitted to the country , the Government could not charge him with any grounds of inadmissibility .
+Rather , the Government charged , and Barton conceded , that he was deportable based on prior firearms and drug convictions .
+( All agree that Barton 's aggravated - assault offense did not qualify as a deportable offense under § 1227 . )
+Barton then sought cancellation of removal .
+Perhaps recognizing that Barton had a strong case for cancellation of removal on the merits , see C - V - T- , 22 I. & N. Dec. , at 11 ( factors such as " family ties within the United States , residence of long duration in this country ( particularly when the inception of residence occurred at a young age ) , " and " business ties " all favor a noncitizen seeking cancellation ) , the Government contended that Barton was categorically ineligible for that relief .
+It reasoned that Barton 's prior offenses triggered the stop - time rule and that Barton therefore could not meet the continuous - residence requirement .
+The problem ( for the Government ) was finding a prior offense that actually triggered the stop - time rule .
+None of the offenses that had made Barton deportable - his firearms and drug convictions - satisfied the stop - time rule 's first clause because § 1182(a)(2 ) does not " refe[r ] to " those offenses .
+The Government therefore could not argue that Barton 's firearms and drug offenses ended Barton 's period of continuous residence under the stop - time rule .
+As for Barton 's aggravated - assault offense , it was not a ground for deportability under § 1227(a ) and therefore did not render him deportable under the third clause of the stop - time rule .
+So the Government took a different tack : It argued that , even though Barton had already been admitted ( and was not seeking readmission ) , his aggravated - assault offense " render[ed him ] inadmissible " under the second clause of the stop - time rule .
+That is , although the Government could not charge Barton with inadmissibility , it relied upon a ground of inadmissibility to assert that Barton was not entitled to relief from removal .
+The Immigration Judge agreed with the Government .
+The judge made clear , however , that she would have granted Barton 's cancellation application had he satisfied the continuous - residence requirement .
+The judge cited , among other things , Barton 's strong family ties , including his four young children who were all U.S. citizens .
+The judge concluded that because " his last arrest was over 10 years ago , " Barton " is clearly rehabilitated . "
+The judge also concluded that Barton 's family " relies on him and would suffer hardship if he were to be deported to Jamaica . "
+App . to Pet . for Cert . 36a .
+II
+Barton makes two arguments to this Court .
+The Court focuses on the first - that the stop - time rule will " rende[r ] " a noncitizen inadmissible only if the person is actually adjudicated inadmissible based on the given offense .
+But whether Barton is right on that score is irrelevant because Barton 's second argument - which the Court fails to grapple with meaningfully - is surely correct : At the very least , an offense can not " rende[r ] " someone inadmissible unless the Government can legally charge that noncitizen with a ground of inadmissibility .
+That is , the stop - time rule is consistent with basic immigration law : A noncitizen who has already been admitted , and is not seeking readmission , can not be charged with any ground of inadmissibility and thus can not be deemed inadmissible .
+Because the stop - time rule uses the terms " removable " ( i.e. , deportable ) and " inadmissible " in the disjunctive , the Court must analyze the rule against the INA 's historic two - track backdrop .
+That context confirms that the term " inadmissible " can not refer to a noncitizen who , like Barton , has already been admitted and is not seeking readmission .
+Indeed , the terms " inadmissible " and " deportable " are mutually exclusive in removal proceedings : A noncitizen can be deemed either inadmissible or deportable , not both .
+§ 1229a(e ) ( for the purposes of removal statute and § 1229b - governing cancellation of removal - a noncitizen is " inadmissible under section 1182 " if " not admitted to the United States , " and " deportable under section 1227 " if " admitted to the United States " ) .
+For the purposes of the stop - time rule , a person is not " inadmissible " unless that person actually seeks admission , and thus is subject to charges of inadmissibility .
+After all , if the provision applied to those who could hypothetically be rendered inadmissible , it could have said so .
+For example , the statute would have said that it applied when " the alien has committed an offense referred to in section 1182(a)(2 ) of this title " that either ( 2 ) " could render the alien inadmissible to the United States under section 1182(a)(2 ) of this title " or ( 3 ) could render the noncitizen " removable [ i.e. , deportable ] from the United States under section 1227(a)(2 ) or 1227(a)(4 ) of this title . "
+The Government 's reading - that a noncitizen can be inadmissible under the stop - time rule without seeking admission at all - flouts basic statutory - interpretation principles .
+Among " the most basic interpretative canons " is " that a statute should be construed so that effect is given to all its provisions , so that no part will be inoperative or superfluous , void or insignificant . "
+Corley v. United States , 556 U.S. 303 , 314 , 129 S.Ct . 1558 , 173 L.Ed.2d 443 ( 2009 ) ( internal quotation marks and alteration omitted ) .
+Were the stop - time rule agnostic to whether the noncitizen actually seeks admission , then the rule 's third clause - regarding deportability - would be meaningless .
+When a noncitizen is " removable"- i.e. , deportable - under § 1227 for an offense " referred to " in § 1182(a)(2 ) , he or she is also " inadmissible " for an offense " referred to " in § 1182(a)(2 ) .
+The third clause has meaning only if inadmissibility and deportability apply , as they always have , to separate groups of noncitizens - noncitizens seeking admission on the one hand , and noncitizens already admitted on the other .
+To be sure , there are limited exceptions to the general rule that questions of admissibility apply only to noncitizens seeking formal admission .
+Noncitizens applying for adjustment of status must establish admissibility .
+§ § 1255(a ) , ( l ) ( 2 ) .
+But that is because adjustment of status is an express proxy for admission : " Congress created the [ process ] to enable an alien physically present in the United States to become an LPR without incurring the expense and inconvenience of traveling abroad to obtain an immigrant visa " and then presumably demonstrating admissibility on return .
+DHS , U.S. Citizenship and Immigration Services Policy Manual , vol . 7 , pt . A , ch . 1 ( 2020 ) , https://www.uscis.gov/policy-manual .
+Far from a " ginned - up label , " ante , at 1452 - 1453 , the term " constructive admission " expresses precisely how the INA conceives of adjustment of status : an admissions process that occurs inside the United States as opposed to outside of it .
+Alternatively , the Government also relies on two narrow provisions of the INA applicable to " [ s]pecial agricultural workers , " 8 U.S.C. § 1160 ( a)(3)(B)(ii ) , and " certain entrants before January 1 , 1982 , " § 1255a(b)(2)(B ) .
+These provisions , it argues , demonstrate that throughout the INA , inadmissibility is a status untethered to admission .
+But these provisions , too , refer to noncitizens seeking adjustment of status .
+§ 1160(a)(1 ) ( setting procedures for adjustment of status of certain noncitizens ) ; § 1255a(a ) ( same ) .
+Even if the Government were correct that these statutes deem a noncitizen inadmissible outside of an application for admission , its argument would rise and fall on a few provisions within the expansive INA .
+In any event , neither of these provisions is similar in structure and purpose to the stop - time rule .
+Neither refers to grounds of inadmissibility and grounds of deportability in tandem .
+What is more , neither appears to confer or deny relief exclusively in removal proceedings - where the dichotomy between inadmissibility and deportability is most important .
+By contrast , the Government concedes that the term " inadmissible " in the mandatory - detention statute - a provision structurally similar to the stop - time rule - applies only to noncitizens capable of being charged with inadmissibility .
+Brief for Respondent 30 .
+That provision specifies , in relevant part , that the Government " shall take into custody any alien who-(A ) is inadmissible by reason of having committed any offense covered in section 1182(a)(2 ) " or " ( C ) is deportable under section 1227(a)(2)(A)(i ) ... on the basis of an offense for which the alien has been sentence[d ] to a term of imprisonment of at least 1 year . "
+§ 1226(c)(1 ) ( footnote omitted ) .
+Although the term " inadmissible " in this context does not refer to an actual adjudication of inadmissibility , see Demore , 538 U.S. at 513 , 531 , 123 S.Ct . 1708 , the Government accepts that it must at least refer to a possible charge on a noncitizen seeking admission .
+Brief for Respondent 30 .
+Otherwise , the statute would subject already - admitted noncitizens - even those who are not deportable for any criminal offense - to mandatory detention , simply because they occupy the " status " of inadmissibility .
+This provision 's structure is virtually the same as the stop - time rule : It refers to grounds of inadmissibility and grounds of deportability separately and applies to a noncitizen in removal proceedings .
+Given the similar structure , the stop - time rule should be read the same as the mandatory - detention provision : to refer to adjudications that are possible rather than impossible .
+If a noncitizen seeking admission has committed a crime under § 1182(a)(2 ) and is convicted of or admits to the offense , that offense " renders " the noncitizen " inadmissible " because the noncitizen can be charged and found inadmissible based on that crime .
+But such an offense does not render a noncitizen inadmissible if , like Barton , he or she was admitted years earlier and does not seek readmission .
+For a noncitizen who has already been admitted , Congress carved out a separate category of offenses in both the stop - time rule and the mandatory - detention provision : here , those referred to in § 1182(a)(2 ) that render a noncitizen deportable under § § 1227(a)(2 ) and ( a)(4 ) .
+III
+The Court reaches a different result only by contorting the statutory language and by breezily waving away applicable canons of construction .
+At various points the Court seems to ignore the rule 's second and third clauses entirely - clauses that , as mentioned above , distinguish between grounds of inadmissibility and grounds of deportability .
+The Court insists that the statute " operates like traditional criminal recidivist laws " because it precludes cancellation of removal for a noncitizen who " has committed an offense listed in § 1182(a)(2 ) during the initial seven years of residence . "
+Ante , at 1445 ; see also ante , at 1448 , 1449 , n. 5 , 1453 - 1454 .
+Had Congress intended for commission of a crime in § 1182(a)(2 ) alone to trigger the stop - time rule , it would have said so .
+In fact , it would have stopped at the rule 's first clause , which ( without more ) states the Court 's rule : that the time of continuous residence stops whenever a noncitizen " has committed an offense referred to in section 1182(a)(2 ) of this title . "
+§ 1229b(d)(1 ) .
+But that reading ignores the rest of what Congress wrote .
+Congress specified that it is not enough for a noncitizen to commit a crime listed in § 1182(a)(2 ) ; that crime must also " rende[r ] the alien inadmissible to the United States under section 1182(a)(2 ) of this title " or " removable from the United States under section 1227(a)(2 ) or 1227(a)(4 ) of this title . "
+§ 1229b(d)(1 ) .
+Those words have meaning - invoking the two - track structure of the INA and the distinction between grounds of inadmissibility and grounds of deportability - and the Court can not simply will them out of existence .
+Even when the Court finally discusses the second clause , " renders the alien inadmissible , " the Court raises more questions than it answers - and answers questions that it need not address at all .
+First , the Court claims , the clause makes clear that " cancellation of removal is precluded if an alien committed a § 1182(a)(2 ) offense during the initial seven years of residence , even if ( as in Barton 's case ) the conviction occurred after the seven years elapsed . "
+Ante , at 1444 .
+Despite the emphasis the Court lays on this point , it is irrelevant to this case : Barton does not dispute that the stop - time rule is triggered by the date of commission of a crime rather than a later date of conviction .
+Brief for Petitioner 9 , n. 4 .
+The question in this case is whether certain offenses can possibly render Barton inadmissible when he does not seek admission and has already been admitted - regardless of whether one looks to the date of commission or the date of conviction of those offenses .
+Even if this question mattered and were properly before us , Congress could have made the same point - that the stop - time rule is triggered by commission of a crime - by omitting the second and third clauses entirely .
+It again could have written what the Court , at various points , seems to wish it had written : The stop - time rule is triggered whenever a noncitizen " has committed an offense referred to in section 1182(a)(2 ) of this title . "
+The second and third clauses - which refer to later events , when a noncitizen is actually " render[ed ] " inadmissible or deportable - make the Court 's aside less plausible , not more .
+The Court next insists that the second clause makes clear that the crime must " rende[r ] " the noncitizen " inadmissible"-which , in the Court 's view , requires only that a noncitizen admit the crime or be convicted of it .
+Ante , at 1459 .
+But given the INA 's historic two - track structure , a noncitizen is not " render[ed ] " inadmissible when convicted of an offense that can not serve as a ground of removal at all .
+The Court also fails to clarify why , if conviction or admission alone renders any noncitizen inadmissible regardless of admission status , Congress chose to add a third clause referring to grounds of deportability .
+Indeed , what does the Court do about the canon against surplusage ?
+The Court does not dispute that its reading makes the entire third clause of the stop - time rule meaningless .
+It offers only two rejoinders : ( 1 ) that the reference to subsection ( a)(4 ) in the third clause is superfluous under either party 's reading , and ( 2 ) that a bit of surplusage makes no difference in any event .
+Ante , at 1452 - 1453 .
+To be sure , " [ s]ometimes the better overall reading of the statute contains some redundancy . "
+Rimini Street , Inc. v. Oracle USA , Inc. , 586 U.S. ---- , ---- , 139 S.Ct . 873 , 881 , 203 L.Ed.2d 180 ( 2019 ) .
+But the Court relies on more than just " some redundancy . "
+It dismisses out of hand one of only three clauses in the stop - time rule - without regard for the clause 's pedigree or the core difference between deportability and inadmissibility .
+It remains this Court 's " ' duty " to give effect , if possible , to every clause and word of a statute . " ' "
+Duncan v. Walker , 533 U.S. 167 , 174 , 121 S.Ct . 2120 , 150 L.Ed.2d 251 ( 2001 ) ( quoting United States v. Menasche , 348 U.S. 528 , 538 - 539 , 75 S.Ct . 513 , 99 L.Ed . 615 ( 1955 ) ) .
+It must therefore be " ' reluctan[t ] to treat statutory terms as surplusage ' in any setting , " 533 U.S. at 174 , 121 S.Ct . 2120 ( quoting Babbitt v. Sweet Home Chapter , Communities for Great Ore. , 515 U.S. 687 , 698 , 115 S.Ct . 2407 , 132 L.Ed.2d 597 ( 1995 ) ) -especially in this context , where each word could dictate categorical ineligibility for relief from removal .
+It also does not matter that , as the Government points out , § 1227(a)(4 ) did not initially refer to any crimes cross - referenced in § 1182(a)(2 ) .
+Brief for Respondent 32 - 33 .
+Congress ' decision to make a noncitizen ineligible for cancellation based on a to - be - determined class of crimes is far different from excising and giving no meaning to an entire clause .
+* * *
+At bottom , the Court 's interpretation is at odds with the express words of the statute , with the statute 's overall structure , and with pertinent canons of statutory construction .
+It is also at odds with common sense .
+With virtually every other provision of the INA , Congress granted preferential treatment to lawfully admitted noncitizens - and most of all to LPRs like Barton .
+But because of the Court 's opinion today , noncitizens who were already admitted to the country are treated , for the purposes of the stop - time rule , identically to those who were not - despite Congress ' express references to inadmissibility and deportability .
+The result is that , under the Court 's interpretation , an immigration judge may not even consider whether Barton is entitled to cancellation of removal - because of an offense that Congress deemed too trivial to allow for Barton 's removal in the first instance .
+Because the Court 's opinion does no justice to the INA , let alone to longtime LPRs like Barton , I respectfully dissent .

@@ -1,0 +1,290 @@
+Justice SOTOMAYOR , with whom Justice KAGAN joins , dissenting .
+The majority 's complicated discussion of private - law easements , footpath maintenance , differently worded statutes , and policy masks the simple ( and only ) dispute here .
+Is the Appalachian National Scenic Trail " lan[d ] in the National Park System " ?
+30 U.S.C. § 185 ( b)(1 ) .
+If it is , then the Forest Service may not grant a natural - gas pipeline right - of - way that crosses the Trail on federally owned land .
+So says the Mineral Leasing Act , and the parties do not disagree .
+See Brief for Petitioner Atlantic Coast Pipeline , LLC , 10 ; Brief for Federal Petitioners 3 ; Brief for Respondents 1 .
+By definition , lands in the National Park System include " any area of land " " administered " by the Park Service for " park , monument , historic , parkway , recreational , or other purposes . "
+54 U.S.C. § 100501 .
+So says the National Park Service Organic Act , and the parties agree .
+See Brief for Petitioner Atlantic Coast Pipeline , LLC , 38 ; Brief for Federal Petitioners 45 - 46 ; Brief for Respondents 5 - 6 .
+The Appalachian Trail , in turn , is " administered " by the Park Service to ensure " outdoor recreation " and to conserve " nationally significant scenic , historic , natural , or cultural qualities . "
+§ § 3(b ) , 5(a)(1 ) , 82 Stat . 919 -920 ; see also 34 Fed . Reg . 14337 ( 1969 ) .
+So say the National Trails System Act and relevant regulations , and again the parties agree .
+See Brief for Petitioner Atlantic Coast Pipeline , LLC , 6 , 8 - 9 ; Brief for Federal Petitioners 9 , 26 ; Brief for Respondents 5 .
+Thus , as the Government puts it , the only question here is whether parts of the Appalachian Trail are " ' lands ' " within the meaning of those statutes .
+Brief for Federal Petitioners 3 .
+Those laws , a half century of agency understanding , and common sense confirm that the Trail is land , land on which generations of people have walked .
+Indeed , for 50 years the " Federal Government has referred to the Trail " as a " ' unit ' " of the National Park System .
+Ante , at 1845 - 1846 ; see Part I - C , infra .
+A " unit " of the Park System is by definition either " land " or " water " in the Park System .
+54 U.S.C. § § 100102 ( 6 ) , 100501 .
+Federal law does not distinguish " land " from the Trail any more than it distinguishes " land " from the many monuments , historic buildings , parkways , and recreational areas that are also units of the Park System .
+Because the Trail is land in the Park System , " no federal agency " has " authority under the Mineral Leasing Act to grant a pipeline right - of - way across such lands . "
+Brief for Federal Petitioners 3 .
+By contrast , today 's Court suggests that the Trail is not " land " in the Park System at all .
+The Court strives to separate " the lands that the Trail traverses " from " the Trail itself , " reasoning that the Trail is simply an " easement , " " not land . "
+Ante , at 1844 , 1844 - 1845 .
+In doing so , however , the Court relies on anything except the provisions that actually answer the question presented .
+Because today 's Court condones the placement of a pipeline that subverts the plain text of the statutes governing the Appalachian Trail , I respectfully dissent .
+I
+Petitioner Atlantic Coast Pipeline , LLC , seeks to construct a natural - gas pipeline across the George Washington National Forest .
+The proposed route traverses 21 miles of national forests and requires crossing 57 rivers , streams , and lakes within those forests .
+See 911 F.3d 150 , 155 ( CA4 2018 ) ( case below in No . 18 - 1584 ) ; App . in No . 18 - 1144 ( CA4 ) , p. 1659 .
+The plan calls for " clearing trees and other vegetation from a 125 - foot right of way ( reduced to 75 feet in wetlands ) through the national forests , digging a trench to bury the pipeline , and blasting and flattening ridgelines in mountainous terrains . "
+911 F.3d at 155 .
+Construction noise will affect Appalachian Trail use 24 hours a day .
+See App . 79 - 80 .
+Atlantic 's machinery ( including the artificial lights required to work all night ) will dim the stars visible from the Trail .
+See i d. , at 80 .
+As relevant here , at one stretch the pipeline would cross the Trail .
+A
+Three interlocking statutes foreclose this proposal .
+The Mineral Leasing Act authorizes the Secretary of the Interior " or appropriate agency head " to grant rights - of - way for natural - gas pipelines " through any Federal lands . "
+30 U.S.C. § 185 ( a ) ; see also § 185(q ) ( governing renewals of pre - existing pipeline rights - of - way " across Federal lands " ) .
+" For the purposes of " § 185 , however , " ' Federal lands ' " exclude " lands in the National Park System . "
+§ 185(b ) .
+Thus , as all acknowledge , if a proposed pipeline would cross any land in the Park System , then no federal agency would have " authority under the Mineral Leasing Act to grant " a " right - of - way across " that land .
+Brief for Federal Petitioners 3 ; see also Brief for Petitioner Atlantic Coast Pipeline , LLC , 10 ; Brief for Respondents 1 .
+Although the Mineral Leasing Act does not define " lands in the National Park System , " the Park Service Organic Act does .
+Under the Organic Act , the Park System and any " unit " of the Park System " include any area of land and water administered by the Secretary " of the Interior , " acting through the Director " of the Park Service , for " park , monument , historic , parkway , recreational , or other purposes . "
+54 U.S.C. § § 100102 , 100501 .
+That definition is sweeping ; whether land or water , " any area " so " administered " by the Park Service is in the Park System .
+§ 100501 .
+In turn , the National Trails System Act of 1968 ( Trails Act ) , 82 Stat . 919 , provides that the Appalachian Trail " shall be administered " " by the Secretary of the Interior " to " provide for maximum outdoor recreation potential and for the conservation and enjoyment " of " nationally significant scenic , historic , natural , or cultural qualities . "
+§ § 3(b ) , 5(a)(1 ) , i d. , at 919 - 920 ; see also 16 U.S.C. § § 1242 ( a)(2 ) , 1244(a)(1 ) .
+The Trails Act provides that the Secretary of the Interior has authority to " grant easements and rights - of - way , " among other things , " under " the Appalachian Trail 's surface .
+§ 9(a ) , 82 Stat . 925 ; see also 16 U.S.C. § 1248 ( a ) .
+In 1969 , the Secretary of the Interior assigned all these powers to the Park Service , naming it the Trail 's " land administering bureau . "
+34 Fed . Reg . 14337 .
+Since then , the Federal Government has consistently identified the Trail as a " ' unit ' " of , and thus land in , the National Park System .
+54 U.S.C. § § 100102 ( 6 ) , 100501 ; see also , e.g. , ante , at 1845 - 1846 ; Part I - C , infra .
+By statutory definition , the Appalachian Trail is land in the National Park System , and the Mineral Leasing Act does not permit pipeline rights - of - way across it .
+B
+Statutory history reinforces that the Appalachian Trail is land in the National Park System .
+When the Trails Act designated the Appalachian Trail in 1968 , then - existing law provided that " all federally owned or controlled lands " administered by the Park Service for certain purposes were within the Park System .
+§ 2(a ) , 67 Stat . 496 .
+At the time , though , many " lands " owned by the Federal Government were " supervis[ed ] " by the Park Service " pursuant to cooperative agreement[s ] " but technically " under the administrative jurisdiction " of other federal agencies .
+§ 2(b ) , ibid .
+The law defined these as " ' miscellaneous areas ' " outside of the Park System .
+Ibid .
+In 1970 , after the Park Service had begun its role as the Trail 's land - administering bureau , Congress enacted the General Authorities Act .
+This Act declared that the Park System had " grown to include superlative natural , historic , and recreation areas in every major region " and Territory of the United States , and that the Act 's " purpose " was " to include all such areas in the [ Park ] System and to clarify the authorities applicable to the system . " Pub . L. 91 - 383 , § 1 , 84 Stat . 825 .
+To that end , Congress eliminated the " ' miscellaneous areas ' " classification , see § 2(a ) , i d. , at 826 , and amended the Park Service Organic Statute to define the National Park System as " ' any area of land and water now or hereafter administered by the Secretary of the Interior through the National Park Service . ' "
+§ 2(b ) , ibid . ; see also 54 U.S.C. § § 100102 ( 2 ) , ( 5 ) , ( 6 ) , 100501 .
+Of course , the Appalachian Trail was then ( and " ' [ t]hereafter ' " ) " ' administered by the Secretary of the Interior through the National Park Service . ' "
+§ 2(b ) , 84 Stat . 826 .
+In 1973 , having broadly defined lands in the Park System , Congress amended the Mineral Leasing Act by eliminating authority to grant rights - of - way across those lands .
+Before then , the Mineral Leasing Act had provided limited permission to grant rights - of - way through " public lands , " § 28 , 41 Stat . 449 , a term of art referring to certain federally owned land that had never been owned by a State or private individual , see Wallis v. Pan American Petroleum Corp. , 384 U.S. 63 , 65 , and n. 2 , 86 S.Ct . 1301 , 16 L.Ed.2d 369 ( 1966 ) .
+The 1973 amendments replaced the Mineral Leasing Act 's reference to " public lands " with " ' all lands owned by the United States ' " and carved out " ' lands in the National Park System . ' "
+§ 101 , 87 Stat . 577 ; see also 30 U.S.C. § 185 ( b ) .
+This carve - out meant that parties seeking to build natural - gas pipelines across federally owned land in the Park System could not rely on the Mineral Leasing Act .
+§ 101 , 87 Stat . 577 ; 30 U.S.C. § 185 ( b ) .
+Put simply , " any area of land and water administered by " the Park Service is a unit of the Park System and must be " regulate[d ] " through " means and measures " that " conserve " and " provide for the enjoyment of the scenery , natural and historic objects , and wild life " in ways " as will leave them unimpaired for the enjoyment of future generations . "
+54 U.S.C. § § 100101 , 100501 .
+By 1970 , the Appalachian Trail was no doubt such an area , as Congress knew when it excluded all federally owned land " in the National Park System " from the Mineral Leasing Act in 1973 .
+Because the proposed pipeline here would cross that park land , Atlantic can not rely on the Mineral Leasing Act to authorize its proposal .
+C
+Agency practice confirms this conclusion .
+For a half century the Park Service has acknowledged that the Appalachian Trail is a unit of ( and land in ) the Park System .
+Recall that a year after the Trails Act 's enactment , the Secretary of Interior named the Park Service the " land administering bureau " for the Appalachian Trail .
+34 Fed . Reg . 14337 .
+In 1972 , the Park Service identified the Trail as a " recreational are[a ] " that it " administered . " National Park Service ( NPS ) , National Parks & Landmarks 88 ( capitalization deleted ) .
+Similarly , as the administrator of that land , the Park Service issued regulations for the Trail under the umbrella , " Areas of the National Park System . "
+36 C.F.R. pt . 7 ( 1983 ) ( capitalization deleted ) ; see also i d. , § 7.100 ; 48 Fed . Reg . 30252 ( 1983 ) .
+When it did so , the Park Service explained that " [ t]hese regulations will be utilized to fulfill the statutory purposes of units of the National Park System . "
+36 C.F.R. § 1.1 ; 48 Fed . Reg . 30275 .
+All those terms - land , area , administer , recreation , unit of the National Park System - trace the Organic Act 's definition of land in the Park System .
+See , e.g. , 54 U.S.C. § § 100102 ( 6 ) , 100501 .
+More recently , a 2005 Park Service history stated that the Appalachian Trail was " brought into the National Park System " by the Trails Act and that , with the Trail 's " inclusion in the System , the [ Park Service ] became responsible for its protection and maintenance within federally administered areas . "
+NPS , The National Parks : Shaping the System 77 .
+A 2006 Park Service handbook stated that " [ s]everal components of the National Trails System which are administered by the [ Park ] Service , " including the Appalachian Trail , " have been designated as units of the national park system " and " are therefore managed as national park areas . "
+NPS , Management Policies 2006 , § 9.2.2.7 , p. 134 .
+A 2016 Park Service index similarly listed the Trail as " a unit of the National Park System . "
+NPS , The National Parks : Index 2012 - 2016 , p. 142 ( NPS Index ) .
+Still taking cues from statutory text , the Park Service continues to refer to the Appalachian Trail as land in the Park System .
+Just last year , the Park Service issued a reference manual describing the Appalachian Trail as a " land protection project " that has " been formally declared [ a ] uni[t ] of the National Park System . "
+NPS , National Trails System : Reference Manual 45 , pp . 28 , 221 ( 2019 ) ( NPS , Reference Manual ) .
+The Park Service 's compendium of regulations similarly explains that the General Authorities Act " brought all areas administered by the [ Park Service ] into one National Park System . "
+NPS , Appalachian Trail Superintendent 's Compendium 2 ( 2019 ) .
+Even the Park Service 's recent budget justification to Congress identified the Appalachian Trail as a " Park Base Uni[t ] , " a " Park Uni[t ] , " and a national " par[k ] . " Dept . of Interior , Budget Justifications and Performance Information - Fiscal Year 2020 : National Park Service , at Overview-16 , ONPS-89 , -105 ( Budget Justifications ) ( capitalization deleted ) .
+The Government has even brought this understanding to bear against private citizens .
+For example , the Government ( including the Park Service and the Forest Service ) filed a damages lawsuit against an individual , invoking the Organic Act and asserting that a segment of the Appalachian Trail passing through Forest Service lands was a unit of the National Park System .
+See Record in United States v. Reed , No . 1:05 - cv-00010 ( WD Va. ) , Doc . 1 , p. 2 ( " The United States ... has established the Appalachian National Scenic Trail ... as [ a ] uni[t ] of the National Park Service " ) .
+In that case , the Government obtained a jury verdict against someone who had caused a fire on a Trail segment that was , as the Government alleged , land in the Park System .
+See ibid . , see also i d. , Doc . 31 ( judgment ) .
+Here , at least before they reached this Court , both the Park Service and Forest Service explained in proceedings below that the Trail is land in the Park System .
+The Park Service noted that the Appalachian Trail is a " protected corridor ( a swath of land averaging about 1,000 feet in width ... ) " that the Park Service " administers . "
+App . 97 .
+Thus , the Park Service detailed , " the entire Trail corridor " is a " park unit . "
+Ibid .
+For its part , the Forest Service acknowledged that the Park Service " is the lead federal administrator agency for the entire [ Appalachian Trail ] , regardless of land ownership . "
+Id. , at 126 .
+Again , this statement echoes the Organic Act 's definition of land in the Park System , see 54 U.S.C. § 100501 , further reflecting that the Trail is land in the Park System .
+The agencies ' common ground does not stop there .
+The Park Service 's Land Resources Division estimates that the Appalachian Trail corridor constitutes nearly 240,000 acres .
+NPS , Land Resources Div . , Acreage Reports , Listing of Acreage , p. 1 ( Dec. 31 , 2019 ) ( NPS , 2019 Acreage Report ) .
+The Forest Service concurs .
+See Dept . of Agriculture , Revised Land and Resource Mgmt . Plan - George Washington Nat . Forest 4 - 42 ( 2014 ) ( Forest Service Land Plan ) .
+In its own management plan , the Forest Service explained that the Secretary of the Interior " administer[s ] " in the George Washington National Forest " about 9,000 acres . "
+Ibid .
+Acres of land , that is .
+As federally owned land administered by the Park Service , the Trail segment that Atlantic aims to cross is exempt from the Mineral Leasing Act 's grant of right - of - way authority .
+II
+The Court resists this conclusion for three principal reasons .
+Each tries to detach the Appalachian Trail from land , but none adheres to the plain text and history described above .
+A
+First , the Court posits that the Forest Service granted the Park Service only an " easement " for the Trail 's route through the George Washington National Forest .
+See ante , at 1844 - 1846 .
+Because private - law " easements are not land , " the Court reasons , nothing " divest[ed ] the Forest Service of jurisdiction over the lands that the Trail crosses . "
+Ante , at 1844 - 1845 , 1846 .
+That reasoning is self - defeating .
+Despite recognizing that the Park Service " administers the Trail , " the Court insists that this administration excludes " the underlying land " constituting the Trail .
+Ante , at 1846 - 1847 .
+But the Court does not disclose how the Park Service could administer the Trail without administering the land that forms it .
+Neither does the Court explain how the Trail could be a unit of the Park System if it is not land .
+The Court declares that the Trail 's status as a System " ' unit ' " does not " indicat[e ] that the Trail and the land are the same . "
+Ante , at 1845 .
+But the Court cites no statutory authority for this view .
+Nor could it .
+The Organic Act says the opposite : A " ' System unit ' " is by definition " land " or " water . "
+54 U.S.C. § § 100102 ( 6 ) , 100501 .
+Unless the Court means to imply that the Appalachian Trail is water , the Trail must be land in the Park System .
+Indeed , the Court 's atextual reading unsettles much of the Park System as we know it .
+Other System units include the Booker T. Washington National Monument , George Washington 's birthplace , the Harriet Tubman Underground Railroad National Historical Park , the Blue Ridge Parkway , and the Golden Gate National Recreation Area .
+See , e.g. , Budget Justifications , ONPS-89 , -92 , -109 ; accord , NPS Index , at 32 , 61 , 85 , 104 , 105 .
+These monuments , houses , roads , and recreational areas are just as much " land " in the Park System as is a foot trail worn into the earth .
+The Court 's analysis of private - law easements is also unconvincing .
+In the Court 's words , a private - law easement is " a limited privilege " granted to " a nonowner " of land .
+Ante , at 1844 - 1845 ; see also ibid .
+( adding that " the grantor of [ an ] easement retains ownership " over the land and that " easements are not land , they merely burden land that continues to be owned by another " ) .
+But as the Court recognizes , " the Federal Government owns all lands involved here , " ante , at 1845 , so private law is inapposite .
+Precisely because the Government owns all the lands at issue , it makes little sense to ask whether the Government granted itself an easement over its own land under state - law principles .
+Between agencies of the Federal Government , federal statutory commands , not private - law analogies , govern .
+In any event , the Trails Act provides that the " rights - of - way " for the Appalachian Trail " shall include lands protected for it " where " practicable . "
+16 U.S.C. § 1244 ( a)(1 ) ; cf . § 1246(d ) ( listing the " areas ... included " in a right - of - way ) ; § 1246(e ) ( providing that the Government may " acquire such lands or interests therein to be utilized as segments of " a trail and that " lands involved in such rights - of - way should be acquired in fee " ) .
+Thus , even with a so - called " easement " through a federal forest , the Park Service still administers land " acquire[d ] " and " protected " for the Trail .
+That is why the Park Service refers to the Trail as a " swath of land , " App . 97 ; why the Forest Service admits that the Park Service administers those " acres , " Forest Service Land Plan 4 - 42 ; and why the Secretary of the Interior has authority to grant rights - of - way " under " the Trail 's surface , § 1248(a ) .
+Tellingly , the Court recognizes that § 1248(a ) " extends a positive grant of authority to the agency responsible for the Trail . "
+Ante , at 1845 , n. 3 . Indeed .
+That only scratches the surface .
+The Park Service may control what happens under the Trail consistent with " units of the national park system . "
+§ 1246(i ) .
+The Park Service also determines which " uses along the trail " to permit , § 1246(c ) , and provides for the Trail 's " protection , management , development , and administration , " § 1246(i ) .
+But under the Court 's atextual reading of the relevant statutes , the agency tasked with protecting the Trail ( and empowered to grant rights - of - way under it ) could be excluded from determining whether a pipeline bores across the Trail .
+The Court 's interpretation means that the Mineral Leasing Act would not even stop Atlantic from building a pipeline on top of an undisputed unit of the Park System .
+Cf . ante , at 1850 , n. 7 .
+That can not be right .
+The Court also appears to assume that the Park Service 's administrative jurisdiction over lands making up the Appalachian Trail must be mutually exclusive with the Forest Service 's jurisdiction .
+See ante , at 1844 - 1846 ( focusing on whether " jurisdiction over the lands " making up the Trail was " transferred , " " convert[ed ] , " or " divest[ed ] " ) .
+But this is not a zero - sum inquiry .
+The question is " not whether those portions of the [ Appalachian Trail ] were removed from the George Washington National Forest ; the question is whether they were added to the National Park System . "
+Brief for National Resources Defense Council et al . as Amici Curiae 2 .
+As explained above , the lands making up the Appalachian Trail were indeed added to the National Park System .
+That the Trail may fall within both the Forest System and the Park System is not surprising .
+The Trails Act recognizes that two agencies may have overlapping authority over the Appalachian Trail .
+See 16 U.S.C. § 1244 ( a)(1 ) ( giving the Secretary of the Interior administrative authority " in consultation with the Secretary of Agriculture " ) ; § 1246(a)(2 ) ( " Development and management of each segment of the National Trails System shall be designed to harmonize with and complement any established multiple - use plans for that specific area " ) .
+So too the Mineral Leasing Act contemplates that multiple agencies may share authority over federally owned land implicated in proposed rights - of - way .
+See 30 U.S.C. § 185 ( c ) ; see also n. 2 , supra .
+The Court appears to recognize this point , see ante , at 1845 , n. 3 , but does not follow it to its logical conclusion : that land may be in both the Park Service and the Forest Service and thus excluded from the Mineral Leasing Act 's right - of - way authority .
+The Mineral Leasing Act 's carve - out simply asks whether the federally owned land is in the Park System at all .
+See § 185(b ) .
+If it is , then ( as the parties recognize ) the Mineral Leasing Act does not permit pipelines to cross that park land .
+The Court also cites a 1983 amendment to the Trails Act for the proposition that the lands making up the Appalachian Trail are not administered by the Park Service .
+See ante , at 1850 ( citing 16 U.S.C. § 1246 ( a)(1)(A ) ) .
+This provision states that " nothing " in the Trails Act " shall be deemed to transfer among Federal agencies any management responsibilities ... for federally administered lands which are components of the National Trails System . "
+§ 1246(a)(1)(A ) ; see also § 207 , 97 Stat . 45 -46 .
+It does not aid the Court 's analysis .
+For one thing , § 1246(a)(1)(A ) undercuts the Court 's distinction between a trail and land : The statute equates " components of the National Trails System " like the Appalachian Trail with " lands . "
+Ibid . ; see also § 1241(b ) ( Appalachian Trail is a " componen[t ] " of the National Trails System ) .
+For another , in relying on this provision , the Court elides two terms of art : " administering " land and " managing " it .
+See ante , at 1846 - 1847 , 1850 .
+" Trail administration is distinguished from on - the - ground trail management . "
+NPS , Reference Manual 45 , at 21 .
+Section 1246(a)(1)(A ) itself differentiates the terms because it uses both , but disclaims only the transfer of " management , " not " administration . "
+When , as here , " ' " Congress includes particular language in one section of a statute but omits it in another , " ' "
+this Court " generally presumes " that " Congress ' " intended a difference in meaning . " ' "
+Maine Community Health Options v. United States , --- U.S. ---- , 140 S.Ct . 1308 , 1323 , --- L.Ed.2d ---- ( 2020 ) .
+This distinction between administration and management tracks the Park Service Organic Act .
+The Organic Act defines the Park System as land " administered " by the Park Service .
+54 U.S.C. § 100501 ; see also § 100502 ( reflecting difference between administration and management ) .
+Similarly , the rest of the Trails Act differentiates the two terms by giving the Secretary of the Interior ( and by extension the Park Service ) power to " administe[r ] " the lands making up the Appalachian Trail , § 5(a)(1 ) , 82 Stat . 920 , in consultation with other parties about proper Trail " management , " § 7(i ) , i d. , at 925 .
+Even the Mineral Leasing Act echoes this difference by equating land " under the jurisdiction of [ a ] Federal agency " with land " administered " by that agency .
+30 U.S.C. § § 185 ( c)(1 ) , ( 2 ) .
+The Court may be right that the Park Service " ' provide[s ] for ' the maintenance of the Trail " while the Forest Service " performs the necessary physical work , " ante , at 1846 - 1847 , but that only punctuates the contrast between administration and management .
+See , e.g. , NPS , Reference Manual 45 , at 8 , 10 , 21 .
+There is no disputing that the Park Service administers the Appalachian Trail , even if the Forest Service manages it .
+At bottom , 16 U.S.C. § 1246 ( a)(1)(A ) does not change the fact that the Park Service administers the Appalachian Trail as a unit of the Park System .
+Nor does it supersede the Park Service Organic Act 's definition of Park System lands or the Mineral Leasing Act 's exclusion of those lands .
+B
+Second , the Court maintains that Congress should have used " unequivocal and direct language " had it intended for the Trail to be land in the Park System .
+Ante , at 1847 .
+The Court cites the Wild and Scenic Rivers Act ( Rivers Act ) and the Blue Ridge Parkway statutes , noting that Congress " failed to enact similar language in the Trails Act . "
+Ante , at 1850 .
+But as the Government explained , " [ m]agic words such as ' transfer jurisdiction ' are unnecessary . "
+Reply Brief for Federal Petitioners 9 ( citation omitted ) .
+Indeed , neither example lends the Court much support .
+Certainly the Rivers Act , 82 Stat . 906 , stated that any component of the Rivers System would " become a part of " the National Park System .
+§ 10(c ) , i d. , at 916 .
+But this shows that Congress has many means to make land a unit of the Park System .
+Congress charted another path for the Appalachian Trail by enacting the General Authorities Act , a statute just as explicit as the Rivers Act .
+Again , it was after the Park Service had become the Trail 's " land administering bureau , " 34 Fed . Reg . 14337 , that Congress provided that " ' any area of land ... now or hereafter administered by the Secretary of the Interior through the National Park Service ' " is land in the Park System , § 2(b ) , 84 Stat . 826 ; see also 54 U.S.C. § § 100102 ( 2 ) , ( 6 ) , 100501 .
+Resembling the Rivers Act , the General Authorities Act unambiguously provided that a component of the Trails System would become land in the National Park System .
+The Blue Ridge Parkway statutes also undermine the Court 's conclusion .
+The Court cites a 1952 statute and some more recent laws , see ante , at 1847 , but the enactments that originally created the Blue Ridge Parkway did not include language about " transferring " land from one agency to another .
+Rather , they stated that the parkway " shall be administered and maintained by the Secretary of the Interior through the National Park Service " and be " subject to " the Park Service Organic Act , even though the relevant lands included national forests .
+See 49 Stat . 2041 ; ch . 277 , 54 Stat . 249 -250 ; NPS , Blue Ridge Parkway : Virginia and North Carolina Final General Management Plan 12 ( 2013 ) .
+The only salient difference between the original Blue Ridge Parkway statutes and the Trails Act is that , for the latter , Congress took an additional step by enacting the General Authorities Act .
+For similar reasons , it is not significant that the National Trails Act allowed the Secretary of the Interior to decide which agency in the Interior Department would administer the Appalachian Trail .
+Cf . ante , at 1848 - 1850 .
+That was a choice for Congress and the Executive Branch , not the Judiciary .
+See § 5(a ) , 82 Stat . 920 .
+More important , this designation had occurred before Congress enacted the General Authorities Act and amended the Mineral Leasing Act , and Congress was aware that the Park Service had already been selected to administer the land .
+The Court is therefore incorrect to suggest that Congress altered a regulatory scheme " through delegation . "
+Ante , at 1848 - 1850 .
+Congress did so instead explicitly through legislation and ratification .
+C
+Last , the Court objects on policy grounds that hewing to the statutes ' plain meaning would have " striking implications for federalism and private property rights . "
+Ibid .
+Not so .
+For starters , the pertinent provisions under the Mineral Leasing Act apply only to " lands owned by the United States . "
+30 U.S.C. § 185 ( b)(1 ) .
+That statute does not address a State or private landowner 's ability to grant rights - of - way for pipelines .
+Congress , moreover , already addressed the Court 's concerns .
+The Trails Act prescribed the means by which nonfederal " land necessary for [ the Trail ] may be acquired " : by voluntary arrangements or , if " all voluntary means for acquiring the property fail , " through " condemnation proceedings . "
+Preseault v. ICC , 494 U.S. 1 , 5 , n. 1 , 110 S.Ct . 914 , 108 L.Ed.2d 1 ( 1990 ) ( citing 16 U.S.C. § § 1246 ( e ) , ( g ) ) .
+" Where practicable , " the Trails Act incorporated preexisting cooperative agreements .
+§ 1244(a)(1 ) .
+And as the Park Service has explained , it took the cooperative path to acquire private and state land for the Trail .
+See , e.g. , NPS , Reference Manual 45 , at 41 ( extolling the Trail 's cooperative agreements that became " a laboratory for developing sustainable partnerships that can care for and protect interstate trails " ) .
+True , that the Appalachian Trail is land in the Park System means the Park Service has some power to regulate nonfederal property .
+But that authority is not new .
+For decades the Park Service has regulated waste disposal on " all lands and waters within the boundaries of all units of the National Park System , whether federally or nonfederally owned . "
+36 C.F.R. § 6.2 ( 1995 ) .
+It also has power to regulate the entire Appalachian Trail , including lands that the Government does not own .
+16 U.S.C. § 1246 ( c ) ( requiring private landowners to act " in accordance with regulations " governing " the use of motorized vehicles " on the Trail ) .
+Nor is the Park Service 's authority over Trail lands remarkable .
+Uniform regulatory power is a feature of a unified National Park System .
+After all , Congress designed the Park System to " expres[s ] a single national heritage " and to " conserve " the country 's " scenery , natural and historic objects , and wild life " for " the common benefit of all the people of the United States . "
+54 U.S.C. § § 100101 ( a ) , ( b ) .
+Thus , " the Secretary [ of the Interior ] , acting through the Director of the Park Service , has broad authority under the National Park Service Organic Act ... to administer both lands and waters within all system units in the country . "
+Sturgeon v. Frost , 587 U. S. ---- , ---- , 139 S.Ct . 1066 , 1076 , 203 L.Ed.2d 453 ( 2019 ) ; see also § 100751(a ) ( Secretary of the Interior " shall prescribe such regulations as [ he or she ] considers necessary or proper for the use and management of System units " ) .
+Because " [ t]hose statutory grants of power make no distinctions based on the ownership of either lands or waters , "
+i d. , at ---- , 139 S.Ct . , at 1706 , " park boundaries can encompass both federally and nonfederally owned lands and waters , " all " subject to [ Park ] Service regulations , "
+i d. , at ---- , 139 S.Ct . , at 1089 ( SOTOMAYOR , J. , concurring ) .
+Despite all this , the Court insists that Congress use " exceedingly clear language " when it wishes " to significantly alter the balance between federal and state power and the power of the Government over private property . "
+Ante , at 1848 - 1850 .
+But Congress did .
+It used language so clear , in fact , that every year the Park Service provides an acreage report listing state and private land as part of the Appalachian Trail system unit .
+Last year , the Park Service 's report listed that the Trail system unit comprises 58,110.94 acres of " Non - Federal " land , including 8,815.98 acres of " Private " land .
+See NPS , 2019 Acreage Report .
+* * *
+Today 's outcome is inconsistent with the language of three statutes , longstanding agency practice , and common sense .
+The Park Service administers acres of land constituting the Appalachian Trail for scenic , historic , cultural , and recreational purposes .
+§ § 3(b ) , 5(a)(1 ) , 82 Stat . 919 -920 ; 34 Fed . Reg . 14337 . " [ A]ny area of land " so " administered " by the Park Service is a unit of and thus land in the National Park System .
+54 U.S.C. § § 100102 ( 6 ) , 100501 .
+The Mineral Leasing Act does not permit natural - gas pipelines across such federally owned lands .
+30 U.S.C. § 185 ( b ) .
+Only Congress , not this Court , should change that mandate .
+I respectfully dissent .

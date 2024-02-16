@@ -1,0 +1,27 @@
+Justice THOMAS , with whom Justice GORSUCH joins , concurring .
+I agree that Kansas ' prosecutions and convictions of respondents for identity theft and making false information are not pre - empted by § 101(a)(1 ) of the Immigration Reform and Control Act of 1986 , 8 U.S.C. § 1324a .
+I write separately to reiterate my view that we should explicitly abandon our " purposes and objectives " pre - emption jurisprudence .
+The founding generation treated conflicts between federal and state laws as implied repeals .
+PLIVA , Inc. v. Mensing , 564 U.S. 604 , 622 , 131 S.Ct . 2567 , 180 L.Ed.2d 580 ( 2011 ) ( plurality opinion ) .
+Then , as now , courts disfavored repeals by implication .
+See , e.g. , Warder v. Arell , 2 Va. 282 , 299 ( 1796 ) ( opinion of President Judge ) ; 2 T. Cunningham , A New and Complete Law - Dictionary ( 2d ed . 1771 ) ( defining " Statute " ) ; 4 M. Bacon , A New Abridgment of the Law 638 ( 3d ed . 1768 ) .
+To overcome this disfavor , legislatures included non obstante clauses in statutes .
+See Nelson , Preemption , 86 Va. L. Rev. 225 , 237 - 240 , and nn . 42 - 44 ( 2000 ) ( collecting examples ) .
+Courts understood non obstante provisions to mean that , " [ r]ather than straining the new statute in order to harmonize it with prior law , [ they ] were supposed to give the new statute its natural meaning and to let the chips fall where they may . "
+Id. , at 242 .
+The Founders included a non obstante provision in the Supremacy Clause .
+It directs that " the Judges in every State shall be bound " by the " Constitution , and the Laws of the United States which shall be made in Pursuance thereof ; and all Treaties made , or which shall be made , under the Authority of the United States , ... any Thing in the Constitution or Laws of any state to the Contrary notwithstanding . "
+Art . VI , cl . 2 .
+If we interpret the Supremacy Clause as the founding generation did , our task is straightforward .
+We must use the accepted methods of interpretation to ascertain whether the ordinary meaning of federal and state law " directly conflict . "
+Wyeth v. Levine , 555 U.S. 555 , 590 , 129 S.Ct . 1187 , 173 L.Ed.2d 51 ( 2009 ) ( THOMAS , J. , concurring in judgment ) .
+" [ F]ederal law pre - empts state law only if the two are in logical contradiction . "
+Merck Sharp & Dohme Corp. v. Albrecht , 587 U. S. ---- , ---- , 139 S.Ct . 1668 , 1681 , 203 L.Ed.2d 822 ( 2019 ) ( THOMAS , J. , concurring ) ; see also Nelson , supra , at 236 - 237 .
+The doctrine of " purposes and objectives " pre - emption impermissibly rests on judicial guesswork about " broad federal policy objectives , legislative history , or generalized notions of congressional purposes that are not contained within the text of federal law . "
+Wyeth , supra , at 587 , 129 S.Ct . 1187 ( opinion of THOMAS , J. ) ; see also Arizona v. United States , 567 U.S. 387 , 440 , 132 S.Ct . 2492 , 183 L.Ed.2d 351 ( 2012 ) ( THOMAS , J. , concurring in part and dissenting in part ) .
+I therefore can not apply " purposes and objectives " pre - emption doctrine , as it is contrary to the Supremacy Clause .
+In these cases , the Court correctly distinguishes our " purposes and objectives " precedents and does not engage in a " ' freewheeling judicial inquiry into whether a state statute is in tension with federal objectives . ' "
+Wyeth , supra , at 588 , 129 S.Ct . 1187 ( opinion of THOMAS , J. ) ( quoting Bates v. Dow Agrosciences LLC , 544 U.S. 431 , 459 , 125 S.Ct . 1788 , 161 L.Ed.2d 687 ( 2005 ) ( THOMAS , J. , concurring in judgment in part and dissenting in part ) ) .
+It also acknowledges that " [ t]he Supremacy Clause gives priority to ' the laws of the United States , ' not the criminal law enforcement priorities or preferences of federal officers . "
+Ante , at 807 .
+Because the Court rejects respondents ' " purposes and objectives " argument without atextual speculation about legislative intentions , I join its opinion in full .

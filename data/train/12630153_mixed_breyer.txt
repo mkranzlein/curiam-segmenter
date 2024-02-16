@@ -1,0 +1,96 @@
+Justice BREYER , with whom Justice GINSBURG , Justice SOTOMAYOR , and Justice KAGAN join , concurring in part and dissenting in part .
+I agree with the majority that nothing in the Immigration Reform and Control Act of 1986 ( IRCA ) , 100 Stat . 3359 , expressly preempts Kansas ' criminal laws as they were applied in the prosecutions at issue here .
+But I do not agree with the majority 's conclusion about implied preemption .
+When we confront a question of implied preemption , the words of the statute are especially unlikely to determine the answer by themselves .
+Nonetheless , in my view , IRCA 's text , together with its structure , context , and purpose , make it " ' clear and manifest ' " that Congress has occupied at least the narrow field of policing fraud committed to demonstrate federal work authorization .
+Arizona v. United States , 567 U.S. 387 , 400 , 132 S.Ct . 2492 , 183 L.Ed.2d 351 ( 2012 ) ( quoting Rice v. Santa Fe Elevator Corp. , 331 U.S. 218 , 230 , 67 S.Ct . 1146 , 91 L.Ed . 1447 ( 1947 ) ) ; see Brief for United States as Amicus Curiae in Puente Arizona v. Arpaio , No . 15 - 15211 etc . ( CA9 ) , p. 15 ( contending that the Act preempts state criminal laws " to the extent they regulate fraud committed to demonstrate authorization to work in the United States under federal immigration law " ) ; Tr . of Oral Arg . 22 - 23 ( standing by the Government 's position in Puente Arizona ) .
+That is to say , the Act reserves to the Federal Government - and thus takes from the States - the power to prosecute people for misrepresenting material information in an effort to convince their employer that they are authorized to work in this country .
+The Act creates what we have called " a comprehensive scheme " to " comba[t ] the employment of illegal aliens . "
+Hoffman Plastic Compounds , Inc. v. NLRB , 535 U.S. 137 , 147 , 122 S.Ct . 1275 , 152 L.Ed.2d 271 ( 2002 ) .
+To that end , the statute 's text sets forth highly detailed requirements .
+The Act specifies , for example : that employers and employees must affirm in writing that the employee is authorized to work in the United States , 8 U.S.C. § § 1324a(b)(1)(A ) , ( b)(2 ) ; that only certain documents suffice to demonstrate identity and work authorization ( e.g. , a passport or alien - registration card ) , § § 1324a(b)(1)(B)-(D ) ; that employers and employees must affirm the truthfulness of the information they have given by " a hand - written or an electronic signature , " § § 1324a(b)(1)(A ) , ( b)(2 ) ; that all this information must be consolidated on the I-9 form , ibid . ; that the employer must store the I-9 in " paper , microfiche , microfilm , or electronic " form , typically for three years , § 1324a(b)(3 ) ; and that employers must make it available for federal inspection , ibid .
+IRCA also contains two carefully calibrated sets of sanctions for noncompliance .
+On the employer side , the Act makes it unlawful for employers to hire someone without complying with the I-9 process , § 1324a(a)(1)(B ) , or to recruit , hire , or employ someone the employer knows to be unauthorized , § § 1324a(a)(1)(A ) , ( a)(2 ) .
+The Act subjects employers who violate these prohibitions to an escalating series of civil and criminal penalties .
+See § § 1324a(e)(4)-(5 ) , ( f ) .
+It also expressly " preempt[s ] any State or local law imposing civil or criminal sanctions " on those employers , but with a saving clause that gives States some room to regulate employers ( and only employers ) in this area " through licensing and similar laws . "
+§ 1324a(h)(2 ) ; see also Chamber of Commerce of United States of America v. Whiting , 563 U.S. 582 , 587 , 131 S.Ct . 1968 , 179 L.Ed.2d 1031 ( 2011 ) .
+On the employee side , IRCA is somewhat more lenient .
+Employees , unlike employers , are not subject to punishment for mere failure to complete the paperwork that the Act requires .
+See § 1324a(e)(5 ) .
+And while employees who work without authorization may suffer adverse immigration consequences , unauthorized work does not by itself trigger federal criminal prosecution .
+See Arizona , 567 U.S. at 404 - 405 , 132 S.Ct . 2492 ( citing § § 1227(a)(1)(C)(i ) , 1255(c)(2 ) , ( c)(8 ) ) .
+Rather , the Act makes it a federal crime for anyone to commit fraud " for the purpose of satisfying " the Act 's requirements .
+18 U.S.C. § 1546 ( b ) .
+Our precedent demonstrates that IRCA impliedly preempts state laws that trench on Congress ' detailed and delicate design .
+In Arizona , we invalidated a state law that made it a crime for an unauthorized alien to work .
+567 U.S. at 403 , 132 S.Ct . 2492 .
+In reaching that conclusion , we acknowledged that the Act 's employer - related sections contain an express preemption provision , while the employee - related provisions do not .
+Id. , at 406 , 132 S.Ct . 2492 .
+Even so , the Act 's employee - related provisions retained , through implication , preemptive force .
+Id. , at 406 - 407 , 132 S.Ct . 2492 .
+Congress , we explained , " made a deliberate choice not to impose criminal penalties on aliens who " merely " seek , or engage in , unauthorized employment . "
+Id. , at 405 , 132 S.Ct . 2492 .
+The Act puts combating the employment of unauthorized aliens at the forefront of federal immigration policy .
+Id. , at 404 , 132 S.Ct . 2492 .
+But it also reflects " a considered judgment " not to pursue that goal at all costs .
+Id. , at 405 , 132 S.Ct . 2492 .
+" Unauthorized workers trying to support their families " usually " pose less danger than alien smugglers or aliens who commit a serious crime . "
+Id. , at 396 , 132 S.Ct . 2492 .
+And they may have " children born in the United States , long ties to the community , " or other attributes that could counsel in favor of prosecutorial restraint .
+Ibid .
+We ultimately held in Arizona that the States thus may not make criminal what Congress did not , for any such state law " would interfere with the careful balance struck by Congress with respect to unauthorized employment of aliens . "
+Id. , at 406 , 132 S.Ct . 2492 .
+Given that " obstacle to the regulatory system Congress chose , " we concluded that the state law at issue conflicted with the federal Act and was therefore preempted .
+Id. , at 406 - 407 , 132 S.Ct . 2492 .
+State laws that police fraud committed to demonstrate federal work authorization are similarly preempted .
+Even though IRCA criminalizes that conduct , the Act makes clear that only the Federal Government may prosecute people for misrepresenting their federal work - authorization status .
+This is so for two reasons .
+First , the Act takes from the States the most direct means of policing work - authorization fraud .
+It prohibits States from using for that purpose both the I-9 and the federal employment verification system more generally .
+See 8 U.S.C. § § 1324a(b)(5 ) , ( d)(2)(F ) .
+Those two provisions strongly suggest that the Act occupies the field of policing fraud committed to demonstrate federal work authorization .
+Otherwise , their express prohibitions would not constrain the States in any meaningful way .
+States could evade the Act simply by creating their own work - authorization form with the same requirements as the I-9 , requiring employees to submit that form at the same time as the I-9 , and prosecuting employees who make misrepresentations on the state form .
+No one contends that the States may do that .
+Second , consider another part of our decision in Arizona .
+We also addressed in that case a different federal statute , one establishing a federal alien - registration system .
+See 567 U.S. at 400 - 403 , 132 S.Ct . 2492 .
+Pointing to that statute 's " full set of standards governing alien registration , including the punishment for noncompliance , " we concluded that Congress had enacted " a comprehensive and unified system to keep track of aliens within the Nation 's borders . "
+Id. , at 401 - 402 , 132 S.Ct . 2492 .
+The statute therefore left no room for a state law designed to police violations of the federal alien - registration system .
+Similarly , IRCA 's intricate procedures and penalties create a comprehensive and unified system to keep track of who is authorized to work within the Nation 's borders .
+See supra , at 808 - 810 .
+This too shows that criminal enforcement falls to the Federal Government alone .
+Nor does it matter that the state statutes invalidated in Arizona had expressly targeted aliens .
+In preemption cases , we must consider not just what a state law says , but also what it does .
+Wos v. E. M. A. , 568 U.S. 627 , 637 , 133 S.Ct . 1391 , 185 L.Ed.2d 471 ( 2013 ) .
+For this reason , even generally applicable and facially neutral state laws may be preempted when applied in a particular factual context in a particular way .
+See , e.g. , Buckman Co. v. Plaintiffs ' Legal Comm . , 531 U.S. 341 , 347 - 350 , 121 S.Ct . 1012 , 148 L.Ed.2d 854 ( 2001 ) ( rejecting claims grounded in generally applicable state - law principles because they were based on a preempted theory of liability ) ; Northwest , Inc. v. Ginsberg , 572 U.S. 273 , 289 , 134 S.Ct . 1422 , 188 L.Ed.2d 538 ( 2014 ) ( similar ) .
+And here , Kansas applied its criminal laws to do what IRCA reserves to the Federal Government alone - police fraud committed to demonstrate federal work authorization .
+That is true even though Kansas prosecuted respondents based on their tax - withholding forms , rather than their I-9s .
+Take Donaldo Morales , for example .
+Kansas charged him under two state antifraud statutes .
+Both required the State to prove , as an element , an intent to defraud .
+See Kan. Stat . Ann . § § 21 - 5824 ( a ) , 21 - 6107(a)(1 ) ( 2018 Cum . Supp . ) .
+Kansas law defines " intent to defraud " as the " intention to deceive another person , and to induce such other person , in reliance upon such deception , to " transfer a property right .
+§ 21 - 5111(o ) .
+Kansas ' theory of guilt was that Morales intended to deceive his employer about his federal work - authorization status so that his employer , in reliance upon that deception , would give him a job .
+At trial , the State elicited testimony that employees needed " proof of eligibility to work in the United States . "
+App . 149 .
+It then argued that Morales knew people like him had to use a false Social Security number to get a job because of " how they were here . "
+I d . , at 176 .
+The trial court , sitting as the finder of fact , confirmed how it understood the reliance that Morales induced : Morales convinced his employer that he was " a legal citizen , " even though he was in truth " undocumented . "
+I d . , at 179 - 181 .
+On different facts , there would have been no preemption .
+Had Kansas proved instead that Morales used a false Social Security number on his tax - withholding forms to induce another sort of reliance ( e.g. , to hide a criminal history ) , or perhaps to obtain another kind of benefit ( e.g. , to pay less in taxes ) , IRCA would permit the prosecution .
+But that is not what Kansas did .
+What Kansas did was prosecute Morales for misrepresenting his federal work - authorization status for the purpose of obtaining employment .
+Kansas ' prosecution of Morales thus fell squarely within the field that , in my view , the federal Act preempts .
+By permitting these prosecutions , the majority opens a colossal loophole .
+Starting a new job almost always involves filling out tax - withholding forms alongside an I-9 .
+So unless they want to give themselves away , people hoping to hide their federal work - authorization status from their employer will put the same false information on their tax - withholding forms as they do on their I-9 .
+To let the States prosecute such people for the former is , in practical effect , to let the States police the latter .
+And policing the latter is what the Act expressly forbids .
+For these reasons , I would hold that federal law impliedly preempted Kansas ' criminal laws as they were applied in these cases .
+Because the majority takes a different view , with respect , I dissent .

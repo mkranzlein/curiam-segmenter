@@ -1,0 +1,246 @@
+Justice BREYER delivered the opinion of the Court .
+The Clean Water Act forbids the " addition " of any pollutant from a " point source " to " navigable waters " without the appropriate permit from the Environmental Protection Agency ( EPA ) .
+Federal Water Pollution Control Act , § § 301(a ) , 502(12)(A ) , as amended by the Federal Water Pollution Control Act Amendments of 1972 ( Clean Water Act )§ 2 , 86 Stat . 844 , 886 , 33 U.S.C. § § 1311 ( a ) , 1362(12)(A ) .
+The question presented here is whether the Act " requires a permit when pollutants originate from a point source but are conveyed to navigable waters by a nonpoint source , " here , " groundwater . "
+Pet . for Cert . i.
+Suppose , for example , that a sewage treatment plant discharges polluted water into the ground where it mixes with groundwater , which , in turn , flows into a navigable river , or perhaps the ocean .
+Must the plant 's owner seek an EPA permit before emitting the pollutant ?
+We conclude that the statutory provisions at issue require a permit if the addition of the pollutants through groundwater is the functional equivalent of a direct discharge from the point source into navigable waters .
+I
+A
+Congress ' purpose as reflected in the language of the Clean Water Act is to " ' restore and maintain the ... integrity of the Nation 's waters , ' "
+§ 101(a ) , 86 Stat . 816 .
+Prior to the Act , Federal and State Governments regulated water pollution in large part by setting water quality standards .
+See EPA v. California ex rel . State Water Resources Control Bd . , 426 U.S. 200 , 202 - 203 , 96 S.Ct . 2022 , 48 L.Ed.2d 578 ( 1976 ) .
+The Act restructures federal regulation by insisting that a person wishing to discharge any pollution into navigable waters first obtain EPA 's permission to do so .
+See i d. , at 203 - 205 , 96 S.Ct . 2022 ; Milwaukee v. Illinois , 451 U.S. 304 , 310 - 311 , 101 S.Ct . 1784 , 68 L.Ed.2d 114 ( 1981 ) .
+The Act 's provisions use specific definitional language to achieve this result .
+First , the Act defines " pollutant " broadly , including in its definition , for example , any solid waste , incinerator residue , " ' heat , ' " " ' discarded equipment , ' " or sand ( among many other things ) .
+§ 502(6 ) , 86 Stat . 886 .
+Second , the Act defines a " point source " as " ' any discernible , confined and discrete conveyance ... from which pollutants are or may be discharged , ' " including , for example , any " ' container , ' " " ' pipe , ditch , channel , tunnel , conduit , ' " or " ' well . ' "
+§ 502(14 ) , i d. , at 887 .
+Third , it defines the term " discharge of a pollutant " as " ' any addition of any pollutant to navigable waters [ including navigable streams , rivers , the ocean , or coastal waters ] from any point source . ' "
+§ 502(12 ) , i d. , at 886 .
+The Act then sets forth a statutory provision that , using these terms , broadly states that ( with certain exceptions ) " ' the discharge of any pollutant by any person ' " without an appropriate permit " ' shall be unlawful . ' "
+§ 301 , i d. , at 844 .
+The question here , as we have said , is whether , or how , this statutory language applies to a pollutant that reaches navigable waters only after it leaves a " point source " and then travels through groundwater before reaching navigable waters .
+In such an instance , has there been a " discharge of a pollutant , " that is , has there been " any addition of any pollutant to navigable waters from any point source ? "
+B
+The petitioner , the County of Maui , operates a wastewater reclamation facility on the island of Maui , Hawaii .
+The facility collects sewage from the surrounding area , partially treats it , and pumps the treated water through four wells hundreds of feet underground .
+This effluent , amounting to about 4 million gallons each day , then travels a further half mile or so , through groundwater , to the ocean .
+In 2012 , several environmental groups , the respondents here , brought this citizens ' Clean Water Act lawsuit against Maui .
+See § 505(a ) , i d. , at 888 .
+They claimed that Maui was " discharg[ing ] " a " pollutant " to " navigable waters , " namely , the Pacific Ocean , without the permit required by the Clean Water Act .
+The District Court , relying in part upon a detailed study of the discharges , found that a considerable amount of effluent from the wells ended up in the ocean ( a navigable water ) .
+It wrote that , because the " path to the ocean is clearly ascertainable , " the discharge from Maui 's wells into the nearby groundwater was " functionally one into navigable water . "
+24 F.Supp.3d 980 , 998 ( Haw . 2014 ) .
+And it granted summary judgment in favor of the environmental groups .
+See i d. , at 1005 .
+The Ninth Circuit affirmed the District Court , but it described the relevant statutory standard somewhat differently .
+The appeals court wrote that a permit is required when " the pollutants are fairly traceable from the point source to a navigable water such that the discharge is the functional equivalent of a discharge into the navigable water . "
+886 F.3d 737 , 749 ( 2018 ) ( emphasis added ) .
+The court left " for another day the task of determining when , if ever , the connection between a point source and a navigable water is too tenuous to support liability .... "
+Ibid .
+Maui petitioned for certiorari .
+In light of the differences in the standards adopted by the different Courts of Appeals , we granted the petition .
+Compare , e.g. , 886 F.3d at 749 ( " fairly traceable " ) , with Upstate Forever v. Kinder Morgan Energy Partners , L. P. , 887 F.3d 637 , 651 ( C.A.4 2018 ) ( " direct hydrological connection " ) , and Kentucky Waterways Alliance v. Kentucky Util . Co. , 905 F.3d 925 , 932 - 938 ( C.A.6 2018 ) ( discharges through groundwater are excluded from the Act 's permitting requirements ) .
+II
+The linguistic question here concerns the statutory word " from . "
+Is pollution that reaches navigable waters only through groundwater pollution that is " from " a point source , as the statute uses the word ?
+The word " from " is broad in scope , but context often imposes limitations .
+" Finland , " for example , is often not the right kind of answer to the question , " Where have you come from ? " even if long ago you were born there .
+The parties here disagree dramatically about the scope of the word " from " in the present context .
+The environmental groups , the respondents , basically adopt the Ninth Circuit 's view - that the permitting requirement applies so long as the pollutant is " fairly traceable " to a point source even if it traveled long and far ( through groundwater ) before it reached navigable waters .
+They add that the release from the point source must be " a proximate cause of the addition of pollutants to navigable waters . "
+Brief for Respondents 20 .
+Maui , on the other hand , argues that the statute creates a " bright - line test . "
+Brief for Petitioner 27 - 28 .
+A point source or series of point sources must be " the means of delivering pollutants to navigable waters . "
+Id. , at 28 .
+They add that , if " at least one nonpoint source ( e.g. , unconfined rainwater runoff or groundwater ) " lies " between the point source and the navigable water , " then the permit requirement " does not apply . "
+Id. , at 54 .
+A pollutant is " from " a point source only if a point source is the last " conveyance " that conducted the pollutant to navigable waters .
+The Solicitor General , as amicus curiae , supports Maui , at least in respect to groundwater .
+Reiterating the position taken in a recent EPA " Interpretive Statement , " see 84 Fed . Reg . 16810 ( 2019 ) , he argues that , given the Act 's structure and history , " a release of pollutants to groundwater is not subject to " the Act 's permitting requirement " even if the pollutants subsequently migrate to jurisdictional surface waters , " such as the ocean .
+Brief for United States as Amicus Curiae 12 ( capitalization omitted ) .
+We agree that statutory context limits the reach of the statutory phrase " from any point source " to a range of circumstances narrower than that which the Ninth Circuit 's interpretation suggests .
+At the same time , it is significantly broader than the total exclusion of all discharges through groundwater described by Maui and the Solicitor General .
+III
+Virtually all water , polluted or not , eventually makes its way to navigable water .
+This is just as true for groundwater .
+See generally 2 Van Nostrand 's Scientific Encyclopedia 2600 ( 10th ed . 2008 ) ( defining " Hydrology " ) .
+Given the power of modern science , the Ninth Circuit 's limitation , " fairly traceable , " may well allow EPA to assert permitting authority over the release of pollutants that reach navigable waters many years after their release ( say , from a well or pipe or compost heap ) and in highly diluted forms .
+See , e.g. , Brief for Aquatic Scientists et al . as Amici Curiae 13 - 28 .
+The respondents suggest that the standard can be narrowed by adding a " proximate cause " requirement .
+That is , to fall within the permitting provision , the discharge from a point source must " proximately cause " the pollutants ' eventual addition to navigable waters .
+But the term " proximate cause " derives from general tort law , and it takes on its specific content based primarily on " policy " considerations .
+See CSX Transp . , Inc. v. McBride , 564 U.S. 685 , 701 , 131 S.Ct . 2630 , 180 L.Ed.2d 637 ( 2011 ) ( plurality opinion ) .
+In the context of water pollution , we do not see how it significantly narrows the statute beyond the words " fairly traceable " themselves .
+Our view is that Congress did not intend the point source - permitting requirement to provide EPA with such broad authority as the Ninth Circuit 's narrow focus on traceability would allow .
+First , to interpret the word " from " in this literal way would require a permit in surprising , even bizarre , circumstances , such as for pollutants carried to navigable waters on a bird 's feathers , or , to mention more mundane instances , the 100 - year migration of pollutants through 250 miles of groundwater to a river .
+Second , and perhaps most important , the structure of the statute indicates that , as to groundwater pollution and nonpoint source pollution , Congress intended to leave substantial responsibility and autonomy to the States .
+See , e.g. , § 101(b ) , 86 Stat . 816 ( stating Congress ' purpose in this regard ) .
+Much water pollution does not come from a readily identifiable source .
+See 3 Van Nostrand 's Scientific Encyclopedia , at 5801 ( defining " Water Pollution " ) .
+Rainwater , for example , can carry pollutants ( say , as might otherwise collect on a roadway ) ; it can pollute groundwater , and pollution collected by unchanneled rainwater runoff is not ordinarily considered point source pollution .
+Over many decades , and with federal encouragement , the States have developed methods of regulating nonpoint source pollution through water quality standards , and otherwise .
+See , e.g. , Nonpoint Source Program , Annual Report ( California ) 6 ( 2016 - 2017 ) ( discussing state timberland management programs to address addition of sediment - pollutants to navigable waters ) ; i d. , at 10 - 11 ( discussing regulations of vineyards to control water pollution ) ; i d. at 17 - 19 ( discussing livestock grazing management , including utilization ratios and time restrictions ) ; Nonpoint Source Management Program , Annual Report ( Maine ) 8 - 10 ( 2018 ) ( discussing installation of livestock fencing and planting of vegetation to reduce nonpoint source pollution ) ; Oklahoma 's Nonpoint Source Management Program , Annual Report 5 , 14 ( 2017 ) ( discussing program to encourage voluntary no - till farming to reduce sediment pollution ) .
+The Act envisions EPA 's role in managing nonpoint source pollution and groundwater pollution as limited to studying the issue , sharing information with and collecting information from the States , and issuing monetary grants .
+See § § 105 , 208 , 86 Stat . 825 , 839 ; see also Water Quality Act of 1987 , § 316 , 101 Stat . 52 ( establishing Nonpoint Source Management Programs ) .
+Although the Act grants EPA specific authority to regulate certain point source pollution ( it can also delegate some of this authority to the States acting under EPA supervision , see § 402(b ) , 86 Stat . 880 ) , these permitting provisions refer to " point sources " and " navigable waters , " and say nothing at all about nonpoint source regulation or groundwater regulation .
+We must doubt that Congress intended to give EPA the authority to apply the word " from " in a way that could interfere as seriously with States ' traditional regulatory authority - authority the Act preserves and promotes - as the Ninth Circuit 's " fairly traceable " test would .
+Third , those who look to legislative history to help interpret a statute will find that this Act 's history strongly supports our conclusion that the permitting provision does not extend so far .
+Fifty years ago , when Congress was considering the bills that became the Clean Water Act , William Ruckelshaus , the first EPA Administrator , asked Congress to grant EPA authority over " ground waters " to " assure that we have control over the water table ... so we can ... maintai[n ] a control over all the sources of pollution , be they discharged directly into any stream or through the ground water table . "
+Water Pollution Control Legislation-1971 ( Proposed Amendments to Existing Legislation ): Hearings before the House Committee on Public Works , 92d Cong . , 1st Sess . , 230 ( 1971 ) .
+Representative Les Aspin similarly pointed out that there were " conspicuou[s ] " references to groundwater in all sections of the bill except the permitting section at issue here .
+Water Pollution Control Legislation-1971 : Hearings before the House Committee on Public Works on H. R. 11896 and H. R. 11895 , 92d Cong . , 1st Sess . , 727 ( 1972 ) .
+The Senate Committee on Public Works " recognize[d ] the essential link between ground and surface waters . "
+S. Rep. No . 92 - 414 , p. 73 ( 1971 ) .
+But Congress did not accept these requests for general EPA authority over groundwater .
+It rejected Representative Aspin 's amendment that would have extended the permitting provision to groundwater .
+Instead , Congress provided a set of more specific groundwater - related measures such as those requiring States to maintain " affirmative controls over the injection or placement in wells " of " any pollutants that may affect ground water . "
+Ibid .
+These specific state - related programs were , in the words of the Senate Public Works Committee , " designed to protect ground waters and eliminate the use of deep well disposal as an uncontrolled alternative to toxic and pollution control . "
+Ibid .
+The upshot is that Congress was fully aware of the need to address groundwater pollution , but it satisfied that need through a variety of state - specific controls .
+Congress left general groundwater regulatory authority to the States ; its failure to include groundwater in the general EPA permitting provision was deliberate .
+Finally , longstanding regulatory practice undermines the Ninth Circuit 's broad interpretation of the statute .
+EPA itself for many years has applied the permitting provision to pollution discharges from point sources that reached navigable waters only after traveling through groundwater .
+See , e.g. , United States Steel Corp. v. Train , 556 F.2d 822 , 832 ( C.A.7 1977 ) ( permit for " deep waste - injection well " on the shore of navigable waters ) .
+But , in doing so , EPA followed a narrower interpretation than that of the Ninth Circuit .
+See , e.g. , In re Bethlehem Steel Corp. , 2 E. A. D. 715 , 718 ( EAB 1989 ) ( Act 's permitting requirement applies only to injection wells " that inject into ground water with a physically and temporally direct hydrologic connection to surface water " ) .
+EPA has opposed applying the Act 's permitting requirements to discharges that reach groundwater only after lengthy periods .
+See McClellan Ecological Seepage Situation ( MESS ) v. Cheney , 763 F.Supp . 431 , 437 ( E.D. Cal . 1989 ) ( United States argued that permitting provisions do not apply when it would take " literally dozens , and perhaps hundreds , of years for any pollutants " to reach navigable waters ) ; Greater Yellowstone Coalition v. Larson , 641 F.Supp.2d 1120 , 1139 ( D. Idaho 2009 ) ( same in respect to instances where it would take " between 60 and 420 years " for pollutants to travel " one to four miles " through groundwater before reaching navigable waters ) .
+Indeed , in this very case ( prior to its recent Interpretive Statement , see infra , at 1474 - 1475 ) , EPA asked the Ninth Circuit to apply a more limited " direct hydrological connection " test .
+See Brief for United States as Amicus Curiae in No . 15 - 17447 ( CA9 ) , pp . 13 - 20 .
+The Ninth Circuit did not accept this suggestion .
+We do not defer here to EPA 's interpretation of the statute embodied in this practice .
+Indeed , EPA itself has changed its mind about the meaning of the statutory provision .
+See infra , at 1474 - 1475 .
+But this history , by showing that a comparatively narrow view of the statute is administratively workable , offers some additional support for the view that Congress did not intend as broad a delegation of regulatory authority as the Ninth Circuit test would allow .
+As we have said , the specific meaning of the word " from " necessarily draws its meaning from context .
+The apparent breadth of the Ninth Circuit 's " fairly traceable " approach is inconsistent with the context we have just described .
+IV
+A
+Maui and the Solicitor General argue that the statute 's permitting requirement does not apply if a pollutant , having emerged from a " point source , " must travel through any amount of groundwater before reaching navigable waters .
+That interpretation is too narrow , for it would risk serious interference with EPA 's ability to regulate ordinary point source discharges .
+Consider a pipe that spews pollution directly into coastal waters .
+There is an " addition of " a " pollutant to navigable waters from [ a ] point source . "
+Hence , a permit is required .
+But Maui and the Government read the permitting requirement not to apply if there is any amount of groundwater between the end of the pipe and the edge of the navigable water .
+See Tr . of Oral Arg . 5 - 6 , 24 - 25 .
+If that is the correct interpretation of the statute , then why could not the pipe 's owner , seeking to avoid the permit requirement , simply move the pipe back , perhaps only a few yards , so that the pollution must travel through at least some groundwater before reaching the sea ?
+Cf . Brief for State of Maryland et al . as Amici Curiae 9 , n. 4 .
+We do not see how Congress could have intended to create such a large and obvious loophole in one of the key regulatory innovations of the Clean Water Act .
+Cf . California ex rel . State Water Resources Control Bd . , 426 U.S. at 202 - 204 , 96 S.Ct . 2022 ( basic purpose of Clean Water Act is to regulate pollution at its source ) ; The Emily , 9 Wheat . 381 , 390 , 6 L.Ed . 116 ( 1824 ) ( rejecting an interpretation that would facilitate " evasion of the law " ) .
+B
+Maui argues that the statute 's language requires its reading .
+That language requires a permit for a " discharge . "
+A " discharge " is " any addition " of a pollutant to navigable waters " from any point source . "
+And a " point source " is " any discernible , confined and discrete conveyance " ( such as a pipe , ditch , well , etc . ) .
+Reading " from " and " conveyance " together , Maui argues that the statutory meaning of " from any point source " is not about where the pollution originated , but about how it got there .
+Under what Maui calls the means - of - delivery test , a permit is required only if a point source itself ultimately delivers the pollutant to navigable waters .
+Under this view , if the pollutant must travel through groundwater to reach navigable waters , then it is the groundwater , not the pipe , that is the conveyance .
+Congress sometimes adopts less common meanings of common words , but this esoteric definition of " from , " as connoting a means , does not remotely fit in this context .
+The statute couples the word " from " with the word " to"-strong evidence that Congress was referring to a destination ( " navigable waters " ) and an origin ( " any point source " ) .
+Further underscoring that Congress intended this every day meaning is that the object of " from " is a " point source " -a source , again , connoting an origin .
+That Maui 's proffered interpretation would also create a serious loophole in the permitting regime also indicates it is an unreasonable one .
+C
+The Solicitor General agrees that , as a general matter , the permitting requirement applies to at least some additions of pollutants to navigable waters that come indirectly from point sources .
+See Brief for United States as Amicus Curiae 33 - 35 .
+But the Solicitor General argues that the proper interpretation of the statute is the one reflected in EPA 's recent Interpretive Statement .
+After receiving more than 50,000 comments from the public , and after the Ninth Circuit released its opinion in this case , EPA wrote that " the best , if not the only , reading " of the statutory provisions is that " all releases of pollutants to groundwater " are excluded from the scope of the permitting program , " even where pollutants are conveyed to jurisdictional surface waters via groundwater . "
+84 Fed . Reg . 16810 , 16811 .
+Neither the Solicitor General nor any party has asked us to give what the Court has referred to as Chevron deference to EPA 's interpretation of the statute .
+See Chevron U.S. A. Inc. v. Natural Resources Defense Council , Inc. , 467 U.S. 837 , 844 , 104 S.Ct . 2778 , 81 L.Ed.2d 694 ( 1984 ) .
+Even so , we often pay particular attention to an agency 's views in light of the agency 's expertise in a given area , its knowledge gained through practical experience , and its familiarity with the interpretive demands of administrative need .
+See United States v. Mead Corp. , 533 U.S. 218 , 234 - 235 , 121 S.Ct . 2164 , 150 L.Ed.2d 292 ( 2001 ) ; Skidmore v. Swift & Co. , 323 U.S. 134 , 139 - 140 , 65 S.Ct . 161 , 89 L.Ed . 124 ( 1944 ) .
+But here , as we have explained , to follow EPA 's reading would open a loophole allowing easy evasion of the statutory provision 's basic purposes .
+Such an interpretation is neither persuasive nor reasonable .
+EPA correctly points out that Congress did not require a permit for all discharges to groundwater ; rather , Congress authorized study and funding related to groundwater pollution .
+See Brief for United States as Amicus Curiae 15 - 19 .
+But there is quite a gap between " not all " and " none . "
+The statutory text itself alludes to no exception for discharges through groundwater .
+These separate provisions for study and funding that EPA points to would be a " surprisingly indirect route " to convey " an important and easily expressed message"-that the permit requirement simply does not apply if the pollutants travel through groundwater .
+Landgraf v. USI Film Products , 511 U.S. 244 , 262 , 114 S.Ct . 1483 , 128 L.Ed.2d 229 ( 1994 ) .
+In truth , the most these provisions show is that Congress thought that the problem of groundwater pollution , as distinct from navigable water pollution , would primarily be addressed by the States or perhaps by other federal statutes .
+EPA 's new interpretation is also difficult to reconcile with the statute 's reference to " any addition " of a pollutant to navigable waters .
+Cf . Milwaukee , 451 U.S. at 318 , 101 S.Ct . 1784 ( " Every point source discharge is prohibited unless covered by a permit " ( footnote omitted ) ) .
+It is difficult to reconcile EPA 's interpretation with the statute 's inclusion of " wells " in the definition of " point source , " for wells most ordinarily would discharge pollutants through groundwater .
+And it is difficult to reconcile EPA 's interpretation with the statutory provisions that allow EPA to delegate its permitting authority to a State only if the State ( among other things ) provides " ' adequate authority ' " to " ' control the disposal of pollutants into wells . ' "
+§ 402(b ) , 86 Stat . 881 .
+What need would there be for such a proviso if the federal permitting program the State replaces did not include such discharges ( from wells through groundwater ) in the first place ?
+In short , EPA 's oblique argument about the statute 's references to groundwater can not overcome the statute 's structure , its purposes , or the text of the provisions that actually govern .
+D
+Perhaps , as the two dissents suggest , the language could be narrowed to similar effect by reading the statute to refer only to the pollutant 's immediate origin .
+See post , at 1479 - 1480 ( opinion of THOMAS , J. ) ; post , at 1486 - 1487 ( opinion of ALITO , J. ) .
+But there is no linguistic basis here to so limit the statute in that way .
+Again , whether that is the correct reading turns on context .
+Justice THOMAS insists that in the case of a discharge through groundwater , the pollutants are added " from the groundwater . "
+Post , at 1480 .
+Indeed , but that does not mean they are not also " from the point source . "
+Ibid .
+When John comes to the hotel , John might have come from the train station , from Baltimore , from Europe , from any two of those three places , or from all three .
+A sign that asks all persons who arrive from Baltimore to speak to the desk clerk includes those who took a taxi from the train station .
+There is nothing unnatural about such a construction .
+As the plurality correctly noted in Rapanos v. United States , 547 U.S. 715 , 126 S.Ct . 2208 , 165 L.Ed.2d 159 ( 2006 ) , the statute here does not say " directly " from or " immediately " from .
+Id. , at 743 , 126 S.Ct . 2208 ( opinion of Scalia , J. ) .
+Indeed , the expansive language of the provision- any addition from any point source - strongly suggests its scope is not so limited .
+Justice ALITO appears to believe that there are only two possible ways to read " from " : as referring either to the immediate source , or else to the original source .
+Post , at 1484 - 1485 , 1486 - 1487 .
+Because he agrees that the statute can not reasonably be read always to reach the original source , he concludes the statute must refer only to the immediate origin .
+But as the foregoing example illustrates , context may indicate that " from " includes an intermediate stop - Baltimore , not Europe or the train station .
+Justice THOMAS relies on the word " addition , " but we fail to see how that word limits the statute to discharges directly to navigable waters .
+Ordinary language abounds in counter examples : A recipe might instruct to " add the drippings from the meat to the gravy " ; that instruction does not become incomprehensible , or even peculiar , simply because the drippings will have first collected in a pan or on a cutting board .
+And while it would be an unusual phrasing ( as statutory phrasings often are ) , we do not see how the recipe 's meaning would transform if it instead said to " add the drippings to the gravy from the meat . "
+To take another example : If Timmy is told to " add water to the bath from the well " he will know just what it means - even though he will have to use a bucket to complete the task .
+And although Justice THOMAS resists the inevitable implications of his reading of the statute , post , at 1481 - 1482 , that reading would create the same loopholes as those offered by the petitioner and the Government , and more .
+It would necessarily exclude a pipe that drains onto the beach next to navigable waters , even if the pollutants then flow to those waters .
+It also seems to exclude a pipe that hangs out over the water and adds pollutants to the air , through which the pollutants fall to navigable waters .
+The absurdity of such an interpretation is obvious enough .
+We therefore reject this reading as well : Like Maui 's and the Government 's , it is inconsistent with the statutory text and simultaneously creates a massive loophole in the permitting scheme that Congress established .
+E
+For the reasons set forth in Part III and in this Part , we conclude that , in light of the statute 's language , structure , and purposes , the interpretations offered by the parties , the Government , and the dissents are too extreme .
+V
+Over the years , courts and EPA have tried to find general language that will reflect a middle ground between these extremes .
+The statute 's words reflect Congress ' basic aim to provide federal regulation of identifiable sources of pollutants entering navigable waters without undermining the States ' longstanding regulatory authority over land and groundwater .
+We hold that the statute requires a permit when there is a direct discharge from a point source into navigable waters or when there is the functional equivalent of a direct discharge .
+We think this phrase best captures , in broad terms , those circumstances in which Congress intended to require a federal permit .
+That is , an addition falls within the statutory requirement that it be " from any point source " when a point source directly deposits pollutants into navigable waters , or when the discharge reaches the same result through roughly similar means .
+Time and distance are obviously important .
+Where a pipe ends a few feet from navigable waters and the pipe emits pollutants that travel those few feet through groundwater ( or over the beach ) , the permitting requirement clearly applies .
+If the pipe ends 50 miles from navigable waters and the pipe emits pollutants that travel with groundwater , mix with much other material , and end up in navigable waters only many years later , the permitting requirements likely do not apply .
+The object in a given scenario will be to advance , in a manner consistent with the statute 's language , the statutory purposes that Congress sought to achieve .
+As we have said ( repeatedly ) , the word " from " seeks a " point source " origin , and context imposes natural limits as to when a point source can properly be considered the origin of pollution that travels through groundwater .
+That context includes the need , reflected in the statute , to preserve state regulation of groundwater and other nonpoint sources of pollution .
+Whether pollutants that arrive at navigable waters after traveling through groundwater are " from " a point source depends upon how similar to ( or different from ) the particular discharge is to a direct discharge .
+The difficulty with this approach , we recognize , is that it does not , on its own , clearly explain how to deal with middle instances .
+But there are too many potentially relevant factors applicable to factually different cases for this Court now to use more specific language .
+Consider , for example , just some of the factors that may prove relevant ( depending upon the circumstances of a particular case ): ( 1 ) transit time , ( 2 ) distance traveled , ( 3 ) the nature of the material through which the pollutant travels , ( 4 ) the extent to which the pollutant is diluted or chemically changed as it travels , ( 5 ) the amount of pollutant entering the navigable waters relative to the amount of the pollutant that leaves the point source , ( 6 ) the manner by or area in which the pollutant enters the navigable waters , ( 7 ) the degree to which the pollution ( at that point ) has maintained its specific identity .
+Time and distance will be the most important factors in most cases , but not necessarily every case .
+At the same time , courts can provide guidance through decisions in individual cases .
+The Circuits have tried to do so , often using general language somewhat similar to the language we have used .
+And the traditional common - law method , making decisions that provide examples that in turn lead to ever more refined principles , is sometimes useful , even in an era of statutes .
+The underlying statutory objectives also provide guidance .
+Decisions should not create serious risks either of undermining state regulation of groundwater or of creating loopholes that undermine the statute 's basic federal regulatory objectives .
+EPA , too , can provide administrative guidance ( within statutory boundaries ) in numerous ways , including through , for example , grants of individual permits , promulgation of general permits , or the development of general rules .
+Indeed , over the years , EPA and the States have often considered the Act 's application to discharges through groundwater .
+Both Maui and the Government object that to subject discharges to navigable waters through groundwater to the statute 's permitting requirements , as our interpretation will sometimes do , would vastly expand the scope of the statute , perhaps requiring permits for each of the 650,000 wells like petitioner 's or for each of the over 20 million septic systems used in many Americans ' homes .
+Brief for Petitioner 44 - 48 ; Brief for United States as Amicus Curiae 24 - 25 .
+Cf . Utility Air Regulatory Group v. EPA , 573 U.S. 302 , 324 , 134 S.Ct . 2427 , 189 L.Ed.2d 372 ( 2014 ) .
+But EPA has applied the permitting provision to some ( but not to all ) discharges through groundwater for over 30 years .
+See supra , at 1472 - 1473 .
+In that time we have seen no evidence of unmanageable expansion .
+EPA and the States also have tools to mitigate those harms , should they arise , by ( for example ) developing general permits for recurring situations or by issuing permits based on best practices where appropriate .
+See , e.g. , 40 CFR § 122.44 ( k ) ( 2019 ) .
+Judges , too , can mitigate any hardship or injustice when they apply the statute 's penalty provision .
+That provision vests courts with broad discretion to set a penalty that takes account of many factors , including " any good - faith efforts to comply " with the Act , the " seriousness of the violation , " the " economic impact of the penalty on the violator , " and " such other matters as justice may require . "
+See 33 U.S.C. § 1319 ( d ) .
+We expect that district judges will exercise their discretion mindful , as we are , of the complexities inherent to the context of indirect discharges through groundwater , so as to calibrate the Act 's penalties when , for example , a party could reasonably have thought that a permit was not required .
+In sum , we recognize that a more absolute position , such as the means - of - delivery test or that of the Government or that of the Ninth Circuit , may be easier to administer .
+But , as we have said , those positions have consequences that are inconsistent with major congressional objectives , as revealed by the statute 's language , structure , and purposes .
+We consequently understand the permitting requirement , § 301 , as applicable to a discharge ( from a point source ) of pollutants that reach navigable waters after traveling through groundwater if that discharge is the functional equivalent of a direct discharge from the point source into navigable waters .
+VI
+Because the Ninth Circuit applied a different standard , we vacate its judgment and remand the case for further proceedings consistent with this opinion .
+It is so ordered .

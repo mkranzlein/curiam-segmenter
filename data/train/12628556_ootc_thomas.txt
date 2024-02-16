@@ -1,0 +1,103 @@
+Justice THOMAS delivered the opinion of the Court .
+The Fair Debt Collection Practices Act ( FDCPA ) authorizes private civil actions against debt collectors who engage in certain prohibited practices .
+91 Stat . 881 , 15 U.S.C. § 1692k(a ) .
+An action under the FDCPA may be brought " within one year from the date on which the violation occurs . "
+§ 1692k(d ) .
+This case requires us to determine when the FDCPA 's limitations period begins to run .
+We hold that , absent the application of an equitable doctrine , the statute of limitations in § 1692k(d ) begins to run on the date on which the alleged FDCPA violation occurs , not the date on which the violation is discovered .
+I
+A
+In 1977 , Congress enacted the FDCPA " to eliminate abusive debt collection practices by debt collectors , to insure that those debt collectors who refrain from using abusive debt collection practices are not competitively disadvantaged , and to promote consistent State action to protect consumers against debt collection abuses . "
+§ 1692(e ) .
+The FDCPA pursues these stated purposes by imposing affirmative requirements on debt collectors and prohibiting a range of debt - collection practices .
+§ § 1692b-1692j .
+The FDCPA authorizes the Federal Trade Commission , the Bureau of Consumer Financial Protection , and other federal agencies to enforce its provisions .
+§ 1692 l .
+The FDCPA also authorizes private civil actions against debt collectors .
+§ 1692k(a ) .
+These private civil actions " may be brought in any appropriate United States district court without regard to the amount in controversy , or in any other court of competent jurisdiction , within one year from the date on which the violation occurs . "
+§ 1692k(d ) .
+B
+Petitioner Kevin Rotkiske failed to pay approximately $ 1,200 in credit card debt .
+His credit card company referred the debt to respondent Klemm & Associates ( Klemm ) for collection .
+In March 2008 , Klemm sued Rotkiske , seeking to collect the unpaid debt .
+Klemm attempted service at an address where Rotkiske no longer lived , and a person whose description did not match Rotkiske 's accepted service of the complaint .
+Klemm later withdrew the suit .
+Klemm refiled suit in January 2009 , and a process server attempted service at the same address .
+Once again , someone other than Rotkiske accepted service .
+Rotkiske failed to respond to the summons , and Klemm obtained a default judgment .
+Rotkiske claims that he was not aware of Klemm 's 2009 debt - collection lawsuit until September 2014 , when he was denied a mortgage because of the default judgment against him .
+On June 29 , 2015 , more than six years after the default judgment , Rotkiske brought suit against Klemm under the FDCPA .
+Rotkiske 's amended complaint alleged that equitable tolling excused his otherwise untimely filing because Klemm purposely served process in a manner that ensured he would not receive service .
+The sole FDCPA claim in the complaint asserted that Klemm commenced the 2009 debt - collection lawsuit after the state - law limitations period expired and therefore " violated the FDCPA by contacting [ Rotkiske ] without lawful ability to collect . "
+First Amended Complaint in No . 2:15 - cv-03638 ( ED Pa. ) , Doc . 15 , p. 4 .
+Klemm moved to dismiss the action as barred by the FDCPA 's one - year statute of limitations , 15 U.S.C. § 1692k(d ) .
+Rotkiske argued that the court should apply a " discovery rule " to delay the beginning of the limitations period until the date he knew or should have known of the alleged FDCPA violation .
+To support this contention , Rotkiske relied on the Ninth Circuit 's decision in Mangum v. Action Collection Serv . , Inc. , 575 F.3d 935 ( 2009 ) .
+That case held that , under the " discovery rule , " limitations periods in federal litigation generally begin to run when plaintiffs know or have reason to know of their injury .
+Id. , at 940 - 941 .
+The District Court dismissed the action .
+It held that the Ninth Circuit 's general rule does not apply to § 1692k(d ) , relying on the statute 's plain language .
+The court also concluded that Rotkiske was not entitled to equitable tolling because , even accepting the truth of the allegations in the complaint , he was not misled by Klemm 's conduct .
+On appeal , the Third Circuit sua sponte reviewed the case en banc and unanimously affirmed .
+890 F.3d 422 ( 2018 ) .
+The court held that , under the text of § 1692k(d ) , the FDCPA 's one - year limitations period runs from the " date on which the violation occurs , " not the date a potential plaintiff discovers or should have discovered the violation .
+Id. , at 425 - 426 .
+The court expressly rejected the Ninth Circuit 's approach , stating that there is no default presumption that all federal limitations periods run from the date of discovery .
+Id. , at 427 .
+Rotkiske failed to raise the application of equitable doctrines on appeal , so the court did not address that issue .
+Id. , at 428 - 429 .
+Given the conflict between the Courts of Appeals , see i d. , at 427 , we granted certiorari .
+586 U.S. ---- , 140 S.Ct . 355 , --- L.Ed.2d ---- , 2019 WL 6703563 ( 2019 ) .
+II
+The question before us is whether the " discovery rule " applies to the FDCPA 's limitations period .
+The phrase " discovery rule , " however , has no generally accepted meaning .
+Rotkiske 's arguments invoking the discovery rule implicate two distinct concepts - the application of a general discovery rule as a principle of statutory interpretation and the application of a fraud - specific discovery rule as an equitable doctrine .
+We address each in turn .
+A
+When interpreting limitations provisions , as always , " we begin by analyzing the statutory language . "
+Hardt v. Reliance Standard Life Ins . Co. , 560 U.S. 242 , 251 , 130 S.Ct . 2149 , 176 L.Ed.2d 998 ( 2010 ) .
+If the words of a statute are unambiguous , this first step of the interpretive inquiry is our last .
+Connecticut Nat . Bank v. Germain , 503 U.S. 249 , 254 , 112 S.Ct . 1146 , 117 L.Ed.2d 391 ( 1992 ) .
+If " there are two plausible constructions of a statute of limitations , " we generally " adopt the construction that starts the time limit running when the cause of action ... accrues " because " Congress legislates against the ' standard rule that the limitations period commences when the plaintiff has a complete and present cause of action . ' "
+Graham County Soil & Water Conservation Dist . v. United States ex rel . Wilson , 545 U.S. 409 , 418 - 419 , 125 S.Ct . 2444 , 162 L.Ed.2d 390 ( 2005 ) ( quoting Bay Area Laundry and Dry Cleaning Pension Trust Fund v. Ferbar Corp. of Cal . , 522 U.S. 192 , 201 , 118 S.Ct . 542 , 139 L.Ed.2d 553 ( 1997 ) ) .
+Here , the text of § 1692k(d ) clearly states that an FDCPA action " may be brought ... within one year from the date on which the violation occurs . "
+That language unambiguously sets the date of the violation as the event that starts the one - year limitations period .
+At the time of the FDCPA 's enactment , the term " violation " referred to the " [ a]ct or instance of violating , or state of being violated . "
+Webster 's New International Dictionary 2846 ( 2d ed . 1949 ) ( Webster 's Second ) .
+The term " occur " meant " to happen , " and , as Webster 's Second explains , " occur " described " that which is thought of as definitely taking place as an event . "
+Id. , at 1684 .
+Read together , these dictionary definitions confirm what is clear from the face of § 1692k(d ) 's text : The FDCPA limitations period begins to run on the date the alleged FDCPA violation actually happened .
+We must presume that Congress " says in a statute what it means and means in a statute what it says there . "
+Connecticut Nat . Bank , 503 U.S. at 254 , 112 S.Ct . 1146 .
+Rotkiske does not contest the plain meaning of § 1692k(d ) 's text or claim that he brought suit within one year of the alleged FDCPA violation .
+Instead , he suggests that we should interpret § 1692k(d ) to include a general " discovery rule " that applies to all FDCPA actions .
+In effect , Rotkiske asks the Court to read in a provision stating that § 1692k(d ) 's limitations period begins to run on the date an alleged FDCPA violation is discovered .
+This expansive approach to the discovery rule is a " bad wine of recent vintage . "
+TRW Inc. v. Andrews , 534 U.S. 19 , 37 , 122 S.Ct . 441 , 151 L.Ed.2d 339 ( 2001 ) ( Scalia , J. , concurring in judgment ) .
+It is a fundamental principle of statutory interpretation that " absent provision[s ] can not be supplied by the courts . "
+A. Scalia & B. Garner , Reading Law : The Interpretation of Legal Texts 94 ( 2012 ) .
+To do so " ' is not a construction of a statute , but , in effect , an enlargement of it by the court . ' "
+Nichols v. United States , 578 U.S. ---- , ---- , 136 S.Ct . 1113 , 1118 , 194 L.Ed.2d 324 ( 2016 ) ( quoting Iselin v. United States , 270 U.S. 245 , 251 , 46 S.Ct . 248 , 70 L.Ed . 566 ( 1926 ) ) .
+Atextual judicial supplementation is particularly inappropriate when , as here , Congress has shown that it knows how to adopt the omitted language or provision .
+Congress has enacted statutes that expressly include the language Rotkiske asks us to read in , setting limitations periods to run from the date on which the violation occurs or the date of discovery of such violation .
+See , e.g. , 12 U.S.C. § 3416 ; 15 U.S.C. § 1679i .
+In fact , at the time Congress enacted the FDCPA , many statutes included provisions that , in certain circumstances , would begin the running of a limitations period upon the discovery of a violation , injury , or some other event .
+See , e.g. , 15 U.S.C. § 77 m ( 1976 ed . ) ; 19 U.S.C. § 1621 ( 1976 ed . ) ; 26 U.S.C. § 7217 ( c ) ( 1976 ed . ) ; 29 U.S.C. § 1113 ( 1976 ed . ) .
+It is not our role to second - guess Congress ' decision to include a " violation occurs " provision , rather than a discovery provision , in § 1692k(d ) .
+The length of a limitations period " reflects a value judgment concerning the point at which the interests in favor of protecting valid claims are outweighed by the interests in prohibiting the prosecution of stale ones . "
+Johnson v. Railway Express Agency , Inc. , 421 U.S. 454 , 463 - 464 , 95 S.Ct . 1716 , 44 L.Ed.2d 295 ( 1975 ) .
+It is Congress , not this Court , that balances those interests .
+We simply enforce the value judgments made by Congress .
+B
+Narrowing his initial assertion and moving away from the question on which we granted certiorari , Rotkiske also contends that his filing should be treated as timely under an equitable , fraud - specific discovery rule , relying on a line of decisions beginning with Bailey v. Glover , 21 Wall . 342 , 22 L.Ed . 636 ( 1875 ) .
+Rotkiske claims that Bailey and its progeny apply an equitable doctrine that delays the commencement of the statute of limitations in fraud actions , and that he has pleaded ( or could plead ) a claim within the scope of this doctrine .
+This Court has noted the existence of decisions applying a discovery rule in " fraud cases " that is distinct from the traditional equitable tolling doctrine .
+Merck & Co. v. Reynolds , 559 U.S. 633 , 644 , 130 S.Ct . 1784 , 176 L.Ed.2d 582 ( 2010 ) ; Gabelli v. SEC , 568 U.S. 442 , 450 , 133 S.Ct . 1216 , 185 L.Ed.2d 297 ( 2013 ) ( referring to the " fraud discovery rule " ) .
+And it has repeatedly characterized these decisions as applying an equity - based doctrine .
+California Public Employees ' Retirement System v. ANZ Securities , Inc. , 582 U.S. ---- , ---- - ---- , 137 S.Ct . 2042 , 2051 - 2053 , 198 L.Ed.2d 584 ( 2017 ) ; Lozano v. Montoya Alvarez , 572 U.S. 1 , 10 - 11 , 134 S.Ct . 1224 , 188 L.Ed.2d 200 ( 2014 ) ; Credit Suisse Securities ( USA ) LLC v. Simmonds , 566 U.S. 221 , 226 - 227 , 132 S.Ct . 1414 , 182 L.Ed.2d 446 ( 2012 ) ; Young v. United States , 535 U.S. 43 , 49 - 50 , 122 S.Ct . 1036 , 152 L.Ed.2d 79 ( 2002 ) .
+Rotkiske failed to preserve this issue before the Third Circuit , 890 F.3d at 428 , and failed to raise this issue in his petition for certiorari .
+Accordingly , Rotkiske can not rely on this doctrine to excuse his otherwise untimely filing .
+* * *
+For the foregoing reasons , the judgment of the Court of Appeals is affirmed .
+It is so ordered .

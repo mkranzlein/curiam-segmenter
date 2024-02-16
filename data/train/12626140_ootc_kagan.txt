@@ -1,0 +1,248 @@
+Justice KAGAN delivered the opinion of the Court .
+A state prisoner is entitled to one fair opportunity to seek federal habeas relief from his conviction .
+But he may not usually make a " second or successive habeas corpus application . "
+28 U.S.C. § 2244 ( b ) .
+The question here is whether a motion brought under Federal Rule of Civil Procedure 59(e ) to alter or amend a habeas court 's judgment qualifies as such a successive petition .
+We hold it does not .
+A Rule 59(e ) motion is instead part and parcel of the first habeas proceeding .
+I
+This case is about two procedural rules .
+First , Rule 59(e ) applies in federal civil litigation generally .
+( Habeas proceedings , for those new to the area , are civil in nature .
+See Fisher v. Baker , 203 U.S. 174 , 181 , 27 S.Ct . 135 , 51 L.Ed . 142 ( 1906 ) . )
+The Rule enables a party to request that a district court reconsider a just - issued judgment .
+Second , the so - called gatekeeping provision of the Antiterrorism and Effective Death Penalty Act of 1996 ( AEDPA ) , codified at 28 U.S.C. § 2244 ( b ) , governs federal habeas proceedings .
+It sets stringent limits on second or successive habeas applications .
+We say a few words about each before describing how the courts below applied them here .
+A
+Rule 59(e ) allows a litigant to file a " motion to alter or amend a judgment . "
+The time for doing so is short-28 days from entry of the judgment , with no possibility of an extension .
+See Fed . Rule Civ . Proc . 6(b)(2 ) ( prohibiting extensions to Rule 59(e ) 's deadline ) .
+The Rule gives a district court the chance " to rectify its own mistakes in the period immediately following " its decision .
+White v. New Hampshire Dept . of Employment Security , 455 U.S. 445 , 450 , 102 S.Ct . 1162 , 71 L.Ed.2d 325 ( 1982 ) .
+In keeping with that corrective function , " federal courts generally have [ used ] Rule 59(e ) only " to " reconsider [ ] matters properly encompassed in a decision on the merits . "
+Id. , at 451 , 102 S.Ct . 1162 .
+In particular , courts will not address new arguments or evidence that the moving party could have raised before the decision issued .
+See 11 C. Wright , A. Miller , & M. Kane , Federal Practice and Procedure § 2810.1 , pp . 163 - 164 ( 3d ed . 2012 ) ( Wright & Miller ) ; accord , Exxon Shipping Co. v. Baker , 554 U.S. 471 , 485 - 486 , n. 5 , 128 S.Ct . 2605 , 171 L.Ed.2d 570 ( 2008 ) ( quoting prior edition ) .
+The motion is therefore tightly tied to the underlying judgment .
+The filing of a Rule 59(e ) motion within the 28 - day period " suspends the finality of the original judgment " for purposes of an appeal 
+FCC v. League of Women Voters of Cal . , 468 U.S. 364 , 373 , n. 10 , 104 S.Ct . 3106 , 82 L.Ed.2d 278 ( 1984 ) ( internal quotation marks and alterations omitted ) .
+Without such a motion , a litigant must take an appeal no later than 30 days from the district court 's entry of judgment .
+See Fed . Rule App . Proc . ( FRAP ) 4(a)(1)(A ) .
+But if he timely submits a Rule 59(e ) motion , there is no longer a final judgment to appeal from .
+See Osterneck v. Ernst & Whinney , 489 U.S. 169 , 174 , 109 S.Ct . 987 , 103 L.Ed.2d 146 ( 1989 ) .
+Only the disposition of that motion " restores th[e ] finality " of the original judgment , thus starting the 30 - day appeal clock .
+League of Women Voters , 468 U.S. at 373 , n. 10 , 104 S.Ct . 3106 ( internal quotation marks omitted ) ; see FRAP 4(a)(4)(A)(iv ) ( A party 's " time to file an appeal runs " from " the entry of the order disposing of the [ Rule 59(e ) ] motion " ) .
+And if an appeal follows , the ruling on the Rule 59(e ) motion merges with the prior determination , so that the reviewing court takes up only one judgment .
+See 11 Wright & Miller § 2818 , at 246 ; Foman v. Davis , 371 U.S. 178 , 181 , 83 S.Ct . 227 , 9 L.Ed.2d 222 ( 1962 ) .
+The court thus addresses any attack on the Rule 59(e ) ruling as part of its review of the underlying decision .
+Now turn to § 2244(b ) 's restrictions on second or successive habeas petitions .
+Under AEDPA , a state prisoner always gets one chance to bring a federal habeas challenge to his conviction .
+See Magwood v. Patterson , 561 U.S. 320 , 333 - 334 , 130 S.Ct . 2788 , 177 L.Ed.2d 592 ( 2010 ) .
+But after that , the road gets rockier .
+To file a second or successive application in a district court , a prisoner must first obtain leave from the court of appeals based on a " prima facie showing " that his petition satisfies the statute 's gatekeeping requirements .
+28 U.S.C. § 2244 ( b)(3)(C ) .
+Under those provisions , which bind the district court even when leave is given , a prisoner may not reassert any claims " presented in a prior application . "
+§ 2244(b)(1 ) .
+And he may bring a new claim only if it falls within one of two narrow categories - roughly speaking , if it relies on a new and retroactive rule of constitutional law or if it alleges previously undiscoverable facts that would establish his innocence .
+See § 2244(b)(2 ) .
+Still more : Those restrictions , like all statutes and rules pertaining to habeas , trump any " inconsistent " Federal Rule of Civil Procedure otherwise applicable to habeas proceedings .
+28 U.S.C. § 2254 Rule 12 .
+B
+This case began when , nearly two decades ago , petitioner Gregory Banister struck and killed a bicyclist while driving a car .
+Texas charged him with the crime of aggravated assault with a deadly weapon .
+A jury found him guilty , and he was sentenced to 30 years in prison .
+State courts upheld the conviction on direct appeal and in collateral proceedings .
+Banister then turned to federal district court for habeas relief .
+Although raising many claims , his petition mainly argued that his trial and appellate counsel provided him with constitutionally ineffective assistance .
+The District Court disagreed and entered judgment denying the application .
+At that point , Banister timely filed a Rule 59(e ) motion asking the District Court to alter its judgment .
+Consistent with the Rule 's corrective purpose , Banister urged the court to fix what he saw as " manifest errors of law and fact . "
+App . 219 .
+Five days later and without requiring a response from the State , the court issued a one - paragraph order explaining that it had reviewed all relevant materials and stood by its decision .
+See i d. , at 254 .
+In accordance with the timeline for appealing a judgment after the denial of a Rule 59(e ) motion , see supra , at 1703 - 1704 , Banister then filed a notice of appeal ( along with a request for a certificate of appealability ) to challenge the District Court 's rejection of his habeas application .
+Yet the Court of Appeals for the Fifth Circuit dismissed the appeal as untimely .
+That ruling rested on the view that Banister 's Rule 59(e ) motion , although captioned as such , was not really a Rule 59(e ) motion at all .
+Because it " attack[ed ] the federal court 's previous resolution of [ his ] claim on the merits , " the Fifth Circuit held that the motion must be " construed as a successive habeas petition . "
+App . 305 ( internal quotation marks omitted ) .
+In any future case , that holding would prohibit a habeas court from considering claims made in a self - styled Rule 59(e ) motion except in rare circumstances - that is , when a court of appeals gave permission and the claim fell within one of § 2244(b ) 's two slender categories .
+See supra , at 1703 - 1704 .
+In Banister 's own case , that bar was of no moment because the District Court had already addressed his motion 's merits .
+But viewing a Rule 59(e ) motion as a successive habeas petition also had another consequence , and this one would affect him .
+Unlike a Rule 59(e ) motion , the Court of Appeals noted , a successive habeas application does not postpone the time to file an appeal .
+That meant the clock started ticking when the District Court denied Banister 's habeas application ( rather than his subsequent motion) - and so Banister 's appeal was several weeks late .
+We granted certiorari to resolve a Circuit split about whether a Rule 59(e ) motion to alter or amend a habeas court 's judgment counts as a second or successive habeas application .
+588 U.S. ---- , 139 S.Ct . 2742 , 204 L.Ed.2d 1130 ( 2019 ) .
+We hold it does not , and reverse .
+II
+This case requires us to choose between two rules - more specifically , to decide whether AEDPA 's § 2244(b ) displaces Rule 59(e ) in federal habeas litigation .
+The Federal Rules of Civil Procedure generally govern habeas proceedings .
+See Fed . Rule Civ . Proc . 81(a)(4 ) .
+They give way , however , if and to the extent " inconsistent with any statutory provisions or [ habeas - specific ] rules . "
+28 U.S.C. § 2254 Rule 12 ; see supra , at 1703 - 1704 .
+Here , the Fifth Circuit concluded and Texas now contends that AEDPA 's limitation of repetitive habeas applications conflicts with Rule 59(e ) 's ordinary operation .
+That argument in turn hinges on viewing a Rule 59(e ) motion in a habeas case as a " second or successive application . "
+§ 2244(b ) ; see Brief for Respondent 10 .
+If such a motion constitutes a second or successive petition , then all of § 2244(b ) 's restrictions kick in - limiting the filings Rule 59(e ) would allow .
+But if a Rule 59(e ) motion is not so understood - if it is instead part of resolving a prisoner 's first habeas application - then § 2244(b ) 's requirements never come into the picture .
+The phrase " second or successive application , " on which all this rides , is a " term of art , " which " is not self - defining . "
+Slack v. McDaniel , 529 U.S. 473 , 486 , 120 S.Ct . 1595 , 146 L.Ed.2d 542 ( 2000 ) ; Panetti v. Quarterman , 551 U.S. 930 , 943 , 127 S.Ct . 2842 , 168 L.Ed.2d 662 ( 2007 ) .
+We have often made clear that it does not " simply ' refer ' " to all habeas filings made " ' second or successively in time , ' " following an initial application .
+Magwood , 561 U.S. at 332 , 130 S.Ct . 2788 ( quoting Panetti , 551 U.S. at 944 , 127 S.Ct . 2842 ( alteration omitted ) ) .
+For example , the courts of appeals agree ( as do both parties ) that an amended petition , filed after the initial one but before judgment , is not second or successive .
+See 2 R. Hertz & J. Liebman , Federal Habeas Corpus Practice and Procedure § 28.1 , pp . 1656 - 1657 , n. 4 ( 7th ed . 2017 ) ( collecting cases ) ; Brief for Petitioner 20 - 21 ; Brief for Respondent 16 .
+So too , appeals from the habeas court 's judgment ( or still later petitions to this Court ) are not second or successive ; rather , they are further iterations of the first habeas application .
+Chronology here is by no means all .
+In addressing what qualifies as second or successive , this Court has looked for guidance in two main places .
+First , we have explored historical habeas doctrine and practice .
+The phrase " second or successive application , " we have explained , is " given substance in our prior habeas corpus cases , " including those " predating [ AEDPA 's ] enactment . "
+Slack , 529 U.S. at 486 , 120 S.Ct . 1595 ; Panetti , 551 U.S. at 944 , 127 S.Ct . 2842 ; see i d. , at 943 , 127 S.Ct . 2842 ( stating that the phrase " takes its full meaning from our case law " ) .
+In particular , we have asked whether a type of later - in - time filing would have " constituted an abuse of the writ , as that concept is explained in our [ pre - AEDPA ] cases . "
+Id. , at 947 , 127 S.Ct . 2842 .
+If so , it is successive ; if not , likely not .
+Second , we have considered AEDPA 's own purposes .
+The point of § 2244(b ) 's restrictions , we have stated , is to " conserve judicial resources , reduc[e ] piecemeal litigation , " and " lend [ ] finality to state court judgments within a reasonable time . "
+Id. , at 945 - 946 , 127 S.Ct . 2842 ( internal quotation marks omitted ) .
+With those goals in mind , we have considered " the implications for habeas practice " of allowing a type of filing , to assess whether Congress would have viewed it as successive .
+Stewart v. Martinez - Villareal , 523 U.S. 637 , 644 , 118 S.Ct . 1618 , 140 L.Ed.2d 849 ( 1998 ) .
+Here , both historical precedents and statutory aims point in the same direction - toward permitting Rule 59(e ) motions in habeas proceedings .
+And nothing cuts the opposite way .
+A
+This Court has already held that history supports a habeas court 's consideration of a Rule 59(e ) motion .
+In Browder v. Director , Dept . of Corrections of Ill. , 434 U.S. 257 , 98 S.Ct . 556 , 54 L.Ed.2d 521 ( 1978 ) , we addressed prior to AEDPA " the applicability of Federal Rule [ 59(e ) ] in habeas corpus proceedings . "
+Id. , at 258 , 98 S.Ct . 556 .
+In deciding that the Rule applied in habeas - that " a prompt motion for reconsideration " was " thoroughly consistent " with habeas law and " well suited to the special problems and character of [ habeas ] proceedings"-we mainly looked to historical practice .
+Id. , at 271 , 98 S.Ct . 556 ( internal quotation marks omitted ) .
+Rule 59(e ) , we recounted , derived from a court 's common - law power " to alter or amend its own judgments during [ ] the term of court in which [ they were ] rendered , " prior to any appeal .
+Id. , at 270 , 98 S.Ct . 556 ; see Zimmern v. United States , 298 U.S. 167 , 169 - 170 , 56 S.Ct . 706 , 80 L.Ed . 1118 ( 1936 ) ( " The judge had plenary power while the term was in existence to modify his judgment [ or ] revoke it altogether " ) .
+Courts exercised that authority , we explained , " in habeas corpus cases " just as " in other civil proceedings . "
+Browder , 434 U.S. at 270 , 98 S.Ct . 556 .
+In 1946 , the drafters of the Federal Rules replaced the " term of court " power with Rule 59(e ) , thus prescribing a set number of days ( then 10 , now 28 ) in which a party could move to amend a judgment .
+See i d. , at 271 , 98 S.Ct . 556 .
+But in our view , that change did nothing to narrow the set of judgments amenable to alteration .
+See i d. , at 270 - 271 , 98 S.Ct . 556 .
+After Rule 59(e ) , just as before , a district court could " reconsider the grant or denial of habeas corpus relief " in the same way it could review any other decision .
+Id. , at 270 , 98 S.Ct . 556 ; see i d. , at 271 , 98 S.Ct . 556 .
+A timely Rule 59(e ) motion , we held , " suspend[ed ] the finality " of any judgment , including one in habeas - thus enabling a district court to address the matter again .
+Id. , at 267 , 98 S.Ct . 556 ( internal quotation marks omitted ) .
+The record of judicial decisions accords with Browder 's view of the use of Rule 59(e ) in habeas practice .
+Before AEDPA , " abuse - of - the - writ principles limit[ed ] a [ habeas applicant 's ] ability to file repetitive petitions . "
+McCleskey v. Zant , 499 U.S. 467 , 483 , 111 S.Ct . 1454 , 113 L.Ed.2d 517 ( 1991 ) .
+That doctrine was more forgiving than AEDPA 's gatekeeping provision - for example , enabling courts to hear a second or successive petition if the " ends of justice " warranted doing so .
+Id. , at 485 , 111 S.Ct . 1454 .
+But the rule against repetitive litigation still had plenty of bite .
+It demanded the dismissal of successive applications except in " rare case[s ] . "
+Kuhlmann v. Wilson , 477 U.S. 436 , 451 , 106 S.Ct . 2616 , 91 L.Ed.2d 364 ( 1986 ) ( plurality opinion ) .
+So if courts had viewed Rule 59(e ) motions as successive , there should be lots of decisions dismissing them on that basis .
+But nothing of the kind exists .
+In the half century from Rule 59(e ) 's adoption ( 1946 ) through Browder ( 1978 ) to AEDPA 's enactment ( 1996 ) , we ( and the parties ) have found only one such dismissal .
+See Bannister v. Armontrout , 4 F.3d 1434 , 1445 ( CA8 1993 ) .
+In every other case , courts resolved Rule 59(e ) motions on the merits - and without any comment about repetitive litigation .
+Mostly , courts denied the motions and adhered to their original judgments .
+See , e.g. , Gajewski v. Stevens , 346 F.2d 1000 , 1001 ( CA8 1965 ) ( per curiam ) .
+Occasionally , courts decided they had erred in those decisions .
+See , e.g. , York v. Tate , 858 F.2d 322 , 325 ( CA6 1988 ) ( per curiam ) .
+The win - loss rate is for this point irrelevant .
+What matters is that they all ( but one ) treated Rule 59(e ) motions not as successive , but as attendant on the initial habeas application .
+Congress passed AEDPA against this legal backdrop , and did nothing to change it .
+AEDPA of course made the limits on entertaining second or successive habeas applications more stringent than before .
+See supra , at 1703 - 1704 .
+But the statute did not redefine what qualifies as a successive petition , much less place Rule 59(e ) motions in that category .
+Cf . Magwood , 561 U.S. at 336 - 337 , 130 S.Ct . 2788 ( distinguishing between two questions : " § 2244(b ) 's threshold inquiry into whether an application is ' second or successive ' and its subsequent inquiry into whether [ to dismiss ] a successive application " ) .
+When Congress " intends to effect a change " in existing law - in particular , a holding of this Court - it usually provides a clear statement of that objective .
+TC Heartland LLC v. Kraft Foods Group Brands LLC , 581 U.S. ---- , ---- , 137 S.Ct . 1514 , 1520 , 197 L.Ed.2d 816 ( 2017 ) .
+AEDPA offers no such indication that Congress meant to change the historical practice Browder endorsed of applying Rule 59(e ) in habeas proceedings .
+Nor do AEDPA 's purposes demand a change in that tradition .
+As explained earlier , AEDPA aimed to prevent serial challenges to a judgment of conviction , in the interest of reducing delay , conserving judicial resources , and promoting finality .
+See supra , at 1705 - 1706 .
+Nothing in Rule 59(e ) -a rule Browder described as itself " based on an interest in speedy disposition and finality , "
+434 U.S. at 271 , 98 S.Ct . 556 ( internal quotation marks omitted) - conflicts with those goals .
+Recall everything said above about the Rule 's operation .
+See supra , at 1703 - 1704 .
+To begin with , Rule 59(e ) gives a prisoner only a narrow window to ask for relief-28 days , with no extensions .
+Next , a prisoner may invoke the rule only to request " reconsideration of matters properly encompassed " in the challenged judgment .
+White , 455 U.S. at 451 , 102 S.Ct . 1162 .
+And " reconsideration " means just that : Courts will not entertain arguments that could have been but were not raised before the just - issued decision .
+A Rule 59(e ) motion is therefore backward - looking ; and because that is so , it maintains a prisoner 's incentives to consolidate all of his claims in his initial application .
+Yet more , the Rule consolidates appellate proceedings .
+A Rule 59(e ) motion briefly suspends finality to enable a district court to fix any mistakes and thereby perfect its judgment before a possible appeal .
+The motion 's disposition then merges into the final judgment that the prisoner may take to the next level .
+In that way , the Rule avoids " piecemeal appellate review . "
+Osterneck , 489 U.S. at 177 , 109 S.Ct . 987 .
+Its operation , rather than allowing repeated attacks on a decision , helps produce a single final judgment for appeal .
+Indeed , the availability of Rule 59(e ) may make habeas proceedings more efficient .
+Most obviously , the Rule enables a district court to reverse a mistaken judgment , and so make an appeal altogether unnecessary .
+See United States v. Ibarra , 502 U.S. 1 , 5 , 112 S.Ct . 4 , 116 L.Ed.2d 1 ( 1991 ) ( per curiam ) ( noting that giving district courts a short time to correct their own errors " prevents unnecessary burdens being placed on the courts of appeals " ) .
+Of course , Rule 59(e ) motions seldom change judicial outcomes .
+But even when they do not , they give habeas courts the chance to clarify their reasoning or address arguments ( often made in less - than - limpid pro se petitions ) passed over or misunderstood before .
+See Brief for National Association of Criminal Defense Lawyers as Amicus Curiae 12 - 20 ( describing examples ) .
+That opportunity , too , promotes an economic and effective appellate process , as the reviewing court gets " the benefit of the district court 's plenary findings . "
+Osterneck , 489 U.S. at 177 , 109 S.Ct . 987 .
+And when a district court sees no need to change a decision , the costs of permitting a Rule 59(e ) motion are typically slight .
+A judge familiar with a habeas applicant 's claims can usually make quick work of a meritless motion .
+This case may well provide an example : The District Court declined to make the State respond to Banister 's motion and decided it within five days .
+Nothing in such a process conflicts with AEDPA 's goal of streamlining habeas cases .
+The upshot , after AEDPA as before , is that Rule 59(e ) motions are not second or successive petitions , but instead a part of a prisoner 's first habeas proceeding .
+In timing and substance , a Rule 59(e ) motion hews closely to the initial application ; and the habeas court 's disposition of the former fuses with its decision on the latter .
+Such a motion does not enable a prisoner to abuse the habeas process by stringing out his claims over the years .
+It instead gives the court a brief chance to fix mistakes before its ( single ) judgment on a ( single ) habeas application becomes final and thereby triggers the time for appeal .
+No surprise , then , that habeas courts historically entertained Rule 59(e ) motions , rather than dismiss them as successive .
+Or that Congress said not a word about changing that familiar practice even when enacting other habeas restrictions .
+B
+Texas ( along with the dissent ) resists this conclusion on one main ground : this Court 's prior decision in Gonzalez v. Crosby , 545 U.S. 524 , 125 S.Ct . 2641 , 162 L.Ed.2d 480 ( 2005 ) .
+The question there was whether a Rule 60(b ) motion for " relie[f ] from a final judgment " denying habeas relief counts as a second or successive habeas application .
+Fed . Rule Civ . Proc . 60(b ) .
+We said that it does , so long as the motion " attacks the federal court 's previous resolution of a claim on the merits . "
+545 U.S. at 532 , 125 S.Ct . 2641 ( emphasis deleted ) .
+Texas thinks the " Gonzalez principle applies with equal force to Rule 59(e ) motions . "
+Brief for Respondent 8 .
+After all , the State argues , both Rule 59(e ) and Rule 60(b ) provide " vehicles for asserting habeas claims " after a district court has entered judgment denying relief .
+Id. , at 2 .
+And if Gonzalez does apply , Texas concludes , Banister must lose because ( as everyone agrees ) his Rule 59(e ) motion pressed only merits - based claims .
+But Rule 60(b ) differs from Rule 59(e ) in just about every way that matters to the inquiry here .
+( Contra the dissent 's refrain , see post , at 1711 , 1712 , 1713 , 1713 - 1714 , 1716 , 1718 , the variance goes far beyond their " labels . " ) Begin , again , with history .
+Recall that Rule 59(e ) derives from a common - law court 's plenary power to revise its judgment during a single term of court , before anyone could appeal .
+See supra , at 1705 - 1706 .
+By contrast , Rule 60(b ) codifies various writs used to seek relief from a judgment at any time after the term 's expiration - even after an appeal had ( long since ) concluded .
+Those mechanisms did not ( as the term rule did ) aid the trial court to get its decision right in the first instance ; rather , they served to collaterally attack its already completed judgment .
+See Advisory Committee 's 1946 Notes on Amendments to Fed . Rule Civ . Proc . 60 ; Mann , Note , History and Interpretation of Federal Rule 60(b ) , 25 Temp . L. Q. 77 , 78 ( 1951 ) .
+And that distinction was not lost on pre - AEDPA habeas courts applying the two rules .
+As discussed earlier , it is practically impossible to find a case dismissing a Rule 59(e ) motion for raising repetitive claims .
+See supra , at 1707 .
+But decisions abound dismissing Rule 60(b ) motions for that reason .
+See , e.g. , Williamson v. Rison , 1993 WL 262632 ( CA9 , July 9 , 1993 ) ; see also Brewer v. Ward , 1996 WL 194830 , * 1 ( CA10 , Apr. 22 , 1996 ) ( collecting cases from multiple Circuits ) .
+That is because those courts recognized Rule 60(b ) -as contrasted to Rule 59(e ) -as threatening an already final judgment with successive litigation .
+The modern - day operation of the two Rules also diverge , with only Rule 60(b ) undermining AEDPA 's scheme to prevent delay and protect finality .
+Unlike Rule 59(e ) motions with their fixed 28 - day window , Rule 60(b ) motions can arise long after the denial of a prisoner 's initial petition - depending on the reason given for relief , within either a year or a more open - ended " reasonable time . "
+Fed . Rule Civ . Proc . 60(c)(1 ) .
+In Gonzalez itself , the prisoner made his motion nearly three years after the habeas court 's denial of relief , and more than one year after his appeal ended .
+See 545 U.S. at 527 , 125 S.Ct . 2641 .
+Given that extended timespan , Rule 60(b ) inevitably elicits motions that go beyond Rule 59(e ) 's mission of pointing out the alleged errors in the habeas court 's decision .
+See , e.g. , Lopez v. Douglas , 141 F.3d 974 , 975 ( CA10 1998 ) ( per curiam ) ( seeking relief in light of a Supreme Court decision issued a decade after judgment ) ; Tyler v. Anderson , 749 F.3d 499 , 504 - 505 ( CA6 2014 ) ( seeking to raise claims that former counsel had neglected in a years - old habeas application ) .
+Still more , the appeal of a Rule 60(b ) denial is independent of the appeal of the original petition .
+Recall that a Rule 59(e ) motion suspends the finality of the habeas judgment , and a decision on the former merges into the latter for appellate review .
+See supra , at 1703 - 1704 , 1707 - 1708 .
+By contrast , a Rule 60(b ) motion " does not affect the [ original ] judgment 's finality or suspend its operation . "
+Fed . Rule Civ . Proc . 60(c)(2 ) .
+And an appeal from the denial of Rule 60(b ) relief " does not bring up the underlying judgment for review . "
+Browder , 434 U.S. at 263 , n. 7 , 98 S.Ct . 556 .
+Instead , that denial is appealed as " a separate final order . "
+Stone v. INS , 514 U.S. 386 , 401 , 115 S.Ct . 1537 , 131 L.Ed.2d 465 ( 1995 ) .
+In short , a Rule 60(b ) motion differs from a Rule 59(e ) motion in its remove from the initial habeas proceeding .
+A Rule 60(b ) motion - often distant in time and scope and always giving rise to a separate appeal - attacks an already completed judgment .
+Its availability threatens serial habeas litigation ; indeed , without rules suppressing abuse , a prisoner could bring such a motion endlessly .
+By contrast , a Rule 59(e ) motion is a one - time effort to bring alleged errors in a just - issued decision to a habeas court 's attention , before taking a single appeal .
+It is a limited continuation of the original proceeding - indeed , a part of producing the final judgment granting or denying habeas relief .
+For those reasons , Gonzalez does not govern here .
+A Rule 59(e ) motion , unlike a Rule 60(b ) motion , does not count as a second or successive habeas application .
+III
+Our holding means that the Court of Appeals should not have dismissed Banister 's appeal as untimely .
+Banister properly brought a Rule 59(e ) motion in the District Court .
+As noted earlier , the 30 - day appeals clock runs from the disposition of such a motion , rather than from the initial entry of judgment .
+See supra , at 1703 - 1704 .
+And Banister filed his notice of appeal within that time .
+The Fifth Circuit reached a contrary conclusion because it thought that Banister 's motion was really a second or successive habeas application , and so did not reset the appeals clock .
+For all the reasons we have given , that understanding of a Rule 59(e ) motion is wrong .
+We therefore reverse the judgment of the Court of Appeals and remand the case for further proceedings consistent with this opinion .
+It is so ordered .

@@ -1,0 +1,333 @@
+Justice GORSUCH , with whom Justice SOTOMAYOR joins as to Parts I , II , III , and IV , dissenting .
+Today the Court takes a flawed premise - that the Constitution permits a politically guided agency to revoke an inventor 's property right in an issued patent - and bends it further , allowing the agency 's decision to stand immune from judicial review .
+Worse , the Court closes the courthouse not in a case where the patent owner is merely unhappy with the merits of the agency 's decision but where the owner claims the agency 's proceedings were unlawful from the start .
+Most remarkably , the Court denies judicial review even though the government now concedes that the patent owner is right and this entire exercise in property - taking - by - bureaucracy was forbidden by law .
+It might be one thing if Congress clearly ordained this strange result .
+But it did not .
+The relevant statute , the presumption of judicial review , and our precedent all point toward allowing , not forbidding , inventors their day in court .
+Yet , the Court brushes past these warning signs and , in the process , carries us another step down the road of ceding core judicial powers to agency officials and leaving the disposition of private rights and liberties to bureaucratic mercy .
+I
+Our story stretches back to the 1990s , when Stephen DuVal invented a system for anonymizing telephone calls .
+Believing in the promise of his idea , Mr. DuVal hired an attorney to secure a patent and sought avenues to bring his invention to market .
+Initially , both efforts met with success .
+In 1998 , Mr. DuVal was awarded a U.S. Patent , which he licensed to a company called InfoRocket.com , Inc.
+But problems soon emerged .
+In 2001 , InfoRocket accused Ingenio , Inc. , a predecessor of today 's petitioner Thryv , Inc. , of infringing Mr. DuVal 's patent .
+The case carried on in federal district court for more than a year before InfoRocket and Ingenio decided to merge .
+The companies then jointly persuaded the court to dismiss InfoRocket 's lawsuit without prejudice .
+Still , the quiet did not last long .
+Following the merger , the surviving entity - for simplicity , call it Thryv - sought to turn the tables on Mr. DuVal by asking the Patent Office to reconsider the validity of his patent in an ex parte reexamination .
+That agency - led process dragged on for four more years , and ended with a mixed verdict : The Patent Office canceled a few claims , but amended others and permitted Mr. DuVal to add some new ones too .
+Even the ex parte reexamination was n't enough to put the parties ' disputes to rest .
+During the reexamination , Thryv terminated its license with Mr. DuVal and stopped paying him royalties .
+But it seems that Thryv continued using the patented technology all the same .
+So Mr. DuVal transferred his patent to respondent Click - to - Call Technologies LP ( CTC ) , which swiftly took the patent back to court .
+CTC noted that Thryv could n't exactly plead ignorance about this patent , given that the company or its predecessors had previously licensed the patent , been sued for infringing it , and asked the Patent Office to reexamine it .
+When it came to Mr. DuVal 's patent , CTC alleged , Thryv had done just about everything one can do to a patent except invent it .
+Thryv responded by opening another new litigation front of its own .
+One year after CTC filed its federal lawsuit , Thryv lodged another administrative petition with the Patent Office , this time seeking inter partes review .
+Echoing some of the same arguments that led to its push for an ex parte administrative reexamination nine years earlier , and adding other arguments too , Thryv ( again ) asked the agency to cancel Mr. DuVal 's patent on the grounds that it lacked novelty and was obvious .
+At the same time , Thryv sought to stay proceedings in CTC 's infringement suit .
+Thryv argued that the district court should defer to the newly initiated inter partes review .
+Like many district courts facing the prospect of parallel administrative proceedings , this one obliged .
+Why at this late hour did Thryv prefer to litigate before the agency rather than a federal district court ?
+The agency 's ex parte reexamination years earlier had n't helped Thryv much .
+But since then , Congress had adopted the Leahy - Smith America Invents Act ( AIA ) , 35 U.S.C. § 100 et seq .
+That law created the inter partes review process , which provides a number of benefits to accused infringers such as Thryv .
+Like federal court litigation , inter partes review holds the advantage of allowing a private party attacking a patent 's validity to participate in adversarial proceedings , rather than rely on the agency to direct its own investigation as it does in ex parte reexamination .
+Compare 35 U.S.C. § 316 with § § 302 , 304 , 305 .
+Inter partes review also allows a party challenging a patent all manner of discovery , including depositions and the presentation of expert testimony .
+§ 316 ; 37 CFR § § 42.51 - 42.65 ( 2019 ) .
+At the same time , the burden of proof is lower - requiring challengers like Thryv to prove unpatentability only by a preponderance of the evidence , § 316(e ) , rather than under the clear and convincing standard that usually applies in court .
+Microsoft Corp. v. i4i L. P. , 564 U.S. 91 , 131 S.Ct . 2238 , 180 L.Ed.2d 131 ( 2011 ) .
+Perhaps most appealing , proceedings take place before the Patent Trial and Appeal Board , rather than in an Article III court , so there is no jury trial before a tenure - protected judge , only a hearing before a panel of agency employees .
+Some say the new regime represents a particularly efficient new way to " kill " patents .
+Certainly , the numbers tell an inviting story for petitioners like Thryv .
+In approximately 80 % of cases reaching a final decision , the Board cancels some or all of the challenged claims .
+Patent Trial and Appeal Board , Trial Statistics 10 ( Feb. 2020 ) , https://www.uspto.gov/sites/default/files/documents/Trial_Statistics_2020_02_29.pdf .
+The Board has been busy , too , instituting more than 800 of these new proceedings every year .
+See i d. , at 6 .
+Still , Thryv faced a hurdle .
+Inter partes review " may not be instituted " based on an administrative petition filed more than a year after " the petitioner , real party in interest , or privy of the petitioner is served with a complaint alleging infringement of the patent " in federal court .
+35 U.S.C. § 315 ( b ) .
+So , while Congress sought to move many cases out of court and into its new administrative process , it thought patent owners who have already endured long challenges in court should n't have to face another layer of administrative review .
+After all , some repose is due inventors .
+Patents typically last 20 years ; what happens to the incentive to invent if litigation over them lasts even longer ( as it has for Mr. DuVal ) ?
+By anyone 's estimation , too , § 315(b ) 's time bar was sure to pose a special problem for Thryv .
+Yes , Thryv had petitioned for inter partes review one year after being served with CTC 's complaint .
+But nearly 12 years had passed since Thryv 's predecessor and privy first found itself on the business end of a lawsuit alleging that it had infringed Mr. DuVal 's patent .
+Despite this apparently fatal defect , the Board plowed ahead anyway .
+No one could dispute that Thryv 's predecessor and privy had been " served with a complaint alleging infringement of the patent " more than a decade earlier .
+But that complaint did n't count , the Board declared , because it was dismissed without prejudice .
+The Board cited nothing in § 315(b ) suggesting this distinction makes a difference under the statute 's plain terms .
+Instead , the Board tiptoed past the problem and proceeded to invalidate almost all of the patent claims before it , even those the Patent Office itself had affirmed in its own ex parte proceeding years before .
+No doubt this was exactly what Thryv hoped for in its second bite at the administrative apple .
+Thryv 's victory may have taken years to achieve , but it did n't seem calculated to last long .
+Predictably , CTC appealed the Board 's interpretation of § 315(b ) to the Federal Circuit .
+And just as unsurprisingly , the court held that dismissed complaints do count as complaints , so Thryv 's inter partes administrative challenge was time barred from the start .
+Mr. DuVal 's patent had already survived one ex parte reexamination Thryv instigated .
+The patent had been the subject of long and repeated litigation in federal courts .
+The agency had no business opening yet another new inquiry into this very old patent .
+But Thryv had one maneuver left .
+It sought review in this Court , insisting that Article III courts lack authority even to say what the law demands .
+According to Thryv , a different provision , § 314(d ) , renders the agency 's interpretations and applications of § 315(b ) immune from judicial review .
+So the Board can err ; it can even act in defiance of plain congressional limits on its authority .
+But , in Thryv 's view , a court can do nothing about it .
+Enforcement of § 315(b ) 's time bar falls only to the very Patent Office officials whose authority it seeks to restrain .
+Inventors like Mr. DuVal just have to hope that the bureaucracy revoking their property rights will take the extra trouble of doing so in accordance with law .
+That 's the strange place we now find ourselves .
+Thryv managed to persuade the Court to grant its petition for certiorari to consider its extraordinary argument .
+And today the Court vindicates its last and most remarkable maneuver .
+II
+A
+How could § 314(d ) insulate from judicial review the agency's - admittedly mistaken - interpretation of an entirely different provision , § 315(b ) ?
+The answer is that it does n't .
+To see why , look no further than § 314(d ) .
+The statute tells us that " [ t]he determination by the Director whether to institute an inter partes review under this section shall be final and nonappealable . "
+So the only thing § 314(d ) insulates from judicial review is " [ t]he determination " made " by the Director " " under this section"-that is , a determination discussed within § 314 .
+Nothing in the statute insulates agency interpretations of other provisions outside § 314 , including those involving § 315(b ) .
+This arrangement makes sense .
+Given that § 314(d ) speaks of " [ t]he " determination by the Director " under this section , " it comes as no surprise that the section mentions just one such " determination . "
+It is found in § 314(a ) , where the Director " determines " whether the parties ' initial pleadings suggest " a reasonable likelihood " the petitioner will prevail in defeating at least some aspect of the challenged patent .
+And it is easy to see why Congress might make a preliminary merits assessment like that exempt from further view : If the Director institutes a meritless petition , the Board can summarily affirm the patent 's validity .
+See § 318(a ) ; 37 CFR § § 42.71 - 42.73 .
+In any event , the Board is obligated to render a final - and judicially reviewable - decision within a year .
+35 U.S.C. § § 141 ( c ) , 316(a)(11 ) , 318(a ) , 319 .
+So judicial review of the Director 's initial appraisal of the merits is n't really eliminated as much as it is channeled toward the Board 's final decision on those merits .
+That process finds a ready analogue elsewhere in our law .
+Much as here , an indicted criminal defendant unhappy with a grand jury 's finding of probable cause is n't permitted to challenge that preliminary assessment , but may instead move the court for acquittal after the government has presented all its evidence .
+See Costello v. United States , 350 U.S. 359 , 363 , 76 S.Ct . 406 , 100 L.Ed . 397 ( 1956 ) ; Fed . Rule Crim . Proc . 29(a ) .
+Matters outside § 314 are different .
+Take the provision before us , § 315(b ) .
+It promises that an inter partes review " may not be instituted " more than a year after the initiation of litigation .
+This stands as an affirmative limit on the agency 's authority .
+Much like a statute of limitations , this provision supplies an argument a party can continue to press throughout the life of the administrative proceeding and on appeal .
+Nothing in § 315(b ) speaks of a " determination by the Director , " let alone suggests that the agency 's initial ruling on a petition 's timeliness is " final and nonappealable . "
+To pretend otherwise would invite a linguistic nonsense .
+We would have to read § 314 's language speaking of " [ t]he " " determination " " under this section " to include not one determination but two - and to include not only the determination actually made under " this section " but also a second assessment made about the effect of an entirely different section .
+To pretend otherwise would invite a practical nonsense as well .
+Because the Director 's initial " reasonable likelihood " determination under § 314(a ) relates to the merits , it will be effectively reviewed both by the Board and courts as the case progresses .
+But when does the Director 's application of § 315(b ) 's time bar get another look ?
+Under Thryv 's interpretation , a provision that reads like an affirmative limit on the agency 's authority reduces to a mere suggestion .
+No matter how wrong or even purposefully evasive , the Director 's assessment of a petition 's timeliness is always immune from review .
+And even that 's not the end of it .
+In other cases , the Board has claimed it has the right to review these initial timeliness decisions , and Thryv seems content with those rulings .
+See , e.g. , Medtronic , Inc. v. Robert Bosch Healthcare Systems , Inc. , 839 F.3d 1382 ( CA Fed . 2016 ) .
+So it turns out the company does n't really want to make an initial administrative timeliness decisions final ; it just wants to make them unreviewable in court , defying once more § 314 's plain language and any rational explanation , except maybe as an expedient to win the day 's case .
+B
+Confronting so many problems in the statute 's text , Thryv seeks a way around them by offering a competing account of the law 's operation .
+While § 314 empowers the Director to make an institution decision , Thryv asserts that various provisions scattered throughout the chapter - such as § § 314(a ) , 315(a)(1 ) , and 315(b ) -help guide the decision .
+And on Thryv 's interpretation , all questions related to the Director 's institution decision should be insulated from review , no matter where those rules are found .
+What about the fact § 314 speaks of insulating only " [ t]he " " determination " " under this section " ?
+Thryv says this language serves merely to indicate which institution authority is unreviewable - namely , the Director 's authority to institute an inter partes proceeding pursuant to § 314 , rather than pursuant to some other provision .
+This interpretation , however , makes a nullity of the very language it purports to explain .
+Section 314 is the only section that authorizes the Director to institute inter partes review , making it pointless for Congress to tell us that we 're talking about the Director 's § 314 inter partes review institution authority as opposed to some other inter partes review institution authority .
+In fact , you can strike " under this section " from § 314(d ) and Thryv 's interpretation remains unchanged .
+That 's a pretty good clue something has gone wrong .
+Faced with this problem of surplusage , Thryv alludes to the possibility that Congress included redundant language to be " double sure . "
+But double sure of what ?
+Thryv does not identify any confusion that the phrase " under this section " might help avoid .
+Given the lack of any other provision , anywhere in the U.S. Code , authorizing anyone to institute inter partes review , even the most obtuse reader would never have any use for the clarification supposedly provided by " under this section " on Thryv 's account .
+Maybe so , Thryv replies , but we should n't worry about the surplusage here because the AIA contains surplusage elsewhere .
+The other putative examples of surplusage Thryv identifies , however , have no bearing on the provision now before us .
+And even a passing glance reveals no surplusage in them either .
+Consider § 315(c ) .
+It says that " the Director , in his or her discretion , may join as a party to that inter partes review any person who properly files a petition under section 311 that the Director , after receiving a preliminary response under section 313 ... , determines warrants the institution of an inter partes review under section 314 . " ( Emphasis added . )
+Thryv argues that all these cross - references are unnecessary .
+But look closely : Each of § 315(c ) 's cross - references does important work to establish the rules for joinder .
+Strike the first and the requirements of a joinder petition become undefined .
+Strike the second and it 's a mystery what kind of response the patent owner is entitled to file .
+Strike the third and the Director 's determination whether to grant joinder becomes standardless .
+All of this language has a point to it - just as " under this section " does under a faithful interpretation of § 314(d ) .
+That leaves Thryv only one more tenuous textual lifeline left to toss .
+If Congress had wanted to insulate from review only " [ t]he " " determination " that a petition has a " reasonable likelihood " of success , the company suggests , Congress could have spoken of insulating " the determination under subsection ( a ) " rather than " the determination under this section . "
+And Thryv reminds us that Congress used that latter formulation in nearby and predecessor statutes .
+See , e.g. , § 303(c ) ( " [ a ] determination by the Director pursuant to subsection ( a ) of this section ... will be final and nonappealable " ) ; § 312(c ) ( 2006 ed . ; repealed 2011 ) ( " [ a ] determination by the Director under subsection ( a ) shall be final and non - appealable " ) .
+But so what ?
+One could replace the phrase " my next - door neighbor to the west " with " my neighbor at 123 Main Street " ( assuming that is her address ) and the meaning would be the same .
+Likewise , it hardly matters whether Congress spoke of the " determination " " under this section " or " under subsection ( a ) . "
+Either way , our attention is directed within , not beyond , § 314 .
+And what 's Thryv 's alternative ?
+It would have us read language speaking of the Director 's determination " under this section " to encompass any decision related to the initiation of inter partes review found anywhere in the AIA - an entire chapter of the U.S. Code .
+That 's sort of like reading " my next - door neighbor to the west " to include " anyone in town . "
+Nor do things get better for Thryv with a careful assessment of nearby and predecessor statutes .
+They reveal that Congress knew exactly how to give broader directions like the one Thryv imagines when it wished to do so .
+See , e.g. , § 314(b ) ( directing our attention to the Director 's decision whether to institute inter partes review " under this chapter " rather than " under this section " ) .
+Without any plausible textual or contextual hook for its position , Thryv finishes by advancing a parade of policy horribles .
+It notes that the AIA imposes lots of other constraints on inter partes review besides the § 315(b ) timing provision now before us .
+For example , the law bars petitioners who have filed declaratory judgment actions from challenging the same patent in inter partes review proceedings , § 315(a)(1 ) , and it estops petitioners from seeking other forms of review once an inter partes proceeding finishes , § 315(e ) .
+If courts are going to review the agency 's application of § 315(b ) , Thryv wonders , are they going to have to review the agency 's application of these other provisions too ?
+But we could just as easily march this parade in the opposite direction .
+Even assuming ( without deciding ) that Thryv is right and the reviewability of all these provisions stands or falls together , that seems at least as good an argument for as against judicial review .
+If so much more is at stake , if many more kinds of agency errors could be insulated from correction , is n't that a greater reason to pay assiduous attention to the statute 's terms ?
+Surely , Thryv 's professed concern for judicial economy supplies no license to ignore our duty to decide the cases properly put to us in accord with the statute 's terms .
+III
+This last point leads to another reason why we should reject Thryv 's reading of the statute .
+Even if the company could muster some doubt about the reach of § 314(d ) , it would n't be enough to overcome the " well - settled presumption favoring interpretations of statutes that allow judicial review of administrative action . "
+McNary v. Haitian Refugee Center , Inc. , 498 U.S. 479 , 496 , 111 S.Ct . 888 , 112 L.Ed.2d 1005 ( 1991 ) .
+As this Court has long explained , " we will ... find an intent to preclude such review only if presented with clear and convincing evidence . "
+Reno v. Catholic Social Services , Inc. , 509 U.S. 43 , 64 , 113 S.Ct . 2485 , 125 L.Ed.2d 38 ( 1993 ) ( internal quotation marks omitted ) .
+The presumption of judicial review is deeply rooted in our history and separation of powers .
+To guard against arbitrary government , our founders knew , elections are not enough : " An elective despotism was not the government we fought for . "
+The Federalist No . 48 , p. 311 ( C. Rossiter ed . 1961 ) ( emphasis deleted ) .
+In a government " founded on free principles , " no one person , group , or branch may hold all the keys of power over a private person 's liberty or property .
+Ibid . Instead , power must be set against power , " divided and balanced among several bodies ... checked and restrained by the others . "
+Ibid .
+As Chief Justice Marshall put it : " It would excite some surprise if , in a government of laws and of principle ... a department whose appropriate duty it is to decide questions of right , not only between individuals , but between the government and individuals , " a statute might leave that individual " with no remedy , no appeal to the laws of his country , if he should believe the claim to be unjust . "
+United States v. Nourse , 9 Pet . 8 , 28 - 29 , 9 L.Ed . 31 ( 1835 ) .
+It should come as an equal surprise to think Congress might have imposed an express limit on an executive bureaucracy 's authority to decide the rights of individuals , and then entrusted that agency with the sole power to enforce the limits of its own authority .
+Yet on Thryv 's account , § 315(b ) 's command that " inter partes review may not be instituted " would be left entrusted to the good faith of the very executive officials it is meant to constrain .
+( Emphasis added . )
+We do not normally rush to a conclusion that Congress has issued such " ' blank checks drawn to the credit of some administrative officer . ' "
+Bowen v. Michigan Academy of Family Physicians , 476 U.S. 667 , 671 , 106 S.Ct . 2133 , 90 L.Ed.2d 623 ( 1986 ) ( quoting S. Rep. No . 752 , 79th Cong . , 1st Sess . , 26 ( 1945 ) ) .
+That usually may be the case , Thryv counters , but this statute 's unusually modest purpose makes it plausible to think Congress meant to shield its application from judicial review .
+After all , the company submits , § 315(b ) is not really a firm limit on the agency 's authority , only a claim processing rule .
+For proof , the company reminds us that § 315(b ) bars challengers who have already spent a year litigating in court from petitioning the agency , but leaves open the possibility that the agency might still institute inter partes review if a different , eligible petitioner happens to come along .
+And this theoretical possibility , Thryv tells us , suggests that the agency was meant to be allowed to act as it wants .
+But Thryv 's reply here is like saying Article III 's " case or controversy " requirement is n't really a limit on the power of federal courts , because it 's always possible that some litigant with a live dispute will come forward and require the court to settle a particular legal question .
+The implacable fact is that nothing in the AIA gives the Director or the Board freewheeling authority to conduct inter partes review .
+The statute demands the participation of a real party in interest , a petitioner who is not barred by prior litigation and who is willing to face estoppel should he lose .
+§ § 311(a ) , 315 .
+And if , as seems likely in our case and many others , no one is willing and able to meet those conditions , the law does not permit inter partes review .
+So rather than a claim processing rule , § 315 is both a constraint on the agency 's power and a valuable guarantee that a patent owner must battle the same foe only once .
+Realizing that its textual arguments are too strained to demonstrate clearly and convincingly that Congress meant to displace judicial review , Thryv asks us to draw " inferences " from the AIA " as a whole . "
+Brief for Petitioner 16 ( internal quotation marks omitted ) .
+In particular , the company tells us that Congress 's " overriding purpose " in creating inter partes review was to " weed out poor quality patents , " and that judicial enforcement of § 315(b ) would slow this progress .
+Id. , at 24 ( quotation altered ) .
+But to support its thematic account of the law 's goals , Thryv rests on one thin reed after another - a House Report here , a floor statement there , and a few quotations from Cuozzo Speed Technologies , LLC v. Lee , 579 U.S. ---- , 136 S.Ct . 2131 , 195 L.Ed.2d 423 ( 2016 ) , that summarize these same sources .
+All the rest is generously filled in by the company 's own account about how inter partes review ought to work .
+That 's far from enough .
+The historic presumption of judicial review has never before folded before a couple stray pieces of legislative history and naked policy appeals .
+Besides , Thryv 's submissions can not withstand the mildest inspection even on their own terms .
+No one doubts that Congress authorized inter partes review to encourage further scrutiny of already issued patents .
+But lost in Thryv 's telling about the purposes of the AIA is plenty of evidence that Congress also included provisions to preserve the value of patents and protect the rights of patent owners .
+For example , Congress sharply limited the legal grounds that might be pursued in inter partes review , § 311(b ) ; afforded patent owners an opportunity to respond to petitions prior to institution , § 313 ; and , most relevant today , protected patent owners from the need to fight a two - front war before both the Board and federal district court , § 315 .
+Legislating involves compromise and it would be naive to think that , as the price for their zealous new procedures for canceling patents , those who proposed the AIA did n't have to accept some protections like these for patent holders .
+Yet , Thryv glides past all these provisions without comment .
+Worse , taking the company 's argument to its logical conclusion could render these protections into " ' merely advisory ' " features of the law .
+Bowen , 476 U.S. at 671 , 106 S.Ct . 2133 .
+If adopted , Thryv 's vision of an administrative regime singularly focused on the efficient canceling of patents could become self - fulfilling .
+A case decided just weeks ago supplies a telling point of comparison .
+In Guerrero - Lasprilla v. Barr , 589 U.S. ---- , 140 S.Ct . 1062 , --- L.Ed.2d ---- ( 2020 ) , Congress sought to expedite the removal of aliens convicted of certain aggravated felonies by foreclosing judicial review of their cases unless they raised " questions of law . "
+See 8 U.S.C. § § 1252 ( a)(2)(C ) , ( D ) .
+But the statute there was ambiguous about mixed questions of law and fact : Were these ( reviewable ) questions of law , or ( unreviewable ) determinations of fact ?
+Because the statute could be interpreted either way , this Court held , the presumption of reviewability preserved the aliens ' ability to argue mixed questions on appeal .
+Today , the textual arguments for shielding the agency 's decision from review are even weaker , and the same presumption that preserved judicial review for felons seeking discretionary relief from removal should do no less work for patent holders seeking to defend their inventions .
+IV
+Even if the statute 's plain language and the presumption in favor of review dictate a ruling against it , Thryv finishes by suggesting we must ignore all that and rule for it anyway because precedent commands it .
+Maybe our precedent is wrong , the company says , but it binds us all the same .
+In particular , Thryv points us to Cuozzo .
+There , the Court suggested that § 314(d ) could preclude review in cases : ( 1 ) where a litigant challenges the Director 's reasonable likelihood of success determination under § 314(a ) , or ( 2 ) where a litigant " grounds its claim in a statute closely related to that decision to institute inter partes review . "
+579 U.S. , at ---- , 136 S.Ct . , at 2142 .
+That first path is faithful to the plain language of § 314(d ) .
+The second appears nowhere in the statute but is , instead , a product of the judicial imagination .
+Still , Thryv says , we must follow that path wherever it leads and , because § 315(b ) decisions are " closely related " to § 314(a ) decisions , we should n't review them .
+But Cuozzo hardly held so much .
+In fact , Cuozzo had no need to explore the second path it imagined , for it quickly concluded that the argument before it was " little more than a challenge to the Patent Office 's conclusion under § 314(a ) , " a decision shielded from judicial review under any interpretation of § 314(d ) .
+I d . , at ---- , 136 S.Ct . , at 2142 .
+So all the discussion about the reviewability of decisions outside § 314(a ) turned out to be nothing more than dicta entirely unnecessary to the decision .
+Nor did anything in Cuozzo directly address § 315(b ) decisions , let alone declare them to be " close enough " to § 314(a ) decisions to preclude judicial review .
+That 's just the beginning of Thryv 's precedent problems , too .
+In SAS Institute Inc. v. Iancu , 584 U.S. ---- , 138 S.Ct . 1348 , 200 L.Ed.2d 695 ( 2018 ) , an inter partes review petitioner challenged the Director 's practice of instituting review of some , but not all , of the claims challenged in a single petition .
+The government argued there - much as Thryv argues today - that § 314(d ) shielded this unlawful practice from judicial review .
+In advancing this argument , the government seized on the same language in Cuozzo that Thryv now embraces , claiming that its opponent 's " grounds for attacking the decision ... are closely tied " to the § 314(a ) institution decision .
+Brief for Federal Respondent in SAS Institute Inc. v. Iancu , O. T. 2017 , No . 16969 , p. 13 .
+Because no one could say that the petitioner 's argument in SAS Institute was " little more than a challenge to the Patent Office 's conclusion under § 314(a ) , " 584 U.S. , at ---- , 138 S.Ct . , at 1359 , we were forced to confront whether Cuozzo and the relevant statutes actually barred not just institution decisions under § 314(a ) but things " closely related " to them .
+We held they did not .
+We began , as we did in Cuozzo , by noting the " strong presumption in favor of judicial review . "
+SAS Institute , 584 U.S. , at ---- 138 S.Ct . , at 1359 ( internal quotation marks omitted ) .
+We then put an end to any doubt about what the dicta in that case might mean : " Given the strength of this presumption and the statute 's text , Cuozzo concluded that § 314(d ) precludes judicial review only of the Director 's ' initial determination ' under § 314(a ) . "
+Ibid . ( quoting Cuozzo , 579 U.S. , at ---- , 136 S.Ct . , at 2140 ; emphasis added ) .
+We did not need to overrule Cuozzo , because the language the government seized upon from that opinion was dicta from the start .
+Still , we made it clear that dicta 's day had come : To read Cuozzo as " foreclosing judicial review of any legal question bearing on the institution decision , " we explained , would " overrea[d ] both the statute and our precedent . "
+SAS Institute , 584 U.S. , at ---- - ---- , 138 S.Ct . , at 1359 .
+The petitioner 's challenge to the Director 's partial institution practice could go forward exactly because it was something other than a disagreement about the Director 's initial determination under § 314(a ) .
+I d . , at ---- - ---- , 138 S.Ct . , at 1359 - 1360 .
+It 's not surprising that litigants would invite us to overread dicta or overlook an unfavorable precedent .
+What is surprising is that the Court would accept the invitation .
+In '' cases involving property , " after all , " considerations favoring stare decisis are at their acme . "
+Kimble v. Marvel Entertainment , LLC , 576 U.S. 446 , 457 , 135 S.Ct . 2401 , 192 L.Ed.2d 463 ( 2015 ) ( internal quotation marks omitted ) .
+And we are often reminded that " stare decisis carries enhanced force when a decision ... interprets a statute . "
+I d . , at 456 , 135 S.Ct . 2401 .
+But rather than searching for the kind of " superspecial justification , "
+i d. , at 458 , 135 S.Ct . 2401 , this Court supposedly requires to overrule a precedent like SAS Institute , today 's majority quibbles with a few sentences and quietly walks away .
+If , as some have worried , " [ e]ach time the Court overrules a case , the Court ... cause[s ] the public to become increasingly uncertain about which cases the Court will overrule , "
+Franchise Tax Bd . of Cal . v. Hyatt , 587 U.S. ---- , ---- , 139 S.Ct . 1485 , 1506 , 203 L.Ed.2d 768 ( 2019 ) , ( Breyer , J. , dissenting ) , one can only imagine what a judicial shrug of the shoulders like this might yield .
+Litigants and lower courts will also have to be forgiven for the confusion to come about the meaning of § 314(d ) 's review bar .
+Whether it is limited to the § 314(a ) determination ( as SAS Institute held and parts of Cuozzo suggested ) or also reaches to challenges grounded in " closely related " statutes ( as other parts of Cuozzo suggested and the Court insists today)-who can say ?
+And even supposing that " closely related to institution " really is the test we 'll apply next time , does anyone know what this judicially concocted formulation even means ?
+Despite three opinions interpreting the same provision in under five years , only one thing is clear : Neither the statute nor our precedent can be counted upon to give the answer .
+Litigants and lower courts alike will just have to wait and see .
+V
+It 's a rough day when a decision manages to defy the plain language of a statute , our interpretative presumptions , and our precedent .
+But today that 's not the worst of it .
+The Court 's expansive reading of § 314(d ) takes us further down the road of handing over judicial powers involving the disposition of individual rights to executive agency officials .
+We started the wrong turn in Oil States Energy Services , LLC v. Greene 's Energy Group , LLC , 584 U.S. ---- , 138 S.Ct . 1365 , 200 L.Ed.2d 671 ( 2018 ) .
+There , a majority of this Court acquiesced to the AIA 's provisions allowing agency officials to withdraw already - issued patents subject to very limited judicial review .
+As the majority saw it , patents are merely another public franchise that can be withdrawn more or less by executive grace .
+So what if patents were , for centuries , regarded as a form of personal property that , like any other , could be taken only by a judgment of a court of law .
+So what if our separation of powers and history frown on unfettered executive power over individuals , their liberty , and their property .
+What the government gives , the government may take away - with or without the involvement of the independent Judiciary .
+Today , a majority compounds that error by abandoning a good part of what little judicial review even the AIA left behind .
+Just try to imagine this Court treating other individual liberties or forms of private property this way .
+Major portions of this country were settled by homesteaders who moved west on the promise of land patents from the federal government .
+Much like an inventor seeking a patent for his invention , settlers seeking these governmental grants had to satisfy a number of conditions .
+But once a patent issued , the granted lands became the recipient 's private property , a vested right that could be withdrawn only in a court of law .
+No one thinks we would allow a bureaucracy in Washington to " cancel " a citizen 's right to his farm , and do so despite the government 's admission that it acted in violation of the very statute that gave it this supposed authority .
+For most of this Nation 's history it was thought an invention patent holder " holds a property in his invention by as good a title as the farmer holds his farm and flock . "
+Hovey v. Henry , 12 F.Cas . 603 , 604 ( No . 6,742 ) ( C.C. Mass. 1846 ) ( Woodbury , J. , for the court ) .
+Yet now inventors hold nothing for long without executive grace .
+An issued patent becomes nothing more than a transfer slip from one agency window to another .
+Some seek to dismiss this concern by noting that the bureaucracy the AIA empowers to revoke patents is the same one that grants them .
+But what comfort is that when the Constitution promises an independent judge in any case involving the deprivation of life , liberty , or property ?
+Would it make things any better if we assigned the Department of the Interior the task of canceling land patents because that agency initially allocated many of them ?
+The relevant constitutional fact is not which agency granted a property right , but that a property right was granted .
+The abdication of our judicial duty comes with a price .
+The Director of the Patent and Trademark Office is a political appointee .
+The AIA vests him with unreviewable authority to institute ( or not ) inter partes review .
+Nothing would prevent him , it seems , from insulating his favorite firms and industries from this process entirely .
+Those who are not so fortunate proceed to an administrative " trial " before a panel of agency employees that the Director also has the means to control .
+The AIA gives the Director the power to select which employees , and how many of them , will hear any particular inter partes challenge .
+It also gives him the power to decide how much they are paid .
+And if a panel reaches a result he does n't like , the Director claims he may order rehearing before a new panel , of any size , and including even himself .
+No one can doubt that this regime favors those with political clout , the powerful and the popular .
+But what about those who lack the resources or means to influence and maybe even capture a politically guided agency ?
+Consider Mr. DuVal , who 25 years ago , came up with something the Patent Office agreed was novel and useful .
+His patent survived not only that initial review but a subsequent administrative ex parte review , a lawsuit , and the initiation of another .
+Yet , now , after the patent has expired , it is challenged in still another administrative proceeding and retroactively expunged by an agency that has , by its own admission , acted unlawfully .
+That is what happens when power is not balanced against power and executive action goes unchecked by judicial review .
+Rather than securing incentives to invent , the regime creates incentives to curry favor with officials in Washington .
+Nor is it hard to imagine what might lie around the corner .
+Despite repeated lawsuits , no court ever ruled definitively on Mr. DuVal 's patents .
+But suppose one had - and suppose he had prevailed .
+According to the agency , even that judgment might not matter much .
+In other cases , the Board has claimed the power through inter partes review to overrule final judicial judgments affirming patent rights .
+In the Director 's estimation , it appears , even this Court 's decisions must bow to the Board 's will .
+See XY , LLC v. Trans Ova Genetics , L. C. , 890 F.3d 1282 , 1285 - 1286 , 1294 - 1295 ( CA Fed . 2018 ) ; Fresenius USA , Inc. v. Baxter Int'l , Inc. , 721 F.3d 1330 , 1340 - 1344 ( CA Fed . 2013 ) .
+It 's no wonder , then , that district courts sometimes throw up their hands and let the Board take over whenever inter partes review and patent litigation begin to overlap .
+Why bother with a trial if " the finality of any judgment rendered by [ a ] Court will be dubious " ?
+Order Granting Stay in Click - to - call Technologies LP v. Ingenio , Inc. , No . 12 - cv-00465 ( WD Tex . ) , Doc . No . 147 , p. 4 .
+It 's understandable , too , why the agency might think so much is up for grabs .
+Not only did this Court give away much of its Article III authority in Oil States on a mistaken assessment that patents were historically treated as public franchises rather than private rights .
+Some would have had the Court go even further .
+Rather than looking to history to determine how patents were treated , as both the majority and dissent sought to do , these Members of the Court suggested that agencies should be allowed to withdraw even private rights if " a number of factors"-taken together , of course - suggest it 's a good idea .
+Commodity Futures Trading Comm'n v. Schor , 478 U.S. 833 , 851 , 106 S.Ct . 3245 , 92 L.Ed.2d 675 ( 1986 ) ; see also Oil States , 584 U.S. , at ---- , 138 S.Ct . , at 1380 ( Breyer , J. , concurring ) .
+These " factors " turn out to include such definitive and easily balanced considerations as the " nature of the claim , " the " nature of the non - Article III tribunal , " and the " nature and importance of the legislative purpose served by the grant of adjudicatory authority to a tribunal with judges who lack Article III 's tenure and compensation protections . "
+Stern v. Marshall , 564 U.S. 462 , 513 , 131 S.Ct . 2594 , 180 L.Ed.2d 475 ( 2011 ) ( Breyer , J. , dissenting ) .
+In other words , Article III promises that a person 's private rights may be taken only in proceedings before an independent judge , unless the government 's goals would be better served by a judge who is n't so independent .
+Thryv seeks to assure us that affected parties can still file writs of mandamus in courts if the Patent Office gets really out of hand .
+But the Court today will not say whether mandamus is available where the § 314(d ) bar applies , and the Federal Circuit has cast doubt on that possibility .
+In re Power Integrations , Inc. , 899 F.3d 1316 , 1319 ( 2018 ) ( " We have held that the statutory prohibition on appeals from decisions not to institute inter partes review can not be sidestepped simply by styling the request for review as a petition for mandamus " ) ; In re Procter & Gamble Co. , 749 F.3d 1376 ( 2014 ) ; In re Dominion Dealer Solutions , LLC . , 749 F.3d 1379 ( 2014 ) .
+Even assuming mandamus is available , it is a " drastic [ remedy ] , to be invoked only in extraordinary situations . "
+Kerr v. United States Dist . Court for Northern Dist . of Cal . , 426 U.S. 394 , 402 , 96 S.Ct . 2119 , 48 L.Ed.2d 725 ( 1976 ) .
+To be eligible for this discretionary relief , a petitioner must first show a " clear and indisputable " right .
+Id. , at 403 , 96 S.Ct . 2119 ( internal quotation marks omitted ) .
+But how often could a litigant show such a " clear and indisputable " right in an area where courts shirk their duty to say what the law is in the first place ?
+And how would a court find the will to call a situation " extraordinary " once the agency has been free for so long to ignore the limits on its power ?
+If the case before us does n't qualify as " extraordinary , " and if the Board 's admitted flouting of § 315(b ) is n't " clear and indisputable , " then what extralegal act would n't be just another day at the office ?
+*
+Two years ago , this Court sanctioned a departure from the constitutional plan , one in which the Executive Branch assumed responsibilities long reserved to the Judiciary .
+In so doing , we denied inventors the right to have their claims tried before independent judges and juries .
+Today we compound that error , not only requiring patent owners to try their disputes before employees of a political branch , but limiting their ability to obtain judicial review when those same employees fail or refuse to comply with the law .
+Nothing in the statute commands this result , and nothing in the Constitution permits it .
+Respectfully , I dissent .

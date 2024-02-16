@@ -1,0 +1,106 @@
+Justice ALITO , concurring in part and dissenting in part .
+I agree with the Court that the judgment below must be reversed , and I join all of the Court 's opinion except Part II - B. I thus agree with the Court that we possess jurisdiction to decide this case .
+See ante , at 1349 .
+I also agree that the landowners are potentially responsible parties under § 122(e)(6 ) of the Comprehensive Environmental Response , Compensation , and Liability Act of 1980 ( CERCLA ) and , as a result , can not bring their Montana restoration damages claim without the consent of the Environmental Protection Agency ( EPA ) .
+See ante , at 1351 - 1357 .
+At this point , however , I am not willing to endorse the Court 's holding in Part II - B that state courts have jurisdiction to entertain " challenges " to EPA - approved CERCLA plans .
+I
+I would not decide that question because it is neither necessary nor prudent for us to do so .
+As I understand the Court 's opinion , the Montana Supreme Court has two options on remand : ( 1 ) enter a stay to allow the landowners to seek EPA approval or ( 2 ) enter judgment against the landowners on their restoration damages claim without prejudice to their ability to refile if they obtain EPA approval .
+Either way , the case can not proceed without the EPA 's blessing .
+And because the EPA has submitted multiple filings indicating that it believes that the landowners ' plan presents serious environmental risks , it is likely that the EPA will not approve that plan , and the case will then die .
+If that happens , the question of the state courts ' jurisdiction will be academic .
+Alternatively , if the EPA approves the landowners ' plan , either in full or to a degree that they find satisfactory , they may not wish to press this litigation .
+And if they do choose to go forward , the question of state - court jurisdiction can be decided at that time .
+For these reasons , there is no need to reach out and decide the question now , and there are good reasons not to do so .
+While the question of state - court jurisdiction may turn out not to matter in this case , that question may have important implications in other cases .
+Specifically , if the fears expressed by the Government materialize , state courts and juries , eager to serve local interests , may disregard the EPA 's expert judgment regarding the best plan for a CERCLA site and may mandate relief that exacerbates environmental problems .
+See Brief for United States as Amicus Curiae 20 - 22 , 29 - 30 ; App . to Pet . for Cert . 72a-74a .
+Thus , much is potentially at stake , and the question whether CERCLA allows state courts to entertain suits like the one in this case depends on the interpretation of devilishly difficult statutory provisions , CERCLA § § 113(b ) and ( h ) , 42 U.S.C. § § 9613 ( b ) and ( h ) .
+With much at stake , we should be confident that our answer is correct , and we have no basis for such confidence here .
+The question of state - court jurisdiction is only one of many in this case , and the briefing and argument on that issue left important questions without fully satisfactory answers .
+The Court tries to clear up what § 113 means , but as I will attempt to show , the Court 's interpretation presents serious problems .
+Under these circumstances , the better course is not to decide this perplexing question at this juncture .
+II
+A
+CERCLA § 113 is like a puzzle with pieces that are exceedingly difficult , if not impossible , to fit together .
+Here is what these provisions say , with language that is not pertinent for present purposes omitted :
+" ( b ) Jurisdiction ; venue
+" Except as provided in subsectio [ n ] ... ( h ) of this section [ and another provision not relevant for present purposes ] , the United States district courts shall have exclusive original jurisdiction over all controversies arising under this chapter , without regard to the citizenship of the parties or the amount in controversy ....
+.....
+" ( h ) Timing of review
+" No Federal court shall have jurisdiction under Federal law other than under section 1332 of title 28 ( relating to diversity of citizenship jurisdiction ) or under State law which is applicable or relevant and appropriate under section 9621 of this title [ CERCLA § 121 , 42 U.S.C. § 9621 ] ( relating to cleanup standards ) to review any challenges to removal or remedial action selected under section 9604 of this title , or to review any order issued under section 9606(a ) of this title [ concerning emergency measures ordered by the President ] , in any action except one of [ a list of specific CERCLA provisions ] . "
+42 U.S.C. § 9613 .
+For present purposes , the pertinent parts are as follows :
+• First , § 113(b ) sets out a general rule conferring on the federal district courts exclusive jurisdiction over claims " arising under " CERCLA .
+And it does so " without regard to the citizenship of the parties or the amount in controversy . "
+• Second , § § 113(b ) and ( h ) , taken together , reduce this grant of jurisdiction by taking away jurisdiction over most claims that " challeng [ e ] " a " removal or remedial action . "
+• Third , this reduction does not apply to a challenge to removal or remedial action if it is brought under the diversity jurisdiction statute , 28 U.S.C. § 1332 .
+• Fourth , this reduction also does not apply to a challenge to removal or remedial action if it is brought in federal court " under State law which is applicable or relevant and appropriate under [ § 121 ] ( relating to cleanup standards ) . "
+Under § 121 , cleanup standards must comply with certain state - law requirements , and thus the thrust of this last provision seems to be that a removal or remedial action may be challenged in federal court for noncompliance with such requirements .
+With these pieces laid out , we may consider how the Court and respondents , on the one hand , and the Government and petitioner , on the other , try to fit them together .
+B
+The logical first step in any effort to understand how § § 113(b ) and ( h ) apply to the landowners ' state - law restoration damages claim is to determine whether the claim falls within the scope of the exclusive jurisdiction that § 113(b ) confers on the federal district courts - in other words , whether such a claim is one that " aris[es ] under " CERCLA .
+If it does not , then that ends the inquiry .
+And that is what the Court holds .
+Ante , at 1349 - 1350 .
+The Court interprets the phrase " arising under " in § 113(b ) to mean the same thing as that phrase means in the federal - question jurisdiction statute , 28 U.S.C. § 1331 .
+Under that provision , as the Court puts it , " [ i]n the mine run of cases , ' [ a ] suit arises under the law that creates the cause of action . ' "
+Ante , at 1349 - 1350 ( quoting American Well Works Co. v. Layne & Bowler Co. , 241 U.S. 257 , 260 , 36 S.Ct . 585 , 60 L.Ed . 987 ( 1916 ) ) .
+Thus , the Court concludes , a claim arises under CERCLA only if it is based on CERCLA , and since the landowners ' restoration damages claim is based on Montana law , it is obviously not based on CERCLA and does not fall within the exclusive jurisdiction conferred on the district courts by § 113(b ) .
+This makes short work of the question of state - court jurisdiction , but it presents serious problems .
+First , it can not explain why § 113(b ) says that the jurisdiction it confers is " without regard to the citizenship of the parties or the amount in controversy . "
+If that jurisdiction is limited to claims that are based on CERCLA , district courts have jurisdiction to entertain all those claims under 28 U.S.C. § 1331 , which does not require either diversity or any minimum amount in controversy .
+So why go out of the way to say that § 113(b ) jurisdiction does not require diversity or any minimum amount in controversy ?
+The only logical reason is to ensure that the provision covers suits that could not be brought under 28 U.S.C. § 1331 .
+Thus , § 113(b ) jurisdiction must be broader than general federal - question jurisdiction .
+By denying this , the Court 's interpretation turns the phrase " without regard to the citizenship of the parties or the amount in controversy " into a meaningless and useless appendage .
+Second , under the Court 's interpretation , there is no reason why § 113(h ) should specify that its reduction of the scope of the jurisdiction conferred by § 113(b ) does not affect a district court 's jurisdiction in diversity cases .
+If the jurisdiction granted by § 113(b ) is limited to claims based on CERCLA , why would anyone think that it had any impact on state - law claims ?
+Third , if the jurisdiction conferred by § 113(b ) is limited to claims based on CERCLA , it is unclear how a district court could entertain a claim " under State law which is applicable or relevant and appropriate under [ § 121 ] ( relating to cleanup standards ) . "
+Yet § 113(h ) exempts such a claim from its general withdrawal of jurisdiction over challenges to removal or remedial action .
+It seems clear that Congress did not regard these claims as claims under CERCLA itself , since it describes them as " under State law " and did not include them on the list of claims under CERCLA that it likewise exempted from § 113(h ) 's general withdrawal of jurisdiction over challenges to removal or remedial action .
+§ § 113(h)(1)-(5 ) .
+These three problems raise serious doubt about the correctness of the Court 's interpretation .
+C
+The Government and petitioner advance a different interpretation of § § 113(b ) and ( h ) , and although this interpretation solves the problems noted above , it has problems of its own .
+The Court , as noted , runs into trouble by interpreting the phrase " arising under " CERCLA in § 113(b ) to mean what " arising under " means in 28 U.S.C. § 1331 .
+The Government obviates this difficulty by arguing that " arising under " in § 113(b ) has a broader meaning , such as the meaning of the same phrase in Article III of the Constitution .
+See Brief for United States as Amicus Curiae 23 - 24 .
+The Government suggests that " arising under " in § 113(b ) may reach " ' any case or controversy that might call for the application of federal law . ' "
+I d . , at 24 ( quoting Verlinden B. V. v. Central Bank of Nigeria , 461 U.S. 480 , 492 , 103 S.Ct . 1962 , 76 L.Ed.2d 81 ( 1983 ) ) .
+If § 113(b ) uses the phrase in something like this sense , the jurisdiction it confers can reach some claims under state law , and that would explain § 113(b ) 's specification that this jurisdiction is not dependent on either diversity or amount in controversy .
+In other words , this language makes clear that federal district courts have jurisdiction to hear these state - law claims without the restrictions that usually apply when federal courts entertain such claims .
+Up to this point , the interpretation favored by the Government and petitioner proceeds smoothly , but it stumbles when it moves from § 113(b ) to § 113(h ) .
+That provision reduces the grant of jurisdiction in § 113(b ) by taking away jurisdiction over challenges to removal and remedial action unless , among other things , those claims are brought in a diversity action .
+The upshot is that federal district courts are left with jurisdiction over most state - law claims that challenge removal and remedial action only where the parties are diverse .
+If it turns out that diversity is lacking , the district courts can not entertain the same claims .
+And not only that .
+Because § 113(b ) 's grant of jurisdiction to the federal district courts is exclusive , the state courts can not entertain those claims either .
+It is hard to fathom why Congress might have wanted such a scheme .
+Congress might have wanted all the state - law claims covered by § 113(b ) to be heard exclusively in federal court in order to prevent state courts and juries from unduly favoring home - state interests .
+But having granted the federal district courts jurisdiction to hear these claims in § 113(b ) , why would Congress take away that jurisdiction in cases where the parties happen not to be diverse ?
+And why would Congress go further and prevent the state courts from hearing these claims ?
+The Government and petitioner provide no answer , and none is apparent .
+III
+The Court gives three reasons for resolving the question of state - court jurisdiction .
+See ante , at 1349 , n. 3 .
+None is compelling .
+First , the Court explains that " Atlantic Richfield seeks more than a remand , " namely , it seeks a remand with instructions to dismiss on jurisdictional grounds .
+Ibid .
+But Atlantic Richfield presented its § 122(e)(6 ) theory as an alternate ground for reversal , and has prevailed on that basis .
+As Atlantic Richfield 's counsel stated at argument , the § 122(e)(6 ) ruling is " sufficient to resolve the case . " Tr . of Oral Arg . 17 - 18 .
+Second , the Court says , " leaving the [ § 113 ] question unanswered ... would leave the parties in a state of uncertainty . "
+Ante , at 1349 , n. 3 .
+But , as described above , there appears to be a slim chance that this case will , at least in its current state , " procee[d ] " in the Montana courts .
+Ibid .
+Third , the Court suggests that the grant of review , briefing , and argument on § 113 may warrant resolving the question of state - court jurisdiction .
+Ibid .
+But that presentation has not cleared up serious issues surrounding § § 113(b ) and ( h ) .
+And sunk costs can not justify a departure from our usual practice of " deciding only what is necessary to the disposition of the immediate case . "
+Whitehouse v. Illinois Central R. Co. , 349 U.S. 366 , 373 , 75 S.Ct . 845 , 99 L.Ed . 1155 ( 1955 ) .
+* * *
+Section 113 may simply be a piece of very bad draftsmanship , with pieces that can not be made to fit together .
+Or it may be a puzzle with a solution that neither the parties , the Court , nor I have been able to solve .
+In a later case , briefing and argument may provide answers that have thus far eluded us .
+Since we are not required to attempt an answer in this case , the prudent course is to hold back .

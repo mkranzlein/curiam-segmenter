@@ -1,0 +1,95 @@
+Justice THOMAS , dissenting .
+Until now , the rule for pleading a claim under a federal antidiscrimination statute was clear : A plaintiff had to plausibly allege that discrimination was the but - for cause of an adverse action , unless the statute 's text unequivocally replaced that standard with a different one .
+Today , however , the Court departs from this rule , concluding that the federal - sector provision of the Age Discrimination in Employment Act of 1967 ( ADEA ) imposes liability if an agency 's personnel actions are at all tainted by considerations of age .
+See   ante , at 1171 .
+This rule is so broad that a plaintiff could bring a cause of action even if he is ultimately promoted or hired over a younger applicant .
+This novel " any consideration " standard does serious damage to our interpretation of antidiscrimination statutes and disrupts the settled expectations of federal employers and employees .
+I therefore respectfully dissent .
+I
+A
+In my view , the default rule of but - for causation applies here because it is not clearly displaced by the text of the ADEA 's federal - sector provision .
+Though the Court engages at length with the provision 's text , it barely acknowledges our default rule , which undergirds our antidiscrimination jurisprudence .
+Because the interpretation of an antidiscrimination statute must be assessed against the backdrop of this default rule , I begin by describing the rule in detail .
+We have explained that " [ c]ausation in fact-   i.e. , proof that the defendant 's conduct did in fact cause the plaintiff 's injury - is a standard requirement of any tort claim , " including claims of discrimination .  
+University of Tex . Southwestern Medical Center v. Nassar , 570 U.S. 338 , 346 , 133 S.Ct . 2517 , 186 L.Ed.2d 503 ( 2013 ) ( quoting various provisions of the Restatement of Torts ( 1934 ) ) .
+" In the usual course , this standard requires the plaintiff to show that the harm would not have occurred in the absence of - that is , but for - the defendant 's conduct . "
+Id. , at 346 - 347 , 133 S.Ct . 2517 ( internal quotation marks omitted ) .
+But - for causation is " the background against which Congress legislate[s ] , " and it is " the default rul[e Congress ] is presumed to have incorporated , absent an indication to the contrary in the statute itself . "
+Id. , at 347 , 133 S.Ct . 2517 ( citing W. Keeton , D. Dobbs , R. Keeton , & D. Owen , Prosser and Keeton on Law of Torts 265 ( 5th ed . 1984 ) ) .
+We have recognized as much when interpreting 42 U.S.C. § 1981 's prohibition against racial discrimination in contracting ,   Comcast Corp. v.   National Assn . of African American - Owned Media , 140 S.Ct . 1009 , Title VII 's retaliation provision ,   Nassar , 570 U.S. 338 , 133 S.Ct . 2517 , and the private - sector provision of the ADEA ,   Gross v. FBL Financial Services , Inc. , 557 U.S. 167 , 129 S.Ct . 2343 , 174 L.Ed.2d 119 ( 2009 ) .
+Given this established backdrop , the question becomes whether the federal - sector provision of the ADEA contains sufficiently clear language to overcome the default rule .
+The provision states : " All personnel actions affecting employees or applicants for employment who are at least 40 years of age ... shall be made free from any discrimination based on age . "
+29 U.S.C. § 633a(a ) .
+I agree with the Court that discrimination means differential treatment , that " based on " connotes a but - for relationship , and that " to make " typically means to produce or to become .  
+Ante , at 1173 .
+But I disagree with the Court 's overall interpretation of how these terms fit together .
+Specifically , the Court believes that " ' based on age ' " modifies only " ' discrimination , ' " not " ' personnel actions . ' "
+Ante , at 1173 .
+From this , the Court concludes that the plain meaning of the text " demands that personnel actions be untainted by any consideration of age . "
+Ante , at 1171 .
+In my view , however , the provision is also susceptible of the Government 's interpretation ,   i.e. , that the entire phrase " discrimination based on age " modifies " personnel actions . "
+Under this reading , as the Government explains , the provision " prohibits agencies from engaging in ' discrimination   based on age ' in the making of personnel actions . "
+Brief for Respondent 16 .
+Because the only thing being " made " in the statute is a " personnel action , " it is entirely reasonable to conclude that age must be the but - for cause of that personnel action .
+At most , the substantive mandate against discrimination in § 633a(a ) is ambiguous .
+And it goes without saying that an ambiguous provision does not contain the clear language necessary to displace the default rule .
+Accordingly , I would hold that the default rule of but - for causation applies here .
+B
+The Court attempts to downplay the sweeping nature of its novel " any consideration " rule by discussing the limited remedies available under that rule .
+Specifically , the Court declares that a plaintiff can obtain compensatory damages , backpay , and reinstatement only if he proves that age was a but - for cause of an adverse personnel action .
+Otherwise , he can obtain only injunctive or prospective relief .
+See   ante , at 1177 - 1178 .
+If the text of the ADEA contained this remedial scheme , it would support the Court 's conclusion regarding causation .
+But the Court does not cite any remedial statutory provision .
+Nor can it , as one does not exist .
+The Court also fails to cite any authority suggesting that its remedial scheme existed , at common law or otherwise , in 1974 when Congress added the federal - sector provision to the ADEA .
+§ 28(b)(2 ) , 88 Stat . 74 -75 .
+Instead , the Court principally relies on   Texas v. Lesage , 528 U.S. 18 , 120 S.Ct . 467 , 145 L.Ed.2d 347 ( 1999 ) (   per curiam ) , which applied   Mt. Healthy City Bd . of Ed . v. Doyle , 429 U.S. 274 , 97 S.Ct . 568 , 50 L.Ed.2d 471 ( 1977 ) .
+See   Lesage , 528 U.S. at 20 - 22 , 120 S.Ct . 467 .
+But   Mt. Healthy and , by extension ,   Lesage do not assist the Court .
+In   Mt. Healthy , the Court crafted , for the first time , a remedial scheme for constitutional claims brought under 42 U.S.C. § 1983 .
+429 U.S. at 285 - 287 , 97 S.Ct . 568 .
+Significantly , that decision postdates enactment of the federal - sector provision by three years .
+And   Mt. Healthy did not import a remedial scheme from a previously existing statute or common - law rule .
+Rather , the Court cited other cases in which it had similarly fashioned a novel causation standard for constitutional claims - none of which concerned remedies - as " instructive in formulating the test to be applied . "
+Id. , at 286 - 287 , 97 S.Ct . 568 .
+It is incongruous to suggest that Congress could have intended to incorporate a remedial scheme that appears not to have existed at the time the statute was passed .
+Moreover ,   Mt. Healthy concerned a constitutional injury , and the Court was tasked with creating a remedy for that injury in the face of § 1983 's silence .
+The Court fails to provide any explanation as to why it is appropriate to rely on judicially fashioned remedies for constitutional injuries in this purely statutory context .
+In sum , the Court implausibly concludes that , in the federal - sector provision of the ADEA , Congress created a novel " any consideration " causation standard but remained completely silent as to what remedies were available under that new rule .
+Just as implausibly , the Court assumes from this congressional silence that Congress intended for judges to craft a remedial scheme in which the available relief would vary depending on the inflicted injury , using an as - yet - unknown scheme .
+I would not follow such an unusual course .
+We have stated in the past that we must " read [ the ADEA ] the way Congress wrote it . "
+Meacham v. Knolls Atomic Power Laboratory , 554 U.S. 84 , 102 , 128 S.Ct . 2395 , 171 L.Ed.2d 283 ( 2008 ) .
+The federal - sector provision contains no clear language displacing the default rule , and Congress has demonstrated that it knows how to do so when it wishes .
+See 42 U.S.C. § 2000e-2(m ) ( providing that an employer is liable if an employee establishes that a protected characteristic was a motivating factor in an employment action ) ; § 2000e-5(g)(2)(B ) ( limiting the remedies available to plaintiffs who establish motivating factor liability ) .
+Rather than supplementing a novel rule with a judicially crafted remedy , I would infer from the textual silence that Congress wrote the ADEA to conform to the default rule of but - for causation .
+II
+Perhaps the most striking aspect of the Court 's analysis is its failure to grapple with the sheer unworkability of its rule .
+The Court contends that a plaintiff may successfully bring a cause of action if age " taint[s ] " the making of a personnel action , even if the agency would have reached the same outcome absent any age - based discrimination .  
+Ante , at 1173 - 1174 .
+Because § 633a(a ) 's language also appears in the federal - sector provision of Title VII , 42 U.S.C. § 2000e-16(a ) , the Court 's rule presumably applies to claims alleging discrimination based on sex , race , religion , color , and national origin as well .
+The Court 's rule might have some purchase if , as Babb contends , the Federal Government purposely set up a purely merit - based system for its personnel actions .
+But as anyone with knowledge of the Federal Government 's hiring practices knows , this is hardly the case .
+Federal hiring is riddled with exceptions and affirmative action programs , which by their very nature are not singularly focused on merit .
+A few examples suffice to demonstrate this point .
+The Veterans Preference Act of 1944 entitles certain veterans , their spouses , and their parents to preferences in hiring and in retention during reductions in force .
+5 U.S.C. § § 2108 ( 3 ) , 3502 , 3309 ; 5 CFR § 211.102 ( 2019 ) .
+Affirmative action exists for people with disabilities , both in competitive and noncompetitive employment .
+See 29 U.S.C. § 791 ; 5 CFR § 213.3102 ( u ) ; 29 CFR § 1614.203 ( d ) ( 2019 ) .
+The Federal Equal Opportunity Recruitment Program requires agencies to implement recruitment plans for women and certain underrepresented minorities .
+5 U.S.C. § 7201 ; 5 CFR § 720.205 .
+And Exec . Order No . 13171 , 3 CFR 299 ( 2000 ) , requires federal agencies to " provide a plan for recruiting Hispanics that creates a fully diverse work force for the agency in the 21st century . "
+Whatever the wisdom of these policies , they are not strictly merit - based hiring .
+The Court 's new rule is irreconcilable with these various programs because affirmative action initiatives always taint personnel actions with consideration of a protected characteristic .
+Consider Exec . Order No . 13583 , 3 CFR 267 ( 2011 ) , which directs agencies to " develop and implement a more comprehensive , integrated , and strategic focus on diversity and inclusion as a key component of their human resources strategies . "
+To provide just one example of how agencies are implementing this requirement , Customs and Border Protection 's plan commits the agency to " [ i]ncreas[ing the ] percentage of applicants from underrepresented groups for internships and fellowships , " " [ c]reat[ing ] a targeted outreach campaign to underrepresented groups for career development programs at all levels , " " [ e]stablish[ing ] and maintain[ing ] strategic partnerships with diverse professional and affinity organizations , " " [ a]nalyz[ing ] demographic data for new hires and employee separations to identify and assess potential barriers to workforce diversity , " and " [ d]evelop[ing ] a diversity recruitment performance dashboard which provides relevant statistics and related performance metrics to evaluate progress towards achievement of recruitment goals . "
+U.S. Customs and Border Protection , Privacy and Diversity Office , Diversity and Inclusion : Strategic Plan 2016 - 2020 , pp . 11 - 15 ( 2015 ) .
+Programs such as these intentionally inject race , sex , and national origin into agencies ' hiring and promotion decisions at the express direction of the President or Congress .
+A but - for ( or even a motivating - factor ) standard of causation could coexist relatively easily with these affirmative action programs , as it would be difficult for a plaintiff to plausibly plead facts sufficient to establish the requisite causation .
+The Court 's rule , by contrast , raises the possibility that agencies will be faced with a flood of investigations by the EEOC or litigation from dissatisfied federal employees .
+So long as those employees can show that their employer 's decision to hire a particular job applicant was " tainted " because that applicant benefited in some way from an affirmative action program , their complaints to enjoin these programs can survive at least the pleadings stage .
+* * *
+Today 's decision is inconsistent with the default rule underlying our interpretation of antidiscrimination statutes and our precedents , which have consistently applied that rule .
+Perhaps just as important , the Court 's holding unnecessarily risks imposing hardship on those tasked with managing thousands of employees within our numerous federal agencies .
+I respectfully dissent .

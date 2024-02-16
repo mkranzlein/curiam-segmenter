@@ -1,0 +1,114 @@
+Justice THOMAS , with whom Justice ALITO joins , dissenting .
+The majority holds that the federal courts of appeals have jurisdiction to review factual challenges to orders resolving claims brought under the Convention Against Torture and Other Cruel , Inhuman or Degrading Treatment or Punishment .
+Because I disagree with this interpretation of the relevant immigration laws , I respectfully dissent .
+I
+The Convention Against Torture and Other Cruel , Inhuman or Degrading Treatment or Punishment ( CAT or Convention ) is an international human rights treaty that , as its name implies , obligates signatories to work to eradicate torture .
+The Convention was sent to the Senate for its advice and consent in 1990 .
+Although the Senate ultimately ratified the treaty , it also determined that the first 16 articles of the Convention were not self - executing .
+See S. Exec . Rep. No . 101 - 30 , p. 31 ( 1990 ) .
+As such , those articles required implementing legislation before their obligations could become effective as domestic law .
+See Medellín v. Texas , 552 U.S. 491 , 505 , n. 2 , 128 S.Ct . 1346 , 170 L.Ed.2d 190 ( 2008 ) .
+After the treaty was ratified , Congress enacted legislation implementing Article III of the Convention by means of the Foreign Affairs Reform and Restructuring Act of 1998 ( FARRA ) .
+See § 2242 , 112 Stat . 2681 -822 , note following 8 U.S.C. § 1231 .
+Article III of the Convention prohibits its signatories from " expel[ling ] , return[ing ] or extradit[ing ] a person to another State where there are substantial grounds for believing that he would be in danger of being subjected to torture . "
+S.
+Treaty Doc . No . 100 - 20 , p. 20 , 1465 U. N. T. S. 114 .
+Rather than providing detailed guidance on the United States ' Article III obligations , FARRA merely restated the treaty 's language and perfunctorily declared that " the heads of the appropriate agencies shall prescribe regulations to implement the obligations of the United States under Article 3 . "
+§ 2242(b ) .
+Congress also provided that no court would have " jurisdiction to consider or review claims raised under the Convention ... except as part of the review of a final order of removal pursuant to ... ( 8 U.S.C. § 1252 ) . "
+§ 2242(d ) .
+Section 1252 , in turn , grants federal courts of appeals jurisdiction to review final orders of removal .
+8 U.S.C. § 1252 ( a)(1 ) .
+It also specifies that " the sole and exclusive means for judicial review of an order of removal " is through " a petition for review filed ... in accordance with this section . "
+§ 1252(a)(5 ) .
+Section 1252 also contains a " zipper clause , " which states that " all questions of law or fact ... arising from any action taken or proceeding brought to remove an alien " shall be consolidated and " available only in judicial review of a final order under this section . "
+§ 1252(b)(9 ) .
+At the same time , petitions for review are subject to a number of limitations , one of which is in § 1252(a)(2)(C ) .
+That provision - often referred to as the " criminal - alien bar"-states that " no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed " certain criminal offenses .
+II
+A
+This case concerns whether CAT claims brought during a criminal alien 's removal proceeding are covered by the criminal - alien bar in § 1252(a)(2)(C ) .
+The most important provision for determining whether these CAT orders are subject to § 1252(a)(2)(C ) is the zipper clause .
+If orders deeming a criminal alien ineligible for CAT relief fall within that clause , then the bar in § 1252(a)(2)(C ) prevents review ; if they do not , then the courts have jurisdiction to review factual challenges related to these orders .
+I would conclude that CAT orders fall within the zipper clause .
+The zipper clause states that " all questions of law and fact ... arising from any action taken or proceeding brought to remove an alien ... shall be available only in judicial review of a final order under this section . "
+§ 1252(b)(9 ) ( emphasis added ) .
+To " arise " means " to originate from a specified source " or " to come into being . "
+Webster 's Third New International Dictionary 117 ( 1976 ) .
+And " from " most naturally refers here to the " ground , reason , or basis " for something .
+Id. , at 913 .
+Thus , § 1252(b)(9 ) covers all " questions of law and fact " that an immigration judge must decide as a result of the Government 's decision to initiate removal proceedings against an alien .
+See also Reno v. American - Arab Anti - Discrimination Comm . , 525 U.S. 471 , 482 , 119 S.Ct . 936 , 142 L.Ed.2d 940 ( 1999 ) ( stating that the zipper clause applies to the " many ... decisions or actions that may be part of the [ removal ] process " ) .
+The plain text clearly covers CAT claims such as the one petitioner raised .
+The Government initiated removal proceedings , alleging that petitioner had been convicted of a " crime involving moral turpitude . "
+See § 1227(a)(2)(A)(i ) .
+As a direct result , petitioner applied for CAT relief to prevent his removal .
+He was denied CAT withholding because the Immigration Judge , during the removal proceeding , determined that petitioner had been convicted of a " particularly serious crime . "
+§ 1158(b)(2)(A)(ii ) .
+On appeal , the Board of Immigration Appeals likewise denied CAT deferral in that selfsame removal proceeding .
+It is beyond dispute that petitioner 's eligibility for CAT relief involved " questions of law and fact " that directly " ar[ose ] from " the Government 's initiation of removal proceedings against him .
+§ 1252(b)(9 ) .
+The very forms of relief for which petitioner applied - withholding of removal and deferral of removal - confirm that this relief arose directly from the Government - initiated removal proceeding .
+Because the CAT claim falls within the zipper clause , all of § 1252 's other limitations and procedural requirements imposed on final orders of removal , including § 1252(a)(2)(C ) 's criminal - alien bar , also apply .
+Accordingly , courts have no jurisdiction to review factual challenges to CAT claims brought in the course of a criminal alien 's removal proceeding .
+B
+My analysis would begin and end with the plain meaning of the zipper clause .
+Rather than focusing on that clause , however , the majority bases its textual analysis almost exclusively on the fact that Congress has defined an " ' order of [ removal ] ' " as an order " concluding that the alien is deportable or ordering deportation . "
+§ 1101(47)(A ) .
+The majority correctly notes that a CAT order does not fall within this definition .
+See ante , at 1690 - 1691 .
+But it uses that definition to alter the scope of the zipper clause , asserting that the provision only consolidates " [ t]he rulings that affect the validity of the final order of removal . "
+Ante , at 1691 .
+As just explained , this conclusion contradicts the statute 's plain text .
+The zipper clause does not consolidate all questions of law and fact that " affect the validity of the final order of removal . "
+Ibid .
+It instead consolidates " all questions of law and fact ... arising from any action taken or proceeding brought to remove an alien . "
+§ 1252(b)(9 ) ( emphasis added ) .
+" Arising from " covers a broader category of claims than those that simply impact the validity of the order , including petitioner 's claim .
+Thus , the majority 's overreliance on the definition of final order of removal is misplaced .
+The majority nevertheless contends that its reading is supported by § 1252(a)(4 ) .
+That provision states that CAT claims may be reviewed through a petition for review .
+According to the majority , this paragraph " provides for direct review of CAT orders in the courts of appeals . "
+Ante , at 1693 .
+That is , the majority views § 1252(a)(4 ) as a specific grant of jurisdiction over CAT claims .
+Working from that interpretation , the majority contends that the zipper clause and FARRA merely confirm that CAT orders " may be reviewed together with the final order of removal . "
+Ante , at 1691 .
+This is incorrect .
+Jurisdiction over CAT claims comes from FARRA § 2242(d ) , which states that courts can not review CAT claims " except as part of the review of a final order of removal pursuant to ... ( 8 U.S.C. § 1252 ) . "
+In other words , a final order of removal is required if a court is to review a CAT order at all .
+The CAT order then becomes reviewable " as part of " that final order of removal through the zipper clause .
+And , because FARRA funnels exclusive review of CAT orders through § 1252 , all of that section 's limitations on final orders of removal apply equally to CAT orders , including § 1252(a)(2)(C ) .
+Section 1252(a)(2)(4 ) , on the other hand , serves a far simpler function .
+That provision simply confirms that , because CAT claims can be reviewed only as part of a final order of removal , and final orders of removal can be reviewed only if a petitioner files a petition for review , a CAT claim likewise can be reviewed only if petitioner files a petition for review .
+See Ortiz - Franco v. Holder , 782 F.3d 81 , 88 - 89 ( CA2 2015 ) ; Lovan v. Holder , 574 F.3d 990 , 998 ( CA8 2009 ) .
+My reading of the statute makes sense of § 1252(a)(4 ) , while still giving the zipper clause its ordinary meaning .
+C
+The majority 's interpretation will bring about a sea change in immigration law .
+Though today 's case involves CAT claims , there is good reason to think that the majority 's rule will apply equally to statutory withholding of removal .
+Statutory withholding , a frequently sought form of relief , is available if " the alien 's life or freedom would be threatened ... because of the alien 's race , religion , nationality , membership in a particular social group , or political opinion . "
+§ 1231(b)(3)(A ) ; see also 8 C.F.R. § 208.16 ( b ) ( 2020 ) .
+Like CAT withholding , statutory withholding is unavailable to aliens who have committed certain crimes .
+§ 1231(b)(3)(B)(ii ) .
+And like CAT relief , statutory withholding seeks to prevent removability and is considered after the alien has been deemed removable .
+See , e.g. , Kouambo v. Barr , 943 F.3d 205 , 210 ( CA4 2019 ) .
+Thus , statutory withholding claims also do not affect the validity of the underlying removal order and , in the majority 's view , would not be subject to § 1252(a)(2)(C ) .
+The Government persuasively argues that adopting petitioner 's rule will disturb the courts of appeals ' longstanding practice of subjecting criminal aliens ' statutory withholding claims to § 1252(a)(2)(C ) .
+See , e.g. , Rendon v. Barr , 952 F.3d 963 , 970 ( CA8 2020 ) ; Pierre - Paul v. Barr , 930 F.3d 684 , 693 - 694 ( CA5 2019 ) ; Gutierrez v. Lynch , 834 F.3d 800 , 804 ( CA7 2016 ) ; Jeune v. United States Atty . Gen. , 810 F.3d 792 , 806 , nn . 3 , 12 ( CA11 2016 ) ; Pechenkov v. Holder , 705 F.3d 444 , 448 ( CA9 2012 ) .
+And at oral argument , petitioner all but conceded that the Government is correct on that score .
+See Tr . of Oral Arg . 20 - 21 .
+Whistling past the graveyard , the majority attempts to avoid confronting this result by simply stating that the question is not currently before us .
+Ante , at 1694 .
+But the Court can not evade the implications of its decision so easily .
+We have been presented with two competing statutory interpretations - one of which makes sense of all relevant provisions without upending settled practice , and one of which significantly undermines § 1252(a)(2)(C ) by removing a vast swath of claims from its reach .
+If the majority insists on choosing the latter interpretation , it should justify that choice and candidly confront its implications .
+III
+At bottom , petitioner 's argument is largely driven by policy considerations .
+He contends that the United States has obligated itself not to return any alien , even a criminal alien , to a country where he may be tortured or killed .
+According to petitioner , if CAT claims can not be reviewed by courts of appeals , then a vital check on erroneous refoulement will be lost .
+Petitioner 's arguments are not without rhetorical and emotional force .
+But , like so many other questions related to CAT obligations , Congress chose not to address them through the legislation involved here .
+What Congress has done is enact § 1252(a)(2)(C ) , which strips jurisdiction over certain claims of criminal aliens .
+That is what is before us , not the broader policy considerations .
+As has been the case for decades now , the decisions of this Court continue to systematically chip away at this statute and other jurisdictional limitations on immigration claims , thus thwarting Congress ' intent .
+See Guerrero - Lasprilla v. Barr , 589 U. S. ---- , ---- , 140 S.Ct . 1062 , 1073 - 1074 , 206 L.Ed.2d 271 ( 2020 ) ( THOMAS , J. , dissenting ) ; INS v. St. Cyr , 533 U.S. 289 , 328 - 330 , 121 S.Ct . 2271 , 150 L.Ed.2d 347 ( 2001 ) ( Scalia , J. , dissenting ) .
+Because today 's erroneous result further weakens a duly enacted statute , I respectfully dissent .

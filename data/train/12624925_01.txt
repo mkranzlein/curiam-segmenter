@@ -1,0 +1,44 @@
+Justice GINSBURG , concurring in part and concurring in the judgment .
+I join the Court 's opinion requiring a plaintiff who sues under 42 U.S.C. § 1981 to plead and prove race was a but - for cause of her injury .
+In support of that holding , Comcast advances a narrow view of § 1981 's scope .
+Section 1981 's guarantee of " the same right ... to make ... contracts , " Comcast urges , covers only the final decision whether to enter a contract , not earlier stages of the contract - formation process .
+The Court devotes a page and a half to this important issue but declines to resolve it , as it does not bear on the choice of causation standards before us .  
+Ante , at 1017 - 1018 .
+I write separately to resist Comcast 's attempt to cabin a " sweeping " law designed to " break down   all discrimination between black men and white men " regarding " basic civil rights . "
+Jones v. Alfred H. Mayer Co. , 392 U.S. 409 , 432 - 433 , 88 S.Ct . 2186 , 20 L.Ed.2d 1189 ( 1968 ) ( internal quotation marks omitted ; emphasis in original ) .
+Under Comcast 's view , § 1981 countenances racial discrimination so long as it occurs in advance of the final contract - formation decision .
+Thus , a lender would not violate § 1981 by requiring prospective borrowers to provide one reference letter if they are white and five if they are black .
+Nor would an employer violate § 1981 by reimbursing expenses for white interviewees but requiring black applicants to pay their own way .
+The employer could even " refus[e ] to consider applications " from black applicants at all .
+Brief for United States as   Amicus Curiae 21 .
+That view can not be squared with the statute .
+An equal " right ... to make ... contracts , " § 1981(a ) , is an empty promise without equal opportunities to present or receive offers and negotiate over terms .
+A plaintiff hindered from enjoying those opportunities may be unable effectively to form a contract , and a defendant able to impair those opportunities can avoid contracting without refusing a contract outright .
+It is implausible that a law " intended to ... secure ... practical freedom , " Jones , 392 U.S. at 431 , 88 S.Ct . 2186 ( quoting Cong . Globe , 39th Cong . , 1st Sess . , 474 ( 1866 ) ) , would condone discriminatory barriers to contract formation .
+Far from confining § 1981 's guarantee to discrete moments , the language of the statute covers the entirety of the contracting process .
+The statute defines " make and enforce contracts " to " includ[e ] the making , performance , modification , and termination of contracts , and the enjoyment of all benefits , privileges , terms , and conditions of the contractual relationship . "
+§ 1981(b ) .
+That encompassing definition ensures that § 1981 " applies to all phases and incidents of the contractual relationship . "
+Rivers v. Roadway Express , Inc. , 511 U.S. 298 , 302 , 114 S.Ct . 1510 , 128 L.Ed.2d 274 ( 1994 ) .
+See also H. R. Rep. No . 102 - 40 , pt . 2 , p. 37 ( 1991 ) ( " The Committee intends this provision to bar all racial discrimination in contracts .
+This list is intended to be illustrative and not exhaustive . " ) .
+In line with the rest of the definition , the word " making " is most sensibly read to capture the entire   process by which the contract is formed .
+American Heritage Dictionary 1086 ( 3d ed . 1992 ) ( " The process of coming into being " ) ; 9 Oxford English Dictionary 250 ( 2d ed . 1989 ) ( " the process of being made " ) .
+Comcast 's freeze - frame approach to § 1981 invites the Court to repeat an error it has committed before .
+In 1989 , the Court " rea[d ] § 1981 not as a general proscription of racial discrimination in all aspects of contract relations , but as limited to " certain narrow " enumerated rights . "
+Patterson v. McLean Credit Union , 491 U.S. 164 , 181 , 109 S.Ct . 2363 , 105 L.Ed.2d 132 ( 1989 ) .
+According to   Patterson , the right to " make " a contract " extend[ed ] only to the formation of a contract , " and the right to " enforce " it encompassed only " access to legal process . "
+Id. , at 176 - 178 , 109 S.Ct . 2363 .
+The Court thus declined to apply § 1981 to " postformation conduct , " concluding that an employee had no recourse to § 1981 for racial harassment occurring after the employment contract 's formation .  
+Id. , at 178 - 179 , 109 S.Ct . 2363 .
+Congress promptly repudiated that interpretation .
+In 1991 , " with the design to supersede   Patterson , " Congress enacted the expansive definition of " make and enforce contracts " now contained in § 1981(b ) .  
+CBOCS West , Inc. v. Humphries , 553 U.S. 442 , 450 , 128 S.Ct . 1951 , 170 L.Ed.2d 864 ( 2008 ) .
+Postformation racial harassment violates § 1981 , the amendment clarifies , because the right to " make and enforce " a contract includes the manner in which the contract is carried out .
+So too the manner in which the contract is made .
+The complaint before us contains allegations of racial harassment during contract formation .
+In their negotiations , Entertainment Studios alleges , Comcast required of Entertainment Studios a series of tasks that served no purpose and on which Entertainment Studios " waste[d ] hundreds of thousands of dollars . "
+App . to Pet . for Cert . 49a-50a .
+The Court holds today that Entertainment Studios must plead and prove that race was the but - for cause of its injury - in other words , that Comcast would have acted differently if Entertainment Studios were not African - American owned .
+But if race indeed accounts for Comcast 's conduct , Comcast should not escape liability for injuries inflicted during the contract - formation process .
+The Court has reserved that issue for consideration on remand , enabling me to join its opinion .

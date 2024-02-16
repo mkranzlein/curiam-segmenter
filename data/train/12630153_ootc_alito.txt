@@ -1,0 +1,258 @@
+Justice ALITO delivered the opinion of the Court .
+Kansas law makes it a crime to commit " identity theft " or engage in fraud to obtain a benefit .
+Respondents - three aliens who are not authorized to work in this country - were convicted under these provisions for fraudulently using another person 's Social Security number on state and federal tax - withholding forms that they submitted when they obtained employment .
+The Supreme Court of Kansas held that a provision of the Immigration Reform and Control Act of 1986 ( IRCA ) , 100 Stat . 3359 , expressly preempts the Kansas statutes at issue insofar as they provide a basis for these prosecutions .
+We reject this reading of the provision in question , as well as respondents ' alternative arguments based on implied preemption .
+We therefore reverse .
+I
+A
+The foundation of our laws on immigration and naturalization is the Immigration and Nationality Act ( INA ) , 66 Stat . 163 , as amended , 8 U.S.C. § 1101 et seq . , which sets out the " ' terms and conditions of admission to the country and the subsequent treatment of aliens lawfully in the country . ' "
+Chamber of Commerce of United States of America v. Whiting , 563 U.S. 582 , 587 , 131 S.Ct . 1968 , 179 L.Ed.2d 1031 ( 2011 ) .
+As initially enacted , the INA did not prohibit the employment of illegal aliens , and this Court held that federal law left room for the States to regulate in this field .
+See De Canas v. Bica , 424 U.S. 351 , 353 , 96 S.Ct . 933 , 47 L.Ed.2d 43 ( 1976 ) .
+With the enactment of IRCA , Congress took a different approach .
+IRCA made it unlawful to hire an alien knowing that he or she is unauthorized to work in the United States .
+8 U.S.C. § § 1324a(a)(1)(A ) , ( h)(3 ) .
+To enforce this prohibition , IRCA requires employers to comply with a federal employment verification system .
+§ 1324a(b ) .
+Using a federal work - authorization form ( I-9 ) , employers " must attest " that they have " verified " that an employee " is not an unauthorized alien " by examining approved documents such as a United States passport or alien registration card .
+§ 1324a(b)(1)(A ) ; see also § § 1324a(b)(1)(B)-(D ) ; 8 C.F.R. § 274a.2(a)(2 ) ( 2019 ) ( establishing Form I-9 ) .
+This requirement applies to the hiring of any individual regardless of citizenship or nationality .
+8 U.S.C. § 1324a(b)(1 ) .
+Employers who fail to comply may face civil and criminal sanctions .
+See § § 1324a(e)(4 ) , ( f ) ; 8 C.F.R. § 274a.10 .
+IRCA instructs employers to retain copies of their I-9 forms and allows employers to make copies of the documents submitted by employees to show their authorization to work .
+8 U.S.C. § § 1324a(b)(3)-(4 ) .
+IRCA concomitantly imposes duties on all employees , regardless of citizenship .
+No later than their first day of employment , all employees must complete an I-9 and attest that they fall into a category of persons who are authorized to work in the United States .
+§ 1324a(b)(2 ) ; 8 C.F.R. § 274a.2(b)(1)(i)(A ) .
+In addition , under penalty of perjury , every employee must provide certain personal information - specifically : name , residence address , birth date , Social Security number , e - mail address , and telephone number .
+It is a federal crime for an employee to provide false information on an I-9 or to use fraudulent documents to show authorization to work .
+See 18 U.S.C. § § 1028 , 1546 .
+Federal law does not make it a crime for an alien to work without authorization , and this Court has held that state laws criminalizing such conduct are preempted .
+Arizona v. United States , 567 U.S. 387 , 403 - 407 , 132 S.Ct . 2492 , 183 L.Ed.2d 351 ( 2012 ) .
+But if an alien works illegally , the alien 's immigration status may be adversely affected .
+See 8 U.S.C. § § 1255 ( c)(2 ) , ( 8) , 1227(a)(1)(C)(i ) .
+While IRCA imposes these requirements on employers and employees , it also limits the use of I-9 forms .
+A provision entitled " Limitation on use of attestation form , " § 1324a(b)(5 ) , provides that I-9 forms and " any information contained in or appended to such form[s ] may not be used for purposes other than for enforcement of " the INA or other specified provisions of federal law , including those prohibiting the making of a false statement in a federal matter ( 18 U.S.C. § 1001 ) , identity theft ( § 1028 ) , immigration - document fraud ( § 1546 ) , and perjury ( § 1621 ) .
+In addition , 8 U.S.C. § 1324a(d)(2)(F ) prohibits use of " the employment verification system " " for law enforcement purposes , " apart from the enforcement of the aforementioned federal statutes .
+Although IRCA expressly regulates the use of I-9 's and documents appended to that form , no provision of IRCA directly addresses the use of other documents , such as federal and state tax - withholding forms , that an employee may complete upon beginning a new job .
+A federal regulation provides that all employees must furnish their employers with a signed withholding exemption certificate when they start a new job , but federal law apparently does not require the discharge of an employee who fails to do so .
+See 26 C.F.R. § § 31.3402 ( f)(2)-1 , ( 5 ) - 1 ( 2019 ) .
+Instead , the regulation provides that if an employee fails to provide a signed W-4 , the employer must treat the employee " as a single person claiming no exemptions . "
+§ 31.3402(f ) ( 2)-1(a ) .
+The submission of a fraudulent W-4 , however , is a federal crime .
+26 U.S.C. § 7205 .
+Kansas uses a tax - withholding form ( K-4 ) that is similar to the federal form .
+Kan. Stat . Ann . § 79 - 3298 ( 2018 Cum . Supp . ) ; Kansas Dept . of Revenue , Notice 07 - 07 : New K-4 Form for State Withholding ( Sept. 5 , 2007 ) , www.orthodon.com/home/document/KS-WithholdingForm.pdf ; Kansas Dept . of Revenue , Kansas Withholding Form K-4 , www.ksrevenue.org/k4info.html .
+Employees must attest to the veracity of the information under penalty of perjury .
+Form K-4 , Kansas Employee 's Withholding Allowance Certificate ( rev . Nov. 2018 ) , www.ksrevenue.org/pdf/k-4.pdf ; Kan. Stat . Ann . § 21 - 5903 ; see also Kansas Dept . of Revenue , Tax Fraud Enforcement , www.ksrevenue.org/taxfraud.html .
+Finally , IRCA contains a provision that expressly " preempt[s ] any State or local law imposing civil or criminal sanctions ( other than through licensing and similar laws ) upon those who employ , or recruit or refer for a fee for employment , unauthorized aliens . "
+8 U.S.C. § 1324a(h)(2 ) ( emphasis added ) .
+This provision makes no mention of state or local laws that impose criminal or civil sanctions on employees or applicants for employment .
+See ibid .
+B
+Like other States , Kansas has laws against fraud , forgeries , and identity theft .
+These statutes apply to citizens and aliens alike and are not limited to conduct that occurs in connection with employment .
+The Kansas identity - theft statute criminalizes the " using " of any " personal identifying information " belonging to another person with the intent to " [ d]efraud that person , or anyone else , in order to receive any benefit . "
+Kan. Stat . Ann . § 21 - 6107 ( a)(1 ) .
+" [ P]ersonal identifying information " includes , among other things , a person 's name , birth date , driver 's license number , and Social Security number .
+§ 21 - 6107(e)(2 ) .
+Kansas courts have interpreted the statute to cover the use of another person 's Social Security number to receive the benefits of employment .
+See State v. Meza , 38 Kan. App.2d 245 , 247 - 250 , 165 P.3d 298 , 301 - 302 ( 2007 ) .
+Kansas 's false - information statute criminalizes , among other things , " making , generating , distributing or drawing " a " written instrument " with knowledge that it " falsely states or represents some material matter " and " with intent to defraud , obstruct the detection of a theft or felony offense or induce official action . "
+§ 21 - 5824 .
+The respondents in the three cases now before us are aliens who are not authorized to work in this country but nevertheless secured employment by using the identity of other persons on the I-9 forms that they completed when they applied for work .
+They also used these same false identities when they completed their W-4 's and K-4 's .
+All three respondents were convicted under one or both of the Kansas laws just mentioned for fraudulently using another person 's Social Security number on tax - withholding forms .
+We summarize the pertinent facts related to these three prosecutions .
+C
+Ramiro Garcia .
+In August 2012 , a local patrol officer stopped Garcia for speeding and learned that Garcia had been previously contacted by a financial crimes detective about possible identity theft .
+App . 39 - 44 , 89 - 91 ; 306 Kan. 1113 , 1114 , 401 P.3d 588 , 590 ( 2017 ) .
+Local authorities obtained the documents that Garcia had completed when he began work at a restaurant , and a joint state - federal investigation discovered that Garcia had used another person 's Social Security number on his I-9 , W-4 , and K-4 forms .
+The State then charged Garcia with identity theft .
+The complaint alleged that , when he began work at the restaurant , he used another person 's Social Security number with the intent to defraud and in order to receive a benefit .
+App . 9 - 10 .
+Donaldo Morales .
+A joint state - federal investigation of Morales began after the Kansas Department of Labor notified a Social Security agent that an employee at a local restaurant was using a Social Security number that did not match the identifying information in the department 's files .
+306 Kan. 1100 , 1101 , 401 P.3d 155 , 156 ( 2017 ) ; App . to Pet . for Cert . 73 ; App . 124 - 125 , 168 - 170 .
+A federal agent contacted the restaurant and learned that Morales had used another person 's Social Security number on his I-9 , W-4 , and K-4 forms .
+The federal agent arrested Morales , who then admitted that he had bought the Social Security number from someone he met in a park .
+App . 171 - 172 ; 306 Kan. at 1101 - 1102 , 401 P.3d at 156 ; App . to Pet . for Cert.73 .
+This information was turned over to state prosecutors , who charged Morales with identity theft and making false information .
+App . 124 - 125 ; 306 Kan. at 1101 , 401 P.3d at 156 .
+Guadalupe Ochoa - Lara . Ochoa - Lara came to the attention of a joint state - federal task force after officers learned that he had used a Social Security number issued to someone else when he leased an apartment .
+306 Kan. 1107 , 1108 - 1109 , 401 P.3d 159 , 160 - 161 ( 2017 ) .
+The individual to whom this number was lawfully assigned advised the investigating officers that she had no knowledge that another person was using her number , and she later told authorities that income that she had not earned had been reported under her number .
+Id. , at 1109 , 401 P.3d at 160 .
+After contacting the restaurant where Ochoa - Lara worked , investigators determined that he had also used the same Social Security number to complete his I-9 and W-4 forms .
+Ibid .
+The State charged Ochoa - Lara with identity theft and making false information for using another 's Social Security number on those documents .
+D
+In all three cases , respondents argued before trial that IRCA preempted their prosecutions .
+They relied on 8 U.S.C. § 1324a(b)(5 ) , which , as noted , provides that I-9 forms and " any information contained in or appended to such form[s ] may not be used for purposes other than for enforcement of " the INA or other listed federal statutes .
+In response , the State dismissed the charges that were based on I-9 's and agreed not to rely on the I-9 's at trial .
+The State maintained , however , that § 1324a(b)(5 ) did not apply to the respondents ' use of false Social Security numbers on the tax - withholding forms .
+The trial courts allowed the State to proceed with the charges based on those forms .
+The State entered the K-4 's and W-4 's into evidence against Garcia and Morales , and Ochoa - Lara stipulated to using a stolen Social Security number on a W-4 .
+App . 109 - 110 ; 306 Kan. at 1108 - 1109 , 401 P.3d at 160 - 161 .
+Respondents were convicted , and three separate panels of the Kansas Court of Appeals affirmed their convictions .
+A divided Kansas Supreme Court reversed , concluding that " the plain and unambiguous language of 8 U.S.C. § 1324a(b)(5 ) " expressly prohibits a State from using " any information contained within [ an ] I-9 as the bas[i]s for a state law identity theft prosecution of an alien who uses another 's Social Security information in an I-9 . "
+306 Kan. at 1130 - 1131 , 401 P.3d at 599 ( emphasis deleted ) .
+The court added that " [ t]he fact that this information was included in the W-4 and K-4 did not alter the fact that it was also part of the I-9 . "
+Id. , at 1131 , 401 P.3d at 599 .
+In deciding the appeal on these grounds , the court appears to have embraced the proposition that any fact to which an employee attests in an I-9 is information that is " contained in " the I-9 and is thus subject to the restrictions imposed by § 1324a(b)(5 ) , namely , that this fact can not be used by anyone for any purpose other than the few listed in that provision .
+Nevertheless , the court suggested that its holding did not sweep this broadly but was instead limited to the prosecution of aliens for using a false identity to establish " employment eligibility . "
+Id. , at 1126 , 1131 , 401 P.3d at 596 , 600 .
+Justice Luckert concurred based on implied , not express , preemption .
+In her view , IRCA occupies " the field " within which the prosecutions at issue fell , namely , " the use of false documents , including those using the identity of others , when an unauthorized alien seeks employment . "
+Id. at 1136 , 401 P.3d at 602 .
+Justice Luckert also opined that the Kansas statutes , as applied in these cases , conflict with IRCA because they " usur[p ] federal enforcement discretion " regarding the treatment of aliens who obtain employment even though they are barred from doing so under federal law .
+Ibid . , 401 P.3d at 603 .
+Two members of the court , Justices Biles and Stegall , dissented , and we granted review .
+586 U. S. ---- , 139 S.Ct . 1317 , 203 L.Ed.2d 563 ( 2019 ) .
+II
+The Supremacy Clause provides that the Constitution , federal statutes , and treaties constitute " the supreme Law of the Land . "
+Art . VI , cl . 2 .
+The Clause provides " a rule of decision " for determining whether federal or state law applies in a particular situation .
+Armstrong v. Exceptional Child Center , Inc. , 575 U.S. 320 , 324 , 135 S.Ct . 1378 , 191 L.Ed.2d 471 ( 2015 ) .
+If federal law " imposes restrictions or confers rights on private actors " and " a state law confers rights or imposes restrictions that conflict with the federal law , " " the federal law takes precedence and the state law is preempted . "
+Murphy v. National Collegiate Athletic Assn . , 584 U. S. ---- , ---- , 138 S.Ct . 1461 , 1480 , 200 L.Ed.2d 854 ( 2018 ) .
+In all cases , the federal restrictions or rights that are said to conflict with state law must stem from either the Constitution itself or a valid statute enacted by Congress .
+" There is no federal preemption in vacuo , " without a constitutional text , federal statute , or treaty made under the authority of the United States .
+Puerto Rico Dept . of Consumer Affairs v. Isla Petroleum Corp. , 485 U.S. 495 , 503 , 108 S.Ct . 1350 , 99 L.Ed.2d 582 ( 1988 ) ; see also Whiting , 563 U.S. at 599 , 131 S.Ct . 1968 ( preemption can not be based on " a ' freewheeling judicial inquiry into whether a state statute is in tension with federal objectives . ' " ) ( citation omitted ) ; Virginia Uranium , Inc. v. Warren , 587 U. S. ---- , ---- , 139 S.Ct . 1894 , 1901 , 204 L.Ed.2d 377 ( 2019 ) ( lead opinion of GORSUCH , J. ) ( " Invoking some brooding federal interest or appealing to a judicial policy preference " does not show preemption ) .
+In some cases , a federal statute may expressly preempt state law .
+See Pacific Gas & Elec . Co. v. State Energy Resources Conservation and Development Comm'n , 461 U.S. 190 , 203 , 103 S.Ct . 1713 , 75 L.Ed.2d 752 ( 1983 ) ( " It is well established that within constitutional limits Congress may preempt state authority by so stating in express terms . " ) .
+But it has long been established that preemption may also occur by virtue of restrictions or rights that are inferred from statutory law .
+See , e.g. , Osborn v. Bank of United States , 9 Wheat . 738 , 865 , 6 L.Ed . 204 ( 1824 ) ( rejecting argument that a federal exemption from state regulation " not being expressed , ought not to be implied by the Court " ) .
+And recent cases have often held state laws to be impliedly preempted .
+See , e.g . , Arizona 567 U.S. at 400 - 408 , 132 S.Ct . 2492 ; Kurns v. Railroad Friction Products Corp. , 565 U.S. 625 , 630 - 631 , 132 S.Ct . 1261 , 182 L.Ed.2d 116 ( 2012 ) ; PLIVA , Inc. v. Mensing , 564 U.S. 604 , 617 - 618 , 131 S.Ct . 2567 , 180 L.Ed.2d 580 ( 2011 ) .
+In these cases , respondents do not contend that the Kansas statutes under which they were convicted are preempted in their entirety .
+Instead , they argue that these laws must yield only insofar as they apply to an unauthorized alien 's use of false documents on forms submitted for the purpose of securing employment .
+In making this argument , respondents invoke all three categories of preemption identified in our cases .
+They defend the Kansas Supreme Court 's holding that provisions of IRCA expressly bar their prosecutions .
+And they also argue that the decision below is supported by " field " or " conflict " preemption or some combination of the two .
+We consider these arguments in turn .
+III
+We begin with the argument that the state criminal statutes under which respondents were convicted are expressly preempted .
+As noted , IRCA contains a provision that expressly preempts state law , but it is plainly inapplicable here .
+That provision applies only to the imposition of criminal or civil liability on employers and those who receive a fee for recruiting or referring prospective employees .
+8 U.S.C. § 1324a(h)(2 ) .
+It does not mention state or local laws that impose criminal or civil sanctions on employees or applicants for employment .
+The Kansas Supreme Court did not base its holding on this provision but instead turned to § 1324a(b)(5 ) , which is far more than a preemption provision .
+This provision broadly restricts any use of an I-9 , information contained in an I-9 , and any documents appended to an I-9 .
+Thus , unlike a typical preemption provision , it applies not just to the States but also to the Federal Government and all private actors .
+The Kansas Supreme Court thought that the prosecutions in these cases ran afoul of this provision because the charges were based on respondents ' use in their W-4 's and K-4 's of the same false Social Security numbers that they also inserted on their I-9 's .
+Taken at face value , this theory would mean that no information placed on an I-9- including an employee 's name , residence address , date of birth , telephone number , and e - mail address - could ever be used by any entity or person for any reason .
+This interpretation is flatly contrary to standard English usage .
+A tangible object can be " contained in " only one place at any point in time , but an item of information is different .
+It may be " contained in " many different places , and it is not customary to say that a person uses information that is contained in a particular source unless the person makes use of that source .
+Consider a person 's e - mail address , one of the bits of information that is called for on an I-9 .
+A person 's e - mail address may be " contained in " a great many places .
+Individuals often provide their e - mail addresses to a wide circle of friends , acquaintances , online vendors , work - related contacts , and others .
+In addition , the records of every recipient of an e - mail from a particular person will contain that address .
+In ordinary speech , no one would say that a person who uses an e - mail address has used information that is contained in all these places .
+Suppose that John used his e - mail address five years ago to purchase a pair of shoes and that the vendor has that address in its files .
+Suppose that John now sends an e - mail to Mary and that Mary sends an e - mail reply .
+No one would say that Mary has used information contained in the files of the shoe vendor .
+Or consider this bit of information : that the first man set foot on the moon on July 20 , 1969 .
+That fact was reported in newspapers around the world , from Neil Armstrong 's hometown newspaper , the Wapakoneta ( Ohio ) Daily News to the Soviet newspaper Izvestia .
+Suppose that an elementary school student writes a report in which she states that the first man walked on the moon in 1969 .
+No one would say that the student used information contained in the Wapakoneta Daily News or Izvestia if she never saw those publications .
+But it would be natural to say that the student used information contained in a book in the school library if that is where she got the information for her report .
+Accordingly , the mere fact that an I-9 contains an item of information , such as a name or address , does not mean that information " contained in " the I-9 is used whenever that name or address is later employed .
+If this were not so , strange consequences would ensue .
+Recall that 8 U.S.C. § 1324a(b)(5 ) applies to the Federal Government .
+Under 26 U.S.C. § 7205 , it is a crime to willfully supply false information on a W-4 , and this provision is not among those listed in 8 U.S.C. § 1324a(b)(5 ) .
+Thus , if an individual provided the same false information on an I-9 and a W-4 , the Federal Government could not prosecute this individual under 26 U.S.C. § 7205 even if the Government made no use whatsoever of the I-9 .
+And that is just the beginning .
+Suppose that an employee truthfully states on his I-9 that his name is Jim Smith .
+Under the interpretation of 8 U.S.C. § 1324a(b)(5 ) that the Kansas Supreme Court seemingly adopted , no one could use Jim 's name for any purpose .
+If he robbed a bank , prosecutors could not use his name in an indictment .
+His employer could not cut a paycheck using that name .
+His sister could not use his name to mail him a birthday card .
+The Kansas Supreme Court tried to fend off these consequences by suggesting that its interpretation applied only to the prosecution of aliens for using a false identity to establish " employment eligibility . "
+306 Kan. at 1126 , 401 P.3d at 596 .
+But there is no trace of these limitations in the text of § 1324a(b)(5 ) .
+The point need not be belabored any further : The argument that § 1324a(b)(5 ) expressly bars respondents ' prosecutions can not be defended .
+Apparently recognizing this , respondents turn to § 1324a(d)(2)(F ) , which prohibits use of the federal employment verification system " for law enforcement purposes other than " enforcement of IRCA and the same handful of federal statutes mentioned in § 1324a(b)(5 ) : 18 U.S.C. § 1001 ( false statements ) , § 1028 ( identity theft ) , § 1546 ( immigration - document fraud ) , and § 1621 ( perjury ) .
+This argument fails because it rests on a misunderstanding of the meaning of the federal " employment verification system . "
+The sole function of that system is to establish that an employee is not barred from working in this country due to alienage .
+As described in § 1324a(b ) , the system includes the steps that an employee must take to establish that he or she is not prohibited from working , the steps that an employer must take to verify the employee 's status , and certain related matters - such as the preservation and copying of records that are used to show authorization to work .
+The federal employment verification system does not include things that an employee must or may do to satisfy requirements unrelated to work authorization .
+And completing tax - withholding documents plays no part in the process of determining whether a person is authorized to work .
+Instead , those documents are part of the apparatus used to enforce federal and state income tax laws .
+For all these reasons , there is no express preemption in these cases .
+IV
+We therefore proceed to consider respondents ' alternative argument that the Kansas laws , as applied , are preempted by implication .
+This argument , like all preemption arguments , must be grounded " in the text and structure of the statute at issue . "
+CSX Transp . , Inc. v. Easterwood , 507 U.S. 658 , 664 , 113 S.Ct . 1732 , 123 L.Ed.2d 387 ( 1993 ) .
+A
+Respondents contend , first , that the Kansas statutes , as applied , fall into a field that is implicitly reserved exclusively for federal regulation .
+In rare cases , the Court has found that Congress " legislated so comprehensively " in a particular field that it " left no room for supplementary state legislation , " R. J. Reynolds Tobacco Co. v. Durham County , 479 U.S. 130 , 140 , 107 S.Ct . 499 , 93 L.Ed.2d 449 ( 1986 ) , but that is certainly not the situation here .
+In order to determine whether Congress has implicitly ousted the States from regulating in a particular field , we must first identify the field in which this is said to have occurred .
+In their merits brief in this Court , respondents ' primary submission is that IRCA preempts " the field of fraud on the federal employment verification system , " Brief for Respondents 41 ( quotation altered ) , but this argument fails because , as already explained , the submission of taxwithholding forms is not part of that system .
+At some points in their brief , respondents define the supposedly preempted field more broadly as the " field relating to the federal employment verification system , " i d . , at 42 ( emphasis added ) ; see also i d . , at 40 , but this formulation does not rescue the argument .
+The submission of taxwithholding forms is fundamentally unrelated to the federal employment verification system because , as explained , those forms serve entirely different functions .
+The employment verification system is designed to prevent the employment of unauthorized aliens , whereas tax - withholding forms help to enforce income tax laws .
+And using another person 's Social Security number on tax forms threatens harm that has no connection with immigration law .
+For instance , using another person 's Social Security number on tax - withholding forms affects the wages reported to federal and state tax authorities .
+In addition , many benefits - such as those for disability , unemployment , and retirement - are tied to an individual 's work status and income .
+Inaccurate data also affect the accuracy of a State 's tax information .
+It is true that employees generally complete their W-4 's and K-4 's at roughly the same time as their I-9 's , but IRCA plainly does not foreclose all state regulation of information that must be supplied as a precondition of employment .
+New employees may be required by law to provide all sorts of information that has nothing to do with authorization to work in the United States , such as information about age ( for jobs with a minimum age requirement ) , educational degrees , licensing , criminal records , drug use , and personal information needed for a background check .
+IRCA surely does not preclude States from requiring and regulating the submission of all such information .
+Respondents suggest that federal law precludes their prosecutions because both the Kansas identity - theft statute and the Kansas false - information statute require proof that the accused engaged in the prohibited conduct for the purpose of getting a " benefit . "
+Their argument is as follows .
+Since the benefit alleged by the prosecution in these cases was getting a job , and since the employment verification system concerns authorization to work , the theory of respondents ' prosecutions is related to that system .
+This argument conflates the benefit that results from complying with the federal employment verification system ( verifying authorization to work in the United States ) with the benefit of actually getting a job .
+Submitting W-4 's and K-4 's helped respondents get jobs , but this did not in any way assist them in showing that they were authorized to work in this country .
+Thus , respondents ' " relating to " argument must be rejected , as must the even broader definitions of the putatively preempted field advanced by respondents at earlier points in this litigation .
+Contrary to respondents ' suggestion , IRCA certainly does not bar all state regulation regarding the " use of false documents ... when an unauthorized alien seeks employment . "
+Brief in Opposition 21 .
+Nor does IRCA exclude a State from the entire " field of employment verification . "
+I d . , at 22 .
+For example , IRCA certainly does not prohibit a public school system from requiring applicants for teaching positions to furnish legitimate teaching certificates .
+And it does not prevent a police department from verifying that a prospective officer does not have a record of abusive behavior .
+Respondents argue that field preemption in these cases " follows directly " from our decision in Arizona , 567 U.S. 387 , 132 S.Ct . 2492 , 183 L.Ed.2d 351 , Brief for Respondents 45 - 46 , but that is not so .
+In Arizona , relying on our prior decision in Hines v. Davidowitz , 312 U.S. 52 , 61 S.Ct . 399 , 85 L.Ed .
+581 ( 1941 ) , we held that federal immigration law occupied the field of alien registration .
+567 U.S. at 400 - 402 , 132 S.Ct . 2492 .
+" Federal law , " we observed , " makes a single sovereign responsible for maintaining a comprehensive and unified system to keep track of aliens within the Nation 's borders . "
+I d . , at 401 - 402 , 132 S.Ct . 2492 .
+But federal law does not create a comprehensive and unified system regarding the information that a State may require employees to provide .
+In sum , there is no basis for finding field preemption in these cases .
+B
+We likewise see no ground for holding that the Kansas statutes at issue conflict with federal law .
+It is certainly possible to comply with both IRCA and the Kansas statutes , and respondents do not suggest otherwise .
+They instead maintain that the Kansas statutes , as applied in their prosecutions , stand as " an obstacle to the accomplishment and execution of the full purposes " of IRCA - one of which is purportedly that the initiation of any legal action against an unauthorized alien for using a false identity in applying for employment should rest exclusively within the prosecutorial discretion of federal authorities .
+Brief for Respondents 49 - 55 .
+Allowing Kansas to bring prosecutions like these , according to respondents , would risk upsetting federal enforcement priorities and frustrating federal objectives , such as obtaining the cooperation of unauthorized aliens in making bigger cases .
+Ibid .
+Respondents analogize these cases to our holding in Arizona , 567 U.S. at 404 - 407 , 132 S.Ct . 2492 -that a state law making it a crime for an unauthorized alien to obtain employment conflicted with IRCA , which does not criminalize that conduct - but respondents ' analogy is unsound .
+In Arizona , the Court inferred that Congress had made a considered decision that it was inadvisable to criminalize the conduct in question .
+In effect , the Court concluded that IRCA implicitly conferred a right to be free of criminal ( as opposed to civil ) penalties for working illegally , and thus a state law making it a crime to engage in that conduct conflicted with this federal right .
+Nothing similar is involved here .
+In enacting IRCA , Congress did not decide that an unauthorized alien who uses a false identity on tax - withholding forms should not face criminal prosecution .
+On the contrary , federal law makes it a crime to use fraudulent information on a W-4 . 26 U.S.C. § 7205 .
+The mere fact that state laws like the Kansas provisions at issue overlap to some degree with federal criminal provisions does not even begin to make a case for conflict preemption .
+From the beginning of our country , criminal law enforcement has been primarily a responsibility of the States , and that remains true today .
+In recent times , the reach of federal criminal law has expanded , and there are now many instances in which a prosecution for a particular course of conduct could be brought by either federal or state prosecutors .
+Our federal system would be turned upside down if we were to hold that federal criminal law preempts state law whenever they overlap , and there is no basis for inferring that federal criminal statutes preempt state laws whenever they overlap .
+Indeed , in the vast majority of cases where federal and state laws overlap , allowing the States to prosecute is entirely consistent with federal interests .
+In the present cases , there is certainly no suggestion that the Kansas prosecutions frustrated any federal interests .
+Federal authorities played a role in all three cases , and the Federal Government fully supports Kansas 's position in this Court .
+In the end , however , the possibility that federal enforcement priorities might be upset is not enough to provide a basis for preemption .
+The Supremacy Clause gives priority to " the Laws of the United States , " not the criminal law enforcement priorities or preferences of federal officers .
+Art . VI , cl . 2 .
+Finally , contrary to respondents ' suggestion , these cases are very different from Buckman Co. v. Plaintiffs ' Legal Comm . , 531 U.S. 341 , 121 S.Ct . 1012 , 148 L.Ed.2d 854 ( 2001 ) , and Wisconsin Dept . of Industry v. Gould Inc. , 475 U.S. 282 , 106 S.Ct . 1057 , 89 L.Ed.2d 223 ( 1986 ) .
+In Buckman Co . , the preempted state tort claim for fraud on the Food and Drug Administration threatened serious disruption of the sensitive and highly technical process of approving medical devices .
+531 U.S. at 347 - 353 , 121 S.Ct . 1012 .
+In these cases , the state prosecutions posed no comparable risk .
+In Gould , the decision rested on a special preemption rule governing state laws regulating matters that the National Labor Relations Act " protects , prohibits , or arguably protects . "
+475 U.S. at 286 - 289 , 106 S.Ct . 1057 ; San Diego Building Trades Council v. Garmon , 359 U.S. 236 , 246 , 79 S.Ct . 773 , 3 L.Ed.2d 775 ( 1959 ) .
+No similar rule is operative or appropriate here .
+* * *
+For these reasons , the judgments of the Supreme Court of Kansas are reversed , and these cases are remanded for further proceedings not inconsistent with this opinion .
+It is so ordered .

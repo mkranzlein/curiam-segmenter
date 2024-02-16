@@ -1,0 +1,176 @@
+Justice ALITO delivered the opinion of the Court .
+The federal - sector provision of the Age Discrimination in Employment Act of 1967 ( ADEA ) , 88 Stat . 74 , 29 U.S.C. § 633a(a ) , provides ( with just a few exceptions ) that " personnel actions " affecting individuals aged 40 and older " shall be made free from any discrimination based on age . "
+We are asked to decide whether this provision imposes liability only when age is a " but - for cause " of the personnel action in question .
+We hold that § 633a(a ) goes further than that .
+The plain meaning of the critical statutory language ( " made free from any discrimination based on age " ) demands that personnel actions be untainted by any consideration of age .
+This does not mean that a plaintiff may obtain all forms of relief that are generally available for a violation of § 633a(a ) , including hiring , reinstatement , backpay , and compensatory damages , without showing that a personnel action would have been different if age had not been taken into account .
+To obtain such relief , a plaintiff must show that age was a but - for cause of the challenged employment decision .
+But if age discrimination played a lesser part in the decision , other remedies may be appropriate .
+I
+Noris Babb , who was born in 1960 , is a clinical pharmacist at the U.S. Department of Veterans Affairs Medical Center in Bay Pines , Florida .
+Babb brought suit in 2014 against the Secretary of Veterans Affairs ( hereinafter VA ) , claiming that she had been subjected to age and sex discrimination , as well as retaliation for engaging in activities protected by federal anti - discrimination law .
+Only her age - discrimination claims are now before us .
+Those claims center on the following personnel actions .
+First , in 2013 , the VA took away Babb 's " advanced scope " designation , which had made her eligible for promotion on the Federal Government 's General Scale from a GS-12 to a GS-13 .
+Second , during this same time period , she was denied training opportunities and was passed over for positions in the hospital 's anticoagulation clinic .
+Third , in 2014 , she was placed in a new position , and while her grade was raised to GS-13 , her holiday pay was reduced .
+All these actions , she maintains , involved age discrimination , and in support of her claims , she alleges , among other things , that supervisors made a variety of age - related comments .
+The VA moved for summary judgment and offered non - discriminatory reasons for the challenged actions , and the District Court granted that motion .
+Evaluating each of Babb 's claims under the burden - shifting framework outlined in   McDonnell Douglas Corp. v. Green , 411 U.S. 792 , 93 S.Ct . 1817 , 36 L.Ed.2d 668 ( 1973 ) , the court found that Babb had established a prima facie case , that the Secretary had proffered legitimate reasons for the challenged actions , and that no jury could reasonably conclude that those reasons were pretextual .
+Babb appealed , contending that the District Court should not have used the   McDonnell Douglas framework because it is not suited for " mixed motives " claims .
+She argued that under the terms of the ADEA 's federal - sector provision , a personnel action is unlawful if age is a factor in the challenged decision .
+As a result , she explained that even if the VA 's proffered reasons were not pretextual , it would not necessarily follow that age discrimination played no part .
+The Eleventh Circuit panel that heard Babb 's appeal found that her argument was " foreclosed " by Circuit precedent but added that it might have agreed with her if it were " writing on a clean slate . "
+Babb v. Secretary , Dept . of Veterans Affairs , 743 Fed . Appx . 280 , 287 ( 2018 ) ( citing   Trask v. Secretary , Dept . of Veterans Affairs , 822 F.3d 1179 ( CA11 2016 ) ) .
+We granted certiorari , 588 U.S. ---- , 139 S.Ct . 2775 , 204 L.Ed.2d 1156 ( 2019 ) , to resolve a Circuit split over the interpretation of § 633a(a ) .
+II
+That provision of the ADEA states in relevant part : " All personnel actions affecting employees or applicants for employment who are at least 40 years of age ... shall be made free from any discrimination based on age . "
+29 U.S.C. § 633a(a ) .
+The Government interprets this provision to impose liability only when age is a but - for cause of an employment decision .
+According to the Government , even if age played a part in such a decision , an employee or applicant for employment can not obtain any relief unless it is shown that the decision would have been favorable if age had not been taken into account .
+This interpretation , the Government contends , follows both from the meaning of the statutory text and from the " default rule " that we have recognized in other employment discrimination cases , namely , that recovery for wrongful conduct is generally permitted only if the injury would not have occurred but for that conduct .
+See ,   e.g. ,   University of Tex . Southwestern Medical Center v. Nassar , 570 U.S. 338 , 346 - 347 , 133 S.Ct . 2517 , 186 L.Ed.2d 503 ( 2013 ) .
+Babb interprets the provision differently .
+She maintains that its language prohibits any adverse consideration of age in the decision - making   process .
+Accordingly , she argues proof that age was a but - for cause of a challenged employment decision is not needed .
+A
+Which interpretation is correct ?
+To decide , we start with the text of the statute , see   Gross v. FBL Financial Services , Inc. , 557 U.S. 167 , 175 , 129 S.Ct . 2343 , 174 L.Ed.2d 119 ( 2009 ) , and as it turns out , it is not necessary to go any further .
+The plain meaning of the statutory text shows that age need not be a but - for cause of an employment decision in order for there to be a violation of § 633a(a ) .
+To explain the basis for our interpretation , we will first define the important terms in the statute and then consider how they relate to each other .
+1
+Section 633a(a ) concerns " personnel actions , " and while the ADEA does not define this term , its meaning is easy to understand .
+The Civil Service Reform Act of 1978 , which governs federal employment , broadly defines a " personnel action " to include most employment - related decisions , such as appointment , promotion , work assignment , compensation , and performance reviews .
+See 5 U.S.C. § 2302 ( a)(2)(A ) .
+That interpretation is consistent with the term 's meaning in general usage , and we assume that it has the same meaning under the ADEA .
+Under § 633a(a ) , personnel actions must be made " free from " discrimination .
+The phrase " free from " means " untainted " or " [ c]lear of ( something which is regarded as objectionable ) . "
+Webster 's Third New International Dictionary 905 ( def . 4(a)(2 ) ) ( 1976 ) ; 4 Oxford English Dictionary 521 ( def . 12 ) ( 1933 ) ; see also American Heritage Dictionary 524 ( def . 5(a ) ) ( 1969 ) ( defining " free " " used with from " as " [ n]ot affected or restricted by a given condition or circumstance " ) ; Random House Dictionary of the English Language 565 ( def . 12 ) ( 1966 ) ( defining " free " as " exempt or released from something specified that controls , restrains , burdens , etc . " ) .
+Thus , under § 633a(a ) , a personnel action must be made " untainted " by discrimination based on age , and the addition of the term " any " ( " free from   any discrimination based on age " ) drives the point home .
+And as for " discrimination , " we assume that it carries its " ' normal definition , ' " which is " ' differential treatment . ' " Jackson v. Birmingham Bd . of Ed . , 544 U.S. 167 , 174 , 125 S.Ct . 1497 , 161 L.Ed.2d 361 ( 2005 ) .
+Under § 633a(a ) , the type of discrimination forbidden is " discrimination based on age , " and " [ i]n common talk , the phrase ' based on ' indicates a but - for causal relationship . "
+Safeco Ins . Co. of America v. Burr , 551 U.S. 47 , 63 , 127 S.Ct . 2201 , 167 L.Ed.2d 1045 ( 2007 ) ; cf .  Comcast Corp. v.   National Assn . of African American - Owned Media , 140 S.Ct . 1009 .
+Therefore , § 633a(a ) requires that age be a but - for cause of the discrimination alleged .
+What remains is the phrase " shall be made . "
+" [ S]hall be made " is a form of the verb " to make , " which means " to bring into existence , " " to produce , " " to render , " and " to cause to be or become . "
+Random House Dictionary of the English Language , at 866 .
+Thus , " shall be made " means " shall be produced , " etc .
+And the imperative mood , denoting a duty , see Black 's Law Dictionary 1233 ( 5th ed . 1979 ) , emphasizes the importance of avoiding the taint .
+2
+So much for the individual terms used in § 633a(a ) .
+What really matters for present purposes is the way these terms relate to each other .
+Two matters of syntax are critical .
+First , " based on age " is an adjectival phrase that modifies the noun " discrimination . "
+It does not modify " personnel actions . "
+The statute does not say that " it is unlawful to take personnel actions that are based on age " ; it says that " personnel actions ... shall be made free from any discrimination based on age . "
+§ 633a(a ) .
+As a result , age must be a but - for cause of discrimination - that is , of differential treatment - but not necessarily a but - for cause of a personnel action itself .
+Second , " free from any discrimination " is an adverbial phrase that modifies the verb " made . "
+Ibid .
+Thus , " free from any discrimination " describes how a personnel action must be " made , " namely , in a way that is not tainted by differential treatment based on age .
+If age discrimination plays any part in the way a decision is made , then the decision is not made in a way that is untainted by such discrimination .
+This is the straightforward meaning of the terms of § 633a(a ) , and it indicates that the statute does not require proof that an employment decision would have turned out differently if age had not been taken into account .
+To see what this entails in practice , consider a simple example .
+Suppose that a decision - maker is trying to decide whether to promote employee A , who is 35 years old , or employee B , who is 55 .
+Under the employer 's policy , candidates for promotion are first given numerical scores based on non - discriminatory factors .
+Candidates over the age of 40 are then docked five points , and the employee with the highest score is promoted .
+Based on the non - discriminatory factors , employee A ( the 35 - year - old ) is given a score of 90 , and employee B ( the 55 - year - old ) gets a score of 85 .
+But employee B is then docked 5 points because of age and thus ends up with a final score of 80 .
+The decision - maker looks at the candidates ' final scores and , seeing that employee A has the higher score , promotes employee A.
+This decision is not " made " " free from any discrimination " because employee B was treated differently ( and less favorably ) than employee A ( because she was docked five points and A was not ) .
+And this discrimination was " based on age " because the five points would not have been taken away were it not for employee B 's age .
+It is true that this difference in treatment did not affect the outcome , and therefore age was not a but - for cause of the decision to promote employee A. Employee A would have won out even if age had not been considered and employee B had not lost five points , since A 's score of 90 was higher than B 's initial , legitimate score of 85 .
+But under the language of § 633a(a ) , this does not preclude liability .
+The Government has no answer to this parsing of the statutory text .
+It makes two correct points : first , that " ' discrimination based on age ' " " requires but - for causation , " and , second , that " ' discrimination ' " means " ' " differential treatment . " ' "
+Brief for Respondent 16 - 17 .
+But based on these two points , the Government draws the unwarranted conclusion that " [ i]t is thus not enough for a federal employer merely to   consider age ... if that consideration does not actually cause the employer to make a less favorable personnel action than it would have made for a similarly situated person who is younger . "
+Id. , at 17 .
+That conclusion does not follow from the two correct points on which it claims to be based .
+What follows instead is that , under § 633a(a ) , age must be the but - for cause of   differential treatment , not that age must be a but - for cause of   the ultimate decision .
+B
+The Government 's primary argument rests not on the text of § 633a(a ) but on prior cases interpreting different statutes .
+But contrary to the Government 's argument , nothing in these past decisions undermines our interpretation of § 633a(a ) .
+1 .
+In   Safeco Ins . Co. of America v. Burr , 551 U.S. at 63 , 127 S.Ct . 2201 , we interpreted a provision of the Fair Credit Reporting Act ( FCRA ) requiring that notice be provided " [ i]f any person takes any   adverse action with respect to any consumer that is   based in whole or in part   on any information contained in a consumer [ credit ] report . "
+15 U.S.C. § 1681m(a ) ( emphasis added ) .
+This language is quite different from that of 29 U.S.C. § 633a(a ) .
+In § 1681m(a ) , the phrase " based ... on any information contained in a consumer [ credit ] report " modifies " adverse action , " and thus the information in question must be a but - for cause of the adverse action .
+By contrast , in § 633a(a ) , " based on " does not modify " personnel actions " ; it modifies " discrimination , "   i.e. , differential treatment based on age .
+The Government tries to find support in   Safeco 's discussion of FCRA 's reference to an adverse action that is " based ...   in part " on a credit report .
+15 U.S.C. § 1681m(a ) ( emphasis added ) .
+The   Safeco Court observed that the phrase " in part " could be read to mean that notice had to be given " whenever the report was considered in the rate - setting process , " but it rejected this reading .
+551 U.S. at 63 , 127 S.Ct . 2201 .
+The Government suggests that the Court reached this conclusion because it thought that Congress would have " said so expressly " if it had meant to require notice in situations where consideration of a credit report was inconsequential .
+Brief for Respondent 19 .
+Accordingly , the Government argues , because § 633a(a ) does not say expressly that consideration of age is unlawful , we should conclude that mere consideration is insufficient to trigger liability .
+See   i d . , at 19 - 20 .
+This argument fails for two reasons .
+First , as explained above , the language of § 633a(a )   does expressly impose liability if age discrimination plays a part in a federal employment decision .
+Second ,   Safeco did not invoke the sort of super - plain - statement rule that the Government now attributes to it .
+Instead , the   Safeco Court rejected the argument on other grounds , including its assessment of the particular statutory scheme at issue .
+See 551 U.S. at 63 - 64 , 127 S.Ct . 2201 .
+That reasoning obviously has no application here .
+2 .
+In   Gross v. FBL Financial Services , Inc. , 557 U.S. 167 , 129 S.Ct . 2343 , 174 L.Ed.2d 119 , we interpreted the private - sector provision of the ADEA , 29 U.S.C. § 623 ( a)(1 ) , and held that it requires a plaintiff to prove that " age was the ' but - for ' cause of the employer 's adverse action . "
+557 U.S. at 177 , 129 S.Ct . 2343 .
+But as we previously recognized , the ADEA 's private- and public - sector provisions are " couched in very different terms . "
+Gómez - Pérez v.   Potter , 553 U.S. 474 , 488 , 128 S.Ct . 1931 , 170 L.Ed.2d 887 ( 2008 ) .
+Section 623(a)(1 ) makes it " unlawful for an employer ... to fail or refuse to hire or to discharge any individual or otherwise discriminate against any individual with respect to his compensation , terms , conditions , or privileges of employment , because of such individual 's age . "
+Thus , the but - for causal language in § 623(a)(1)--"because of such individual 's age"--is an adverbial phrase modifying the verbs ( " to fail or refuse to hire , " etc . ) that specify the conduct that the provision regulates .
+For this reason , the syntax of § 623(a)(1 ) is critically different from that of § 633a(a ) , where , as noted , the but - for language modifies the noun " discrimination . "
+This is important because all the verbs in § 623(a)(1 ) -failing or refusing to hire , discharging , or otherwise discriminating with respect to " compensation , terms , conditions , or privileges of employment"-refer to end results .
+By contrast , the provision in our case , § 633a(a ) , prohibits any age discrimination in the " mak[ing ] " of a personnel decision , not just with respect to end results .
+3 . Finally , in   University of Tex . Southwestern Medical Center v. Nassar , 570 U.S. 338 , 133 S.Ct . 2517 , 186 L.Ed.2d 503 , we interpreted Title VII 's anti - retaliation provision , 42 U.S.C. § 2000e-3(a ) , as requiring retaliation to be a but - for cause of the end result of the employment decision .
+The Court saw no " meaningful textual difference between the text [ of that provision ] and the one in   Gross , " 570 U.S. at 352 , 133 S.Ct . 2517 , and the Court found support for its interpretation in the rule that recovery for an intentional tort generally requires proof " ' that the harm would not have occurred ' in the absence of - that is , but for - the defendant 's conduct . "
+570 U.S. at 346 - 347 , 133 S.Ct . 2517 ( quoting Restatement of Torts § 431 , Comment   a , pp . 1159 - 1160 ( 1934 ) ) .
+That reasoning has no application in the present case .
+The wording of § 633a(a ) --which refers expressly to the " mak[ing ] " of personnel actions in a way that is " free from any discrimination based on age"--is markedly different from the language of the statutes at issue in   Gross and   Nassar , and the traditional rule favoring but - for causation does not dictate a contrary result .
+Section 633a(a ) requires proof of but - for causation , but the object of that causation is " discrimination , "   i.e. , differential treatment , not the personnel action itself .
+For these reasons ,   Safeco ,   Gross , and   Nassar are entirely consistent with our holding in this case .
+C
+We are not persuaded by the argument that it is anomalous to hold the Federal Government to a stricter standard than private employers or state and local governments .
+That is what the statutory language dictates , and if Congress had wanted to impose the same standard on all employers , it could have easily done so .
+As first enacted , the ADEA " applied only to actions against private employers . "
+Lehman v. Nakshian , 453 U.S. 156 , 166 , 101 S.Ct . 2698 , 69 L.Ed.2d 548 ( 1981 ) .
+In 1974 , " Congress expanded the scope of the ADEA " to reach both state and local governments and the Federal Government .
+Ibid .
+To cover state and local governments , Congress simply added them to the definition of an " employer " in the ADEA 's private - sector provision , see 29 U.S.C. § 630 ( b ) , and Congress could have easily done the same for the Federal Government .
+Indeed , the first proposal for expansion of the ADEA to government entities did precisely that .  
+Lehman , 453 U.S. at 166 , n. 14 , 101 S.Ct . 2698 .
+But Congress did not choose this route .
+Instead , it " deliberately prescribed a distinct statutory scheme applicable only to the federal sector , "
+i d. , at 166 , 101 S.Ct . 2698 , and in doing so , it eschewed the language used in the private - sector provision , § 623(a ) .
+See   Gómez - Pérez , 553 U.S. at 488 , 128 S.Ct . 1931 .
+We generally ascribe significance to such a decision .
+See   Russello v. United States , 464 U.S. 16 , 23 , 104 S.Ct . 296 , 78 L.Ed.2d 17 ( 1983 ) ( " ' [ W]here Congress includes particular language in one section of a statute but omits it in another section of the same Act , it is generally presumed that Congress acts intentionally and purposely in the disparate inclusion or exclusion ' " ) .
+That Congress would want to hold the Federal Government to a higher standard than state and private employers is not unusual .
+See Supp . Letter Brief for Respondent 1 ( " The federal government has long adhered to antidiscrimination policies that are more expansive than those required by ... the ADEA " ) ;   e.g. , Exec . Order No . 11478 , § 1 , 3 CFR 446 ( 1969 ) ( " It is the policy of the Government of the United States to provide equal opportunity in Federal employment for all persons , to prohibit discrimination in employment ... and to promote the full realization of equal employment opportunity through a continuing affirmative program " ) ; Exec . Order No . 12106 , § 1 - 102 , 3 CFR 263 ( 1978 ) ( amending Exec . Order No . 11478 to cover discrimination on the basis of age ) .
+And several years after adding § 633a(a ) to the ADEA , Congress amended the civil service laws to prescribe similar standards .
+See 5 U.S.C. § 2301 ( b)(2 ) ( " Federal personnel management should be implemented consistent with the ... merit system principl[e that a]ll employees and applicants for employment should receive fair and equitable treatment in all aspects of personnel management without regard to ... age " ) .
+In any event , " where , as here , the words of [ a ] statute are unambiguous , the ' " judicial inquiry is complete . " ' "
+Desert Palace , Inc. v. Costa , 539 U.S. 90 , 98 , 123 S.Ct . 2148 , 156 L.Ed.2d 84 ( 2003 ) ( quoting   Connecticut Nat . Bank v. Germain , 503 U.S. 249 , 254 , 112 S.Ct . 1146 , 117 L.Ed.2d 391 ( 1992 ) ) .
+D
+While Babb can establish that the VA violated § 633a(a ) without proving that age was a but - for cause of the VA 's personnel actions , she acknowledges - and we agree - that but - for causation is important in determining the appropriate remedy .
+It is bedrock law that " requested relief " must " redress the alleged injury . "
+Steel Co. v. Citizens for Better Environment , 523 U.S. 83 , 103 , 118 S.Ct . 1003 , 140 L.Ed.2d 210 ( 1998 ) .
+Thus , § 633a(a ) plaintiffs who demonstrate only that they were subjected to unequal consideration can not obtain reinstatement , backpay , compensatory damages , or other forms of relief related to the end result of an employment decision .
+To obtain such remedies , these plaintiffs must show that age discrimination was a but - for cause of the employment outcome .
+We have long employed these basic principles .
+In   Texas v. Lesage , 528 U.S. 18 , 21 - 22 , 120 S.Ct . 467 , 145 L.Ed.2d 347 ( 1999 ) (   per curiam ) , we applied this rule to a plaintiff who sought recovery under Rev. Stat . § 1979 , 42 U.S.C. § 1983 , for an alleged violation of the Equal Protection Clause .
+We explained : " [ W]here a plaintiff challenges a discrete governmental decision as being based on an impermissible criterion and it is undisputed that the government would have made the same decision regardless , there is no cognizable injury warranting [ damages ] relief . "
+528 U.S. at 21 , 120 S.Ct . 467 .
+Cf .  Mt. Healthy City Bd . of Ed . v. Doyle , 429 U.S. 274 , 285 , 97 S.Ct . 568 , 50 L.Ed.2d 471 ( 1977 ) ( rejecting rule that " would require reinstatement ... even if the same decision would have been reached had the incident not occurred " ) .
+Our conclusion is also supported by traditional principles of tort and remedies law .
+" Remedies generally seek to place the victim of a legal wrong ... in the position that person would have occupied if the wrong had not occurred . "
+R. Weaver , E. Shoben , & M. Kelly , Principles of Remedies Law 5 ( 3d ed . 2017 ) .
+Thus , " [ a]n actor 's liability is limited to those harms that result from the risks that made the actor 's conduct tortious . "
+Restatement ( Third ) of Torts § 29 , p. 493 ( 2005 ) .
+Remedies should not put a plaintiff in a more favorable position than he or she would have enjoyed absent discrimination .
+But this is precisely what would happen if individuals who can not show that discrimination was a but - for cause of the end result of a personnel action could receive relief that alters or compensates for the end result .
+Although unable to obtain such relief , plaintiffs are not without a remedy if they show that age was a but - for cause of differential treatment in an employment decision but not a but - for cause of the decision itself .
+In that situation , plaintiffs can seek injunctive or other forward - looking relief .
+Determining what relief , if any , is appropriate in the present case is a matter for the District Court to decide in the first instance if Babb succeeds in showing that § 633a(a ) was violated .
+* * *
+The judgment of the United States Court of Appeals for the Eleventh Circuit is reversed , and the case is remanded for further proceedings consistent with this opinion .
+It is so ordered .

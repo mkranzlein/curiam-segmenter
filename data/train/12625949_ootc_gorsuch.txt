@@ -1,0 +1,102 @@
+Justice GORSUCH delivered the opinion of the Court .
+When it comes to remedies for trademark infringement , the Lanham Act authorizes many .
+A district court may award a winning plaintiff injunctive relief , damages , or the defendant 's ill - gotten profits .
+Without question , a defendant 's state of mind may have a bearing on what relief a plaintiff should receive .
+An innocent trademark violator often stands in very different shoes than an intentional one .
+But some circuits have gone further .
+These courts hold a plaintiff can win a profits remedy , in particular , only after showing the defendant willfully infringed its trademark .
+The question before us is whether that categorical rule can be reconciled with the statute 's plain language .
+The question comes to us in a case involving handbag fasteners .
+Romag sells magnetic snap fasteners for use in leather goods .
+Fossil designs , markets , and distributes a wide range of fashion accessories .
+Years ago , the pair signed an agreement allowing Fossil to use Romag 's fasteners in Fossil 's handbags and other products .
+Initially , both sides seemed content with the arrangement .
+But in time Romag discovered that the factories Fossil hired in China to make its products were using counterfeit Romag fasteners - and that Fossil was doing little to guard against the practice .
+Unable to resolve its concerns amicably , Romag sued .
+The company alleged that Fossil had infringed its trademark and falsely represented that its fasteners came from Romag .
+After trial , a jury agreed with Romag , and found that Fossil had acted " in callous disregard " of Romag 's rights .
+At the same time , however , the jury rejected Romag 's accusation that Fossil had acted willfully , as that term was defined by the district court .
+For our purposes , the last finding is the important one .
+By way of relief for Fossil 's trademark violation , Romag sought ( among other things ) an order requiring Fossil to hand over the profits it had earned thanks to its trademark violation .
+But the district court refused this request .
+The court pointed out that controlling Second Circuit precedent requires a plaintiff seeking a profits award to prove that the defendant 's violation was willful .
+Not all circuits , however , agree with the Second Circuit 's rule .
+We took this case to resolve that dispute over the law 's demands .
+588 U.S. ---- , 139 S.Ct . 2778 , 204 L.Ed.2d 1157 ( 2019 ) .
+Where does Fossil 's proposed willfulness rule come from ?
+The relevant section of the Lanham Act governing remedies for trademark violations , § 35 , 60 Stat . 439 -440 , as amended , 15 U.S.C. § 1117 ( a ) , says this :
+" When a violation of any right of the registrant of a mark registered in the Patent and Trademark Office , a violation under section 1125(a ) or ( d ) of this title , or a willful violation under section 1125(c ) of this title , shall have been established ... , the plaintiff shall be entitled , subject to the provisions of sections 1111 and 1114 of this title , and subject to the principles of equity , to recover ( 1 ) defendant 's profits , ( 2 ) any damages sustained by the plaintiff , and ( 3 ) the costs of the action . "
+Immediately , this language spells trouble for Fossil and the circuit precedent on which it relies .
+The statute does make a showing of willfulness a precondition to a profits award when the plaintiff proceeds under § 1125(c ) .
+That section , added to the Lanham Act some years after its initial adoption , creates a cause of action for trademark dilution - conduct that lessens the association consumers have with a trademark .
+But Romag alleged and proved a violation of § 1125(a ) , a provision establishing a cause of action for the false or misleading use of trademarks .
+And in cases like that , the statutory language has never required a showing of willfulness to win a defendant 's profits .
+Yes , the law tells us that a profits award is subject to limitations found in § § 1111 and 1114 .
+But no one suggests those cross - referenced sections contain the rule Fossil seeks .
+Nor does this Court usually read into statutes words that are n't there .
+It 's a temptation we are doubly careful to avoid when Congress has ( as here ) included the term in question elsewhere in the very same statutory provision .
+A wider look at the statute 's structure gives us even more reason for pause .
+The Lanham Act speaks often and expressly about mental states .
+Section 1117(b ) requires courts to treble profits or damages and award attorney 's fees when a defendant engages in certain acts intentionally and with specified knowledge .
+Section 1117(c ) increases the cap on statutory damages from $ 200,000 to $ 2,000,000 for certain willful violations .
+Section 1118 permits courts to order the infringing items be destroyed if a plaintiff proves any violation of § 1125(a ) or a willful violation of § 1125(c ) .
+Section 1114 makes certain innocent infringers subject only to injunctions .
+Elsewhere , the statute specifies certain mens rea standards needed to establish liability , before even getting to the question of remedies .
+See , e.g. , § § 1125(d)(1)(A)(i ) , ( B)(i ) ( prohibiting certain conduct only if undertaken with " bad faith intent " and listing nine factors relevant to ascertaining bad faith intent ) .
+Without doubt , the Lanham Act exhibits considerable care with mens rea standards .
+The absence of any such standard in the provision before us , thus , seems all the more telling .
+So how exactly does Fossil seek to conjure a willfulness requirement out of § 1117(a ) ?
+Lacking any more obvious statutory hook , the company points to the language indicating that a violation under § 1125(a ) can trigger an award of the defendant 's profits " subject to the principles of equity . "
+In Fossil 's telling , equity courts historically required a showing of willfulness before authorizing a profits remedy in trademark disputes .
+Admittedly , equity courts did n't require so much in patent infringement cases and other arguably analogous suits .
+See , e.g. , Dowagiac Mfg . Co. v. Minnesota Moline Plow Co. , 235 U.S. 641 , 644 , 650 - 651 , 35 S.Ct . 221 , 59 L.Ed . 398 ( 1915 ) .
+But , Fossil says , trademark is different .
+There alone , a willfulness requirement was so long and universally recognized that today it rises to the level of a " principle of equity " the Lanham Act carries forward .
+It 's a curious suggestion .
+Fossil 's contention that the term " principles of equity " includes a willfulness requirement would not directly contradict the statute 's other , express mens rea provisions or render them wholly superfluous .
+But it would require us to assume that Congress intended to incorporate a willfulness requirement here obliquely while it prescribed mens rea conditions expressly elsewhere throughout the Lanham Act .
+That might be possible , but on first blush it is n't exactly an obvious construction of the statute .
+Nor do matters improve with a second look .
+The phrase " principles of equity " does n't readily bring to mind a substantive rule about mens rea from a discrete domain like trademark law .
+In the context of this statute , it more naturally suggests fundamental rules that apply more systematically across claims and practice areas .
+A principle is a " fundamental truth or doctrine , as of law ; a comprehensive rule or doctrine which furnishes a basis or origin for others . " Black 's Law Dictionary 1417 ( 3d ed . 1933 ) ; Black 's Law Dictionary 1357 ( 4th ed . 1951 ) .
+And treatises and handbooks on the " principles of equity " generally contain transsubstantive guidance on broad and fundamental questions about matters like parties , modes of proof , defenses , and remedies .
+See , e.g. , E. Merwin , Principles of Equity and Equity Pleading ( 1895 ) ; J. Indermaur & C. Thwaites , Manual of the Principles of Equity ( 7th ed . 1913 ) ; H. Smith , Practical Exposition of the Principles of Equity ( 5th ed . 1914 ) ; R. Megarry , Snell 's Principles of Equity ( 23d ed . 1947 ) .
+Our precedent , too , has used the term " principles of equity " to refer to just such transsubstantive topics .
+See , e.g. , eBay Inc. v. MercExchange , L. L. C. , 547 U.S. 388 , 391 , 393 , 126 S.Ct . 1837 , 164 L.Ed.2d 641 ( 2006 ) ; Holmberg v. Armbrecht , 327 U.S. 392 , 395 , 66 S.Ct . 582 , 90 L.Ed . 743 ( 1946 ) .
+Congress itself has elsewhere used " equitable principles " in just this way : An amendment to a different section of the Lanham Act lists " laches , estoppel , and acquiescence " as examples of " equitable principles . "
+15 U.S.C. § 1069 .
+Given all this , it seems a little unlikely Congress meant " principles of equity " to direct us to a narrow rule about a profits remedy within trademark law .
+But even if we were to spot Fossil that first essential premise of its argument , the next has problems too .
+From the record the parties have put before us , it 's far from clear whether trademark law historically required a showing of willfulness before allowing a profits remedy .
+The Trademark Act of 1905 - the Lanham Act 's statutory predecessor which many earlier cases interpreted and applied - did not mention such a requirement .
+It 's true , as Fossil notes , that some courts proceeding before the 1905 Act , and even some later cases following that Act , did treat willfulness or something like it as a prerequisite for a profits award and rarely authorized profits for purely good - faith infringement .
+See , e.g. , Horlick 's Malted Milk Corp. v. Horluck 's , Inc. , 51 F.2d 357 , 359 ( W.D. Wash. 1931 ) ( explaining that the plaintiff " can not recover defendant 's profits unless it has been shown beyond a reasonable doubt that defendant was guilty of willful fraud in the use of the enjoined trade - name " ) ; see also Saxlehner v. Siegel - Cooper Co. , 179 U.S. 42 , 42 - 43 , 21 S.Ct . 16 , 45 L.Ed . 77 ( 1900 ) ( holding that one defendant " should not be required to account for gains and profits " when it " appear[ed ] to have acted in good faith " ) .
+But Romag cites other cases that expressly rejected any such rule .
+See , e.g. , Oakes v. Tonsmierre , 49 F. 447 , 453 ( C.C.S.D. Ala. 1883 ) ; see also Stonebraker v. Stonebraker , 33 Md. 252 , 268 ( 1870 ) ; Lawrence - Williams Co. v. Societe Enfants Gombault et Cie , 52 F.2d 774 , 778 ( C.A.6 1931 ) .
+The confusion does n't end there .
+Other authorities advanced still different understandings about the relationship between mens rea and profits awards in trademark cases .
+See , e.g. , H. Nims , Law of Unfair Competition and Trade - Marks § 424 ( 2d ed . 1917 ) ( " An accounting will not be ordered where the infringing party acted innocently and in ignorance of the plaintiff 's rights " ) ; N. Hesseltine , Digest of the Law of Trade - Marks and Unfair Trade 305 ( 1906 ) ( contrasting a case holding " [ n]o account as to profits allowed except as to user after knowledge of plaintiff 's right to trademark " and one permitting profits " although defendant did not know of infringement " ( emphasis added ) ) .
+And the vast majority of the cases both Romag and Fossil cite simply failed to speak clearly to the issue one way or another .
+See , e.g. , Hostetter v. Vowinkle , 12 F.Cas .
+546 , 547 ( No . 6,714 ) ( C.C.D. Neb. 1871 ) ; Graham v. Plate , 40 Cal . 593 , 597 - 599 ( 1871 ) ; Hemmeter Cigar Co. v. Congress Cigar Co. , 118 F.2d 64 , 71 - 72 ( C.A.6 1941 ) .
+At the end of it all , the most we can say with certainty is this .  
+Mens rea figured as an important consideration in awarding profits in pre - Lanham Act cases .
+This reflects the ordinary , transsubstantive principle that a defendant 's mental state is relevant to assigning an appropriate remedy .
+That principle arises not only in equity , but across many legal contexts .
+See , e.g. , Smith v. Wade , 461 U.S. 30 , 38 - 51 , 103 S.Ct . 1625 , 75 L.Ed.2d 632 ( 1983 ) ( 42 U.S.C. § 1983 ) ; Morissette v. United States , 342 U.S. 246 , 250 - 263 , 72 S.Ct . 240 , 96 L.Ed . 288 ( 1952 ) ( criminal law ) ; Wooden - Ware Co. v. United States , 106 U.S. 432 , 434 - 435 , 1 S.Ct . 398 , 27 L.Ed . 230 ( 1882 ) ( common law trespass ) .
+It 's a principle reflected in the Lanham Act 's text , too , which permits greater statutory damages for certain willful violations than for other violations .
+15 U.S.C. § 1117 ( c ) .
+And it is a principle long reflected in equity practice where district courts have often considered a defendant 's mental state , among other factors , when exercising their discretion in choosing a fitting remedy .
+See , e.g. , L. P. Larson , Jr. , Co. v. Wm . Wrigley , Jr. , Co. , 277 U.S. 97 , 99 - 100 , 48 S.Ct . 449 , 72 L.Ed . 800 ( 1928 ) ; Lander v. Lujan , 888 F.2d 153 , 155 - 156 ( C.A.D.C. 1989 ) ; United States v. Klimek , 952 F.Supp . 1100 , 1117 ( E.D. Pa. 1997 ) .
+Given these traditional principles , we do not doubt that a trademark defendant 's mental state is a highly important consideration in determining whether an award of profits is appropriate .
+But acknowledging that much is a far cry from insisting on the inflexible precondition to recovery Fossil advances .
+With little to work with in the statute 's language , structure , and history , Fossil ultimately rests on an appeal to policy .
+The company tells us that stouter restraints on profits awards are needed to deter " baseless " trademark suits .
+Meanwhile , Romag insists that its reading of the statute will promote greater respect for trademarks in the " modern global economy . "
+As these things go , amici amplify both sides ' policy arguments .
+Maybe , too , each side has a point .
+But the place for reconciling competing and incommensurable policy goals like these is before policymakers .
+This Court 's limited role is to read and apply the law those policymakers have ordained , and here our task is clear .
+The judgment of the court of appeals is vacated , and the case is remanded for further proceedings consistent with this opinion .
+It is so ordered .

@@ -1,0 +1,338 @@
+Justice KAVANAUGH , dissenting .
+Like many cases in this Court , this case boils down to one fundamental question : Who decides ?
+Title VII of the Civil Rights Act of 1964 prohibits employment discrimination " because of " an individual 's " race , color , religion , sex , or national origin . "
+The question here is whether Title VII should be expanded to prohibit employment discrimination because of sexual orientation .
+Under the Constitution 's separation of powers , the responsibility to amend Title VII belongs to Congress and the President in the legislative process , not to this Court .
+The political branches are well aware of this issue .
+In 2007 , the U.S. House of Representatives voted 235 to 184 to prohibit employment discrimination on the basis of sexual orientation .
+In 2013 , the U.S. Senate voted 64 to 32 in favor of a similar ban .
+In 2019 , the House again voted 236 to 173 to outlaw employment discrimination on the basis of sexual orientation .
+Although both the House and Senate have voted at different times to prohibit sexual orientation discrimination , the two Houses have not yet come together with the President to enact a bill into law .
+The policy arguments for amending Title VII are very weighty .
+The Court has previously stated , and I fully agree , that gay and lesbian Americans " can not be treated as social outcasts or as inferior in dignity and worth . "
+Masterpiece Cakeshop , Ltd. v. Colorado Civil Rights Comm'n , 584 U.S. ---- , ---- , 138 S.Ct . 1719 , 1727 , 201 L.Ed.2d 35 ( 2018 ) .
+But we are judges , not Members of Congress .
+And in Alexander Hamilton 's words , federal judges exercise " neither Force nor Will , but merely judgment . "
+The Federalist No . 78 , p. 523 ( J. Cooke ed . 1961 ) .
+Under the Constitution 's separation of powers , our role as judges is to interpret and follow the law as written , regardless of whether we like the result .
+Cf . Texas v. Johnson , 491 U.S. 397 , 420 - 421 , 109 S.Ct . 2533 , 105 L.Ed.2d 342 ( 1989 ) ( Kennedy , J. , concurring ) .
+Our role is not to make or amend the law .
+As written , Title VII does not prohibit employment discrimination because of sexual orientation .
+I
+Title VII makes it unlawful for employers to discriminate because of " race , color , religion , sex , or national origin . "
+42 U.S.C. § 2000e-2(a)(1 ) .
+As enacted in 1964 , Title VII did not prohibit other forms of employment discrimination , such as age discrimination , disability discrimination , or sexual orientation discrimination .
+Over time , Congress has enacted new employment discrimination laws .
+In 1967 , Congress passed and President Johnson signed the Age Discrimination in Employment Act .
+81 Stat . 602 .
+In 1973 , Congress passed and President Nixon signed the Rehabilitation Act , which in substance prohibited disability discrimination against federal and certain other employees .
+87 Stat . 355 .
+In 1990 , Congress passed and President George H. W. Bush signed the comprehensive Americans with Disabilities Act .
+104 Stat . 327 .
+To prohibit age discrimination and disability discrimination , this Court did not unilaterally rewrite or update the law .
+Rather , Congress and the President enacted new legislation , as prescribed by the Constitution 's separation of powers .
+For several decades , Congress has considered numerous bills to prohibit employment discrimination based on sexual orientation .
+But as noted above , although Congress has come close , it has not yet shouldered a bill over the legislative finish line .
+In the face of the unsuccessful legislative efforts ( so far ) to prohibit sexual orientation discrimination , judges may not rewrite the law simply because of their own policy views .
+Judges may not update the law merely because they think that Congress does not have the votes or the fortitude .
+Judges may not predictively amend the law just because they believe that Congress is likely to do it soon anyway .
+If judges could rewrite laws based on their own policy views , or based on their own assessments of likely future legislative action , the critical distinction between legislative authority and judicial authority that undergirds the Constitution 's separation of powers would collapse , thereby threatening the impartial rule of law and individual liberty .
+As James Madison stated : " Were the power of judging joined with the legislative , the life and liberty of the subject would be exposed to arbitrary controul , for the judge would then be the legislator . "
+The Federalist No . 47 , at 326 ( citing Montesquieu ) .
+If judges could , for example , rewrite or update securities laws or healthcare laws or gun laws or environmental laws simply based on their own policy views , the Judiciary would become a democratically illegitimate super - legislature - unelected , and hijacking the important policy decisions reserved by the Constitution to the people 's elected representatives .
+Because judges interpret the law as written , not as they might wish it were written , the first 10 U.S. Courts of Appeals to consider whether Title VII prohibits sexual orientation discrimination all said no .
+Some 30 federal judges considered the question .
+All 30 judges said no , based on the text of the statute .
+30 out of 30 .
+But in the last few years , a new theory has emerged .
+To end - run the bedrock separation - of - powers principle that courts may not unilaterally rewrite statutes , the plaintiffs here ( and , recently , two Courts of Appeals ) have advanced a novel and creative argument .
+They contend that discrimination " because of sexual orientation " and discrimination " because of sex " are actually not separate categories of discrimination after all .
+Instead , the theory goes , discrimination because of sexual orientation always qualifies as discrimination because of sex :
+When a gay man is fired because he is gay , he is fired because he is attracted to men , even though a similarly situated woman would not be fired just because she is attracted to men .
+According to this theory , it follows that the man has been fired , at least as a literal matter , because of his sex .
+Under this literalist approach , sexual orientation discrimination automatically qualifies as sex discrimination , and Title VII 's prohibition against sex discrimination therefore also prohibits sexual orientation discrimination - and actually has done so since 1964 , unbeknownst to everyone .
+Surprisingly , the Court today buys into this approach .
+Ante , at 1758 - 1760 .
+For the sake of argument , I will assume that firing someone because of their sexual orientation may , as a very literal matter , entail making a distinction based on sex .
+But to prevail in this case with their literalist approach , the plaintiffs must also establish one of two other points .
+The plaintiffs must establish that courts , when interpreting a statute , adhere to literal meaning rather than ordinary meaning .
+Or alternatively , the plaintiffs must establish that the ordinary meaning of " discriminate because of sex"-not just the literal meaning - encompasses sexual orientation discrimination .
+The plaintiffs fall short on both counts .
+First , courts must follow ordinary meaning , not literal meaning .
+And courts must adhere to the ordinary meaning of phrases , not just the meaning of the words in a phrase .
+There is no serious debate about the foundational interpretive principle that courts adhere to ordinary meaning , not literal meaning , when interpreting statutes .
+As Justice Scalia explained , " the good textualist is not a literalist . "
+A. Scalia , A Matter of Interpretation 24 ( 1997 ) .
+Or as Professor Eskridge stated : The " prime directive in statutory interpretation is to apply the meaning that a reasonable reader would derive from the text of the law , " so that " for hard cases as well as easy ones , the ordinary meaning ( or the ' everyday meaning ' or the ' commonsense ' reading ) of the relevant statutory text is the anchor for statutory interpretation . "
+W. Eskridge , Interpreting Law 33 , 34 - 35 ( 2016 ) ( footnote omitted ) .
+Or as Professor Manning put it , proper statutory interpretation asks " how a reasonable person , conversant with the relevant social and linguistic conventions , would read the text in context .
+This approach recognizes that the literal or dictionary definitions of words will often fail to account for settled nuances or background conventions that qualify the literal meaning of language and , in particular , of legal language . "
+Manning , The Absurdity Doctrine , 116 Harv . L. Rev. 2387 , 2392 - 2393 ( 2003 ) .
+Or as Professor Nelson wrote : No " mainstream judge is interested solely in the literal definitions of a statute 's words . "
+Nelson , What Is Textualism ? , 91 Va. L. Rev. 347 , 376 ( 2005 ) .
+The ordinary meaning that counts is the ordinary public meaning at the time of enactment - although in this case , that temporal principle matters little because the ordinary meaning of " discriminate because of sex " was the same in 1964 as it is now .
+Judges adhere to ordinary meaning for two main reasons : rule of law and democratic accountability .
+A society governed by the rule of law must have laws that are known and understandable to the citizenry .
+And judicial adherence to ordinary meaning facilitates the democratic accountability of America 's elected representatives for the laws they enact .
+Citizens and legislators must be able to ascertain the law by reading the words of the statute .
+Both the rule of law and democratic accountability badly suffer when a court adopts a hidden or obscure interpretation of the law , and not its ordinary meaning .
+Consider a simple example of how ordinary meaning differs from literal meaning .
+A statutory ban on " vehicles in the park " would literally encompass a baby stroller .
+But no good judge would interpret the statute that way because the word " vehicle , " in its ordinary meaning , does not encompass baby strollers .
+The ordinary meaning principle is longstanding and well settled .
+Time and again , this Court has rejected literalism in favor of ordinary meaning .
+Take a few examples :
+The Court recognized that beans may be seeds " in the language of botany or natural history , " but concluded that beans are not seeds " in commerce " or " in common parlance . "
+Robertson v. Salomon , 130 U.S. 412 , 414 , 9 S.Ct . 559 , 32 L.Ed . 995 ( 1889 ) .
+The Court explained that tomatoes are literally " the fruit of a vine , " but " in the common language of the people , " tomatoes are vegetables .
+Nix v. Hedden , 149 U.S. 304 , 307 , 13 S.Ct . 881 , 37 L.Ed . 745 ( 1893 ) .
+The Court stated that the statutory term " vehicle " does not cover an aircraft : " No doubt etymologically it is possible to use the word to signify a conveyance working on land , water or air ....
+But in everyday speech ' vehicle ' calls up the picture of a thing moving on land . "
+McBoyle v. United States , 283 U.S. 25 , 26 , 51 S.Ct . 340 , 75 L.Ed . 816 ( 1931 ) .
+The Court pointed out that " this Court 's interpretation of the three - judge - court statutes has frequently deviated from the path of literalism . "
+Gonzalez v. Automatic Employees Credit Union , 419 U.S. 90 , 96 , 95 S.Ct . 289 , 42 L.Ed.2d 249 ( 1974 ) .
+The Court refused a reading of " mineral deposits " that would include water , even if " water is a ' mineral , ' in the broadest sense of that word , " because it would bring about a " major ... alteration in established legal relationships based on nothing more than an overly literal reading of a statute , without any regard for its context or history . "
+Andrus v. Charlestone Stone Products Co. , 436 U.S. 604 , 610 , 616 , 98 S.Ct . 2002 , 56 L.Ed.2d 570 ( 1978 ) .
+The Court declined to interpret " facilitating " a drug distribution crime in a way that would cover purchasing drugs , because the " literal sweep of ' facilitate ' sits uncomfortably with common usage . "
+Abuelhawa v. United States , 556 U.S. 816 , 820 , 129 S.Ct . 2102 , 173 L.Ed.2d 982 ( 2009 ) .
+The Court rebuffed a literal reading of " personnel rules " that would encompass any rules that personnel must follow ( as opposed to human resources rules about personnel ) , and stated that no one " using ordinary language would describe " personnel rules " in this manner . "
+Milner v. Department of Navy , 562 U.S. 562 , 578 , 131 S.Ct . 1259 , 179 L.Ed.2d 268 ( 2011 ) .
+The Court explained that , when construing statutory phrases such as " arising from , " it avoids " uncritical literalism leading to results that no sensible person could have intended . "
+Jennings v. Rodriguez , 583 U.S. ---- , ---- - ---- , 138 S.Ct . 830 , 840 , 200 L.Ed.2d 122 ( 2018 ) ( plurality opinion ) ( internal quotation marks omitted ) .
+Those cases exemplify a deeply rooted principle : When there is a divide between the literal meaning and the ordinary meaning , courts must follow the ordinary meaning .
+Next is a critical point of emphasis in this case .
+The difference between literal and ordinary meaning becomes especially important when - as in this case - judges consider phrases in statutes .
+( Recall that the shorthand version of the phrase at issue here is " discriminate because of sex . " )
+Courts must heed the ordinary meaning of the phrase as a whole , not just the meaning of the words in the phrase .
+That is because a phrase may have a more precise or confined meaning than the literal meaning of the individual words in the phrase .
+Examples abound .
+An " American flag " could literally encompass a flag made in America , but in common parlance it denotes the Stars and Stripes .
+A " three - pointer " could literally include a field goal in football , but in common parlance , it is a shot from behind the arc in basketball .
+A " cold war " could literally mean any wintertime war , but in common parlance it signifies a conflict short of open warfare .
+A " washing machine " could literally refer to any machine used for washing any item , but in everyday speech it means a machine for washing clothes .
+This Court has often emphasized the importance of sticking to the ordinary meaning of a phrase , rather than the meaning of words in the phrase .
+In FCC v. AT&T Inc. , 562 U.S. 397 , 131 S.Ct . 1177 , 179 L.Ed.2d 132 ( 2011 ) , for example , the Court explained :
+" AT&T 's argument treats the term ' personal privacy ' as simply the sum of its two words : the privacy of a person ....
+But two words together may assume a more particular meaning than those words in isolation .
+We understand a golden cup to be a cup made of or resembling gold .
+A golden boy , on the other hand , is one who is charming , lucky , and talented .
+A golden opportunity is one not to be missed . ' Personal ' in the phrase ' personal privacy ' conveys more than just ' of a person . '
+It suggests a type of privacy evocative of human concerns - not the sort usually associated with an entity like , say , AT&T. "
+Id. , at 406 , 131 S.Ct . 1177 .
+Exactly right and exactly on point in this case .
+Justice Scalia explained the extraordinary importance of hewing to the ordinary meaning of a phrase : " Adhering to the fair meaning of the text ( the textualist 's touchstone ) does not limit one to the hyperliteral meaning of each word in the text .
+In the words of Learned Hand : ' a sterile literalism ... loses sight of the forest for the trees . '
+The full body of a text contains implications that can alter the literal meaning of individual words . "
+A. Scalia & B. Garner , Reading Law 356 ( 2012 ) ( footnote omitted ) .
+Put another way , " the meaning of a sentence may be more than that of the separate words , as a melody is more than the notes . "
+Helvering v. Gregory , 69 F.2d 809 , 810 - 811 ( CA2 1934 ) ( L. Hand , J. ) .
+Judges must take care to follow ordinary meaning " when two words combine to produce a meaning that is not the mechanical composition of the two words separately . "
+Eskridge , Interpreting Law , at 62 .
+Dictionaries are not " always useful for determining the ordinary meaning of word clusters ( like ' driving a vehicle ' ) or phrases and clauses or entire sentences . "
+Id. , at 44 .
+And we must recognize that a phrase can cover a " dramatically smaller category than either component term . "
+Id. , at 62 .
+If the usual evidence indicates that a statutory phrase bears an ordinary meaning different from the literal strung - together definitions of the individual words in the phrase , we may not ignore or gloss over that discrepancy .
+" Legislation can not sensibly be interpreted by stringing together dictionary synonyms of each word and proclaiming that , if the right example of the meaning of each is selected , the ' plain meaning ' of the statute leads to a particular result .
+No theory of interpretation , including textualism itself , is premised on such an approach . "
+883 F.3d 100 , 144 , n. 7 ( CA2 2018 ) ( Lynch , J. , dissenting ) .
+In other words , this Court 's precedents and longstanding principles of statutory interpretation teach a clear lesson : Do not simply split statutory phrases into their component words , look up each in a dictionary , and then mechanically put them together again , as the majority opinion today mistakenly does .
+See ante , at 1756 - 1759 .
+To reiterate Justice Scalia 's caution , that approach misses the forest for the trees .
+A literalist approach to interpreting phrases disrespects ordinary meaning and deprives the citizenry of fair notice of what the law is .
+It destabilizes the rule of law and thwarts democratic accountability .
+For phrases as well as terms , the " linchpin of statutory interpretation is ordinary meaning , for that is going to be most accessible to the citizenry desirous of following the law and to the legislators and their staffs drafting the legal terms of the plans launched by statutes and to the administrators and judges implementing the statutory plan . "
+Eskridge , Interpreting Law , at 81 ; see Scalia , A Matter of Interpretation , at 17 .
+Bottom line : Statutory Interpretation 101 instructs courts to follow ordinary meaning , not literal meaning , and to adhere to the ordinary meaning of phrases , not just the meaning of the words in a phrase .
+Second , in light of the bedrock principle that we must adhere to the ordinary meaning of a phrase , the question in this case boils down to the ordinary meaning of the phrase " discriminate because of sex . "
+Does the ordinary meaning of that phrase encompass discrimination because of sexual orientation ?
+The answer is plainly no .
+On occasion , it can be difficult for judges to assess ordinary meaning .
+Not here .
+Both common parlance and common legal usage treat sex discrimination and sexual orientation discrimination as two distinct categories of discrimination - back in 1964 and still today .
+As to common parlance , few in 1964 ( or today ) would describe a firing because of sexual orientation as a firing because of sex .
+As commonly understood , sexual orientation discrimination is distinct from , and not a form of , sex discrimination .
+The majority opinion acknowledges the common understanding , noting that the plaintiffs here probably did not tell their friends that they were fired because of their sex .
+Ante , at 1762 - 1763 .
+That observation is clearly correct .
+In common parlance , Bostock and Zarda were fired because they were gay , not because they were men .
+Contrary to the majority opinion 's approach today , this Court has repeatedly emphasized that common parlance matters in assessing the ordinary meaning of a statute , because courts heed how " most people " " would have understood " the text of a statute when enacted .
+New Prime Inc. v. Oliveira , 586 U.S. ---- , ---- - ---- , 139 S.Ct . 532 , 538 - 539 , 202 L.Ed.2d 536 ( 2019 ) ; see Henson v. Santander Consumer USA Inc. , 582 U.S. ---- , ---- , 137 S.Ct . 1718 , 1722 , 198 L.Ed.2d 177 ( 2017 ) ( using a conversation between friends to demonstrate ordinary meaning ) ; see also Wisconsin Central Ltd. v. United States , 585 U.S. ---- , ---- - ---- , 138 S.Ct . 2067 , 2070 - 2071 , 201 L.Ed.2d 490 ( 2018 ) ( similar ) ; AT&T , 562 U.S. at 403 - 404 , 131 S.Ct . 1177 ( similar ) .
+Consider the employer who has four employees but must fire two of them for financial reasons .
+Suppose the four employees are a straight man , a straight woman , a gay man , and a lesbian .
+The employer with animosity against women ( animosity based on sex ) will fire the two women .
+The employer with animosity against gays ( animosity based on sexual orientation ) will fire the gay man and the lesbian .
+Those are two distinct harms caused by two distinct biases that have two different outcomes .
+To treat one as a form of the other - as the majority opinion does - misapprehends common language , human psychology , and real life .
+See Hively v. Ivy Tech Community College of Ind. , 853 F.3d 339 , 363 ( CA7 2017 ) ( Sykes , J. , dissenting ) .
+It also rewrites history .
+Seneca Falls was not Stonewall .
+The women 's rights movement was not ( and is not ) the gay rights movement , although many people obviously support or participate in both .
+So to think that sexual orientation discrimination is just a form of sex discrimination is not just a mistake of language and psychology , but also a mistake of history and sociology .
+Importantly , an overwhelming body of federal law reflects and reinforces the ordinary meaning and demonstrates that sexual orientation discrimination is distinct from , and not a form of , sex discrimination .
+Since enacting Title VII in 1964 , Congress has never treated sexual orientation discrimination the same as , or as a form of , sex discrimination .
+Instead , Congress has consistently treated sex discrimination and sexual orientation discrimination as legally distinct categories of discrimination .
+Many federal statutes prohibit sex discrimination , and many federal statutes also prohibit sexual orientation discrimination .
+But those sexual orientation statutes expressly prohibit sexual orientation discrimination in addition to expressly prohibiting sex discrimination .
+Every single one .
+To this day , Congress has never defined sex discrimination to encompass sexual orientation discrimination .
+Instead , when Congress wants to prohibit sexual orientation discrimination in addition to sex discrimination , Congress explicitly refers to sexual orientation discrimination .
+That longstanding and widespread congressional practice matters .
+When interpreting statutes , as the Court has often said , we " usually presume differences in language " convey " differences in meaning . "
+Wisconsin Central , 585 U.S. , at ---- , 138 S.Ct . , at 2071 ( internal quotation marks omitted ) .
+When Congress chooses distinct phrases to accomplish distinct purposes , and does so over and over again for decades , we may not lightly toss aside all of Congress 's careful handiwork .
+As Justice Scalia explained for the Court , " it is not our function " to " treat alike subjects that different Congresses have chosen to treat differently . "
+West Virginia Univ . Hospitals , Inc. v. Casey , 499 U.S. 83 , 101 , 111 S.Ct . 1138 , 113 L.Ed.2d 68 ( 1991 ) ; see i d. , at 92 , 111 S.Ct . 1138 .
+And the Court has likewise stressed that we may not read " a specific concept into general words when precise language in other statutes reveals that Congress knew how to identify that concept . "
+Eskridge , Interpreting Law , at 415 ; see University of Tex . Southwestern Medical Center v. Nassar , 570 U.S. 338 , 357 , 133 S.Ct . 2517 , 186 L.Ed.2d 503 ( 2013 ) ; Arlington Central School Dist . Bd . of Ed . v. Murphy , 548 U.S. 291 , 297 - 298 , 126 S.Ct . 2455 , 165 L.Ed.2d 526 ( 2006 ) ;
+Jama v. Immigration and Customs Enforcement , 543 U.S. 335 , 341 - 342 , 125 S.Ct . 694 , 160 L.Ed.2d 708 ( 2005 ) ; Custis v. United States , 511 U.S. 485 , 491 - 493 , 114 S.Ct . 1732 , 128 L.Ed.2d 517 ( 1994 ) ; West Virginia Univ . Hospitals , 499 U.S. at 99 , 111 S.Ct . 1138 .
+So it is here .
+As demonstrated by all of the statutes covering sexual orientation discrimination , Congress knows how to prohibit sexual orientation discrimination .
+So courts should not read that specific concept into the general words " discriminate because of sex . "
+We can not close our eyes to the indisputable fact that Congress - for several decades in a large number of statutes - has identified sex discrimination and sexual orientation discrimination as two distinct categories .
+Where possible , we also strive to interpret statutes so as not to create undue surplusage .
+It is not uncommon to find some scattered redundancies in statutes .
+But reading sex discrimination to encompass sexual orientation discrimination would cast aside as surplusage the numerous references to sexual orientation discrimination sprinkled throughout the U.S. Code in laws enacted over the last 25 years .
+In short , an extensive body of federal law both reflects and reinforces the widespread understanding that sexual orientation discrimination is distinct from , and not a form of , sex discrimination .
+The story is the same with bills proposed in Congress .
+Since the 1970s , Members of Congress have introduced many bills to prohibit sexual orientation discrimination in the workplace .
+Until very recently , all of those bills would have expressly established sexual orientation as a separately proscribed category of discrimination .
+The bills did not define sex discrimination to encompass sexual orientation discrimination .
+The proposed bills are telling not because they are relevant to congressional intent regarding Title VII .
+See Central Bank of Denver , N.A. v. First Interstate Bank of Denver , N.A. , 511 U.S. 164 , 186 - 188 , 114 S.Ct . 1439 , 128 L.Ed.2d 119 ( 1994 ) .
+Rather , the proposed bills are telling because they , like the enacted laws , further demonstrate the widespread usage of the English language in the United States : Sexual orientation discrimination is distinct from , and not a form of , sex discrimination .
+Presidential Executive Orders reflect that same common understanding .
+In 1967 , President Johnson signed an Executive Order prohibiting sex discrimination in federal employment .
+In 1969 , President Nixon issued a new order that did the same .
+Exec . Order No . 11375 , 3 CFR 684 ( 1966 - 1970 Comp . ) ; Exec . Order No . 11478 , i d. , at 803 .
+In 1998 , President Clinton charted a new path and signed an Executive Order prohibiting sexual orientation discrimination in federal employment .
+Exec . Order No . 13087 , 3 CFR 191 ( 1999 ) .
+The Nixon and Clinton Executive Orders remain in effect today .
+Like the relevant federal statutes , the 1998 Clinton Executive Order expressly added sexual orientation as a new , separately prohibited form of discrimination .
+As Judge Lynch cogently spelled out , " the Clinton Administration did not argue that the prohibition of sex discrimination in " the prior 1969 Executive Order " already banned , or henceforth would be deemed to ban , sexual orientation discrimination . "
+883 F.3d at 152 , n. 22 ( dissenting opinion ) .
+In short , President Clinton 's 1998 Executive Order indicates that the Executive Branch , like Congress , has long understood sexual orientation discrimination to be distinct from , and not a form of , sex discrimination .
+Federal regulations likewise reflect that same understanding .
+The Office of Personnel Management is the federal agency that administers and enforces personnel rules across the Federal Government .
+OPM has issued regulations that " govern ... the employment practices of the Federal Government generally , and of individual agencies . "
+5 CFR § § 300.101 , 300.102 ( 2019 ) .
+Like the federal statutes and the Presidential Executive Orders , those OPM regulations separately prohibit sex discrimination and sexual orientation discrimination .
+The States have proceeded in the same fashion .
+A majority of States prohibit sexual orientation discrimination in employment , either by legislation applying to most workers , an executive order applying to public employees , or both .
+Almost every state statute or executive order proscribing sexual orientation discrimination expressly prohibits sexual orientation discrimination separately from the State 's ban on sex discrimination .
+That common usage in the States underscores that sexual orientation discrimination is commonly understood as a legal concept distinct from sex discrimination .
+And it is the common understanding in this Court as well .
+Since 1971 , the Court has employed rigorous or heightened constitutional scrutiny of laws that classify on the basis of sex .
+See United States v. Virginia , 518 U.S. 515 , 531 - 533 , 116 S.Ct . 2264 , 135 L.Ed.2d 735 ( 1996 ) ; J. E. B. v. Alabama ex rel . T. B. , 511 U.S. 127 , 136 - 137 , 114 S.Ct . 1419 , 128 L.Ed.2d 89 ( 1994 ) ; Craig v. Boren , 429 U.S. 190 , 197 - 199 , 97 S.Ct . 451 , 50 L.Ed.2d 397 ( 1976 ) ; Frontiero v. Richardson , 411 U.S. 677 , 682 - 684 , 93 S.Ct . 1764 , 36 L.Ed.2d 583 ( 1973 ) ( plurality opinion ) ; Reed v. Reed , 404 U.S. 71 , 75 - 77 , 92 S.Ct . 251 , 30 L.Ed.2d 225 ( 1971 ) .
+Over the last several decades , the Court has also decided many cases involving sexual orientation .
+But in those cases , the Court never suggested that sexual orientation discrimination is just a form of sex discrimination .
+All of the Court 's cases from Bowers to Romer to Lawrence to Windsor to Obergefell would have been far easier to analyze and decide if sexual orientation discrimination were just a form of sex discrimination and therefore received the same heightened scrutiny as sex discrimination under the Equal Protection Clause .
+See Bowers v. Hardwick , 478 U.S. 186 , 106 S.Ct . 2841 , 92 L.Ed.2d 140 ( 1986 ) ; Romer v. Evans , 517 U.S. 620 , 116 S.Ct . 1620 , 134 L.Ed.2d 855 ( 1996 ) ; Lawrence v. Texas , 539 U.S. 558 , 123 S.Ct . 2472 , 156 L.Ed.2d 508 ( 2003 ) ; United States v. Windsor , 570 U.S. 744 , 133 S.Ct . 2675 , 186 L.Ed.2d 808 ( 2013 ) ; Obergefell v. Hodges , 576 U.S. 644 , 135 S.Ct . 2584 , 192 L.Ed.2d 609 ( 2015 ) .
+Did the Court in all of those sexual orientation cases just miss that obvious answer - and overlook the fact that sexual orientation discrimination is actually a form of sex discrimination ?
+That seems implausible .
+Nineteen Justices have participated in those cases .
+Not a single Justice stated or even hinted that sexual orientation discrimination was just a form of sex discrimination and therefore entitled to the same heightened scrutiny under the Equal Protection Clause .
+The opinions in those five cases contain no trace of such reasoning .
+That is presumably because everyone on this Court , too , has long understood that sexual orientation discrimination is distinct from , and not a form of , sex discrimination .
+In sum , all of the usual indicators of ordinary meaning - common parlance , common usage by Congress , the practice in the Executive Branch , the laws in the States , and the decisions of this Court - overwhelmingly establish that sexual orientation discrimination is distinct from , and not a form of , sex discrimination .
+The usage has been consistent across decades , in both the federal and state contexts .
+Judge Sykes summarized the law and language this way : " To a fluent speaker of the English language - then and now- ... discrimination ' because of sex ' is not reasonably understood to include discrimination based on sexual orientation , a different immutable characteristic .
+Classifying people by sexual orientation is different than classifying them by sex .
+The two traits are categorically distinct and widely recognized as such .
+There is no ambiguity or vagueness here . "
+Hively , 853 F.3d at 363 ( dissenting opinion ) .
+To tie it all together , the plaintiffs have only two routes to succeed here .
+Either they can say that literal meaning overrides ordinary meaning when the two conflict .
+Or they can say that the ordinary meaning of the phrase " discriminate because of sex " encompasses sexual orientation discrimination .
+But the first flouts long - settled principles of statutory interpretation .
+And the second contradicts the widespread ordinary use of the English language in America .
+II
+Until the last few years , every U.S. Court of Appeals to address this question concluded that Title VII does not prohibit discrimination because of sexual orientation .
+As noted above , in the first 10 Courts of Appeals to consider the issue , all 30 federal judges agreed that Title VII does not prohibit sexual orientation discrimination .
+30 out of 30 judges .
+The unanimity of those 30 federal judges shows that the question as a matter of law , as compared to as a matter of policy , was not deemed close .
+Those 30 judges realized a seemingly obvious point : Title VII is not a general grant of authority for judges to fashion an evolving common law of equal treatment in the workplace .
+Rather , Title VII identifies certain specific categories of prohibited discrimination .
+And under the separation of powers , Congress - not the courts - possesses the authority to amend or update the law , as Congress has done with age discrimination and disability discrimination , for example .
+So what changed from the situation only a few years ago when 30 out of 30 federal judges had agreed on this question ?
+Not the text of Title VII .
+The law has not changed .
+Rather , the judges ' decisions have evolved .
+To be sure , the majority opinion today does not openly profess that it is judicially updating or amending Title VII .
+Cf . Hively , 853 F.3d at 357 ( Posner , J. , concurring ) .
+But the majority opinion achieves the same outcome by seizing on literal meaning and overlooking the ordinary meaning of the phrase " discriminate because of sex . "
+Although the majority opinion acknowledges that the meaning of a phrase and the meaning of a phrase 's individual words could differ , it dismisses phrasal meaning for purposes of this case .
+The majority opinion repeatedly seizes on the meaning of the statute 's individual terms , mechanically puts them back together , and generates an interpretation of the phrase " discriminate because of sex " that is literal .
+See ante , at 1756 - 1759 , 1763 , 1766 - 1768 .
+But to reiterate , that approach to statutory interpretation is fundamentally flawed .
+Bedrock principles of statutory interpretation dictate that we look to ordinary meaning , not literal meaning , and that we likewise adhere to the ordinary meaning of phrases , not just the meaning of words in a phrase .
+And the ordinary meaning of the phrase " discriminate because of sex " does not encompass sexual orientation discrimination .
+The majority opinion deflects that critique by saying that courts should base their interpretation of statutes on the text as written , not on the legislators ' subjective intentions .
+Ante , at 1764 - 1765 , 1766 - 1770 .
+Of course that is true .
+No one disagrees .
+It is " the provisions of our laws rather than the principal concerns of our legislators by which we are governed . "
+Oncale v. Sundowner Offshore Services , Inc. , 523 U.S. 75 , 79 , 118 S.Ct . 998 , 140 L.Ed.2d 201 ( 1998 ) .
+But in my respectful view , the majority opinion makes a fundamental mistake by confusing ordinary meaning with subjective intentions .
+To briefly explain : In the early years after Title VII was enacted , some may have wondered whether Title VII 's prohibition on sex discrimination protected male employees .
+After all , covering male employees may not have been the intent of some who voted for the statute .
+Nonetheless , discrimination on the basis of sex against women and discrimination on the basis of sex against men are both understood as discrimination because of sex ( back in 1964 and now ) and are therefore encompassed within Title VII .
+Cf . i d. , at 78 - 79 , 118 S.Ct . 998 ; see Newport News Shipbuilding & Dry Dock Co. v. EEOC , 462 U.S. 669 , 682 - 685 , 103 S.Ct . 2622 , 77 L.Ed.2d 89 ( 1983 ) .
+So too , regardless of what the intentions of the drafters might have been , the ordinary meaning of the law demonstrates that harassing an employee because of her sex is discriminating against the employee because of her sex with respect to the " terms , conditions , or privileges of employment , " as this Court rightly concluded .
+Meritor Savings Bank , FSB v. Vinson , 477 U.S. 57 , 64 , 106 S.Ct . 2399 , 91 L.Ed.2d 49 ( 1986 ) ( internal quotation marks omitted ) .
+By contrast , this case involves sexual orientation discrimination , which has long and widely been understood as distinct from , and not a form of , sex discrimination .
+Until now , federal law has always reflected that common usage and recognized that distinction between sex discrimination and sexual orientation discrimination .
+To fire one employee because she is a woman and another employee because he is gay implicates two distinct societal concerns , reveals two distinct biases , imposes two distinct harms , and falls within two distinct statutory prohibitions .
+To be sure , as Judge Lynch appropriately recognized , it is " understandable " that those seeking legal protection for gay people " search for innovative arguments to classify workplace bias against gays as a form of discrimination that is already prohibited by federal law .
+But the arguments advanced by the majority ignore the evident meaning of the language of Title VII , the social realities that distinguish between the kinds of biases that the statute sought to exclude from the workplace from those it did not , and the distinctive nature of anti - gay prejudice . "
+883 F.3d at 162 ( dissenting opinion ) .
+The majority opinion insists that it is not rewriting or updating Title VII , but instead is just humbly reading the text of the statute as written .
+But that assertion is tough to accept .
+Most everyone familiar with the use of the English language in America understands that the ordinary meaning of sexual orientation discrimination is distinct from the ordinary meaning of sex discrimination .
+Federal law distinguishes the two .
+State law distinguishes the two .
+This Court 's cases distinguish the two .
+Statistics on discrimination distinguish the two .
+History distinguishes the two .
+Psychology distinguishes the two .
+Sociology distinguishes the two .
+Human resources departments all over America distinguish the two .
+Sports leagues distinguish the two .
+Political groups distinguish the two .
+Advocacy groups distinguish the two .
+Common parlance distinguishes the two .
+Common sense distinguishes the two .
+As a result , many Americans will not buy the novel interpretation unearthed and advanced by the Court today .
+Many will no doubt believe that the Court has unilaterally rewritten American vocabulary and American law - a " statutory amendment courtesy of unelected judges . "
+Hively , 853 F.3d at 360 ( Sykes , J. , dissenting ) .
+Some will surmise that the Court succumbed to " the natural desire that beguiles judges along with other human beings into imposing their own views of goodness , truth , and justice upon others . "
+Furman v. Georgia , 408 U.S. 238 , 467 , 92 S.Ct . 2726 , 33 L.Ed.2d 346 ( 1972 ) ( Rehnquist , J. , dissenting ) .
+I have the greatest , and unyielding , respect for my colleagues and for their good faith .
+But when this Court usurps the role of Congress , as it does today , the public understandably becomes confused about who the policymakers really are in our system of separated powers , and inevitably becomes cynical about the oft - repeated aspiration that judges base their decisions on law rather than on personal preference .
+The best way for judges to demonstrate that we are deciding cases based on the ordinary meaning of the law is to walk the walk , even in the hard cases when we might prefer a different policy outcome .
+* * *
+In judicially rewriting Title VII , the Court today cashiers an ongoing legislative process , at a time when a new law to prohibit sexual orientation discrimination was probably close at hand .
+After all , even back in 2007 - a veritable lifetime ago in American attitudes about sexual orientation - the House voted 235 to 184 to prohibit sexual orientation discrimination in employment .
+H.R. 3685 , 110th Cong . , 1st Sess .
+In 2013 , the Senate overwhelmingly approved a similar bill , 64 to 32 .
+S. 815 , 113th Cong . , 1st Sess .
+In 2019 , the House voted 236 to 173 to amend Title VII to prohibit employment discrimination on the basis of sexual orientation .
+H.R. 5 , 116th Cong . , 1st Sess .
+It was therefore easy to envision a day , likely just in the next few years , when the House and Senate took historic votes on a bill that would prohibit employment discrimination on the basis of sexual orientation .
+It was easy to picture a massive and celebratory Presidential signing ceremony in the East Room or on the South Lawn .
+It is true that meaningful legislative action takes time - often too much time , especially in the unwieldy morass on Capitol Hill .
+But the Constitution does not put the Legislative Branch in the " position of a television quiz show contestant so that when a given period of time has elapsed and a problem remains unsolved by them , the federal judiciary may press a buzzer and take its turn at fashioning a solution . "
+Rehnquist , The Notion of a Living Constitution , 54 Texas L. Rev. 693 , 700 ( 1976 ) .
+The proper role of the Judiciary in statutory interpretation cases is " to apply , not amend , the work of the People 's representatives , " even when the judges might think that " Congress should reenter the field and alter the judgments it made in the past . "
+Henson , 582 U.S. , at ---- - ---- , 137 S.Ct . , at 1725 .
+Instead of a hard - earned victory won through the democratic process , today 's victory is brought about by judicial dictate - judges latching on to a novel form of living literalism to rewrite ordinary meaning and remake American law .
+Under the Constitution and laws of the United States , this Court is the wrong body to change American law in that way .
+The Court 's ruling " comes at a great cost to representative self - government . "
+Hively , 853 F.3d at 360 ( Sykes , J. , dissenting ) .
+And the implications of this Court 's usurpation of the legislative process will likely reverberate in unpredictable ways for years to come .
+Notwithstanding my concern about the Court 's transgression of the Constitution 's separation of powers , it is appropriate to acknowledge the important victory achieved today by gay and lesbian Americans .
+Millions of gay and lesbian Americans have worked hard for many decades to achieve equal treatment in fact and in law .
+They have exhibited extraordinary vision , tenacity , and grit - battling often steep odds in the legislative and judicial arenas , not to mention in their daily lives .
+They have advanced powerful policy arguments and can take pride in today 's result .
+Under the Constitution 's separation of powers , however , I believe that it was Congress 's role , not this Court 's , to amend Title VII .
+I therefore must respectfully dissent from the Court 's judgment .

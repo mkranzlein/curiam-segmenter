@@ -1,0 +1,175 @@
+Justice KAVANAUGH delivered the opinion of the Court .
+Under federal immigration law , noncitizens who commit certain crimes are removable from the United States .
+During removal proceedings , a noncitizen may raise claims under the international Convention Against Torture , known as CAT .
+If the noncitizen demonstrates that he likely would be tortured if removed to the designated country of removal , then he is entitled to CAT relief and may not be removed to that country ( although he still may be removed to other countries ) .
+If the immigration judge orders removal and denies CAT relief , the noncitizen may appeal to the Board of Immigration Appeals .
+If the Board of Immigration Appeals orders removal and denies CAT relief , the noncitizen may obtain judicial review in a federal court of appeals of both the final order of removal and the CAT order .
+In the court of appeals , for cases involving noncitizens who have committed any crime specified in 8 U.S.C. § 1252 ( a)(2)(C ) , federal law limits the scope of judicial review .
+Those noncitizens may obtain judicial review of constitutional and legal challenges to the final order of removal , but not of factual challenges to the final order of removal .
+Everyone agrees on all of the above .
+The dispute here concerns the scope of judicial review of CAT orders for those noncitizens who have committed crimes specified in § 1252(a)(2)(C ) .
+The Government argues that judicial review of a CAT order is analogous to judicial review of a final order of removal .
+The Government contends , in other words , that the court of appeals may review the noncitizen 's constitutional and legal challenges to a CAT order , but not the noncitizen 's factual challenges to the CAT order .
+Nasrallah responds that the court of appeals may review the noncitizen 's constitutional , legal , and factual challenges to the CAT order , although Nasrallah acknowledges that judicial review of factual challenges to CAT orders must be highly deferential .
+So the narrow question before the Court is whether , in a case involving a noncitizen who committed a crime specified in § 1252(a)(2)(C ) , the court of appeals should review the noncitizen 's factual challenges to the CAT order ( i ) not at all or ( ii ) deferentially .
+Based on the text of the statute , we conclude that the court of appeals should review factual challenges to the CAT order deferentially .
+We therefore reverse the judgment of the U. S. Court of Appeals for the Eleventh Circuit .
+I
+Nidal Khalid Nasrallah is a native and citizen of Lebanon .
+In 2006 , when he was 17 years old , Nasrallah came to the United States on a tourist visa .
+In 2007 , he became a lawful permanent resident .
+In 2013 , Nasrallah pled guilty to two counts of receiving stolen property .
+The U. S. District Court for the Western District of North Carolina sentenced Nasrallah to 364 days in prison .
+Based on Nasrallah 's conviction , the Government initiated deportation proceedings .
+See 8 U.S.C. § 1227 ( a)(2)(A)(i ) .
+In those proceedings , Nasrallah applied for CAT relief to prevent his removal to Lebanon .
+See Convention Against Torture and Other Cruel , Inhuman or Degrading Treatment or Punishment , Art . 3 , Dec. 10 , 1984 , S. Treaty Doc . No . 100 - 20 , p. 20 , 1465 U. N. T. S. 114 .
+Nasrallah alleged that he was a member of the Druze religion , and that he had been tortured by Hezbollah before he came to the United States .
+Nasrallah argued that he would be tortured again if returned to Lebanon .
+The Immigration Judge determined that Nasrallah was removable .
+As to the CAT claim , the Immigration Judge found that Nasrallah had previously suffered torture at the hands of Hezbollah .
+Based on Nasrallah 's past experience and the current political conditions in Lebanon , the Immigration Judge concluded that Nasrallah likely would be tortured again if returned to Lebanon .
+The Immigration Judge ordered Nasrallah removed , but also granted CAT relief and thereby blocked Nasrallah 's removal to Lebanon .
+On appeal , the Board of Immigration Appeals disagreed that Nasrallah likely would be tortured in Lebanon .
+The Board therefore vacated the order granting CAT relief and ordered Nasrallah removed to Lebanon .
+Nasrallah filed a petition for review in the U. S. Court of Appeals for the Eleventh Circuit , claiming ( among other things ) that the Board of Immigration Appeals erred in finding that he would not likely be tortured in Lebanon .
+Nasrallah raised factual challenges to the Board 's CAT order .
+Applying Circuit precedent , the Eleventh Circuit declined to review Nasrallah 's factual challenges .
+Nasrallah v. United States Attorney General , 762 Fed . Appx . 638 ( 2019 ) .
+The court explained that Nasrallah had been convicted of a crime specified in 8 U.S.C. § 1252 ( a)(2)(C ) .
+Noncitizens convicted of § 1252(a)(2)(C ) crimes may not obtain judicial review of factual challenges to a " final order of removal . "
+§ § 1252(a)(2)(C)-(D ) .
+Under Eleventh Circuit precedent , that statute also precludes judicial review of factual challenges to the CAT order .
+Nasrallah contends that the Eleventh Circuit should have reviewed his factual challenges to the CAT order because the statute bars review only of factual challenges to a " final order of removal . "
+According to Nasrallah , a CAT order is not a " final order of removal " and does not affect the validity of a final order of removal .
+Therefore , Nasrallah argues , the statute by its terms does not bar judicial review of factual challenges to a CAT order .
+The Courts of Appeals are divided over whether § § 1252(a)(2)(C ) and ( D ) preclude judicial review of factual challenges to a CAT order .
+Most Courts of Appeals have sided with the Government ; the Seventh and Ninth Circuits have gone the other way .
+Compare Gourdet v. Holder , 587 F.3d 1 , 5 ( CA1 2009 ) ; Ortiz - Franco v. Holder , 782 F.3d 81 , 88 ( CA2 2015 ) ; Pieschacon - Villegas v. Attorney General of U. S. , 671 F.3d 303 , 309 - 310 ( CA3 2011 ) ; Oxygene v. Lynch , 813 F.3d 541 , 545 ( CA4 2016 ) ; Escudero - Arciniega v. Holder , 702 F.3d 781 , 785 ( CA5 2012 ) ; Tran v. Gonzales , 447 F.3d 937 , 943 ( CA6 2006 ) ; Lovan v. Holder , 574 F.3d 990 , 998 ( CA8 2009 ) ; Cole v. United States Attorney General , 712 F.3d 517 , 532 ( CA11 2013 ) , with Wanjiru v. Holder , 705 F.3d 258 , 264 ( CA7 2013 ) ; Vinh Tan Nguyen v. Holder , 763 F.3d 1022 , 1029 ( CA9 2014 ) .
+In light of the Circuit split on this important question of federal law , we granted certiorari .
+589 U. S. ---- , 140 S.Ct . 428 , 205 L.Ed.2d 244 ( 2019 ) .
+II
+When a noncitizen is removable because he committed a crime specified in § 1252(a)(2)(C ) , immigration law bars judicial review of the noncitizen 's factual challenges to his final order of removal .
+In the Government 's view , the law also bars judicial review of the noncitizen 's factual challenges to a CAT order .
+Nasrallah disagrees .
+We conclude that Nasrallah has the better of the statutory argument .
+A
+We begin by describing the three interlocking statutes that provide for judicial review of final orders of removal and CAT orders .
+The first relevant statute is the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 .
+That Act authorizes noncitizens to obtain direct " review of a final order of removal " in a court of appeals .
+110 Stat . 3009 -607 , 8 U.S.C. § 1252 ( a)(1 ) .
+As the parties agree , in the deportation context , a " final order of removal " is a final order " concluding that the alien is deportable or ordering deportation . "
+§ 1101(a)(47)(A ) ; see § 309(d)(2 ) , 110 Stat . 3009 -627 ; Calcano - Martinez v. INS , 533 U.S. 348 , 350 , n. 1 , 121 S.Ct . 2268 , 150 L.Ed.2d 392 ( 2001 ) .
+The Act also states that judicial review " of all questions of law and fact ... arising from any action taken or proceeding brought to remove an alien from the United States under this subchapter shall be available only in judicial review of a final order under this section . "
+8 U.S.C. § 1252 ( b)(9 ) ; see 110 Stat . 3009 -610 .
+In other words , a noncitizen 's various challenges arising from the removal proceeding must be " consolidated in a petition for review and considered by the courts of appeals . "
+INS v. St. Cyr , 533 U.S. 289 , 313 , and n. 37 , 121 S.Ct . 2271 , 150 L.Ed.2d 347 ( 2001 ) .
+By consolidating the issues arising from a final order of removal , eliminating review in the district courts , and supplying direct review in the courts of appeals , the Act expedites judicial review of final orders of removal .
+The second relevant statute is the Foreign Affairs Reform and Restructuring Act of 1998 , known as FARRA .
+FARRA implements Article 3 of the international Convention Against Torture , known as CAT .
+As relevant here , CAT prohibits removal of a noncitizen to a country where the noncitizen likely would be tortured .
+Importantly for present purposes , § 2242(d ) of FARRA provides for judicial review of CAT claims " as part of the review of a final order of removal pursuant to section 242 of the Immigration and Nationality Act ( 8 U.S.C. 1252 ) . "
+112 Stat . 2681 -822 , note following 8 U.S.C. § 1231 .
+The third relevant statute is the REAL ID Act of 2005 .
+As relevant here , that Act responded to this Court 's 2001 decision in St. Cyr .
+In St. Cyr , this Court ruled that the 1996 Act , although purporting to eliminate district court review of final orders of removal , did not eliminate district court review via habeas corpus of constitutional or legal challenges to final orders of removal .
+533 U.S. at 312 - 313 , 121 S.Ct . 2271 .
+The REAL ID Act clarified that final orders of removal may not be reviewed in district courts , even via habeas corpus , and may be reviewed only in the courts of appeals .
+See 119 Stat . 310 , 8 U.S.C. § 1252 ( a)(5 ) .
+The REAL ID Act also provided that CAT orders likewise may not be reviewed in district courts , even via habeas corpus , and may be reviewed only in the courts of appeals .
+See 119 Stat . 310 , 8 U.S.C. § 1252 ( a)(4 ) .
+B
+Those three Acts establish that CAT orders may be reviewed together with final orders of removal in a court of appeals .
+But judicial review of final orders of removal is somewhat limited in cases ( such as Nasrallah 's ) involving noncitizens convicted of crimes specified in § 1252(a)(2)(C ) .
+In those cases , a court of appeals may review constitutional or legal challenges to a final order of removal , but the court of appeals may not review factual challenges to a final order of removal .
+§ § 1252(a)(2)(C)-(D ) ; see Guerrero - Lasprilla v. Barr , 589 U. S. ---- , ---- - ---- , 140 S.Ct . 1062 , 1072 - 1073 , 206 L.Ed.2d 271 ( 2020 ) .
+The question in this case is the following : By precluding judicial review of factual challenges to final orders of removal , does the law also preclude judicial review of factual challenges to CAT orders ?
+We conclude that it does not .
+The relevant statutory text precludes judicial review of factual challenges to final orders of removal - and only to final orders of removal .
+In the deportation context , a final " order of removal " is a final order " concluding that the alien is deportable or ordering deportation . "
+§ 1101(a)(47)(A ) .
+A CAT order is not itself a final order of removal because it is not an order " concluding that the alien is deportable or ordering deportation . "
+As the Government acknowledges , a CAT order does not disturb the final order of removal .
+Brief for Respondent 26 .
+An order granting CAT relief means only that , notwithstanding the order of removal , the noncitizen may not be removed to the designated country of removal , at least until conditions change in that country .
+But the noncitizen still " may be removed at any time to another country where he or she is not likely to be tortured . "
+8 C.F.R. § § 1208.17 ( b)(2 ) , 1208.16(f ) .
+Even though CAT orders are not the same as final orders of removal , a question remains : Do CAT orders merge into final orders of removal in the same way as , say , an immigration judge 's evidentiary rulings merge into final orders of removal ?
+The answer is no .
+For purposes of this statute , final orders of removal encompass only the rulings made by the immigration judge or Board of Immigration Appeals that affect the validity of the final order of removal .
+As this Court phrased it in INS v. Chadha , review of a final order of removal " includes all matters on which the validity of the final order is contingent . "
+462 U.S. 919 , 938 , 103 S.Ct . 2764 , 77 L.Ed.2d 317 ( 1983 ) ( internal quotation marks omitted ) .
+The rulings that affect the validity of the final order of removal merge into the final order of removal for purposes of judicial review .
+But the immigration judge 's or the Board 's ruling on a CAT claim does not affect the validity of the final order of removal and therefore does not merge into the final order of removal .
+To be sure , as noted above , FARRA provides that a CAT order is reviewable " as part of the review of a final order of removal " under 8 U.S.C. § 1252 .
+§ 2242(d ) , 112 Stat . 2681 -822 ; see also 8 U.S.C. § 1252 ( a)(4 ) .
+Likewise , § 1252(b)(9 ) provides that " [ j]udicial review of all questions of law and fact ... arising from any action taken or proceeding brought to remove an alien from the United States under this subchapter shall be available only in judicial review of a final order under this section . "
+§ 1252(b)(9 ) .
+But FARRA and § 1252(b)(9 ) simply establish that a CAT order may be reviewed together with the final order of removal , not that a CAT order is the same as , or affects the validity of , a final order of removal .
+Consider an analogy .
+Suppose a statute furnishes appellate review of convictions and sentences in a single appellate proceeding .
+Suppose that the statute also precludes appellate review of certain factual challenges to the sentence .
+Would that statute bar appellate review of factual challenges to the conviction , just because the conviction and sentence are reviewed together ?
+No .
+The same is true here .
+A CAT order may be reviewed together with the final order of removal .
+But a CAT order is distinct from a final order of removal and does not affect the validity of the final order of removal .
+The CAT order therefore does not merge into the final order of removal for purposes of § § 1252(a)(2)(C)-(D ) 's limitation on the scope of judicial review .
+In short , as a matter of straightforward statutory interpretation , Congress 's decision to bar judicial review of factual challenges to final orders of removal does not bar judicial review of factual challenges to CAT orders .
+It would be easy enough for Congress to preclude judicial review of factual challenges to CAT orders , just as Congress has precluded judicial review of factual challenges to certain final orders of removal .
+But Congress has not done so , and it is not the proper role of the courts to rewrite the laws passed by Congress and signed by the President .
+C
+Although a noncitizen may obtain judicial review of factual challenges to CAT orders , that review is highly deferential , as Nasrallah acknowledges .
+See Reply Brief 19 - 20 ; Tr . of Oral Arg . 5 .
+The standard of review is the substantial - evidence standard : The agency 's " findings of fact are conclusive unless any reasonable adjudicator would be compelled to conclude to the contrary . "
+§ 1252(b)(4)(B ) ; see Kenyeres v. Ashcroft , 538 U.S. 1301 , 1306 , 123 S.Ct . 1386 , 155 L.Ed.2d 301 ( 2003 ) ( Kennedy , J. , in chambers ) ; INS v. Elias - Zacarias , 502 U.S. 478 , 481 , n. 1 , 483 - 484 , 112 S.Ct . 812 , 117 L.Ed.2d 38 ( 1992 ) .
+But the Government still insists that the statute supplies no judicial review of factual challenges to CAT orders .
+The Government advances a slew of arguments , but none persuades us .
+First , the Government raises an argument based on precedent .
+In Foti v. INS , 375 U. S. 217 , 84 S.Ct . 306 , 11 L.Ed.2d 281 ( 1963 ) , this Court interpreted the statutory term " final orders of deportation " in the Immigration and Nationality Act of 1952 , as amended in 1961 , to encompass " all determinations made during and incident to the administrative proceeding " on removability .
+Id. , at 229 , 84 S.Ct . 306 .
+The Government points out ( correctly ) that the Foti definition of a final order - if it still applied here - would cover CAT orders and therefore would bar judicial review of factual challenges to CAT orders .
+But Foti 's interpretation of the INA as it existed as of 1963 no longer applies .
+Since 1996 , the INA has defined final " order of deportation " more narrowly than this Court interpreted the term in Foti . A final order of deportation is now defined as a final order " concluding that the alien is deportable or ordering deportation . "
+8 U.S.C. § 1101 ( a)(47)(A ) ; Antiterrorism and Effective Death Penalty Act of 1996 , 110 Stat . 1277 ; see § 309(d)(2 ) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 , 110 Stat . 3009 -627 .
+And as we have explained , an order denying CAT relief does not fall within the statutory definition of an " order of deportation " because it is not an order " concluding that the alien is deportable or ordering deportation . "
+Therefore , Foti does not control here .
+Second , the Government puts forward a structural argument .
+As the Government sees it , if a CAT order is not merged into a final order of removal , then no statute would authorize a court of appeals to review a CAT order in the first place .
+That is because , in the Government 's view , the only statute that supplies judicial review of CAT claims is the statute that provides for judicial review of final orders of removal .
+See § 1252(a)(1 ) .
+The premise of that argument is incorrect .
+Section 2242(d ) of FARRA , enacted in 1998 , expressly provides for judicial review of CAT claims together with the review of final orders of removal .
+Moreover , as a result of the 2005 REAL ID Act , § 1252(a)(4 ) now provides for direct review of CAT orders in the courts of appeals .
+See also 8 U.S.C. § 1252 ( b)(9 ) .
+In short , our decision does not affect the authority of the courts of appeals to review CAT orders .
+Third , the Government asserts a congressional intent argument : Why would Congress bar review of factual challenges to a removal order , but allow factual challenges to a CAT order ?
+To begin with , we must adhere to the statutory text , which differentiates between the two kinds of orders for those purposes .
+In any event , Congress had good reason to distinguish the two .
+For noncitizens who have committed crimes that subject them to removal , the facts that rendered the noncitizen removable are often not in serious dispute .
+The relevant facts will usually just be the existence of the noncitizen 's prior criminal convictions .
+By barring review of factual challenges to final orders of removal , Congress prevented further relitigation of the underlying factual bases for those criminal convictions - a point that Senator Abraham , a key proponent of the statutory bar to judicial review , stressed back in 1996 .
+See 142 Cong . Rec . 7348 - 7350 ( 1996 ) .
+By contrast , the issues related to a CAT order will not typically have been litigated prior to the alien 's removal proceedings .
+Those factual issues may range from the noncitizen 's past experiences in the designated country of removal , to the noncitizen 's credibility , to the political or other current conditions in that country .
+Because the factual components of CAT orders will not previously have been litigated in court and because those factual issues may be critical to determining whether the noncitizen is likely to be tortured if returned , it makes some sense that Congress would provide an opportunity for judicial review , albeit deferential judicial review , of the factual components of a CAT order .
+  Fourth , the Government advances a policy argument - that judicial review of the factual components of a CAT order would unduly delay removal proceedings .
+But today 's decision does not affect whether the noncitizen is entitled to judicial review of a CAT order and does not add a new layer of judicial review .
+All agree that a noncitizen facing removal under these provisions may already seek judicial review in a court of appeals of constitutional and legal claims relating to both the final order of removal and the CAT order .
+Our holding today means only that , in that same case in the court of appeals , the court may also review the noncitizen 's factual challenges to the CAT order under the deferential substantial - evidence standard .
+For many years , the Seventh and Ninth Circuits have allowed factual challenges to CAT orders , and the Government has not informed this Court of any significant problems stemming from review in those Circuits .
+  Fifth , what about the slippery slope ?
+If factual challenges to CAT orders may be reviewed , what other orders will now be subject to factual challenges in the courts of appeals ?
+Importantly , another jurisdiction - stripping provision , § 1252(a)(2)(B ) , states that a noncitizen may not bring a factual challenge to orders denying discretionary relief , including cancellation of removal , voluntary departure , adjustment of status , certain inadmissibility waivers , and other determinations " made discretionary by statute . "
+Kucana v. Holder , 558 U.S. 233 , 248 , 130 S.Ct . 827 , 175 L.Ed.2d 694 ( 2010 ) .
+Our decision today therefore has no effect on judicial review of those discretionary determinations .
+The Government suggests that our decision here might lead to judicial review of factual challenges to statutory withholding orders .
+A statutory withholding order prevents the removal of a noncitizen to a country where the noncitizen 's " life or freedom would be threatened " because of the noncitizen 's " race , religion , nationality , membership in a particular social group , or political opinion . "
+8 U.S.C. § 1231 ( b)(3)(A ) .
+That question is not presented in this case , and we therefore leave its resolution for another day .
+* * *
+In cases where a noncitizen has committed a crime specified in 8 U.S.C. § 1252 ( a)(2)(C ) , § § 1252(a)(2)(C ) and ( D ) preclude judicial review of the noncitizen 's factual challenges to a final order of removal .
+A CAT order is distinct from a final order of removal and does not affect the validity of a final order of removal .
+Therefore , § § 1252(a)(2)(C ) and ( D ) do not preclude judicial review of a noncitizen 's factual challenges to a CAT order .
+We reverse the judgment of the U. S. Court of Appeals for the Eleventh Circuit .
+It is so ordered .

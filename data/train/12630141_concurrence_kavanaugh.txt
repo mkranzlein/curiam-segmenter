@@ -1,0 +1,24 @@
+Justice KAVANAUGH , concurring .
+I join the Court 's opinion in full .
+In Part III - E of the opinion , the Court rejects Shular 's argument for applying the rule of lenity .
+I write separately to elaborate on why the rule of lenity does not apply here .
+This Court 's longstanding precedents establish that the rule of lenity applies when two conditions are met .
+First , as the Court today says and as the Court has repeatedly held , a court may invoke the rule of lenity only " ' after consulting traditional canons of statutory construction . ' "
+Ante , at 787 ( quoting United States v. Shabani , 513 U.S. 10 , 17 , 115 S.Ct . 382 , 130 L.Ed.2d 225 ( 1994 ) ) .
+In other words , a court must first employ all of the traditional tools of statutory interpretation , and a court may resort to the rule of lenity only " ' after seizing everything from which aid can be derived . ' "
+Ocasio v. United States , 578 U.S. ---- , ---- , n. 8 , 136 S.Ct . 1423 , 1434 , n. 8 , 194 L.Ed.2d 520 ( 2016 ) ( quoting Muscarello v. United States , 524 U.S. 125 , 138 - 139 , 118 S.Ct . 1911 , 141 L.Ed.2d 111 ( 1998 ) ) .
+In summarizing the case law , Justice Scalia underscored that the rule of lenity " ' comes into operation at the end of the process of construing what Congress has expressed , not at the beginning . ' "
+A. Scalia & B. Garner , Reading Law : The Interpretation of Legal Texts 298 ( 2012 ) ( quoting Callanan v. United States , 364 U.S. 587 , 596 , 81 S.Ct . 321 , 5 L.Ed.2d 312 ( 1961 ) ) .
+Of course , when " a reviewing court employs all of the traditional tools of construction , the court will almost always reach a conclusion about the best interpretation , " thereby resolving any perceived ambiguity .
+Kisor v. Wilkie , 588 U.S. ---- , ---- , 139 S.Ct . 2400 , 2448 , 204 L.Ed.2d 841 ( 2019 ) ( KAVANAUGH , J. , concurring in judgment ) .
+That explains why the rule of lenity rarely comes into play .
+Second , this Court has repeatedly explained that the rule of lenity applies only in cases of " ' grievous ' " ambiguity - where the court , even after applying all of the traditional tools of statutory interpretation , " ' can make no more than a guess as to what Congress intended . ' "
+Ocasio , 578 U.S. , at ---- , n. 8 , 136 S.Ct . , at 1434 , n. 8 ) ( quoting Muscarello , 524 U.S. at 138 - 139 , 118 S.Ct . 1911 ) .
+The Court has stated that the " simple existence of some statutory ambiguity " is " not sufficient to warrant application of that rule , for most statutes are ambiguous to some degree . "
+I d . , at 138 , 118 S.Ct . 1911 .
+To be sure , as Justice Scalia rightly noted , the term " ' grievous ambiguity ' " provides " ' little more than atmospherics , since it leaves open the crucial question - almost invariably present - of how much ambiguousness constitutes an ambiguity . ' "
+Reading Law , at 299 ( quoting United States v. Hansen , 772 F.2d 940 , 948 ( C.A.D.C. 1985 ) ( Scalia , J. , for the court ) ) ; see also Kavanaugh , Fixing Statutory Interpretation , 129 Harv . L. Rev. 2118 ( 2016 ) .
+That said , atmospherics can matter .
+Although the Court has not always been perfectly consistent in its formulations , the Court has repeatedly emphasized that a court must find not just ambiguity but " grievous ambiguity " before resorting to the rule of lenity .
+To sum up : Under this Court 's longstanding precedents , the rule of lenity applies when a court employs all of the traditional tools of statutory interpretation and , after doing so , concludes that the statute still remains grievously ambiguous , meaning that the court can make no more than a guess as to what the statute means .
+Because the Court correctly concludes that the rule of lenity does not apply in this case , I join the Court 's opinion in full .

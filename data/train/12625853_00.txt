@@ -1,0 +1,335 @@
+Chief Justice ROBERTS delivered the opinion of the Court .
+For nearly a century , the Anaconda Copper Smelter in Butte , Montana contaminated an area of over 300 square miles with arsenic and lead .
+Over the past 35 years , the Environmental Protection Agency has worked with the current owner of the smelter , Atlantic Richfield Company , to implement a cleanup plan under the Comprehensive Environmental Response , Compensation , and Liability Act of 1980 .
+EPA projects that the cleanup will continue through 2025 .
+A group of 98 landowners sued Atlantic Richfield in Montana state court for common law nuisance , trespass , and strict liability .
+Among other remedies , the landowners sought restoration damages , which under Montana law must be spent on rehabilitation of the property .
+The landowners ' proposed restoration plan includes measures beyond those the agency found necessary to protect human health and the environment .
+We consider whether the Act strips the Montana courts of jurisdiction over the landowners ' claim for restoration damages and , if not , whether the Act requires the landowners to seek EPA approval for their restoration plan .
+I
+A
+In 1980 , Congress enacted the Comprehensive Environmental Response , Compensation , and Liability Act , 94 Stat . 2767 , as amended , 42 U.S.C. § 9601   et seq . , also known as the Superfund statute , to address " the serious environmental and health risks posed by industrial pollution , "
+Burlington N. & S. F. R. Co. v. United States , 556 U.S. 599 , 602 , 129 S.Ct . 1870 , 173 L.Ed.2d 812 ( 2009 ) .
+The Act seeks " to promote the timely cleanup of hazardous waste sites and to ensure that the costs of such cleanup efforts [ are ] borne by those responsible for the contamination . "
+CTS Corp. v. Waldburger , 573 U.S. 1 , 4 , 134 S.Ct . 2175 , 189 L.Ed.2d 62 ( 2014 ) ( internal quotation marks omitted ) .
+The Act directs EPA to compile and annually revise a prioritized list of contaminated sites for cleanup , commonly known as Superfund sites .
+42 U.S.C. § 9605 .
+EPA may clean those sites itself or compel responsible parties to perform the cleanup .
+§ § 9604 , 9606 , 9615 .
+If the Government performs the cleanup , it may recover its costs from responsible parties .
+§ 9607(a)(4)(A ) .
+Responsible parties are jointly and severally liable for the full cost of the cleanup , but may seek contribution from other responsible parties .
+§ 9613(f ) ( 1 ) .
+Prior to selecting a cleanup plan , EPA conducts ( or orders a private party to conduct ) a remedial investigation and feasibility study to assess the contamination and evaluate cleanup options .
+40 C.F.R. § 300.430 ( 2019 ) .
+Section 122(e)(6 ) of the Act provides that , once the study begins , " no potentially responsible party may undertake any remedial action " at the site without EPA approval .
+42 U.S.C. § 9622 ( e)(6 ) .
+The Act prescribes extensive public consultation while a cleanup plan is being developed .
+It requires an opportunity for public notice and comment on proposed cleanup plans .
+§ § 9613(k ) , 9617 .
+It requires " substantial and meaningful involvement by each State in initiation , development , and selection " of cleanup actions in that State .
+§ 9621(f ) ( 1 ) .
+And , in most instances , it requires that remedial action comply with " legally applicable or relevant and appropriate " requirements of state environmental law .
+§ 9621(d)(2)(A ) .
+But once a plan is selected , the time for debate ends and the time for action begins .
+To insulate cleanup plans from collateral attack , § 113(b ) of the Act provides federal district courts with " exclusive original jurisdiction over all controversies arising under " the Act , and § 113(h ) then strips such courts of jurisdiction " to review any challenges to removal or remedial action , " except in five limited circumstances .
+§ § 9613(b ) , ( h ) .
+B
+Between 1884 and 1902 , the Anaconda Copper Mining Company built three copper smelters 26 miles west of the mining town of Butte , Montana .
+The largest one , the Washoe Smelter , featured a 585 - foot smoke stack , taller than the Washington Monument .
+The structure still towers over the area today , as part of the Anaconda Smoke Stack State Park .
+Together , the three smelters refined tens of millions of pounds of copper ore mined in Butte , the " Richest Hill on Earth , " to feed burgeoning demand for telephone wires and power lines .
+M. Malone , The Battle for Butte 34 ( 1981 ) .
+" It was hot .
+It was dirty .
+It was dangerous .
+But it was a job for thousands . "
+Dunlap , A Dangerous Job That Gave Life to a Town : A Look Back at the Anaconda Smelter , Montana Standard ( Aug. 8 , 2018 ) .
+From 1912 to 1973 , Anaconda Company payrolls totaled over $ 2.5 billion , compensating around three - quarters of Montana 's work force .
+Bust followed boom .
+By the 1970s , the falling price of copper , an ongoing energy crisis , and the nationalization of Anaconda 's copper mines in Chile and Mexico squeezed Anaconda .
+But what others saw as an ailing relic , Atlantic Richfield saw as a turnaround opportunity , purchasing the Anaconda Company for the discount price of $ 700 million .
+Unfortunately , Atlantic Richfield was unable to revive Anaconda 's fortunes .
+By 1980 Atlantic Richfield had closed the facility for good , and by 1984 Fortune had dubbed the purchase one of the " Decade 's Worst Mergers . "
+Fisher , The Decade 's Worst Mergers , Fortune , Apr. 30 , 1984 , p. 262 .
+Atlantic Richfield 's troubles were just beginning .
+After Congress passed the Superfund statute in 1980 , Atlantic Richfield faced strict and retroactive liability for the many tons of arsenic and lead that Anaconda had spewed across the area over the previous century .
+In 1983 , EPA designated an area of more than 300 square miles around the smelters as one of the inaugural Superfund sites .
+48 Fed . Reg . 40667 .
+In the 35 years since , EPA has managed an extensive cleanup at the site , working with Atlantic Richfield to remediate more than 800 residential and commercial properties ; remove 10 million cubic yards of tailings , mine waste , and contaminated soil ; cap in place 500 million cubic yards of waste over 5,000 acres ; and reclaim 12,500 acres of land .
+EPA , Superfund Priority " Anaconda " 9 ( Apr. 2018 ) , https://semspub.epa.gov/work/08/100003986.pdf .
+To date , Atlantic Richfield estimates that it has spent roughly $ 450 million implementing EPA 's orders .
+More work remains .
+As of 2015 , EPA 's plan anticipated cleanup of more than 1,000 additional residential yards , revegetation of 7,000 acres of uplands , removal of several waste areas , and closure of contaminated stream banks and railroad beds .
+Brief for United States as   Amicus Curiae 7 - 8 ( citing EPA , Fifth Five - Year Review Report : Anaconda Smelter Superfund Site , Anaconda - Deer Lodge County , Montana , Table 10 - 1 ( Sept. 25 , 2015 ) , https://semspub.epa.gov/work/08/1549381.pdf ) .
+EPA projects that remedial work will continue through 2025 .  
+Id. , Table 10 - 7 ; Tr . of Oral Arg . 30 .
+C
+In 2008 , a group of 98 owners of property within the Superfund site filed this lawsuit against Atlantic Richfield in Montana state court , asserting trespass , nuisance , and strict liability claims under state common law .
+The landowners sought restoration damages , among other forms of relief .
+Under Montana law , property damages are generally measured by the " difference between the value of the property before and after the injury , or the diminution in value . "
+Sunburst School Dist . No . 2 v. Texaco , Inc. , 338 Mont. 259 , 269 , 165 P.3d 1079 , 1086 ( 2007 ) .
+But " when the damaged property serves as a private residence and the plaintiff has an interest in having the property restored , diminution in value will not return the plaintiff to the same position as before the tort . "
+Id. , at 270 , 165 P.3d at 1087 .
+In that circumstance , the plaintiff may seek restoration damages , even if they exceed the property 's diminution in value .
+See   ibid . ; Restatement ( Second ) of Torts § 929 , and Comment   b ( 1977 ) .
+To collect restoration damages , a plaintiff must demonstrate that he has " reasons personal " for restoring the property and that his injury is temporary and abatable , meaning " [ t]he ability to repair [ the ] injury must be more than a theoretical possibility . "
+Sunburst School Dist . No . 2 , 338 Mont. at 269 , 165 P.3d at 1086 - 1087 .
+The injured party must " establish that the award actually will be used for restoration . "
+Lampi v. Speed , 362 Mont. 122 , 130 , 261 P.3d 1000 , 1006 ( 2011 ) .
+The landowners here propose a restoration plan that goes beyond EPA 's own cleanup plan , which the agency had found " protective of human health and the environment . "
+EPA , Community Soils Operable Unit , Record of Decision ( 1996 ) , App . 62 .
+See also 42 U.S.C. § 9621 ( d)(1 ) .
+For example , the landowners propose a maximum soil contamination level of 15 parts per million of arsenic , rather than the 250 parts per million level set by EPA .
+And the landowners seek to excavate offending soil within residential yards to a depth of two feet rather than EPA 's chosen depth of one .
+The landowners also seek to capture and treat shallow groundwater through an 8,000 - foot long , 15 - foot deep , and 3 - foot wide underground permeable barrier , a plan the agency rejected as costly and unnecessary to secure safe drinking water .
+The landowners estimate that their cleanup would cost Atlantic Richfield $ 50 to $ 58 million .
+Atlantic Richfield would place that amount in a trust and the trustee would release funds only for restoration work .
+In the trial court , Atlantic Richfield and the landowners filed competing motions for summary judgment on whether the Act precluded the landowners ' claim for restoration damages .
+The court granted judgment for the landowners on that issue and allowed the lawsuit to continue .
+After granting a writ of supervisory control , the Montana Supreme Court affirmed .  
+Atlantic Richfield Co. v. Montana Second Jud . Dist . Ct . , 390 Mont. 76 , 408 P.3d 515 ( 2017 ) .
+The Montana Supreme Court rejected Atlantic Richfield 's argument that § 113 stripped the Montana courts of jurisdiction over the landowners ' claim for restoration damages .
+The court recognized that § 113 strips federal courts ( and , it was willing to assume , state courts ) of jurisdiction to review challenges to EPA cleanup plans .
+But the Montana Supreme Court reasoned that the landowners ' plan was not such a challenge because it would not " stop , delay , or change the work EPA is doing . "
+Id. , at 83 , 408 P.3d at 520 .
+The landowners were " simply asking to be allowed to present their own plan to restore their own private property to a jury of twelve Montanans who will then assess the merits of that plan . "
+Id. , at 84 , 408 P.3d at 521 .
+The Montana Supreme Court also rejected Atlantic Richfield 's argument that the landowners were potentially responsible parties ( sometimes called PRPs ) prohibited from taking remedial action without EPA approval under § 122(e)(6 ) of the Act .
+The Court observed that the landowners had " never been treated as PRPs for any purpose - by either EPA or [ Atlantic Richfield]-during the entire thirty - plus years " since the designation of the Superfund site , and that the statute of limitations for a claim against the landowners had run .  
+Id. , at 86 , 408 P.3d at 522 .
+" Put simply , the PRP horse left the barn decades ago . "
+Ibid .
+Justice Baker concurred , stressing that on remand Atlantic Richfield could potentially defeat the request for restoration damages on the merits by proving that the restoration plan conflicted with EPA 's cleanup plan .  
+Id. , at 87 - 90 , 408 P.3d at 523 - 525 .
+Justice McKinnon dissented .
+She argued that the landowners ' restoration plan did conflict with the Superfund cleanup and thus constituted a challenge under § 113(h ) of the Act , over which Montana courts lacked jurisdiction .  
+Id. , at 90 - 101 , 408 P.3d at 525 - 532 .
+We granted certiorari .
+587 U. S. ---- , 139 S.Ct . 2690 , 204 L.Ed.2d 1089 ( 2019 ) .
+II
+We begin with two threshold questions : whether this Court has jurisdiction to review the decision of the Montana Supreme Court and , if so , whether the Montana courts have jurisdiction over the landowners ' claim for restoration damages .
+A
+Congress has authorized this Court to review " [ f]inal judgments or decrees rendered by the highest court of a State . "
+28 U.S.C. § 1257 ( a ) .
+To qualify as final , a state court judgment must be " an effective determination of the litigation and not of merely interlocutory or intermediate steps therein . "
+Jefferson v. City of Tarrant , 522 U.S. 75 , 81 , 118 S.Ct . 481 , 139 L.Ed.2d 433 ( 1997 ) .
+The landowners contend that , because the Montana Supreme Court allowed the case to proceed to trial , its judgment was not final and we lack jurisdiction .
+But the Montana Supreme Court exercised review in this case through a writ of supervisory control .
+Under Montana law , a supervisory writ proceeding is a self - contained case , not an interlocutory appeal .
+Mont. Const . , Art . VII , § § 2 ( 1)-(2 ) ; Mont. Rules App . Proc . 6(6 ) , 14(1 ) , 14(3 ) ( 2019 ) .
+Thus we have held that a " writ of supervisory control issued by the Montana Supreme Court is a final judgment within our jurisdiction . "
+Fisher v. District Court of Sixteenth Judicial Dist . of   Mont. , 424 U.S. 382 , 385 , n. 7 , 96 S.Ct . 943 , 47 L.Ed.2d 106 ( 1976 ) (   per curiam ) .
+The landowners protest that our precedents only support reviewing supervisory writ proceedings that are limited to jurisdictional questions .
+But the scope of our jurisdiction to review supervisory writ proceedings is not so restricted .
+When the Montana Supreme Court issues a writ of supervisory control , it initiates a separate lawsuit .
+It is the nature of the Montana proceeding , not the issues the state court reviewed , that establishes our jurisdiction .
+B
+We likewise find that the Act does not strip the Montana courts of jurisdiction over this lawsuit .
+It deprives state courts of jurisdiction over claims brought under the Act .
+But it does not displace state court jurisdiction over claims brought under other sources of law .
+Section 113(b ) of the Act provides that " the United States district courts shall have exclusive original jurisdiction over all controversies arising under this chapter , " so state courts lack jurisdiction over such actions .
+42 U.S.C. § 9613 ( b ) .
+This case , however , does not " arise under " the Act .
+The use of " arising under " in § 113(b ) echoes Congress 's more familiar use of that phrase in granting federal courts jurisdiction over " all civil actions arising under the Constitution , laws , or treaties of the United States . "
+28 U.S.C. § 1331 .
+In the mine run of cases , " [ a ] suit arises under the law that creates the cause of action . "
+American Well Works Co. v. Layne & Bowler Co. , 241 U.S. 257 , 260 , 36 S.Ct . 585 , 60 L.Ed . 987 ( 1916 ) .
+The landowners ' common law claims for nuisance , trespass , and strict liability therefore arise under Montana law and not under the Act .
+As a result , the Montana courts retain jurisdiction over this lawsuit , notwithstanding the channeling of Superfund claims to federal courts in § 113(b ) .
+Atlantic Richfield takes a different view , arguing that § 113(h ) implicitly broadens the scope of actions precluded from state court jurisdiction under § 113(b ) .
+Section 113(h ) states that " [ n]o Federal court shall have jurisdiction under Federal law other than under section 1332 of title 28 ( relating to diversity of citizenship jurisdiction ) ...
+to review any challenges to removal or remedial action " selected under the Act .
+42 U.S.C. § 9613 ( h ) .
+The company 's argument proceeds in five steps .
+Step one : Section 113(h ) removes federal court jurisdiction over all cleanup challenges , regardless of whether they originate in federal or state law ( except for when the court is sitting in diversity ) .
+Step two : Section 113(h ) can only remove jurisdiction that § 113(b ) provides in the first place .
+Step three : Section 113(b ) thus provides federal courts jurisdiction over all cleanup challenges , whether brought under federal or state law .
+Step four : The grant of jurisdiction to federal courts in § 113(b ) is exclusive to federal courts .
+Step five : State courts thus do not have jurisdiction over cleanup challenges .
+This interpretation faces several insurmountable obstacles .
+First , by its own terms , § 113(h ) speaks of " Federal court[s ] , " not state courts .
+There is no textual basis for Atlantic Richfield 's argument that Congress precluded   state courts from hearing a category of cases in § 113(b ) by stripping   federal courts of jurisdiction over those cases in § 113(h ) .
+And if that were Congress 's goal , it would be hard to imagine a more oblique way of achieving it .
+Often the simplest explanation is the best : Section 113(b ) deprives state courts of jurisdiction over cases " arising under " the Act - just as it says - while § 113(h ) deprives federal courts of jurisdiction over certain " challenges " to Superfund remedial actions - just as it says .
+Second , the company 's argument does not account for the exception in § 113(h ) for federal courts sitting in diversity .
+Section 113(h ) permits federal courts in diversity cases to entertain state law claims regardless of whether they are challenges to cleanup plans .
+See   DePue v. Exxon Mobil Corp. , 537 F.3d 775 , 784 ( CA7 2008 ) .
+But Atlantic Richfield does not even try to explain why the Act would permit such state law claims to proceed in federal court , but not in state court .
+The Act permits federal courts and state courts alike to entertain state law claims , including challenges to cleanups .
+That leads us to the third difficulty with Atlantic Richfield 's argument .
+We have recognized a " deeply rooted presumption in favor of concurrent state court jurisdiction " over federal claims .  
+Tafflin v. Levitt , 493 U.S. 455 , 458 - 459 , 110 S.Ct . 792 , 107 L.Ed.2d 887 ( 1990 ) .
+Only an " explicit statutory directive , " an " unmistakable implication from legislative history , " or " a clear incompatibility between state - court jurisdiction and federal interests " can displace this presumption .  
+Id. , at 460 , 110 S.Ct . 792 .
+Explicit , unmistakable , and clear are not words that describe Atlantic Richfield 's knotty interpretation of § § 113(b ) and ( h ) .
+It would be one thing for Atlantic Richfield to try to surmount the clear statement rule that applies to the uncommon , but not unprecedented , step of stripping state courts of jurisdiction over   federal claims .
+But Atlantic Richfield 's position requires a more ambitious step : Congress stripping state courts of jurisdiction to hear their own   state claims .
+We would not expect Congress to take such an extraordinary step by implication .
+Yet the only provision Atlantic Richfield invokes addresses " [f]ederal court[s ] " without even mentioning state courts , let alone stripping those courts of jurisdiction to hear state law claims .
+42 U.S.C. § 9613 ( h ) .
+Finally , the Government , supporting Atlantic Richfield , emphasizes that the opening clause of § 113(b ) excepts § 113(h ) from its application .
+See 42 U.S.C. § 9613 ( b ) ( " Except as provided in subsections ( a ) and ( h ) of this section .... " ) .
+According to the Government , because " exceptions must by definition be narrower than the corresponding rule , " all challenges to remedial plans under § 113(h)-whether based in federal or state law - must " arise under " the Act for purposes of § 113(b ) .
+Brief for United States as   Amicus Curiae 25 .
+We reject the premise and with it the conclusion .
+" Thousands of statutory provisions use the phrase ' except as provided in ... ' followed by a cross - reference in order to indicate that one rule should prevail over another in any circumstance in which the two conflict . "
+Cyan ,   Inc.   v.   Beaver County Employees Retirement Fund , 583 U. S. ---- , ---- , 138 S.Ct . 1061 , 1070 , 200 L.Ed.2d 332 ( 2018 ) .
+Such clauses explain what happens in the case of a clash , but they do not otherwise expand or contract the scope of either provision by implication .
+Cf .   NLRB v.   SW General ,   Inc. , 580 U. S. ---- , ---- , 137 S.Ct . 929 , 939 - 940 , 197 L.Ed.2d 263 ( 2017 ) ( explaining the same principle for " notwithstanding " clauses ) .
+The actions referred to in § 113(h ) do not fall entirely within § 113(b ) .
+Challenges to remedial actions under federal statutes other than the Act , for example , are precluded by § 113(h ) but do not fall within § 113(b ) .
+To cite another example , § 113(h ) addresses state law challenges to cleanup plans in federal court , although those actions also do not fall within § 113(b ) .
+At the same time , § 113(b ) is not subsumed by § 113(h ) .
+Many claims brought under the Act , such as those to recover cleanup costs under § 107 , are not challenges to cleanup plans .
+Sections 113(b ) and 113(h ) thus each do work independent of one another .
+The two provisions overlap in a particular type of case : challenges to cleanup plans in federal court that arise under the Act .
+In such cases , the exceptions clause in § 113(b ) instructs that the limitation of § 113(h ) prevails .
+It does nothing more .
+III
+Although the Montana Supreme Court answered the jurisdictional question correctly , the Court erred by holding that the landowners were not potentially responsible parties under the Act and therefore did not need EPA approval to take remedial action .
+Section 122(e)(6 ) , titled " Inconsistent response action , " provides that " [ w]hen either the President , or a potentially responsible party ... has initiated a remedial investigation and feasibility study for a particular facility under this chapter , no potentially responsible party may undertake any remedial action at the facility unless such remedial action has been authorized by the President . "
+42 U.S.C. § 9622 ( e)(6 ) .
+Both parties agree that this provision would require the landowners to obtain EPA approval for their restoration plan if the landowners qualify as potentially responsible parties .
+To determine who is a potentially responsible party , we look to the list of " covered persons " in § 107 , the liability section of the Act .
+§ 9607(a ) .
+" Section 107(a ) lists four classes of potentially responsible persons ( PRPs ) and provides that they ' shall be liable ' for , among other things , ' all costs of removal or remedial action incurred by the United States Government . ' "
+Cooper Industries , Inc. v. Aviall Services , Inc. , 543 U.S. 157 , 161 , 125 S.Ct . 577 , 160 L.Ed.2d 548 ( 2004 ) ( quoting § 9607(a)(4)(A ) ) .
+The first category under § 107(a ) includes any " owner " of " a facility . "
+§ 9607(a)(1 ) .
+" Facility " is defined to include " any site or area where a hazardous substance has been deposited , stored , disposed of , or placed , or otherwise come to be located . "
+§ 9601(9)(B ) .
+Arsenic and lead are hazardous substances .
+40 C.F.R. § 302.4 , Table 302.4 .
+Because those pollutants have " come to be located " on the landowners ' properties , the landowners are potentially responsible parties .
+The landowners and Justice GORSUCH argue that even if the landowners were once potentially responsible parties , they are no longer because the Act 's six - year limitations period for recovery of remedial costs has run , and thus they could not be held liable in a hypothetical lawsuit .
+42 U.S.C. § 9613 ( g)(2)(B ) .
+This argument collapses status as a potentially responsible party with liability for the payment of response costs .
+A property owner can be a potentially responsible party even if he is no longer subject to suit in court .
+As we have said , " [ E]ven parties not responsible for contamination may fall within the broad definitions of PRPs in § § 107(a)(1)-(4 ) . "
+United States v. Atlantic Research Corp. , 551 U.S. 128 , 136 , 127 S.Ct . 2331 , 168 L.Ed.2d 28 ( 2007 ) .
+That includes " ' innocent ' ... landowner[s ] whose land has been contaminated by another , " who would be shielded from liability by the Act 's so - called " innocent landowner " or " third party " defense in § 107(b)(3 ) .
+Ibid .
+See also 42 U.S.C. § 9607 ( b)(3 ) .
+The same principle holds true for parties that face no liability because of the Act 's limitations period .
+Interpreting " potentially responsible parties " to include owners of polluted property reflects the Act 's objective to develop , as its name suggests , a " Comprehensive Environmental Response " to hazardous waste pollution .
+Section 122(e)(6 ) is one of several tools in the Act that ensure the careful development of a single EPA - led cleanup effort rather than tens of thousands of competing individual ones .
+Yet under the landowners ' interpretation , property owners would be free to dig up arsenic - infected soil and build trenches to redirect lead - contaminated groundwater without even notifying EPA , so long as they have not been sued within six years of commencement of the cleanup .
+We doubt Congress provided such a fragile remedy for such a serious problem .
+And we suspect most other landowners would not be too pleased if Congress required EPA to sue each and every one of them just to ensure an orderly cleanup of toxic waste in their neighborhood .
+A straightforward reading of the text avoids such anomalies .
+Justice GORSUCH argues that equating " potentially responsible parties " with " covered persons " overlooks the fact that the terms " use different language , appear in different statutory sections , and address different matters . "
+Post , at 1365 ( opinion concurring in part and dissenting in part ) .
+He contends that " potentially responsible party " as used in § 122(e)(6 ) should be read as limited to the settlement context , and that if Congress intended the phrase to have broader reach - to refer more generally to those potentially liable under § 107(a)-then Congress would have used the term " covered person . "
+Post , at 1360 - 1361 .
+But there is no reason to think Congress used these phrases to refer to two distinct groups of persons .
+Neither phrase appears among the Act 's list of over 50 defined terms .
+42 U.S.C. § 9601 .
+" Covered persons , " in fact , appears in the caption to § 107(a ) and nowhere else .
+Meanwhile , " potentially responsible parties " are referenced not just in the section on settlements , but also in the Act 's sections regarding EPA response authority , cleanup standards and procedures , cleanup contractors , Superfund moneys , Federal Government cleanup sites , and civil proceedings .
+§ § 9604 , 9605 , 9611 , 9613 , 9619 , 9620 , 9622 .
+Across the statute " potentially responsible parties " refers to what it says : parties that may be held accountable for hazardous waste in particular circumstances .
+The only place in the Act that identifies such persons is the list of " Covered persons " in § 107(a ) .
+Congress therefore must have intended " potentially responsible party " in § 122(e)(6 ) ( as elsewhere in the Act ) to refer to " Covered persons " in § 107(a ) .
+Turning from text to consequences , the landowners warn that our interpretation of § 122(e)(6 ) creates a permanent easement on their land , forever requiring them " to get permission from EPA in Washington if they want to dig out part of their backyard to put in a sandbox for their grandchildren . "
+Tr . of Oral Arg . 62 .
+The grandchildren of Montana can rest easy : The Act does nothing of the sort .
+Section 122(e)(6 ) refers only to " remedial action , " a defined term in the Act encompassing technical actions like " storage , confinement , perimeter protection using dikes , trenches , or ditches , clay cover , neutralization , cleanup of released hazardous substances and associated contaminated materials , " and so forth .
+42 U.S.C. § 9601 ( 24 ) .
+While broad , the Act 's definition of remedial action does not reach so far as to cover planting a garden , installing a lawn sprinkler , or digging a sandbox .
+In addition , § 122(e)(6 ) applies only to sites on the Superfund list .
+The Act requires EPA to annually review and reissue that list .
+§ 9605(a)(8)(B ) .
+EPA delists Superfund sites once responsible parties have taken all appropriate remedial action and the pollutant no longer poses a significant threat to public health or the environment .
+See 40 C.F.R. § 300.425 ( e ) .
+The landowners and Justice GORSUCH alternatively argue that the landowners are not potentially responsible parties because they did not receive the notice of settlement negotiations required by § 122(e)(1 ) .
+Under a policy dating back to 1991 , EPA does not seek to recover costs from residential landowners who are not responsible for contamination and do not interfere with the agency 's remedy .
+EPA , Policy Towards Owners of Residential Property at Superfund Sites , OSWER Directive # 9834.6 ( July 3 , 1991 ) , https://www.epa.gov/sites/production/files/documents/policy-owner-rpt.pdf .
+EPA views this policy as an exercise of its " enforcement discretion in pursuing potentially responsible parties . "
+Id. , at 3 .
+Because EPA has a policy of not suing innocent homeowners for pollution they did not cause , it did not include the landowners in settlement negotiations .
+But EPA 's nonenforcement policy does not alter the landowners ' status as potentially responsible parties .
+Section 107(a ) unambiguously defines potentially responsible parties and EPA does not have authority to alter that definition .
+See ,   e.g. ,   Sturgeon v.   Frost , 587 U. S. ---- , ---- , n. 3 , 139 S.Ct . 1066 , 1080 , n.3 , 203 L.Ed.2d 453 ( 2019 ) .
+Section 122(e)(1 ) requires notification of settlement negotiations to all potentially responsible parties .
+To say that provision determines who is a potentially responsible party in the first instance would render the Act circular .
+Even the Government does not claim that its decisions whether to send notices of settlement negotiations carry such authority .
+In short , even if EPA ran afoul of § 122(e)(1 ) by not providing the landowners notice of settlement negotiations , that does not change the landowners ' status as potentially responsible parties .
+The landowners relatedly argue that the limitation in § 122(e)(6 ) on remedial action by potentially responsible parties can not carry the weight we assign to it because it is located in the Act 's section on settlement negotiations .
+Congress , we are reminded , does not " hide elephants in mouseholes . "
+Whitman v. American Trucking Assns . , Inc. , 531 U.S. 457 , 468 , 121 S.Ct . 903 , 149 L.Ed.2d 1 ( 2001 ) .
+We take no issue with characterizing § 122(e)(6 ) as an elephant .
+It is , after all , one of the Act 's crucial tools for ensuring an orderly cleanup of toxic waste .
+But § 122 of the Act is , at the risk of the tired metaphor spinning out of control , less a mousehole and more a watering hole - exactly the sort of place we would expect to find this elephant .
+Settlements are the heart of the Superfund statute .
+EPA 's efforts to negotiate settlement agreements and issue orders for cleanups account for approximately 69 % of all cleanup work currently underway .
+EPA , Superfund Site Cleanup Work Through Enforcement Agreements and Orders , https://www.epa.gov/enforcement/superfund-site-cleanup-work-through-enforcement-agreements-and-orders .
+The Act commands EPA to proceed by settlement " [ w]henever practicable and in the public interest ... in order to expedite effective remedial actions and minimize litigation . "
+42 U.S.C. § 9622 ( a ) .
+EPA , for its part , " prefers to reach an agreement with a potentially responsible party ( PRP ) to clean up a Superfund site instead of issuing an order or paying for it and recovering the cleanup costs later . "
+EPA , Negotiating Superfund Settlements , https://www.epa.gov/enforcement/negotiating-superfund-settlements .
+The Act encourages potentially responsible parties to enter into such agreements by authorizing EPA to include a " covenant not to sue , " which caps the parties ' liability to the Government .
+§ 9622(c)(1 ) .
+The Act also protects settling parties from contribution claims by other potentially responsible parties .
+§ 9613(f ) ( 2 ) .
+Once finalized , the terms of a settlement become legally binding administrative orders , subject to civil penalties of up to $ 25,000 a day .
+§ § 9609(a)(1)(E ) , 9622 (   l ) .
+Moreover , subsection ( e ) is an important component of § 122 .
+It establishes a reticulated scheme of notices , proposals , and counterproposals for the settlement negotiation process .
+§ 9622(e ) .
+And the subsection places a moratorium on EPA remedial actions while negotiations are under way .
+§ 9622(e)(2)(A ) .
+It is far from surprising to find an analogous provision restricting potentially responsible parties from taking remedial actions in the same subsection .
+Justice GORSUCH also contends that our interpretation violates the Act 's " saving clauses , " which provide that the Act does not preempt liability or requirements under state law .  
+Post , at 1358 - 1359 .
+But we have long rejected interpretations of sweeping saving clauses that prove " absolutely inconsistent with the provisions of the act " in which they are found .  
+American Telephone & Telegraph Co. v. Central Office Telephone , Inc. , 524 U.S. 214 , 228 , 118 S.Ct . 1956 , 141 L.Ed.2d 222 ( 1998 ) ( quoting   Texas & Pacific R. Co. v. Abilene Cotton Oil Co. , 204 U.S. 426 , 446 , 27 S.Ct . 350 , 51 L.Ed . 553 ( 1907 ) ) .
+Interpreting the Act 's saving clauses to erase the clear mandate of § 122(e)(6 ) would allow the Act " to destroy itself . "
+Ibid .
+What is more , Atlantic Richfield remains potentially liable under state law for compensatory damages , including loss of use and enjoyment of property , diminution of value , incidental and consequential damages , and annoyance and discomfort .
+The damages issue before the Court is whether Atlantic Richfield is also liable for the landowners ' own remediation beyond that required under the Act .
+Even then , the answer is yes - so long as the landowners first obtain EPA approval for the remedial work they seek to carry out .
+We likewise resist Justice GORSUCH 's evocative claim that our reading of the Act endorses " paternalistic central planning " and turns a cold shoulder to " state law efforts to restore state lands . "
+Post , at 1366 .
+Such a charge fails to appreciate that cleanup plans generally must comply with " legally applicable or relevant and appropriate " standards of state environmental law .
+42 U.S.C. § 9621 ( d)(2)(A)(ii ) .
+Or that States must be afforded opportunities for " substantial and meaningful involvement " in initiating , developing , and selecting cleanup plans .
+§ 9621(f ) ( 1 ) .
+Or that EPA usually must defer initiating a cleanup at a contaminated site that a State is already remediating .
+§ 9605(h ) .
+It is not " paternalistic central planning " but instead the " spirit of cooperative federalism [ that ] run[s ] throughout CERCLA and its regulations . "
+New Mexico v. General Elec . Co. , 467 F.3d 1223 , 1244 ( CA10 2006 ) .
+As a last ditch effort , the landowners contend that , even if § 107(a ) defines potentially responsible parties , they qualify as contiguous property owners under § 107(q ) , which would pull them outside the scope of § 107(a ) .
+The landowners are correct that contiguous property owners are not potentially responsible parties .
+Section 107(q)(1)(A ) provides that " [ a ] person that owns real property that is contiguous to or otherwise similarly situated with respect to , and that is or may be contaminated by a release or threatened release of a hazardous substance from , real property that is not owned by that person shall not be considered " an owner of a facility under § 107(a ) .
+§ 9607(q)(1)(A ) .
+The problem for the landowners is that there are eight further requirements to qualify as a contiguous property owner .
+§ § 9607(q)(1)(A)(i)-(viii ) .
+Each landowner individually must " establish by a preponderance of the evidence " that he satisfies the criteria .
+§ 9607(q)(1)(B ) .
+The landowners can not clear this high bar .
+One of the eight requirements is that , at the time the person acquired the property , the person " did not know or have reason to know that the property was or could be contaminated by a release or threatened release of one or more hazardous substances . "
+§ 9607(q)(1)(A)(viii)(II ) .
+All of the landowners here purchased their property after the Anaconda Company built the Washington Monument sized smelter .
+Indeed " evidence of public knowledge " of contamination was " almost overwhelming . "
+Christian v. Atlantic Richfield Co. , 380 Mont. 495 , 529 , 358 P.3d 131 , 155 ( 2015 ) .
+In the early 1900s , the Anaconda Company actually obtained smoke and tailing easements authorizing the disposition of smelter waste onto many properties now owned by the landowners .  
+Id. , at 500 - 501 , 358 P.3d at 137 - 138 .
+The landowners had reason to know their property " could be contaminated by a release or threatened release " of a hazardous substance .
+42 U.S.C. § 9607 ( q)(1)(A)(viii)(II ) .
+At any rate , contiguous landowners must provide " full cooperation , assistance , and access " to EPA and those carrying out Superfund cleanups in order to maintain that status .
+§ 9607(q)(1)(A)(iv ) .
+But the Government has represented that the landowners ' restoration plan , if implemented , would interfere with its cleanup by , for example , digging up contaminated soil that has been deliberately capped in place .
+See Brief for United States as   Amicus Curiae 20 - 21 .
+If that is true , the landowners ' plan would soon trigger a lack of cooperation between EPA and the landowners .
+At that point , the landowners would no longer qualify as contiguous landowners and we would be back to square one .
+* * *
+The Montana Supreme Court erred in holding that the landowners were not potentially responsible parties under § 122(e)(6 ) and therefore did not need to seek EPA approval .
+Montana law requires that " an award of restoration damages actually ... be used to repair the damaged property . "
+Sunburst School Dist . No . 2 , 338 Mont. at 273 , 165 P.3d at 1089 .
+But such action can not be taken in the absence of EPA approval .
+That approval process , if pursued , could ameliorate any conflict between the landowners ' restoration plan and EPA 's Superfund cleanup , just as Congress envisioned .
+In the absence of EPA approval of the current restoration plan , we have no occasion to entertain Atlantic Richfield 's claim that the Act otherwise preempts the plan .
+The judgment of the Montana Supreme Court is affirmed in part and vacated in part .
+The case is remanded for further proceedings not inconsistent with this opinion .
+It is so ordered .

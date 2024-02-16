@@ -1,0 +1,127 @@
+Justice SOTOMAYOR delivered the opinion of the Court .
+Section 145 of the Patent Act affords applicants " dissatisfied with the decision of the Patent Trial and Appeal Board " an opportunity to file a civil action in the United States District Court for the Eastern District of Virginia .
+35 U.S.C. § 145 .
+The statute specifies that " [ a]ll the expenses of the proceedings shall be paid by the applicant . "
+Ibid .
+The question presented in this case is whether such " expenses " include the salaries of attorney and paralegal employees of the United States Patent and Trademark Office ( PTO ) .
+We hold that they do not .
+I
+A
+The Patent Act creates two mutually exclusive pathways to challenge an adverse decision by the PTO .
+The first permits judicial review by direct appeal to the United States Court of Appeals for the Federal Circuit .
+§ 141 .
+There is " no opportunity for the applicant to offer new evidence " in a § 141 proceeding , and the Federal Circuit " must review the PTO 's decision on the same administrative record that was before the [ agency ] . "
+Kappos v. Hyatt , 566 U.S. 431 , 434 , 132 S.Ct . 1690 , 182 L.Ed.2d 704 ( 2012 ) ; 35 U.S.C. § 144 .
+The second pathway allows applicants to file a new civil action against the Director of the PTO in federal district court .
+§ 145 .
+Unlike § 141 , § 145 " permits the applicant to present new evidence ... not presented to the PTO . "
+Kappos , 566 U.S. at 435 , 132 S.Ct . . 1690 .
+The district court " acts as a factfinder when new evidence is introduced in a § 145 proceeding " and must make de novo determinations that take into account " both the new evidence and the administrative record before the PTO . "
+Id. , at 444 , 446 , 132 S.Ct . 1690 .
+The parties may appeal the district court 's final decision to the Federal Circuit .
+28 U.S.C. § 1295 ( a)(4)(C ) .
+Because § 145 does not limit an applicant 's ability to introduce new evidence to challenge the denial of a patent , Kappos , 566 U.S. at 439 , 132 S.Ct . 1690 , it can result in protracted litigation .
+As a condition for permitting such extensive review , the Patent Act requires applicants who avail themselves of § 145 to pay " [ a]ll the expenses of the proceedings . "
+35 U.S.C. § 145 .
+B
+After the PTO denied respondent NantKwest , Inc. 's patent application directed to a method for treating cancer , NantKwest filed a complaint against the PTO Director in the Eastern District of Virginia under § 145 .
+The District Court granted summary judgment to the PTO , and the Federal Circuit affirmed .
+NantKwest , Inc. v. Lee , 686 Fed . Appx . 864 ( 2017 ) .
+The PTO moved for reimbursement of expenses that included - for the first time in the 170 - year history of § 145 -the pro rata salaries of PTO attorneys and a paralegal who worked on the case .
+The District Court denied the PTO 's motion to recover its pro rata legal fees as " expenses " of the § 145 proceeding .
+The court concluded that the statutory language referencing expenses was not clear enough to rebut the " American Rule"-the background principle that parties are responsible for their own attorney 's fees .
+NantKwest , Inc. v. Lee , 162 F.Supp.3d 540 , 542 ( E.D. Va. 2016 ) .
+A divided Federal Circuit panel reversed , with Judge Stoll dissenting .
+NantKwest , Inc. v. Matal , 860 F.3d 1352 ( 2017 ) .
+The majority expressed " substantial doub[t ] " that § 145 even implicated the American Rule 's presumption against fee shifting in a case in which the payment was not made to a prevailing party .
+Id. , at 1355 .
+The majority concluded that , even assuming the American Rule presumption applied , the term " expenses " in § 145 " specific[ally ] " and " explicit[ly ] " authorized an award of fees .
+Id. , at 1356 .
+The en banc Federal Circuit voted sua sponte to rehear the case and reversed the panel over a dissent .
+NantKwest , Inc. v. Iancu , 898 F.3d 1177 , 1184 ( 2018 ) .
+The majority opinion - now authored by Judge Stoll - held that the American Rule presumption applied to § 145 because it is " the starting point whenever a party seeks to shift fees from one side to the other in adversarial litigation . "
+Id. , at 1184 ( citing Baker Botts L. L. P. v. ASARCO LLC , 576 U. S. 121 , ---- , 135 S.Ct . 2158 , 2165 , 192 L.Ed.2d 208 ( 2015 ) ) .
+After examining the plain text and statutory history of § 145 , the judicial and congressional understanding of similar language , and overarching policy considerations , the majority concluded that " [ a]warding ' [ a]ll the expenses ' simply can not supply the ' specific and explicit ' directive from Congress to shift attorneys ' fees , and nothing else in the statute evinces congressional intent to make them available . "
+898 F.3d at 1196 ( quoting Alyeska Pipeline Service Co. v. Wilderness Society , 421 U.S. 240 , 260 , 95 S.Ct . 1612 , 44 L.Ed.2d 141 ( 1975 ) ) .
+We granted certiorari , 586 U. S. ---- , 139 S.Ct . 1292 , 203 L.Ed.2d 413 ( 2019 ) , and now affirm .
+II
+This Court 's " ' basic point of reference ' when considering the award of attorney 's fees is the bedrock principle known as the ' " American Rule " ' : Each litigant pays his own attorney 's fees , win or lose , unless a statute or contract provides otherwise . "
+Hardt v. Reliance Standard Life Ins . Co. , 560 U.S. 242 , 252 - 253 , 130 S.Ct . 2149 , 176 L.Ed.2d 998 ( 2010 ) ( quoting Ruckelshaus v. Sierra Club , 463 U.S. 680 , 683 , 103 S.Ct . 3274 , 77 L.Ed.2d 938 ( 1983 ) ) .
+The American Rule has " roots in our common law reaching back to at least the 18th century . "
+Baker Botts , 576 U. S. , at ---- , 135 S.Ct . , at 2164 ( citing Arcambel v. Wiseman , 3 Dall . 306 , 1 L.Ed . 613 ( 1796 ) ) ; see also Summit Valley Industries , Inc. v. Carpenters , 456 U.S. 717 , 721 , 102 S.Ct . 2112 , 72 L.Ed.2d 511 ( 1982 ) ( observing that the American Rule " has been consistently followed for almost 200 years " ) ; Alyeska Pipeline , 421 U.S. at 257 , 95 S.Ct . 1612 ( referring to the presumption against shifting attorney 's fees as a " general " rule ) .
+The Government does not dispute this principle or its pedigree , but argues instead that it does not apply at all .
+Because the American Rule presumption is most often overcome when a statute awards fees to a " prevailing party , " the Government maintains , the presumption applies only to prevailing - party statutes .
+And because § 145 requires one party to pay all expenses regardless of outcome , the argument goes , it is not a statute subject to the presumption .
+That view is incorrect .
+This Court has never suggested that any statute is exempt from the presumption against fee shifting .
+Nor has it limited its American Rule inquiries to prevailing - party statutes .
+Indeed , the Court has developed a " line of precedents " " addressing statutory deviations from the American Rule that do not limit attorney 's fees awards to the ' prevailing party . ' "
+Hardt , 560 U.S. at 254 , 130 S.Ct . 2149 ; see also Baker Botts , 576 U. S. , at ---- - ---- , 135 S.Ct . , at 2164 - 2166 ( analyzing a bankruptcy provision that did not mention prevailing parties under the American Rule 's presumption against fee shifting ) .
+Sebelius v. Cloer , 569 U.S. 369 , 133 S.Ct . 1886 , 185 L.Ed.2d 1003 ( 2013 ) , confirms that the presumption against fee shifting applies to all statutes - even those like § 145 that do not explicitly award attorney 's fees to " prevailing parties . "
+In Cloer , the Court interpreted a provision of the National Childhood Vaccine Injury Act that permitted courts to " award attorney 's fees ... ' incurred [ by a claimant ] in any proceeding on ' an unsuccessful vaccine - injury ' petition ... brought in good faith [ with ] a reasonable basis for the claim . ' "
+569 U.S. at 371 , 133 S.Ct . 1886 ( quoting 42 U.S.C. § 300aa-15(e)(1 ) ) .
+The Court held that the provision 's clear language authorized attorney 's fees , even though the statute exclusively applied to unsuccessful litigants .
+569 U.S. at 372 , 133 S.Ct . 1886 .
+Cloer establishes two points : First , contrary to the Government 's suggestion , Congress has indeed enacted fee - shifting statutes that apply to nonprevailing parties .
+Second , and again contrary to the Government 's view , the American Rule applies to such statutes .
+The Government itself argued in Cloer that the presumption against fee shifting applied by default , but maintained that the statute " depart[ed ] so far from background principles about who pays a litigant 's attorney 's fees that it [ could not ] be justified without a clearer statement than the Act can supply . ' "
+Brief for Petitioner in Sebelius v. Cloer , O. T. 2012 , No . 12236 , p. 32 .
+The Court acknowledged the Government 's position but concluded that the " rul[e ] of thumb " against fee shifting gave way because the " words of [ the ] statute [ were ] unambiguous . "
+Cloer , 569 U.S. at 380 - 381 , 133 S.Ct . 1886 ( citing the Government 's brief ) .
+The dissenting en banc Federal Circuit Judges also doubted that the American Rule could apply to a § 145 action .
+They characterized the proceeding as an intermediate step in obtaining a patent and the payment of legal fees as a portion of the application costs .
+898 F.3d at 1200 ( opinion of Prost , J. ) .
+Yet § 145 has all the marks of the kind of adversarial litigation in which fee shifting , and the presumption against it , is common ; the statute authorizes filing a separate civil action where new evidence can be introduced for de novo review by a district judge .
+Thus , the presumption against fee shifting not only applies , but is particularly important because § 145 permits an unsuccessful government agency to recover its expenses from a prevailing party .
+Reading § 145 to award attorney 's fees in that circumstance " would be a radical departure from longstanding fee - shifting principles adhered to in a wide range of contexts . "
+Ruckelshaus , 463 U.S. at 683 , 103 S.Ct . 3274 .
+The American Rule thus provides the starting point for assessing whether § 145 authorizes payment of the PTO 's legal fees .
+III
+To determine whether Congress intended to depart from the American Rule presumption , the Court first " look[s ] to the language of the section " at issue .
+Hardt , 560 U.S. at 254 , 130 S.Ct . 2149 ( internal quotation marks omitted ) .
+While " [ t]he absence of [ a ] specific reference to attorney 's fees is not dispositive , " Key Tronic Corp. v. United States , 511 U.S. 809 , 815 , 114 S.Ct . 1960 , 128 L.Ed.2d 797 ( 1994 ) , Congress must provide a sufficiently " specific and explicit " indication of its intent to overcome the American Rule 's presumption against fee shifting .
+Alyeska Pipeline , 421 U.S. at 260 , 95 S.Ct . 1612 .
+A
+The reference to " expenses " in § 145 does not invoke attorney 's fees with the kind of " clarity we have required to deviate from the American Rule . "
+Baker Botts , 576 U. S. , at ---- , 135 S.Ct . , at 2164 .
+Definitions of " expenses " provide scant guidance .
+The term , standing alone , encompasses wide - ranging " expenditure[s ] of money , time , labor , or resources to accomplish a result , " Black 's Law Dictionary 698 ( 10th ed . 2014 ) , " charges or costs met with in ... doing one 's work , " Webster 's New World College Dictionary 511 ( 5th ed . 2014 ) , and " outlay[s ] " for labor , Merriam - Webster 's Dictionary of Law 180 ( 1996 ) ; see also N. Webster , An American Dictionary of the English Language 319 ( 3d ed . 1830 ) ( defining the term broadly to include " the employment and consumption , as of time or labor , " or the " disbursing of money " ) .
+Though these definitions are capacious enough to include attorney 's fees , the mere failure to foreclose a fee award " neither specifically nor explicitly authorizes courts to shift [
+fees ] . "
+Baker Botts , 576 U. S. , at ---- , 135 S.Ct . , at 2165 .
+Reading the term " expenses " alongside neighboring words in the statute , however , supports a conclusion excluding legal fees from the scope of § 145 .
+The complete phrase " expenses of the proceeding " is similar to the Latin expensæ litis , or " expenses of the litigation . "
+This term has long referred to a class of expenses commonly recovered in litigation to which attorney 's fees did not traditionally belong .
+See Black 's Law Dictionary 461 ( 1891 ) ( defining " expensæ litis " to mean " generally allowed " costs ) ; 1 J. Bouvier , Law Dictionary 392 ( 1839 ) ( defining the term to mean the " costs which are generally allowed to the successful party " ) ; i d. , at 244 ( excluding from the definition of " costs " the " extraordinary fees [ a party ] may have paid counsel " ) .
+These definitions suggest that the use of " expenses " in § 145 would not have been commonly understood to include attorney 's fees at its enactment .
+Finally , the modifier " all " does not expand § 145 's reach to include attorney 's fees .
+Although the word conveys breadth , it can not transform " expenses " to reach an outlay it would not otherwise include .
+Cf . Rimini Street , Inc. v. Oracle USA , Inc. , 586 U. S. ---- , ---- - ---- , 139 S.Ct . 873 , 878 - 879 , 203 L.Ed.2d 180 ( 2019 ) ( " The adjective ' full ' in § 505 therefore does not alter the meaning of the word ' costs . '
+Rather , ' full costs ' are all the ' costs ' otherwise available under law " ) .
+Section 145 's plain text thus does not overcome the American Rule 's presumption against fee shifting to permit the PTO to recoup its legal personnel salaries as " expenses of the proceedings . "
+B
+" The record of statutory usage " also illustrates how the term " expenses " alone does not authorize recovery of attorney 's fees .
+See West Virginia Univ . Hospitals , Inc. v. Casey , 499 U.S. 83 , 88 , 111 S.Ct . 1138 , 113 L.Ed.2d 68 ( 1991 ) ( looking to statutory usage to determine whether attorney 's fees and expert fees were distinct expenses in the fee - shifting context ) .
+That " expenses " and " attorney 's fees " appear in tandem across various statutes shifting litigation costs indicates that Congress understands the two terms to be distinct and not inclusive of each other .
+See , e.g. , 898 F.3d at 1188 ( quoting 11 U.S.C. § 363 ( n ) ( allowing trustee to recover " any costs , attorneys ' fees , or expenses incurred " ) ; 12 U.S.C. § 1786 ( p ) ( permitting courts to " allow to any such party such reasonable expenses and attorneys ' fees as it deems just and proper " ) ; 25 U.S.C. § 1401 ( a ) ( allowing distribution of funds after payment of " attorney fees and litigation expenses " ) ; 26 U.S.C. § 6673 ( a)(2)(A ) ( authorizing recovery of " costs , expenses , and attorneys ' fees " against an attorney who " unreasonably and vexatiously " multiplies proceedings ) ; 31 U.S.C. § 3730 ( d)(1 ) ( permitting recovery of " reasonable expenses ... plus reasonable attorneys ' fees and costs " ) ; 38 U.S.C. § 4323 ( h)(2 ) ( allowing courts to award " reasonable attorney fees , expert witness fees , and other litigation expenses " ) ( all internal quotation marks omitted ) ) .
+While some other statutes refer to attorney 's fees as a subset of expenses , they show only that " expenses " can include attorney 's fees when so defined .
+See , e.g. , 28 U.S.C. § 361 ( authorizing " reasonable expenses , including attorneys ' fees " ) ; § 1447(c ) ( " An order remanding the case may require payment of just costs and any actual expenses , including attorney fees , incurred as a result of the removal " ) ; 29 U.S.C. § 1370 ( e)(1 ) ( " [ T]he court in its discretion may award all or a portion of the costs and expenses incurred in connection with such action including reasonable attorney 's fees " ) ; 42 U.S.C. § 247d-6d(e)(9 ) ( allowing a party to recover " reasonable expenses incurred ... , including a reasonable attorney 's fee " ) .
+The Government cites several decisions to argue how , on occasion , this Court has used the term " expenses " to mean " attorney 's fees . "
+None of the cases furthers its position .
+See , e.g. , Rimini Street , 586 U. S. , at ---- , ---- , 139 S.Ct . , at 877 , 881 ( reasoning that the term " costs " in the general federal costs statutes does not include attorney 's fees ) ; Taniguchi v. Kan Pacific Saipan , Ltd. , 566 U.S. 560 , 573 , 132 S.Ct . 1997 , 182 L.Ed.2d 903 ( 2012 ) ( mentioning that a party may bear " expenses " related to attorneys , without specifying whether these " expenses " include attorney 's fees ) ; Arlington Central School Dist . Bd . of Ed . v. Murphy , 548 U.S. 291 , 297 - 303 , 126 S.Ct . 2455 , 165 L.Ed.2d 526 ( 2006 ) ( distinguishing " attorney 's fees " from " costs " and " costs " from " expenses , " without indicating whether " expenses " encompasses attorney 's fees ) ; Casey , 499 U.S. at 99 , 111 S.Ct . 1138 ( suggesting that an explicit reference to " expert witness fees " or " litigation expenses " could shift expert fees in addition to attorney 's fees - not that the term " litigation expenses " alone could shift attorney 's fees ) .
+Simply put , in common statutory usage , the term " expenses " alone has never been considered to authorize an award of attorney 's fees with sufficient clarity to overcome the American Rule presumption .
+C
+In fact , the Patent Act 's history reinforces that Congress did not intend to shift fees in § 145 actions .
+There is no evidence that the Patent Office , the PTO 's predecessor , originally paid its personnel from sums collected from adverse parties in litigation , or that the Office initially even employed attorneys .
+See Act of July 4 , 1836 , § 9 , 5 Stat . 121 ( " [ T]he moneys received into the Treasury under this act shall constitute a fund for the payment of the salaries of the officers and clerks herein provided for , and all other expenses of the Patent Office , and to be called the patent fund " ) .
+That salaries of PTO employees might have qualified as an " expense " of the agency , however , does not mean that they are an " expense " of a § 145 proceeding .
+Neither has the PTO , until this litigation , sought its attorney 's fees under § 145 .
+That the agency has managed to pay its attorneys consistently suggests that financial necessity does not require reading § 145 to shift fees , either .
+In later years , when Congress intended to provide for attorney 's fees in the Patent Act , it stated so explicitly .
+See , e.g. , 35 U.S.C. § 285 ( " The court in exceptional cases may award reasonable attorney fees to the prevailing party " ) ; § 271(e)(4 ) ( " [ A ] court may award attorney fees under section 285 " ) ; § 273(f ) ( same ) ; § 296(b ) ( same ) ; § 297(b)(1 ) ( " Any customer ... who is found by a court to have been injured by any material false or fraudulent statement ... may recover ... reasonable costs and attorneys ' fees " ) .
+Because Congress failed to make its intention similarly clear in § 145 , the Court will not read the statute to " contravene fundamental precepts of the common law . "
+United States v. Rodgers , 461 U.S. 677 , 716 , 103 S.Ct . 2132 , 76 L.Ed.2d 236 ( 1983 ) .
+The history of the Patent Act thus reaffirms the Court 's view that the statute does not specifically or explicitly authorize the PTO to recoup its lawyers ' or paralegals ' pro rata salaries in § 145 civil actions .
+* * *
+For the foregoing reasons , we conclude that the PTO can not recover the pro rata salaries of its legal personnel under § 145 and therefore affirm the judgment of the Court of Appeals for the Federal Circuit .
+It is so ordered .

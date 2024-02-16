@@ -1,0 +1,228 @@
+Justice ALITO , dissenting .
+If the Court is going to devise its own legal rules , instead of interpreting those enacted by Congress , it might at least adopt rules that can be applied with a modicum of consistency .
+Here , however , the Court makes up a rule that provides no clear guidance and invites arbitrary and inconsistent application .
+The text of the Clean Water Act generally requires a permit when a discharge " from " a " point source " ( such as a pipe ) " add[s ] " a pollutant " to " navigable waters ( such as the Pacific Ocean ) .
+33 U.S.C. § 1362 ( 12 ) .
+There are two ways to read this text .
+A pollutant that reaches the ocean could be understood to have been added " from " a pipe if the pipe originally discharged the pollutant and the pollutant eventually made its way to the ocean by flowing over or under the surface of the ground .
+Or a pollutant that reaches the ocean could be understood to have come " from " a pipe if the pollutant is discharged from the pipe directly into the ocean .
+There is no comprehensible alternative to these two interpretations , but the Court refuses to accept either .
+Both alternatives , it believes , lead to unacceptable results , and it therefore tries to find a middle way .
+It holds that a permit is required " when there is a direct discharge from a point source into navigable waters or when there is the functional equivalent of a direct discharge . "
+Ante , at 1476 .
+This is not a plausible interpretation of the statutory text and , to make matters worse , the Court 's test has no clear meaning .
+Just what is the " functional equivalent " of a " direct discharge " ?
+The Court provides no real answer .
+All it will say is that the distance a pollutant travels and the time this trip entails are the most important factors , but at least five other factors may have a bearing on the question , and even this list is not exhaustive .  
+Ante , at 1476 - 1477 .
+Entities like water treatment authorities that need to know whether they must get a permit are left to guess how this nebulous standard will be applied .
+Regulators are given the discretion , at least in the first instance , to make of this standard what they will .
+And the lower courts ?
+The Court 's advice , in essence , is : " That 's your problem .
+Muddle through as best you can . "
+I
+Petitioner , the County of Maui ( County ) , built the Lahaina Wastewater Reclamation Facility in the 1970s .
+Excerpts of Record 304 .
+The facility receives sewage and then discharges treated wastewater into wells ( essentially long pipes ) that extend 200 feet or more below ground level .  
+Id. , at 694 - 695 .
+Some of this discharge enters an aquifer below the facility .  
+Id. , at 696 .
+In all the years of its operation , the facility has never had a National Pollution Discharge Elimination System ( NPDES ) permit for discharges from the wells , a fact that has been well known to both the EPA and the Hawaii Department of Health ( HDOH ) .
+The EPA helped to finance the construction of the facility with a Clean Water Act grant .  
+Id. , at 141 .
+In 1973 , before breaking ground on the facility , the County prepared an environmental impact report and shared it with the EPA and the HDOH .  
+Id. , at 140 , 342 .
+The report predicted that effluent injected into groundwater from the wells would " eventually reach the ocean some distance from the shore . "
+Id. , at 342 .
+Both the EPA and the HDOH received and submitted comments on the report without any mention of a need for permitting discharges from the wells .  
+Id. , at 140 .
+Six years later , the HDOH issued an NPDES permit to the facility - but not for the wells .
+( The permit covered separate discharges to the Honokowai Stream . )
+Id. , at 141 , 223 - 224 .
+And in a May 1985 NPDES Compliance Monitoring Report , the EPA concluded that the County was operating in compliance with the permit , because all effluent was entering the injection wells - and was thus destined for groundwater rather than for navigable waters or for use in irrigation .
+Id. , at 141 , 222 .
+In 1994 , HDOH again informed the EPA that " all experts agree that the wastewater does enter the ocean . "
+Id. , at 369 .
+And again - nothing from the federal authorities .
+Thus , despite nearly five decades of notice that effluent from the facility would make , or was making , its way via groundwater to the ocean , neither the EPA nor the HDOH required NPDES permitting for the Lahaina wells .
+App . to Pet . for Cert . 138 , 143 .
+Indeed , none of the more than 6,600 underground injection wells in Hawaii currently has an NPDES permit .
+In 2012 , however , as the Court recounts , respondents filed a citizen suit claiming that the Lahaina facility was violating the Clean Water Act by discharging pollutants into the ocean without a permit .
+The District Court granted summary judgment against the County on the issue of liability because pollutants " can be directly traced from the injection wells to the ocean . "
+24 F.Supp.3d 980 , 998 ( Haw . 2014 ) ( emphasis deleted ) .
+The parties then entered into a conditional settlement
+that would take effect if the County were unsuccessful on appeal .
+Under that agreement , the County must : make good - faith efforts to obtain and comply with an NPDES permit ; pay $ 100,000 in civil penalties ; spend $ 2.5 million on a " supplemental environmental project " in the western part of the island of Maui ; and pay nearly $ 1 million for respondents ' attorney 's fees and other costs of litigation .
+On appeal , the Ninth Circuit affirmed on the ground that pollutants that eventually reached the ocean were " fairly traceable " to the wells .
+886 F.3d 737 , 749 ( 2018 ) .
+We granted review and must now decide whether the Court of Appeals erred in holding that the discharge of effluent from the wells into groundwater requires a permit .
+II
+The Clean Water Act generally makes it unlawful to " discharge " a " pollutant " without a permit .
+33 U.S.C. § 1311 ( a ) .
+The Act defines the " discharge of a pollutant " as " any addition of any pollutant to navigable waters from any point source . "
+§ 1362(12 ) .
+And a " point source " is broadly defined as " any discernible , confined and discrete conveyance ... from which pollutants are or may be discharged . "
+§ 1362(14 ) .
+The Act includes a non - exhaustive list of conveyances that fall within this definition , and included on that list are such things as " pipe[s ] , " " ditch[es ] , " " channel[s ] , " and " well[s ] . "
+Ibid .
+Putting all these statutory terms together , the rule can be stated as follows : A permit is required when a pollutant is " add[ed ] " to navigable waters " from " a " point source . "
+In this case , the parties and the EPA agree that most of the elements of this rule are met .
+Specifically , they agree that : The effluent emitted by the wells is a " pollutant " ; this effluent reaches navigable waters ( the Pacific Ocean ) ; and the wells are " point source[s ] . "
+The disputed question is whether the emission of effluent from those wells qualifies as a " discharge , " that is , the addition of a pollutant " from " a point source .
+§ 1362(12 ) ( emphasis added ) .
+There are two possible interpretations of this phrase .
+The first is that pollutants are added to navigable waters from a point source whenever they originally came from the point source .
+The second is that pollutants are added to navigable waters only if they were discharged from a point source directly into navigable waters .
+Dissatisfied with those options , the Court tries to find a third , but its interpretation is very hard to fit into the statutory text .
+Under the Court 's interpretation , it appears that a pollutant that leaves a point source and heads toward navigable waters via some non - point source ( such as by flowing over the ground or by means of groundwater ) is " from " the point source for some portion of its journey , but once it has travelled a certain distance or once a certain amount of time has elapsed , it is no longer " from " the point source and is instead " from " a non - point source .
+This is an implausible reading of the statute .
+The Court has many inventive examples of the different meanings that can be conveyed by the simple statement that A comes from B , but one of the Court 's examples - the traveler who flies from Europe to Baltimore - illustrates the problem .
+If we apply the Court 's interpretation of § 1362 to this traveler 's journey , he would be " from " Europe for the first part of the flight , but at some point he might cease to be " from " Europe and would then be from someplace else , maybe Greenland or geographical coordinates in the middle of the Atlantic .
+This is a very strange notion , and therefore , I think the statutory text compels us to choose between the two alternatives set out above .
+The Court rejects both of these because it thinks they lead to unacceptably extreme results .
+" Originally from " would impose liability even if pollutants discharged into ground water had to travel 250 miles over the course of 100 years before reaching navigable waters .
+See ante , at 1470 - 1471 .
+And " ' immediately ' " or " ' directly ' from , " the Court thinks , would mean that a polluter could evade the permit requirement by discharging pollutants from a pipe located just a few feet from navigable waters .  
+Ante , at 1475 - 1476 .
+To escape these possibilities , the Court devises its own test : A permit is required , the Court holds , " when there is a direct discharge from a point source into navigable waters or when there is the functional equivalent of a direct discharge . "
+Ante , at 1476 ( emphasis in original ) .
+The Clean Water Act , however , says nothing about " the functional equivalent " of a direct discharge .
+That is the Court 's own concoction , and the Court provides no clear explanation of its meaning .
+The term " functional equivalent " may have a quasi - technical ring , but what does it mean ?
+" Equivalent " means " equal " in some respect , and " functional " signifies a relationship to a function .
+The function of a direct discharge from a point source into navigable waters is to convey the entirety of the discharge into navigable waters without any delay .
+Therefore , the " functional equivalent " of a direct discharge of a pollutant into navigable waters would seem to be a discharge that is equal to a direct discharge in these respects .
+If that is what the Court meant by " the functional equivalent of a direct discharge , " the test would apply at best to only a small set of situations not involving a direct discharge .
+The Court 's example of a pipe that emits pollutants a few feet from the ocean would presumably qualify on de minimis grounds , but if the pipe were moved back any significant distance , the discharge would not be exactly equal to a direct discharge .
+There would be some lag from the time of the discharge to the time when the pollutant reaches navigable waters ; some of the pollutant might not reach that destination ; and the pollutant might have changed somewhat in composition by the time it reached the navigable waters .
+For these reasons , the Court 's reference to " the functional equivalent of a direct discharge , " if taken literally , would be of little importance , but the Court 's understanding of this concept is very different from the literal meaning of the phrase .
+As used by the Court , " the functional equivalent of a direct discharge " means a discharge that is sufficiently similar to a direct discharge to warrant a permit in light of the Clean Water Act 's " language , structure , and purposes . "
+See ante , at 1477 - 1478 .
+But what , in concrete terms , does this mean ?
+How similar is sufficiently similar ?
+The Court provides this guidance .
+It explains that time and distance are the most important factors , ante , at 1476 - 1477 , but it does not set any time or distance limits except to observe that a permit is needed where the discharge is a few feet away from navigable waters and that a permit is not required where the discharge is far away and it takes " many years " for the pollutants to complete the journey .  
+Ante , at 1475 - 1477 .
+Beyond this , the Court provides a list ( and a non - exhaustive one at that ! ) of five other factors that may be relevant : " the nature of the material through which the pollutant travels , " " the extent to which the pollutant is diluted or chemically changed as it travels , " " the amount of pollutant entering the navigable waters relative to the amount of the pollutant that leaves the point source , " " the manner by or area in which the pollutant enters the navigable waters , " and " the degree to which the pollution ( at that point ) has maintained its specific identity . "
+Ante , at 1476 - 1477 .
+The Court admits that its rule " does not , on its own , clearly explain how to deal with middle instances , " ibid . , but that admission does not go far enough .
+How the rule applies to " middle instances " is anybody 's guess .
+Except in extreme cases , dischargers will be able to argue that the Court 's multifactor test does not require a permit .
+Opponents will be able to make the opposite argument .
+Regulators will be able to justify whatever result they prefer in a particular case .
+And judges will be left at sea .
+III
+A
+Instead of concocting our own rule , I would interpret the words of the statute , and in my view , the better of the two possible interpretations is that a permit is required when a pollutant is discharged directly from a point source to navigable waters .
+This interpretation is consistent with the statutory language and better fits the overall scheme of the Clean Water Act .
+And properly understood , it does not have the sort of extreme consequences that the Court finds unacceptable .
+Take the Court 's example of a pipe that discharges pollutants a short distance from the ocean .  
+Ante , at 1473 .
+This pipe qualifies as a point source .
+33 U.S.C. § 1362 ( 14 ) .
+If its discharge goes directly into another point source and that point source discharges directly into navigable waters , there is a direct discharge into navigable waters , and a permit is needed .
+See Rapanos v. United States , 547 U.S. 715 , 743 - 744 , 126 S.Ct . 2208 , 165 L.Ed.2d 159 ( 2006 ) ( plurality opinion ) .
+That a permit is required in this situation is important because the Clean Water Act 's definition of a " point source " is very broad , and as a result , many discharges onto the surface of land are likely to be covered .
+As noted , " point source[s ] " include " ditch[es ] " and " channel[s ] , " as well as " any discernible , confined and discrete conveyance ... from which pollutants ... may be discharged . "
+§ 1362(14 ) .
+Therefore if water discharged on the surface of the land finds or creates a passage leading to navigable waters , a permit may be required if the course that the discharge takes is ( 1 ) a " conveyance " that is ( 2 ) " discernible " and ( 3 ) " confined . "
+Those three requirements are rather easily satisfied .
+When a liquid flows over the surface of land to navigable waters , the surface is a conveyance , i.e. , a " means of carrying or transporting something " from one place to another .
+Webster 's Third New International Dictionary 499 ( 1971 ) ( Webster 's Third ) ; Random House Dictionary of the English Language 320 ( 1967 ) ( Random House ) .
+This conveyance would be " discernible , " i.e. , capable of being seen .
+Webster 's Third 644 ; Random House 409 .
+And it would be " confined , " i.e. , held within bounds , see Webster 's Third 476 ; Random House 308 , if the topography of the land in question imposes some boundaries on its flow .
+If the term " point source " is read in this way , it would have a broad reach and would cover many of the cases that trouble the Court .
+Moreover - and I find this point particularly important - even if this interpretation fails to capture every case that seems to call out for regulation , that would not mean that these cases would necessarily remain unchecked .
+The States have the authority to regulate the discharge of pollutants by non - point sources .
+See 33 U.S.C. § § 1285 ( j ) , 1314(f ) , 1329(i ) , 1329(b)(1 ) , ( h ) .
+They are entrusted with a vital role under the Clean Water Act , and there is no reason to believe that they would tolerate cases of abuse .
+The interpretation I have outlined is not only consistent with the statutory language ; it is strongly supported by the Clean Water Act 's regulatory scheme for at least two reasons .
+First , it respects Congress ' decision to treat point - source pollution differently from non - point - source pollution , including pollution conveyed by groundwater .
+See 84 Fed . Reg . 16832 .
+The Court itself recognizes this :
+" [ T]he structure of the statute indicates that , as to groundwater pollution and non[-]point source pollution , Congress intended to leave substantial responsibility and autonomy to the States . "
+Ante , at 1471 .
+" Over many decades , and with federal encouragement , the States have developed methods of regulating nonpoint source pollution through water quality standards , and otherwise . "
+Ibid .
+" The Act envisions EPA 's role in managing non[-]point source pollution and groundwater pollution as limited to studying the issue , sharing information with and collecting information from the States , and issuing monetary grants . "
+Ante , at 1471 .
+Point sources are readily identifiable and therefore more susceptible to uniform nationwide regulation .
+Non - point source pollution , on the other hand , often presents more complicated issues that are better suited to individualized local solutions .
+See Shanty Town Assocs . L. P. v. EPA , 843 F.2d 782 , 791 ( C.A.4 1988 ) ( " [ T]he control of non[-]point source pollution was so dependent on such site - specific factors as topography , soil structure , rainfall , vegetation , and land use that its uniform federal regulation was virtually impossible " ) ; Natural Resources Defense Council v. EPA , 915 F.2d 1314 , 1316 ( C.A.9 1990 ) ( " The Act focused on point source polluters presumably because they could be identified and regulated more easily than non[-]point source polluters " ) ; Brief for State of West Virginia et al . as Amici Curiae 14 - 18 .
+Second , this bright - line rule is consistent with the Act 's remedial scheme .
+The Clean Water Act imposes a regime of strict liability , § § 1311 , 1342 , 1344 , backed by criminal penalties and steep civil fines , § 1319 .
+Thus , " the consequences to landowners even for inadvertent violations can be crushing . "
+Army Corps of Engineers v. Hawkes Co. , 578 U.S. ---- , ---- , 136 S.Ct . 1807 , 1816 , 195 L.Ed.2d 77 ( 2016 ) ( Kennedy , J. , concurring ) .
+The Act authorizes as much as $ 54,833 in fines per day ( or more than $ 20 million per year ) , 40 CFR § 19.4 ; 84 Fed . Reg . 2059 , and contains a 5 - year statute of limitations , 28 U.S.C. § 2462 .
+And the availability of citizen suits only exacerbates the danger to ordinary landowners .
+Even when the EPA and the relevant state agency conclude that a permit is not needed , there is always the possibility that a citizen suit will result in a very costly judgment .
+The interpretation set out above , by providing a relatively straightforward rule , provides a measure of fair notice and promotes good - faith compliance .
+B
+The alternative way in which the statutory language could be interpreted - reading " from " to mean " originally from"-would lead to extreme results , as the Court recognizes .
+And while state regulation could fill any unwarranted gaps left by the interpretation I have outlined , there would be no apparent remedy for the overreach that would result from interpreting " from " to mean " originally from . "
+The extreme consequences of that interpretation are shown most dramatically by its potential application to ordinary homeowners with septic tanks , a problem that the EPA highlighted in a recent Interpretive Statement .
+See Interpretive Statement on Application of the Clean Water Act NPDES Program to Releases of Pollutants From a Point Source to Groundwater , 84 Fed . Reg . 16824 ( 2019 ) .
+Septic systems - used by 26 million American homes - generally operate by " discharging liquid effluent into perforated pipes buried in a leach field , chambers , or other special units designed to slowly release the effluent into the soil . "
+Id. , at 16812 .
+That effluent then percolates through the soil and " can in certain circumstances ultimately enter groundwater . "
+Ibid .
+Congress most certainly did not intend that ordinary homeowners with septic systems obtain NPDES permits - or that they face severe penalties for failing to do so .
+That , however , is where this alternative interpretation would lead .
+And the same is true for the test adopted by the Ninth Circuit .
+The Ninth Circuit held that a permit is required if a pollutant that reaches navigable waters is " fairly traceable , " but there is no real difference between " fairly traceable " and " originally from . "
+Unless a pollutant is " traceable " to a point source , how could that point source be required to get a permit ?
+And the addition of the qualifier " fairly " does not seem to add anything .
+What would it mean for a pollutant to be " unfairly traceable " to a point source ?
+Traceable only as a result of a method that is scientifically unsound ?
+In that situation , why would a court consider the pollutant to be traceable to the source in question at all ?
+So if a pollutant can be reliably determined to have originally come from a point source , a permit would appear to be required under the Ninth Circuit 's test .
+Respondents , instead of defending the Ninth Circuit 's interpretation , argue that a discharge from a point source must be the " proximate cause " of a pollutant 's reaching navigable waters .
+Brief for Respondents 12 .
+But as the Court concludes , ante , at 1470 - 1471 , there is no basis for transplanting this concept from the law of torts into the Clean Water Act , and it is unclear what it would mean in that context .
+For these reasons , of the two possible interpretations of the statutory terms , the better is the interpretation that reads " from " to mean " directly from . "
+C
+Even if the Court were to find § 1362(12 ) ambiguous , applicable clear statement rules foreclose the " functional equivalent " standard and favor the test just described .
+The Court has required a clear statement of congressional intent when an administrative agency seeks to interpret a statute in a way that entails " a significant impingement of the States ' traditional and primary power over land and water use , " Solid Waste Agency of Northern Cook Cty . v. Army Corps of Engineers , 531 U.S. 159 , 174 , 121 S.Ct . 675 , 148 L.Ed.2d 576 ( 2001 ) ( SWANCC ) , and when it adopts a new and expanded interpretation of a statute , Utility Air Regulatory Group v. EPA , 573 U.S. 302 , 134 S.Ct . 2427 , 189 L.Ed.2d 372 ( 2014 ) ( UARG ) .
+The same rules should apply here where what is at issue is a new theory propounded by private plaintiffs .
+First , the Court 's " functional equivalent " test unquestionably impinges on the States ' traditional authority .
+In SWANCC , the Court struck down the Army Corps of Engineers ' " Migratory Bird Rule " as inconsistent with the Clean Water Act because the rule effectively displaced state authority over land and water use .
+In this case , the federalism interest is even stronger because the Clean Water Act itself assigns non - point - source - pollution regulation to the States and explicitly recognizes and protects the state role in environmental protection .
+33 U.S.C. § 1251 ( b ) .
+The " functional equivalent " standard expands federal point source regulation at the expense of state non - point source regulation .
+And as a practical matter , States would be saddled with the costs of increased NPDES permitting ( because States generally award permits in place of the EPA ) , while exercising diminished control over non - point source pollution within their territory .
+See Brief for State of West Virginia et al . as Amici Curiae 27 - 34 .
+Second , the Court 's test offends the clear - statement rule recognized in UARG by expanding the authority of the EPA .
+Congress must speak clearly if it " wishes to assign to an agency decisions of vast ' economic and political significance . ' "
+573 U.S. at 324 , 134 S.Ct . 2427 ( quoting FDA v. Brown & Williamson Tobacco Corp. , 529 U.S. 120 , 160 , 120 S.Ct . 1291 , 146 L.Ed.2d 121 ( 2000 ) ) .
+In UARG , the EPA had promulgated greenhouse - gas emission standards for stationary sources that " constitute[d ] an ' unprecedented expansion of EPA authority that would have a profound effect on virtually every sector of the economy and touch every household in the land . ' "
+573 U.S. at 310 - 311 , 134 S.Ct . 2427 ( quoting 73 Fed . Reg . 44355 ( 2008 ) ) .
+The statutory scheme , designed for large stationary sources like factories , would have been extended to smaller sources like hotels and retail establishments .
+The number of permits ( and associated expenses ) would have skyrocketed .
+Here , as the EPA explained in a recent Interpretive Statement , the Fourth and Ninth Circuit " discharge " tests - which I struggle to distinguish from the " functional equivalent " formulation - broaden the Act 's coverage to " potentially swee[p ] into the scope of the statute commonplace and ubiquitous activities such as releases from homeowners ' backyard septic systems . "
+84 Fed . Reg . 16823 .
+IV
+The Court does little to justify its newfound standard , other than to point to certain past EPA enforcement actions , see ante , at 1472 - 1473 , 1477 , but the EPA 's position on the regulation of groundwater has been anything but consistent .
+It is true , as the Court recounts , that the EPA has required NPDES permits for the discharge of some pollutants that migrate through groundwater before reaching navigable waters .
+See ante , at 1472 - 1473 .
+But the EPA has contradicted itself on this important question multiple times .
+See Brief for Edison Electric Institute et al . as Amici Curiae 21 - 32 ( reviewing EPA NPDES interpretations and permitting practices ) .
+In the Act 's earliest years , the EPA deputy general counsel wrote in a formal memorandum that " [ d]ischarges into ground waters " do not require NPDES permits .
+Memorandum to EPA Region IX Regional Counsel 2 - 3 ( Dec. 13 , 1973 ) .
+More recently , the EPA recognized " conflicting legal precedents " on this question .
+Compare NPDES Permit Regulation and Effluent Limitation Guidelines and Standards for Concentrated Animal Feeding Operations ( CAFOs ) , 68 Fed . Reg . 7216 ( 2003 ) , with 66 Fed . Reg . 3018 ( 2001 ) .
+Similarly , in its 2019 Interpretive Statement , the EPA acknowledged its " [ l]ack of consistent and comprehensive direction " on this issue .
+See 84 Fed . Reg . 16820 ; see also Brief for Edison Electric Institute et al . as Amici Curiae 21 - 32 ( recounting EPA historical approach to NPDES permitting ) .
+But it added that " the best , if not the only , reading of the [ Act ] is that all releases to groundwater are excluded from the scope of the NPDES program , even where pollutants are conveyed to jurisdictional surface waters via groundwater . "
+84 Fed . Reg . 16814 .
+In short , the EPA 's inconsistent position on the groundwater issue does not provide a sufficient basis for the Court 's new " functional equivalent " test .
+* * *
+The Court adopts a nebulous standard , enumerates a non - exhaustive list of potentially relevant factors , and washes its hands of the problem .
+We should not require regulated parties to " feel their way on a case - by - case basis " where the costs of uncertainty are so great .
+Rapanos , 547 U.S. at 758 , 126 S.Ct . 2208 ( ROBERTS , C.J. , concurring ) .
+The Court 's decision invites " arbitrary and inconsistent decisionmaking . "
+UARG , 573 U.S. at 350 , 134 S.Ct . 2427 ( ALITO , J. , concurring in part and dissenting in part ) .
+And " [ t]hat is not what the Clean [ Water ] Act contemplates . "
+Ibid .
+I would reverse the judgment below and instruct the lower courts to apply the test set out above .
+I therefore respectfully dissent .

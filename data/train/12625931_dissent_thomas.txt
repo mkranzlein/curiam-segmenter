@@ -1,0 +1,102 @@
+Justice THOMAS , with whom Justice GORSUCH joins , dissenting .
+The Clean Water Act ( CWA ) requires a federal permit for " the discharge of any pollutant by any person . "
+33 U.S.C. § 1311 ( a ) ; see § 1342 .
+The CWA defines a " discharge " as " any addition of any pollutant to navigable waters from any point source . "
+§ 1362(12 ) .
+Based on the statutory text and structure , I would hold that a permit is required only when a point source discharges pollutants directly into navigable waters .
+The Court adopts this interpretation in part , concluding that a permit is required for " a direct discharge . "
+Ante , at 1475 - 1476 .
+But the Court then departs from the statutory text by requiring a permit for " the functional equivalent of a direct discharge , " ibid . , which it defines through an open - ended inquiry into congressional intent and practical considerations .
+Because I would adhere to the text , I respectfully dissent .
+I
+A
+In interpreting the statutory definition of " discharge , " the Court focuses on the word " from , " but the most helpful word is " addition . "
+That word , together with " to " and " from , " limits the meaning of " discharge " to the augmentation of navigable waters .
+Dictionary definitions of " addition " denote an augmentation or increase .
+Webster 's Third New International Dictionary defines " addition " as " the act or process of adding : the joining or uniting of one thing to another . "
+Webster 's Third New International Dictionary 24 ( 1961 ) ; see also ibid .
+( listing " increase " and " augmentation " as synonyms for " addition " ) .
+Other dictionary definitions from around the time of the statute 's enactment are in accord .
+See , e.g. , American Heritage Dictionary 14 , 15 ( 1981 ) ( defining " addition " as " [ t]he act or process of adding " and defining " add " as " [ t]o join or unite so as to increase in size , quantity , or scope " ) ; see also Webster 's New International Dictionary 29 , 30 ( 2d ed . 1957 ) ( defining " addition " as the " [ a]ct , process , or instance of adding , " and defining " add " as to " join or unite , as one thing to another , or as several particulars , so as to increase the number , augment the quantity , enlarge the magnitude , or so as to form into one aggregate " ) .
+The inclusion of the term " addition " in the CWA indicates that the statute excludes anything other than a direct discharge .
+When a point source releases pollutants to groundwater , one would naturally say that the groundwater has been augmented with pollutants from the point source .
+If the pollutants eventually reach navigable waters , one would not naturally say that the navigable waters have been augmented with pollutants from the point source .
+The augmentation instead occurs with pollutants from the groundwater .
+The prepositions " from " and " to " reinforce this reading .
+When pollutants are released from a point source to another point source or groundwater , they are added to the second from the first .
+If the pollutants are later released to navigable waters , they are added to the navigable waters from the second point source or the groundwater .
+One would not naturally say that the pollutants are added to the navigable waters from the original point source .
+Interpreting " discharge " to mean a direct discharge makes sense of other parts of the definition as well .
+It respects the statutory definition of a point source as a " conveyance , " see § 1362(14 ) , because a point source that releases pollutants directly into navigable waters is a means of conveyance .
+And it makes sense of the word " any " before " point source , " because that term clarifies that any kind of point source may require a permit .
+The structure of the CWA confirms this interpretation .
+It authorizes the Environmental Protection Agency ( EPA ) to regulate discharges from point sources , including through the permitting process , but it reserves to the States the primary responsibility for regulating other sources of pollution , including groundwater .
+With respect to these sources , the EPA merely collects information , coordinates with the States , and provides funding .
+See 33 U.S.C. § § 1252 ( a ) , 1254(a)(5 ) , 1282(b)(2 ) , 1288 , 1314(a ) , 1329 ; ante , at 1470 - 1472 .
+In the CWA , Congress expressly stated its " policy ... to recognize , preserve , and protect the primary responsibilities and rights of States to prevent , reduce , and eliminate pollution . "
+§ 1251(b ) .
+Thus , construing the EPA 's power to regulate point sources to allow the agency to regulate nonpoint sources and groundwater is in serious tension with Congress ' design .
+My reading is also consistent with our decision in South Fla. Water Management Dist . v. Miccosukee Tribe , 541 U.S. 95 , 124 S.Ct . 1537 , 158 L.Ed.2d 264 ( 2004 ) .
+The petitioner in that case argued that no permit was required when a point source was not the original source of the pollutant but instead conveyed the pollutant from further up a chain of sources .  
+Id. , at 104 , 124 S.Ct . 1537 .
+We rejected that argument because " a point source need not be the original source of the pollutant ; it need only convey the pollutant to ' navigable waters . ' "
+Id. , at 105 , 124 S.Ct . 1537 .
+Although that case did not involve the exact question presented here , the direct - discharge interpretation comports well with that previous decision .
+B
+The Court 's main textual argument reads the word " from " in isolation .
+But as the Court recognizes , " the word ' from ' necessarily draws its meaning from context . "
+Ante , at 1473 .
+The Court 's example using " arrive " instead of " addition " is thus unpersuasive , ante , at 1474 - 1475 , because " from " takes different meanings with different verbs .
+The Court 's culinary example also misses the mark , ante , at 1475 , because if the drippings from the meat collect in the pan before the chef adds them to the gravy , the drippings are added to the gravy from the pan , not from the meat .
+This point becomes clear if we reorder the majority 's recipe to match the statute ; the chef has not added the drippings to the gravy from the meat .
+The Court 's bathwater example , ante , at 1475 , suffers from the same problem ; if the well water is put in a bucket before it is put in the bathtub , it is added to the bathtub from the bucket .
+Only by reading the phrase in its entirety can we interpret the definition of " discharge . "
+See Deal v. United States , 508 U.S. 129 , 132 , 113 S.Ct . 1993 , 124 L.Ed.2d 44 ( 1993 ) .
+The Court also asserts that a narrower reading than the one it adopts would create a " massive loophole " in the statute .  
+Ante , at 1476 .
+Far from creating a loophole , my reading is the most logical because it is consonant with the scope of Congress ' power .
+The CWA presumably was passed as an exercise of Congress ' authority " to regulate Commerce with foreign Nations , and among the several States , and with the Indian Tribes . "
+U.S. Const . , Art . I , § 8 , cl . 3 .
+My interpretation ties the statute more closely to navigable waters , on the theory that they are at least a channel of these kinds of commerce .
+Further , the Court 's interpretation creates practical problems of its own .
+As the Court acknowledges , its opinion gives almost no guidance , save for a list of seven factors .
+But the Court does not commit to whether those factors are the only relevant ones , whether those factors are always relevant , or which factors are the most important .
+See ante , at 1475 - 1477 .
+It ultimately does little to explain how functionally equivalent an indirect discharge must be to require a permit .
+The Court suggests that the EPA could clarify matters through " administrative guidance , " ante , at 1477 , but so far the EPA has provided only limited advice and recently shifted its position , see 84 Fed . Reg . 16810 ( 2019 ) ; ante , at 1473 - 1474 .
+In any event , the sort of " ' general rules ' " that the Court hopes the EPA will promulgate are constitutionally suspect .
+See Department of Transportation v. Association of American Railroads , 575 U.S. 43 , 67 - 87 , 135 S.Ct . 1225 , 191 L.Ed.2d 153 ( 2015 ) ( THOMAS , J. , concurring in judgment ) .
+Despite giving minimal guidance as to how this case should be decided on remand , the majority speculates about whether a permit would be required in other factual circumstances .
+It poses the examples of a pipe that releases pollutants over navigable waters and a pipe that releases pollutants onto land near navigable waters .
+As an initial matter , I am not as sure as the majority that a " pollutant , " as defined by the CWA , may be added to the air .
+Even if the majority is correct that a permit is not required in these hypothetical cases , drawing the line at discharges to water is not so absurd as to undermine the most natural reading of the statute .
+In any event , it is unnecessary to decide these hypothetical cases today .
+Finally , the Court speculates as to " those circumstances in which Congress intended to require a federal permit . "
+Ante , at 1476 .
+But we are not a superlegislature ( or super - EPA ) tasked with making good policy - assuming that is even what the Court accomplishes today .
+" Our job is to follow the text even if doing so will supposedly undercut a basic objective of the statute . "
+Baker Botts L. L. P. v. ASARCO LLC , 576 U.S. 121 , 135 , 135 S.Ct . 2158 , 192 L.Ed.2d 208 ( 2015 ) ( internal quotation marks omitted ) .
+II
+I do agree with the Court on several points .
+First , the interpretation adopted by respondents and the Ninth Circuit is unsupportable .
+That interpretation - which would require permits for discharges that are " ' fairly traceable ' " to , and proximately caused by , a point source - is atextual and unsettles the CWA 's careful balance between federal regulation of point - source pollution and state regulation of nonpoint - source pollution .  
+Ante , at 1470 - 1473 .
+Second , I agree that the interpretation adopted by petitioner and Justice ALITO reads the word " any " unnaturally , ante , at 1473 - 1474 , although the majority appears to deploy that argument itself in another part of the opinion , ante , at 1475 .
+Petitioner 's and Justice ALITO 's interpretation also gives insufficient weight to the meaning of " addition , " see supra , at 1479 - 1480 .
+Third , I agree that the EPA 's interpretation is not entitled to deference for at least two reasons : No party requests it , and the EPA 's reading is not the best one .  
+Ante , at 1474 - 1475 .
+I add only that deference under Chevron U.S. A. Inc. v. Natural Resources Defense Council , Inc. , 467 U.S. 837 , 104 S.Ct . 2778 , 81 L.Ed.2d 694 ( 1984 ) , likely conflicts with the Vesting Clauses of the Constitution .
+See Baldwin v. United States , 589 U.S. ---- , ---- - ---- , 140 S.Ct . 690 , 690 - 694 , --- L.Ed.2d ---- ( 2020 ) ( THOMAS , J. , dissenting from denial of certiorari ) ; Michigan v. EPA , 576 U.S. 743 , 761 - 764 , 135 S.Ct . 2699 , 192 L.Ed.2d 674 ( 2015 ) ( THOMAS , J. , concurring ) ; see also Perez v. Mortgage Bankers Assn . , 575 U.S. 92 , 115 - 126 , 135 S.Ct . 1199 , 191 L.Ed.2d 186 ( 2015 ) ( THOMAS , J. , concurring in judgment ) .
+Finally , I agree with the Court 's implicit conclusion that Rapanos v. United States , 547 U.S. 715 , 126 S.Ct . 2208 , 165 L.Ed.2d 159 ( 2006 ) , does not resolve this case .
+That plurality opinion , which I joined , observed that lower courts have required a permit when pollutants pass through a chain of point sources .  
+Id. , at 743 - 744 , 126 S.Ct . 2208 .
+But we expressly said in Rapanos that " we [ did ] not decide this issue . "
+Id. , at 743 , 126 S.Ct . 2208 .
+We are not bound by dictum in a plurality opinion or by the lower court opinions it cited .
+III
+The best reading of the statute is that a " discharge " is the release of pollutants directly from a point source to navigable waters .
+The application of this interpretation to the undisputed facts of this case makes a remand unnecessary .
+Petitioner operates a wastewater treatment facility and injects treated wastewater into four underground injection control wells .
+All parties agree that the wastewater enters groundwater from the wells and does not directly enter navigable waters .
+Based on these undisputed facts , there is no " discharge , " so I would reverse the judgment of the Ninth Circuit .
+I respectfully dissent .

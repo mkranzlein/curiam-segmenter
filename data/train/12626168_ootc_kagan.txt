@@ -1,0 +1,97 @@
+Justice KAGAN delivered the opinion of the Court .
+To help staunch a " flood of nonmeritorious " prisoner litigation , the Prison Litigation Reform Act of 1995 ( PLRA ) established what has become known as the three - strikes rule .
+Jones v. Bock , 549 U.S. 199 , 203 , 127 S.Ct . 910 , 166 L.Ed.2d 798 ( 2007 ) .
+That rule generally prevents a prisoner from bringing suit in forma pauperis ( IFP) - that is , without first paying the filing fee - if he has had three or more prior suits " dismissed on the grounds that [ they were ] frivolous , malicious , or fail[ed ] to state a claim upon which relief may be granted . "
+28 U.S.C. § 1915 ( g ) .
+Today we address whether a suit dismissed for failure to state a claim counts as a strike when the dismissal was without prejudice .
+We conclude that it does : The text of Section 1915(g ) 's three - strikes provision refers to any dismissal for failure to state a claim , whether with prejudice or without .
+I
+Petitioner Arthur Lomax is an inmate in a Colorado prison .
+He filed this suit against respondent prison officials to challenge his expulsion from the facility 's sex - offender treatment program .
+As is common in prison litigation , he also moved for IFP status to allow his suit to go forward before he pays the $ 400 filing fee .
+For that motion to succeed , Lomax must avoid Section 1915(g ) .
+That provision bars further IFP litigation once a prisoner has had at least three prior suits dismissed on specified grounds .
+And Lomax is no rookie litigant .
+During his time in prison , he has already brought three unsuccessful legal actions ( against various corrections officers , prosecutors , and judges ) .
+If the dispositions of those cases qualify as strikes under Section 1915(g ) , Lomax may not now proceed IFP .
+The courts below ruled that Lomax had struck out .
+The District Court denied his motion for IFP status , finding that all three of his prior suits had been dismissed for failure to state a claim - one of the grounds specified in Section 1915(g ) .
+See App . 65 - 66 .
+On appeal , Lomax argued that two of those dismissals should not count as strikes because they were without prejudice , thus allowing him to file a later suit on the same claim .
+The Court of Appeals for the Tenth Circuit rejected that argument .
+Relying on Circuit precedent , the Court held it " immaterial to the strikes analysis " whether a dismissal was with or without prejudice .
+754 Fed . Appx . 756 , 759 ( 2018 ) ( quoting Childs v. Miller , 713 F.3d 1262 , 1266 ( CA10 2013 ) ) .
+The Courts of Appeals have long divided over whether a dismissal without prejudice for failure to state a claim qualifies as a strike under Section 1915(g ) .
+In line with our duty to call balls and strikes , we granted certiorari to resolve the split , 589 U. S. ---- , 140 S.Ct . 428 , 205 L.Ed.2d 244 ( 2019 ) , and we now affirm .
+II
+This case begins , and pretty much ends , with the text of Section 1915(g ) .
+Under that provision , a prisoner accrues a strike for any action " dismissed on the ground [ ] that it ... fails to state a claim upon which relief may be granted . "
+That broad language covers all such dismissals : It applies to those issued both with and without prejudice to a plaintiff 's ability to reassert his claim in a later action .
+A strike - call under Section 1915(g )
+thus hinges exclusively on the basis for the dismissal , regardless of the decision 's prejudicial effect .
+To reach the opposite result - counting prejudicial orders alone as strikes - we would have to read the simple word " dismissed " in Section 1915(g ) as " dismissed with prejudice . "
+But this Court may not narrow a provision 's reach by inserting words Congress chose to omit .
+See , e.g. , Virginia Uranium , Inc. v. Warren , 587 U. S. ---- , ---- , 139 S.Ct . 1894 , 1900 , 204 L.Ed.2d 377 ( 2019 ) ( lead opinion of GORSUCH , J. ) .
+Indeed , to do so would violate yet another rule of statutory construction : " In all but the most unusual situations , a single use of a statutory phrase must have a fixed meaning " across a statute .
+Cochise Consultancy , Inc. v. United States ex rel . Hunt , 587 U. S. ---- , ---- , 139 S.Ct . 1507 , 1512 , 203 L.Ed.2d 791 ( 2019 ) .
+The PLRA includes three other provisions mentioning " dismiss[als ] " for " fail[ure ] to state a claim"-each enabling courts to dismiss sua sponte certain prisoner suits on that ground .
+§ § 1915(e)(2)(B)(ii ) , 1915A(b ) ; 42 U.S.C. § 1997e(c ) .
+No one here thinks those provisions deprive courts of the ability to dismiss those suits without prejudice .
+See Reply Brief 15 ; Brief for Respondents 21 - 24 ; Brief for United States as Amicus Curiae 21 - 22 .
+Nor would that be a plausible position .
+The broad statutory language - on its face covering dismissals both with and without prejudice - tracks courts ' ordinary authority to decide whether a dismissal for failure to state a claim should have preclusive effect .
+So reading the PLRA 's three - strikes rule to apply only to dismissals with prejudice would introduce inconsistencies into the statute .
+The identical phrase would then bear different meanings in provisions almost next - door to each other .
+Still , Lomax maintains that the phrase " dismissed [ for ] fail[ure ] to state a claim " in Section 1915(g ) is a " legal term of art " referring only to dismissals with prejudice .
+Reply Brief 4 .
+To support that view , he relies on a procedural rule used to answer a different question .
+When a court dismisses a case for failure to state a claim , but neglects to specify whether the order is with or without prejudice , how should a later court determine its preclusive effect ?
+Federal Rule of Civil Procedure 41(b ) , codifying an old equitable principle , supplies the answer : It tells courts to treat the dismissal " as an adjudication on the merits"-meaning a dismissal with prejudice .
+See Durant v. Essex Co. , 7 Wall . 107 , 109 , 19 L.Ed . 154 ( 1869 ) .
+According to Lomax , " Section 1915(g ) should be interpreted in light of this legal backdrop . "
+Brief for Petitioner 17 .
+He reasons : Because Rule 41(b ) presumes that an order stating only " dismissed for failure to state a claim " is with prejudice , the same language when used in Section 1915(g ) should bear that same meaning .
+And if so , the provision would assign a strike to only with - prejudice dismissals for failure to state a claim .
+But that argument gets things backwards .
+The Rule 41(b ) presumption ( like its older equitable counterpart ) does not convert the phrase " dismissed for failure to state a claim " into a legal term of art meaning " dismissed with prejudice " on that ground .
+To the contrary , Rule 41(b ) is necessary because that phrase means only what it says : " dismissed for failure to state a claim"-whether or not with prejudice .
+In other words , the phrase 's indifference to prejudicial effect is what creates the need for a default rule to determine the import of a dismissal when a court fails to make that clear .
+Rule 41(b ) , then , actually undercuts Lomax 's position : Its very existence is a form of proof that the language used in Section 1915(g ) covers dismissals both with and without prejudice .
+And here too , confirmation of the point comes from the PLRA 's other provisions referring to " dismiss[als ] " for " fail[ure ] to state a claim . "
+See supra , at 1725 .
+If that phrase had really become a legal term of art implying " with prejudice , " then those provisions would prevent courts from dismissing prisoner suits without prejudice for failure to state a claim .
+But Lomax himself does not accept that improbable reading .
+See ibid .
+His supposed " term of art " is strangely free - floating , transforming ordinary meaning in one place while leaving it alone in all others .
+Lomax also makes an argument based on the two other grounds for dismissal listed in Section 1915(g ) .
+Recall that the provision counts as strikes dismissals of actions that are " frivolous " or " malicious , " along with those that fail to state a claim .
+See supra , at 1723 , 1724 , n. 1 .
+In Lomax 's view , the first two kinds of dismissals " reflect a judicial determination that a claim is irremediably defective"-that it " can not succeed and should not return to court . "
+Brief for Petitioner 11 , 22 ( internal quotation marks omitted ) .
+To " harmonize [ all ] three grounds for strikes , " he continues , the same must be true of dismissals for failure to state a claim .
+Id. , at 23 ; see i d. , at 21 ( invoking the " interpretive canon noscitur a sociis , a word is known by the company it keeps " ( internal quotation marks omitted ) ) .
+So Section 1915(g ) , Lomax concludes , must capture only the subset of those dismissals that are issued with prejudice - the ones disposing of " irredeemable " suits .
+Id. , at 21 .
+As an initial matter , the very premise of that argument is mistaken .
+Contra Lomax 's view , courts can and sometimes do conclude that frivolous actions are not " irremediably defective , " and thus dismiss them without prejudice .
+See , e.g. , Marts v. Hines , 117 F.3d 1504 , 1505 ( CA5 1997 ) ; see also Jackson v. Florida Dept . of Financial Servs . , 479 Fed . Appx . 289 , 292 ( CA11 2012 ) ( similarly if less commonly , dismissing a malicious action without prejudice ) .
+Indeed , this Court has suggested that a trial court might abuse its discretion by dismissing an IFP suit with prejudice if " frivolous factual allegations [ can ] be remedied through more specific pleading . "
+Denton v. Hernandez , 504 U.S. 25 , 34 , 112 S.Ct . 1728 , 118 L.Ed.2d 340 ( 1992 ) .
+So on Lomax 's own metric - whether down the road the plaintiff 's claim might return - the dismissals he claims would be outliers in Section 1915(g ) in fact would have company .
+And because that is true , his reason for excluding those decisions from the provision collapses .
+If dismissals without prejudice for frivolousness count as a strike under Section 1915(g ) , then why not for failure to state a claim too ?
+Still more fundamentally , Lomax is wrong to suggest that every dismissed action encompassed in Section 1915(g ) must closely resemble frivolous or malicious ones .
+The point of the PLRA , as its terms show , was to cabin not only abusive but also simply meritless prisoner suits .
+Before the PLRA , the statute governing IFP claims targeted frivolous and malicious actions , but no others .
+See Neitzke v. Williams , 490 U.S. 319 , 328 , 109 S.Ct . 1827 , 104 L.Ed.2d 338 ( 1989 ) .
+In the PLRA , Congress chose to go further - precisely by aiming as well at actions that failed to state a claim .
+The theory was that a " flood of nonmeritorious claims , " even if not in any way abusive , was " effectively preclud[ing ] consideration of " suits more likely to succeed .
+Jones , 549 U.S. at 203 , 127 S.Ct . 910 .
+So we can not , in the interest of " harmonization , " interpret the phrase " failure to state a claim " based on the pre - existing terms " frivolous " and " malicious . "
+Cf . Babbitt v. Sweet Home Chapter , Communities for Great Ore. , 515 U.S. 687 , 702 , 705 , 115 S.Ct . 2407 , 132 L.Ed.2d 597 ( 1995 ) ( rejecting use of the noscitur canon when " the Senate went out of its way to add " a " broad word " to a statute ) .
+That would defeat the PLRA 's expansion of the statute beyond what was already there .
+III
+The text of the PLRA 's three - strikes provision makes this case an easy call .
+A dismissal of a suit for failure to state a claim counts as a strike , whether or not with prejudice .
+We therefore affirm the judgment below .
+It is so ordered .

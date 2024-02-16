@@ -1,0 +1,214 @@
+Justice THOMAS delivered the opinion of the Court .
+We granted certiorari in these consolidated cases to decide whether the United States Forest Service has authority under the Mineral Leasing Act , 30 U.S.C. § 181 et seq . , to grant rights - of - way through lands within national forests traversed by the Appalachian Trail .
+588 U. S. ---- , 140 S.Ct . 36 , 204 L.Ed.2d 1193 ( 2019 ) ; 588 U. S. ---- , 140 S.Ct . 36 , 204 L.Ed.2d 1193 ( 2019 ) .
+We hold that the Mineral Leasing Act does grant the Forest Service that authority and therefore reverse the judgment of the Court of Appeals for the Fourth Circuit .
+I
+A
+In 2015 , petitioner Atlantic Coast Pipeline , LLC ( Atlantic ) filed an application with the Federal Energy Regulatory Commission to construct and operate an approximately 604 - mile natural gas pipeline extending from West Virginia to North Carolina .
+The pipeline 's proposed route traverses 16 miles of land within the George Washington National Forest .
+The Appalachian National Scenic Trail ( Appalachian Trail or Trail ) also crosses parts of the George Washington National Forest .
+To construct the pipeline , Atlantic needed to obtain special use permits from the United States Forest Service for the portions of the pipeline that would pass through lands under the Forest Service 's jurisdiction .
+In 2018 , the Forest Service issued these permits and granted a right - of - way that would allow Atlantic to place a 0.1 - mile segment of pipe approximately 600 feet below the Appalachian Trail in the George Washington National Forest .
+B
+Respondents Cowpasture River Preservation Association , Highlanders for Responsible Development , Shenandoah Valley Battlefields Foundation , Shenandoah Valley Network , Sierra Club , Virginia Wilderness Committee , and Wild Virginia filed a petition for review in the Fourth Circuit .
+They contended that the issuance of the special use permit for the right - of - way under the Trail , as well as numerous other aspects of the Forest Service 's regulatory process , violated the Mineral Leasing Act ( Leasing Act ) , 41 Stat . 437 , 30 U.S.C. § 181 et seq . , the National Environmental Policy Act of 1969 , 83 Stat . 852 , 42 U.S.C. § 4321 et seq . , the National Forest Management Act of 1976 , 90 Stat . 2952 , 16 U.S.C. § 1604 , and the Administrative Procedure Act , 5 U.S.C. § 500 et seq .
+Atlantic intervened in the suit .
+The Fourth Circuit vacated the Forest Service 's special use permit after holding that the Leasing Act did not empower the Forest Service to grant the pipeline right - of - way beneath the Trail .
+As relevant here , the court concluded that the Appalachian Trail had become part of the National Park System because , though originally charged with the Trail 's administration , 16 U.S.C. § 1244 ( a)(1 ) , the Secretary of the Interior delegated that duty to the National Park Service , 34 Fed . Reg . 14337 ( 1969 ) .
+In the Fourth Circuit 's view , this delegation made the Trail part of the National Park System because the Trail was now an " area of land ... administered by the Secretary [ of the Interior ] acting through the Director [ of the National Park Service ] . "
+54 U.S.C. § 100501 .
+Because it concluded the Trail was now within the National Park System , the court held that the Trail was beyond the authority of " the Secretary of the Interior or appropriate agency head " to grant pipeline rights - of - way under the Leasing Act .
+30 U.S.C. § 185 ( a ) .
+See 911 F.3d 150 , 179 - 181 ( CA4 2018 ) .
+II
+These cases involve the interaction of multiple federal laws .
+We therefore begin by summarizing the relevant statutory and regulatory background .
+A
+Congress enacted the Weeks Act in 1911 , Pub . L. 61 - 435 , 36 Stat . 961 , which provided for the acquisition of lands for inclusion in the National Forest System , see 16 U.S.C. § § 516 - 517 .
+The Weeks Act also directed that lands acquired for the National Forest System " shall be permanently reserved , held , and administered as national forest lands . "
+§ 521 .
+Though Congress initially granted the Secretary of Agriculture the authority to administer national forest lands , § 472 , the Secretary has delegated that authority to the Forest Service , 36 C.F.R. § 200.3 ( b)(2)(i ) ( 2019 ) .
+What is now known as the George Washington National Forest was established as a national forest in 1918 , see Proclamation No . 1448 , 40 Stat . 1779 , and renamed the George Washington National Forest in 1932 , Exec . Order No . 5867 .
+No party here disputes that the George Washington National Forest was acquired for inclusion in the National Forest System and that it is under the jurisdiction of the Forest Service .
+See 16 U.S.C. § 1609 .
+B
+Enacted in 1968 , the National Trails System Act ( Trails Act ) , among other things , establishes national scenic and national historic trails .
+16 U.S.C. § 1244 ( a ) .
+See 82 Stat . 919 , codified at 16 U.S.C. § 1241 et seq .
+The Appalachian Trail was one of the first two trails created under the Act .
+§ 1244(a)(1 ) .
+Under the statute , the Appalachian Trail " shall be administered primarily as a footpath by the Secretary of the Interior , in consultation with the Secretary of Agriculture . "
+Ibid .
+The statute empowers the Secretary of the Interior to establish the location and width of the Appalachian Trail by entering into " rights - of - way " agreements with other federal agencies as well as States , local governments , and private landowners .
+§ § 1246(a)(2 ) , ( d ) , ( e ) .
+However , the Trails Act also contains a proviso stating that " [ n]othing contained in this chapter shall be deemed to transfer among Federal agencies any management responsibilities established under any other law for federally administered lands which are components of the National Trails System . "
+§ 1246(a)(1)(A ) .
+The Trails Act currently establishes 30 national historic and national scenic trails .
+See § § 1244(a)(1)-(30 ) .
+It assigns responsibility for most of those trails to the Secretary of the Interior .
+Ibid .
+Though the Act is silent on the issue of delegation , the Department of the Interior has delegated the administrative responsibility over each of those trails to either the National Park Service or the Bureau of Land Management , both of which are housed within the Department of the Interior .
+Congressional Research Service , M. De Santis & S. Johnson , The National Trails System : A Brief Overview 2 - 3 ( Table 1 ) , 4 ( Fig .
+1 ) ( 2020 ) .
+Currently , the National Park Service administers 21 trails , the Bureau of Land Management administers 1 trail , and the two agencies co - administer 2 trails .
+Ibid .
+The Secretary of Interior delegated his authority over the Appalachian Trail to the National Park Service in 1969 .
+34 Fed . Reg . 14337 .
+C
+In 1920 , Congress passed the Leasing Act , which enabled the Secretary of the Interior to grant pipeline rights - of - way through " public lands , including the forest reserves , " § 28 , 41 Stat . 449 .
+Congress amended the Leasing Act in 1973 to provide that not only the Secretary of the Interior but also any " appropriate agency head " may grant " [ r]ights - of - way through any Federal lands ... for pipeline purposes . " Pub . L. 93 - 153 , 87 Stat . 576 , codified at 30 U.S.C. § 185 ( a ) .
+Notably , the 1973 amendment also defined " Federal lands " to include " all lands owned by the United States , except lands in the National Park System , lands held in trust for an Indian or Indian tribe , and lands on the Outer Continental Shelf . "
+87 Stat . 577 , codified at 30 U.S.C. § 185 ( b ) .
+In 1970 , Congress defined the National Park System as " any area of land and water now and hereafter administered by the Secretary of the Interior , through the National Park Service for park , monument , historic , parkway , recreational , or other purposes . "
+§ 2(b ) , 84 Stat . 826 , codified at 54 U.S.C. § 100501 .
+III
+We are tasked with determining whether the Leasing Act enables the Forest Service to grant a subterranean pipeline right - of - way some 600 feet under the Appalachian Trail .
+To do this , we first focus on the distinction between the lands that the Trail traverses and the Trail itself , because the lands ( not the Trail ) are the object of the relevant statutes .
+Under the Leasing Act , the " Secretary of the Interior or appropriate agency head " may grant pipeline rights - of - way across " Federal lands . "
+30 U.S.C. § 185 ( a ) ( emphasis added ) .
+The Forest Service is an " appropriate agency head " for " Federal lands " over " which [ it ] has jurisdiction . "
+§ 185(b)(3 ) .
+As stated above , it is undisputed that the Forest Service has jurisdiction over the " Federal lands " within the George Washington National Forest .
+The question before us , then , becomes whether these lands within the forest have been removed from the Forest Service 's jurisdiction and placed under the Park Service 's control because the Trail crosses them .
+If no transfer of jurisdiction has occurred , then the lands remain National Forest lands , i.e. , " Federal lands " subject to the grant of a pipeline right - of - way .
+If , on the other hand , jurisdiction over the lands has been transferred to the Park Service , then the lands fall under the Leasing Act 's carve - out for " lands in the National Park System , " thus precluding the grant of the right - of - way .
+§ 185(b)(1 ) ( emphasis added ) .
+We conclude that the lands that the Trail crosses remain under the Forest Service 's jurisdiction and , thus , continue to be " Federal lands " under the Leasing Act .
+A
+We begin our analysis by examining the interests and authority granted under the Trails Act .
+Pursuant to the Trails Act , the Forest Service entered into " right - of - way " agreements with the National Park Service " for [ the ] approximately 780 miles of Appalachian Trail route within national forests , " including the George Washington National Forest .
+36 Fed . Reg . 2676 ( 1971 ) ; see also 16 U.S.C. § 1246 ( a)(2 ) ; 36 Fed . Reg . 19805 .
+These " right - of - way " agreements did not convert " Federal lands " into " lands " within the " National Park System . "
+1
+A right - of - way is a type of easement .
+In 1968 , as now , principles of property law defined a right - of - way easement as granting a nonowner a limited privilege to " use the lands of another . "
+Kelly v. Rainelle Coal Co. , 135 W.Va .
+594 , 604 , 64 S.E.2d 606 , 613 ( 1951 ) ; Builders Supplies Co. of Goldsboro , N. C. , Inc. v. Gainey , 282 N.C. 261 , 266 , 192 S.E.2d 449 , 453 ( 1972 ) ; see also R. Powell & P. Rohan , Real Property § 405 ( 1968 ) ; Restatement ( First ) of Property § 450 ( 1944 ) .
+Specifically , a right - of - way grants the limited " right to pass ... through the estate of another . " Black 's Law Dictionary 1489 ( 4th ed . 1968 ) .
+Courts at the time of the Trails Act 's enactment acknowledged that easements grant only nonpossessory rights of use limited to the purposes specified in the easement agreement .
+See , e.g. , Bunn v. Offutt , 216 Va. 681 , 684 , 222 S.E.2d 522 , 525 ( 1976 ) .
+And because an easement does not dispossess the original owner , Barnard v. Gaumer , 146 Colo. 409 , 412 , 361 P.2d 778 , 780 ( 1961 ) , " a possessor and an easement holder can simultaneously utilize the same parcel of land , " J. Bruce & J. Ely , Law of Easements and Licenses in Land § 1:1 , p. 1 - 5 ( 2015 ) .
+Thus , it was , and is , elementary that the grantor of the easement retains ownership over " the land itself . "
+Minneapolis Athletic Club v. Cohler , 287 Minn. 254 , 257 , 177 N.W.2d 786 , 789 ( 1970 ) ( emphasis added ) .
+Stated more plainly , easements are not land , they merely burden land that continues to be owned by another .
+See Bruce , Law of Easements and Licenses in Land § 1:1 , at 1 - 2 .
+If analyzed as a right - of - way between two private landowners , determining whether any land had been transferred would be simple .
+If a rancher granted a neighbor an easement across his land for a horse trail , no one would think that the rancher had conveyed ownership over that land .
+Nor would anyone think that the rancher had ceded his own right to use his land in other ways , including by running a water line underneath the trail that connects to his house .
+He could , however , make the easement grantee responsible for administering the easement apart from the land .
+Likewise , when a company obtains a right - of - way to lay a segment of pipeline through a private owner 's land , no one would think that the company had obtained ownership over the land through which the pipeline passes .
+Although the Federal Government owns all lands involved here , the same general principles apply .
+We must ascertain whether one federal agency has transferred jurisdiction over lands - meaning " jurisdiction to exercise the incidents of ownership"-to another federal agency .
+Brief for Petitioner Atlantic Coast Pipeline , LLC , 22 - 23 , n. 2 .
+The Trails Act refers to the granted interests as " rights - of - way , " both when describing agreements with the Federal Government and with private and state property owners .
+16 U.S.C. § § 1246 ( a)(2 ) , ( e ) .
+When applied to a private or state property owner , " right - of - way " would carry its ordinary meaning of a limited right to enjoy another 's land .
+Nothing in the statute suggests that the term adopts a more expansive meaning when the right is granted to a federal agency , and we do " not lightly assume that Congress silently attaches different meanings to the same term in the same ... statute , " Azar v. Allina Health Services , 587 U. S. ----,---- - ---- , 139 S.Ct . 1804 , 1812 , 204 L.Ed.2d 139 ( 2019 ) .
+Accordingly , as would be the case with private or state property owners , a right - of - way between two agencies grants only an easement across the land , not jurisdiction over the land itself .
+The dissent notes that the Federal Government has referred to the Trail as an " area " and a " unit " and has described the Trail in terms of " acres . "
+See post , at 1853 - 1855 , 1857 ( opinion of SOTOMAYOR , J. ) .
+In the dissent 's view , this indicates that the Trail and the land are the same .
+This is not so .
+Like other right - of - way easements , the Trail burdens " a particular parcel of land . "
+Bruce , Law of Easements and Licenses in Land § 1:1 , at 1 - 6 .
+It is thus not surprising that the Government might refer to the Trail as an " area , " much as one might mark out on his property the " area " of land burdened by a sewage easement .
+The fact remains that the land and the easement are still separate .
+The dissent also cites provisions of the Trails Act that discuss " lands " to be included in the Trail .
+See post , at 1856 - 1857 .
+But this , too , is consistent with our conclusion that the Trail is an easement .
+Like all easements , the parcel of land burdened by the easement has particular metes and bounds .
+See , e.g. , Carnemella v. Sadowy , 147 App . Div.2d 874 , 876 , 538 N.Y.S.2d 96 , 98 ( 1989 ) ( " [ T]he subject easement ... reasonably described the portion of the property where the easement existed " ) ; Sorrell v. Tennessee Gas Transmission Co. , 314 S.W.2d 193 , 195 - 196 ( Ky. 1958 ) .
+In fact , without such descriptions , parties to an easement agreement would be unable to understand their rights or enforce another party 's obligations under the easement agreement .
+Thus , there is nothing noteworthy about the fact that the Trails Act discusses whether particular lands should be included within the metes and bounds of the tracts of land burdened by the easement .
+In short , none of the characterizations identified by the dissent changes the fact that the burden on the land and the land itself remain separate .
+In sum , read in light of basic property law principles , the plain language of the Trails Act and the agreement between the two agencies did not divest the Forest Service of jurisdiction over the lands that the Trail crosses .
+It gave the Department of the Interior ( and by delegation the National Park Service ) an easement for the specified and limited purpose of establishing and administering a Trail , but the land itself remained under the jurisdiction of the Forest Service .
+To restate this conclusion in the parlance of the Leasing Act , the lands that the Trail crosses are still " Federal lands , " 30 U.S.C. § 185 ( a ) , and the Forest Service may grant a pipeline right - of - way through them - just as it granted a right - of - way for the Trail .
+Sometimes a complicated regulatory scheme may cause us to miss the forest for the trees , but at bottom , these cases boil down to a simple proposition : A trail is a trail , and land is land .
+2
+The various duties described in the Trails Act reinforce that the agency responsible for the Trail has a limited role of administering a trail easement , but that the underlying land remains within the jurisdiction of the Forest Service .
+The Trails Act states that the Secretary of the Interior ( and by delegation the National Park Service ) shall " administe[r ] " the Trail " primarily as a footpath . "
+16 U.S.C. § 1244 ( a)(1 ) .
+The Secretary is charged with designating Trail uses , providing Trail markers , and establishing interpretative and informational sites " to present information to the public about the [ T]rail . "
+§ 1246(c ) .
+He also has the authority to pass regulations governing Trail protection and good conduct and can regulate the " protection , management , development , and administration " of the Trail .
+§ 1246(i ) .
+Though the Trails Act states that the responsible agency shall " provide for " the maintenance of the Trail , § 1246(h)(1 ) ( emphasis added ) , it is the Forest Service that performs the necessary physical work .
+As the Government explained at oral argument ( and as respondents did not dispute ) , " [ i]f a tree falls on forest lands over the trail , it 's the Forest Service that 's responsible for it .
+You do n't call the nine [ National ] Park Service employees at Harpers Ferry [ in West Virginia ] and ask them to come out and fix the tree . "
+Tr . of Oral Arg . 5 .
+These statutory duties refer to the Trail easement , not the lands over which the easement passes .
+The dissent resists this conclusion by asserting that the National Park Service " administers " the Trail , and that so long as that is true , the Trail is land within the National Park System .
+See post , at 1858 - 1859 .
+But the National Park Service does not administer the " land " crossed by the Trail .
+It administers the Trail as an easement - an easement that is separate from the underlying land .
+3
+Finally , Congress has used unequivocal and direct language in multiple statutes when it wished to transfer land from one agency to another , just as one would expect if a property owner conveyed land in fee simple to another private property owner .
+In the Wild and Scenic Rivers Act , for instance , which was enacted the same day as the Trails Act , Congress specified that " [ a]ny component of the national wild and scenic rivers system that is administered by the Secretary of the Interior through the National Park Service shall become a part of the [ N]ational [ P]ark [ S]ystem . "
+§ 10(c ) , 82 Stat . 916 , codified at 16 U.S.C. § 1281 ( c ) ( emphasis added ) .
+That statute also explicitly permits the head of an agency " to transfer to the appropriate secretary jurisdiction over such lands . "
+§ 6(e ) , 82 Stat . 912 -913 , codified at 16 U.S.C. § 1277 ( e ) ( emphasis added ) .
+Congress has also authorized the Department of the Interior " to transfer to the jurisdiction of the Secretary of Agriculture for national forest purposes lands or interests in lands acquired for or in connection with the Blue Ridge Parkway " and specifies that " [ l]ands transferred under this Act shall become national forest lands . " Pub . L. 82 - 336 , 66 Stat . 69 ( emphasis added ) .
+Similar language appears in a host of other statutes .
+See § § 5(a)(2 ) , 8(c)(2 ) , 114 Stat . 2529 , 2533 ; Pub . L. 89 - 446 , 80 Stat . 199 ; § 7(c ) , 79 Stat . 217 ; Pub . L. 88 - 415 , 78 Stat . 388 .
+The fact that Congress chose to speak in terms of rights - of - way in the Trails Act , rather than in terms of land transfers , reinforces the conclusion that the Park Service has a limited role over only the Trail , not the lands that the Trail crosses .
+See Reves v. Ernst & Young , 507 U.S. 170 , 178 - 179 , 113 S.Ct . 1163 , 122 L.Ed.2d 525 ( 1993 ) .
+For these reasons , we hold that the Trails Act did not transfer jurisdiction of the lands crossed by the Trail from the Forest Service to the Department of the Interior .
+It created a trail easement and gave the Department of the Interior the administrative responsibilities concomitant with administering the Trail as a trail .
+Accordingly , because the Department of the Interior had no jurisdiction over any lands , its delegation to the National Park Service did not convert the Trail into " lands in the National Park System , " 30 U.S.C. § 185 ( b)(1 ) ( emphasis added) - i.e. , an " area of land ... administered by the Secretary [ of the Interior ] acting through the Director [ of the National Park Service ] . "
+54 U.S.C. § 100501 ( emphasis added ) .
+The Forest Service therefore retained the authority to grant Atlantic a pipeline right - of - way .
+B
+1
+Respondents take a markedly different view , which is shared by the dissent .
+According to respondents , the Trail can not be separated from the underlying land .
+In their view , if the National Park Service administers the Trail , then it also administers the lands that the Trail crosses , and no pipeline rights - of - way may be granted .
+Respondents ' argument that the National Park Service administers the Trail ( and therefore the lands that the Trail crosses ) proceeds in four steps .
+First , the Trails Act granted the Department of the Interior the authority to administer the Trail .
+16 U.S.C. § 1244 ( a)(1 ) .
+Second , the Department of the Interior delegated those responsibilities to the National Park Service in 1969 .
+34 Fed . Reg . 14337 .
+Third , in 1970 , Congress defined the National Park System to include " any area of land and water administered by the Secretary [ of the Interior ] acting through the Director [ of the National Park Service ] . "
+54 U.S.C. § 100501 .
+Under respondents ' view , the 1970 National Park System definition made the Trail part of the National Park System .
+But one more step was still required to place the Trail outside the Forest Service 's Leasing Act pipeline authority .
+That final step occurred in 1973 , when the amendment to the Leasing Act carved out lands in the National Park System from the definition of the " Federal lands " through which pipeline rights - of - way could be granted .
+30 U.S.C. § 185 ( b)(1 ) .
+Because the Trail had become part of the National Park Service in 1970 , respondents conclude that the 1973 carve - out applied to the Trail .
+Therefore , in their view , the Forest Service can not grant pipeline rights - of - way under the parcels on which there is a right - of - way for the Appalachian Trail .
+This circuitous path misses the mark .
+As described above , under the plain language of the Trails Act and basic property principles , responsibility for the Trail and jurisdiction over the lands that the Trail crosses can and must be separated for purposes of determining whether the Forest Service can grant a right - of - way .
+See supra , at 1844 - 1846 .
+2
+Even accepting respondents ' argument on its own terms , however , we remain unpersuaded .
+Respondents ' entire theory depends on an administrative action about which the statutes at issue are completely silent : the Department of the Interior 's voluntary decision to assign responsibility over a given trail to the National Park Service rather than to the Bureau of Land Management .
+To reiterate , respondents contend that the Department of the Interior 's decision to delegate responsibility over a trail to the National Park Service renders that trail an " area of land ... administered by the Secretary [ of the Interior ] , acting through the [ Park Service . ] " 54 U.S.C. § 100501 .
+Respondents ' theory requires us to accept that , without a word from Congress , the Department of the Interior has the power to vastly expand the scope of the National Park Service 's jurisdiction through its delegation choices .
+See Addendum to Reply Brief for Petitioner Atlantic Coast Pipeline , LLC , 1a-2a .
+After all , respondents ' view would not just apply to the approximately 2,000 - mile - long Appalachian Trail .
+It would apply equally to all 21 national historic and national scenic trails currently administered by the National Park Service .
+See Congressional Research Service , National Trails System .
+Under our precedents , when Congress wishes to " ' alter the fundamental details of a regulatory scheme , ' " as respondents contend it did here through delegation , we would expect it to speak with the requisite clarity to place that intent beyond dispute .
+See Epic Systems Corp. v. Lewis , 584 U. S. ---- , ---- , 138 S.Ct . 1612 , 1617 , 200 L.Ed.2d 889 ( 2018 ) ( quoting Whitman v. American Trucking Assns . , Inc. , 531 U.S. 457 , 468 , 121 S.Ct . 903 , 149 L.Ed.2d 1 ( 2001 ) ) .
+We will not presume that the act of delegation , rather than clear congressional command , worked this vast expansion of the Park Service 's jurisdiction and significant curtailment of the Forest Service 's express authority to grant pipeline rights - of - way on " lands owned by the United States . "
+30 U.S.C. § 185 ( b ) .
+Respondents ' theory also has striking implications for federalism and private property rights .
+Respondents do not contest that , in addition to federal lands , these 21 trails cross lands owned by States , local governments , and private landowners .
+See also post , at ---- ( acknowledging that the Trail alone " comprises 58,110.94 acres of Non - Federal land , including 8,815.98 acres of Private land " ( internal quotation marks omitted ) ) .
+Under respondents ' view , these privately owned and state - owned lands would also become lands in the National Park System .
+Our precedents require Congress to enact exceedingly clear language if it wishes to significantly alter the balance between federal and state power and the power of the Government over private property .
+Cf . Gregory v. Ashcroft , 501 U.S. 452 , 460 , 111 S.Ct . 2395 , 115 L.Ed.2d 410 ( 1991 ) .
+Finally , reliance on the Department of the Interior 's delegation of its Trails Act authority is especially questionable here , given that Congress has used express language in other statutes when it wished to transfer lands between agencies .
+See supra , at 1847 .
+Congress not only failed to enact similar language in the Trails Act , but it clearly expressed the opposite view .
+The entire Trails Act must be read against the backdrop of the Weeks Act , which states that lands acquired for the National Forest System - including the George Washington National Forest-"shall be permanently reserved , held , and administered as national forest lands . "
+16 U.S.C. § 521 .
+The Trails Act further provides that " [ n]othing contained in this chapter shall be deemed to transfer among Federal agencies any management responsibilities established under any other law for federally administered lands which are components of the National Trails System . "
+§ 1246(a)(1)(A ) .
+These two provisions , when combined with the Trails Act 's use of the term " rights - of - way " and the administrative duties set out in the Trails Act , provide much clearer - and more textual - guides to Congress ' intent than an agency 's silent decision to delegate responsibilities to the National Park Service .
+In sum , we conclude that the Department of the Interior 's unexplained decision to assign responsibility over certain trails to the National Parks System and the Leasing Act 's definition of federal lands simply can not bear the weight of respondents ' interpretation .
+IV
+We hold that the Department of the Interior 's decision to assign responsibility over the Appalachian Trail to the National Park Service did not transform the land over which the Trail passes into land within the National Park System .
+Accordingly , the Forest Service had the authority to issue the permit here .
+For the foregoing reasons , we reverse the judgment of the Court of Appeals and remand the cases for further proceedings consistent with this opinion .
+It is so ordered .
